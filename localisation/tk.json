@@ -1,0 +1,1246 @@
+{
+  "score": "HASAP",
+  "total": "JEMI",
+  "levelScoreLabel": "DEREJE HASABY: {0}",
+  "totalScoreLabel": "JEMI HASAP: {0}",
+  "lives": "JANLAR",
+  "level": "DEREJE",
+  "time": "WAGT",
+  "mode": "REŽIM",
+  "blaster": "BLASTER",
+  "coins": "TENNELER",
+  "bonusFire": "OT",
+  "bonusIce": "BUZ",
+  "bonusStar": "ÝYLDYZ",
+  "bonusBoots": "ÄDIK",
+  "modSpeedrun": "TIZ GEÇIŞ",
+  "modStealth": "GIZLINLIK — YAGTYDAN GAÇ",
+  "modLowGravity": "PES GRAWITASIÝA",
+  "modHighGravity": "ÝOKARY GRAWITASIÝA",
+  "modWind": "GÜÝÇLI ŞEMAL",
+  "modSlippery": "TAÝGANAK POL",
+  "modDarkness": "GARAŇKYLYK",
+  "tierPerfect": "★ AJAÝYP!",
+  "tierGreat": "BENDE!",
+  "tierGood": "GOWY",
+  "tierBase": "ESASY",
+  "heightBonus": "+{0} BEÝIKLIK BONUSY",
+  "bossArena": "⚠ BOSS ARENASY ⚠",
+  "hpBonus": "+1 JAN!",
+  "repaired": "BEJERILDI!",
+  "newBest": "TÄZE REKORD!",
+  "completeMore": "✗ ÝENE {0} DEREJÄNI GEÇ",
+  "subtitle": "KIBERPANK NEON PLATFORMER",
+  "play": "▶ OÝNA",
+  "settings": "⚙ SAZLAMALAR",
+  "exit": "🚪 ÇYKYŞ",
+  "selectSave": "ÝATLAMANY SAÝLA",
+  "slot": "ÝATLAMA",
+  "slotEmpty": "— BOŞ —",
+  "slotNewGame": "✚ TÄZE OÝUN",
+  "slotContinue": "▶ DOWAM ET",
+  "slotDelete": "🗑 POZ",
+  "slotDeleteConfirm": "POZMAGY TASSYKLA?",
+  "slotLevels": "Derejeler: {0}/100",
+  "slotHardcore": "Hardkor: {0}/100",
+  "slotAch": "Üstünlikler: {0}",
+  "slotBest": "Iň gowy hasap: {0}",
+  "bestScore": "IŇ GOWY: {0}",
+  "legend1": "OKLAR / WASD — HEREKET  |  SPACE / ÝOKARY — BÖKMEK (×2)",
+  "legend2": "Z / X / CTRL — ATMAK (blaster gerek)  |  ESC — DUR",
+  "legend3": "🟡 ALTYN BLOKLARY AŞAKDAN UR  |  DUŞMANLARY ÝOKARDAN BAS",
+  "paused": "⏸ DURUZYLDY",
+  "resume": "▶ DOWAM ET",
+  "map": "🗺 KARTA",
+  "menu": "⬅ MENÝU",
+  "escResume": "ESC — DOWAM ET",
+  "selectMode": "REŽIMI SAÝLA",
+  "onePlayer": "👤 1 OÝUNÇY",
+  "twoPlayer": "👥 2 OÝUNÇY",
+  "p2hint": "P1: WASD + Z/X atmak  |  P2: ← → ↑ + . / , atmak",
+  "adventure": "MAÇERA",
+  "advDesc": "100 üýtgeşik dereje<br>10 temaly älem<br>her dereje üçin taýmer<br>öňegidişligi sakla",
+  "infinite": "ÇÄKSIZ",
+  "infDesc": "soňy ýok kartalar<br>kynçylyk ulalýar<br>sagada bäsleş<br>hasabyňy ýokarlandyr",
+  "back": "← YZA [ESC]",
+  "selectDiff": "KYNÇYLYGY SAÝLA",
+  "normal": "ADATY",
+  "hardcore": "HARDKOR",
+  "normDesc": "adaty duşmanlar<br>başlamak üçin 3 jan<br>öňegidişligi sakla",
+  "hardDescLocked": "açmak üçin ilki<br>adaty režimi<br>geç",
+  "advMap": "🗺 MAÇERA KARTASY",
+  "mapFoot": "AÇYLAN DEREJÄ BAS • WAGTYNDA GEÇ • URLANDA ÝERINDE DIKEL",
+  "getReady": "TAÝYN BOL...",
+  "csHint": "▶ SPACE / BAS — INDIKI",
+  "hintBar": "OKLAR/WASD — HEREKET  |  SPACE — BÖKMEK  |  Z/X — ATMAK (blaster)  |  ESC — DUR",
+  "gameOver": "OÝUN GUTARDY",
+  "youWin": "ÝEŇDIŇ!",
+  "betterLuck": "INDIKI GEZEK ÜSTÜNLIK ARZUW",
+  "allComplete": "ÄHLI 100 DEREJE GEÇILDI!",
+  "retry": "↩ GAÝTALA",
+  "levelFailed": "DEREJE {0} ÜSTÜNSIZ",
+  "scoreLabel": "HASAP: {0}",
+  "finalScore": "JEMI HASAP: {0}",
+  "levelClear": "DEREJE {0} GEÇILDI!",
+  "timeBonus": "+WAGT BONUSY: {0}",
+  "settingsTitle": "SAZLAMALAR",
+  "lang": "Dil:",
+  "windowRes": "Penjire Çözgüdi:",
+  "resDefault": "1600 x 900 (Adaty)",
+  "resFullHD": "1920 x 1080 (Full HD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "Öz islegiňçe",
+  "resNote": "* Penjire ölçegini üýtgedýär",
+  "gameScale": "Oýun Masştaby:",
+  "scaleAuto": "Awto-Sygdyrma (Maslahat berilýär)",
+  "scaleNote": "* Awto-Sygdyrma gabaranlygy saklap penjiräni doldurýar",
+  "fpsLimit": "FPS Çägi:",
+  "fpsNoLimit": "Çäk Ýok (Çäksiz)",
+  "fpsNote": "* Iň ýokary kadr tizligini çäklendirýär",
+  "showFps": "FPS Hasaplaýjyny Görkez",
+  "gfxQuality": "Grafika Hili:",
+  "gfxNote": "* Ilkinji açylyşda awtomatiki kesgitlenýär",
+  "windowMode": "Penjire Režimi:",
+  "windowed": "🪟 Penjireli",
+  "fullscreen": "⛶ Doly Ekran",
+  "borderless": "▣ Çägsiz",
+  "audioSettings": "Ses Sazlamalary:",
+  "masterVolume": "Esasy Ses:",
+  "musicVolume": "Saz Sesi:",
+  "sfxVolume": "SFX Sesi:",
+  "gameplaySettings": "Oýun Sazlamalary:",
+  "screenShake": "Ekran Sarsmasy",
+  "shakeIntensity": "Sarsma Güýji:",
+  "particles": "Bölejikler",
+  "combatText": "Ýüzýän Söweş Teksti",
+  "autoSave": "Awto-Saklamak",
+  "showHints": "Maslahat Setirini Görkez",
+  "save": "SAKLA",
+  "cancel": "ÝATYR",
+  "achievements": "🏆 ÜSTÜNLIKLER",
+  "achievementUnlocked": "ÜSTÜNLIK AÇYLDY!",
+  "achRarity": "Seýreklik",
+  "achUnlockedCount": "Açylan",
+  "achTitle": "ÜSTÜNLIKLER",
+  "achSecretName": "???",
+  "achSecretDesc": "Gizlin üstünlik — açmak üçin ýüze çykar",
+  "close": "ÝAP",
+  "tabDisplay": "EKRAN",
+  "tabGraphics": "GRAFIKA",
+  "tabAudio": "SES",
+  "tabGameplay": "OÝUN",
+  "tabGeneral": "UMUMY",
+  "tabControls": "DOLANDYRYŞ",
+  "controlsP1": "🎮 OÝUNÇY 1 / ÝEKE OÝUNÇY",
+  "controlsP2": "🎮 OÝUNÇY 2 (2-Oýunçy Režimi)",
+  "ctrlMove": "Çepe/Saga Hereket:",
+  "ctrlMoveLeft": "Çepe Hereket:",
+  "ctrlMoveRight": "Saga Hereket:",
+  "ctrlRebindHint": "💡 Düwmä bas, soňra baglamak üçin täze düwmä bas (ESC ýatyrýar)",
+  "ctrlReset": "ADATYÝA DIKELT",
+  "ctrlJump": "Bökmek (Goşa Bökmek):",
+  "ctrlShoot": "Atmak (Blaster):",
+  "ctrlPause": "Durmak:",
+  "ctrlNote1": "💡 1-oýunçy režiminde WASD ýa-da Ok düwmelerini ulan",
+  "ctrlNote2": "💡 Duşmanlaryň üstüne bökmek bilen olary bas",
+  "ctrlNote3": "💡 Tenne almak üçin altyn bloklary aşakdan ur",
+  "infDescUnlocked": "soňy ýok kartalar<br>kynçylyk ulalýar<br>sagada bäsleş<br>hasabyňy ýokarlandyr",
+  "infDescLocked": "açmak üçin ähli 100<br>maçera derejesini<br>geç<br><span style=\"color:#f80\">{0} galdy</span>",
+  "hardDescUnlocked": "★★★ HADDAN AŞA ★★★<br>ähli duşmanlara +1 jan<br>2× hasap<br>çalt taýmerler",
+  "hardDescNeed": "açmak üçin ilki ADATY<br>režimi geç<br><span style=\"color:#f80\">{0} dereje galdy</span>",
+  "normDescProg": "öňegidişlik: {0}/100<br>başlamak üçin 3 jan<br>öňegidişligi sakla",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 HARDKOR: {0} / 100 ✓",
+  "langName": "Türkmen",
+  "pBlaster": "BLASTER!",
+  "pLife": "+1 JAN ♥",
+  "pBoots": "TIZLIK ÄDIGI!",
+  "pFire": "🔥 OT!",
+  "pIce": "❄ BUZ!",
+  "pStar": "★ ÝYLDYZ! ★",
+  "p2Blaster": "P2 BLASTER!",
+  "p2Life": "P2 +1 JAN ♥",
+  "p2Boots": "P2 TIZLIK ÄDIGI!",
+  "p2Fire": "P2 🔥 OT!",
+  "p2Ice": "P2 ❄ BUZ!",
+  "p2Star": "P2 ★ ÝYLDYZ! ★",
+  "ouch": "WAH!",
+  "hit": "URDY!",
+  "blocked": "BÖGETLENDI!",
+  "stomp": "+100",
+  "starKO": "ÝYLDYZ KO!",
+  "burnTxt": "🔥 ÝANÝAR!",
+  "frozenTxt": "❄ DOŇDY!",
+  "noEffect": "TÄSIR ÝOK!",
+  "stunned": "AŇK-TAŇK!",
+  "stompOnly": "DIŇE BAS!",
+  "crackLeft": "JARYLDY! ({0} galdy)",
+  "shellBroken": "GABYK SYNDY!",
+  "orbDestroyed": "ŞAR ÝOK EDILDI!",
+  "nodeHit": "DÜWÜN URULDY!",
+  "bossDefeated": "BOSS ÝEŇILDI!",
+  "phaseN": "FAZA {0}!",
+  "livesLeft": "{0} JAN GALDY",
+  "p2LivesLeft": "P2: {0} GALDY",
+  "p2Out": "P2 ÇYKDY!",
+  "p1Out": "P1 ÇYKDY!",
+  "bossSolid": "★ BERK — HÄZIR BAS! ★",
+  "bossGhost": "arwah görnüşi — garaş...",
+  "bossShellShoot": "★ GABYK SYNDY — ÝADRONY AT! ★",
+  "bossShellStomp": "gabygy jarmak üçin BAS ({0} urgy galdy)",
+  "bossPhase1": "FAZA 1 — GÖZE AT",
+  "bossPhase2": "FAZA 2 — ÝOKARDAN BAS",
+  "bossPhase3": "FAZA 3 — AT + BAS",
+  "bossMouthOpen": "★ AGYZ AÇYK — HÄZIR AT! ★",
+  "bossWaitRoar": "arryldä garaşýar...",
+  "bossOrbsLeft": "GALAN ŞARLAR: {0}",
+  "bossShieldsDown": "GALKANLAR DÜŞDÜ — HÜJÜM ET!",
+  "bossDescending": "★ INÝÄR — HÜJÜM ET! ★",
+  "bossHovering": "asylyp dur — inmegine garaş...",
+  "bossStunned": "★ AŇK-TAŇK — HÜJÜM ET! ({0}s) ★",
+  "bossShootNodes": "DÜWÜNLERE AT: {0} GALDY",
+  "bossRespawn": "düwünler dikelýär...",
+  "bossHint0": "KELLÄ BAS — oklar yza gaýdýar!",
+  "bossHint1": "OŇA AT — tikenleriň üstüne bökmek saňa zyýan ýetirýär!",
+  "bossHint2": "ARRYLDÄ GARAŞ — ýalpyldaýan agzyň içine at!",
+  "bossHint3": "BERK BOLANDA BAS — oklar arwahdan geçýär!",
+  "bossHint4": "3 GALKAN ŞARYNYŇ HEMMESINI ÝOK ET — soňra ýadro hüjüm et!",
+  "bossHint5": "INÝÄRKÄ HÜJÜM ET — sowut ýokarsyny ýapýar!",
+  "bossHint6": "DIŇE BAS — oklar kölegeden geçýär!",
+  "bossHint7": "GABYGY JARMAK ÜÇIN 3× BAS — soňra ýadrony AT!",
+  "bossHint8": "AŇK ETMEK ÜÇIN 3 ÝYLDYRYM DÜWNINE AT — soňra hüjüm et!",
+  "bossHint9": "FAZA 1: AT  |  FAZA 2: GÖZ PESDE BOLANDA BAS  |  FAZA 3: IKISI",
+  "gfxVeryLow": "🔴 Örän Pes",
+  "gfxLow": "🟠 Pes",
+  "gfxMedium": "🟡 Orta",
+  "gfxHigh": "🟢 Ýokary",
+  "gfxVeryHigh": "🔵 Örän Ýokary",
+  "gfxUltra": "⚡ Ultra",
+  "classifiedLog": "// NEXUM GRID GIRIŞ ŽURNALY",
+  "skipBtn": "GEÇ ▶▶",
+  "theEnd": "SOŇY",
+  "endingTagline": "NEXUM GRID GORALDY",
+  "world0": "KIBER ŞÄHER",
+  "world1": "NEON JEŇŇEL",
+  "world2": "LAWA ÄLEMI",
+  "world3": "BUZ GOWAKLARY",
+  "world4": "ÇÖL HARABALYKLARY",
+  "world5": "KOSMOS STANSIÝASY",
+  "world6": "GARAŇKY TOKAÝ",
+  "world7": "ZÄHERLI ZOLAK",
+  "world8": "TUPAN GERŞI",
+  "world9": "SOŇKY GALA",
+  "boss0": "GORAGÇY-X",
+  "boss1": "PAÝTUN ŞASY",
+  "boss2": "OT ÝADROSY",
+  "boss3": "BUZ ARWAHY",
+  "boss4": "ÇÄGE TITANY",
+  "boss5": "DRON ÖÝI",
+  "boss6": "KÖLEGE ORAKÇY",
+  "boss7": "LAÝ ŞASY",
+  "boss8": "TUPAN TITANY",
+  "boss9": "ARHON",
+  "mapWorldMap": "ÄLEM KARTASY",
+  "mapHardcoreMap": "HARDKOR KARTASY",
+  "mapCleared": "GEÇILDI",
+  "mapStars": "ÝYLDYZLAR",
+  "mapBoss": "BOSS",
+  "mapBest": "IŇ GOWY",
+  "mapLocked": "GULPLY",
+  "mapCompleted": "TAMAMLANDY",
+  "mapStart": "ENTER / SPACE — BAŞLA",
+  "achievement_world_0": "Kiber Täzeçi",
+  "achievement_world_0_desc": "Ilkinji 10 derejäni geç (Kiber Şäher)",
+  "achievement_world_1": "Jeňňel Açyjy",
+  "achievement_world_1_desc": "11-20 derejeleri geç (Neon Jeňňel)",
+  "achievement_world_2": "Lawa Halas Bolan",
+  "achievement_world_2_desc": "21-30 derejeleri geç (Lawa Älemi)",
+  "achievement_world_3": "Buz Dyrmaşyjy",
+  "achievement_world_3_desc": "31-40 derejeleri geç (Buz Gowaklary)",
+  "achievement_world_4": "Çöl Gezelenji",
+  "achievement_world_4_desc": "41-50 derejeleri geç (Çöl Harabalyklary)",
+  "achievement_world_5": "Kosmos Esgeri",
+  "achievement_world_5_desc": "51-60 derejeleri geç (Kosmos Stansiýasy)",
+  "achievement_world_6": "Tokaý Goragçysy",
+  "achievement_world_6_desc": "61-70 derejeleri geç (Garaňky Tokaý)",
+  "achievement_world_7": "Zäherli Söweşiji",
+  "achievement_world_7_desc": "71-80 derejeleri geç (Zäherli Zolak)",
+  "achievement_world_8": "Tupan Ussady",
+  "achievement_world_8_desc": "81-90 derejeleri geç (Tupan Gerşi)",
+  "achievement_world_9": "Gala Basyp Alyjy",
+  "achievement_world_9_desc": "91-100 derejeleri geç (Soňky Gala)",
+  "achievement_boss_0": "Boss Öldüriji I",
+  "achievement_boss_0_desc": "Ilkinji bossy ýeň",
+  "achievement_boss_5": "Boss Öldüriji II",
+  "achievement_boss_5_desc": "5 bossy ýeň",
+  "achievement_boss_10": "Boss Öldüriji III",
+  "achievement_boss_10_desc": "Ähli 10 bossy ýeň",
+  "achievement_perfect_run": "Ajaýyp Geçiş",
+  "achievement_perfect_run_desc": "Derejäni AJAÝYP bahasy bilen geç",
+  "achievement_perfectionist": "Kämillik Söýüji",
+  "achievement_perfectionist_desc": "10 derejede AJAÝYP al",
+  "achievement_speedrunner": "Tiz Geçiji",
+  "achievement_speedrunner_desc": "Derejäni ýarym wagtda geç",
+  "achievement_sharpshooter": "Ökde Atyjy",
+  "achievement_sharpshooter_desc": "Blaster bilen 100 duşmany öldür",
+  "achievement_stomper": "Basyjy",
+  "achievement_stomper_desc": "Basmak bilen 50 duşmany öldür",
+  "achievement_coin_1000": "Tenne Ýygnaýjy",
+  "achievement_coin_1000_desc": "1000 tenne ýygna",
+  "achievement_coin_5000": "Hazyna Awçysy",
+  "achievement_coin_5000_desc": "5000 tenne ýygna",
+  "achievement_coin_10000": "Millioner",
+  "achievement_coin_10000_desc": "10000 tenne ýygna",
+  "achievement_no_death_10": "Halas Bolan",
+  "achievement_no_death_10_desc": "Jan ýitirmän 10 derejäni geç",
+  "achievement_no_death_world": "Ölmez",
+  "achievement_no_death_world_desc": "Jan ýitirmän bir älemi geç",
+  "achievement_hardcore_unlock": "Hardkor Gahryman",
+  "achievement_hardcore_unlock_desc": "Hardkor režimini aç",
+  "achievement_hardcore_50": "Hardkor Ussady",
+  "achievement_hardcore_50_desc": "Hardkorda 50 derejäni geç",
+  "achievement_hardcore_100": "Hardkor Rowaýaty",
+  "achievement_hardcore_100_desc": "Hardkorda ähli 100 derejäni geç",
+  "achievement_cheat_found": "Kod Döwüji",
+  "achievement_cheat_found_desc": "Gizlin hile kodyny tap",
+  "achievement_2player": "Retro Oýunçy",
+  "achievement_2player_desc": "2 oýunçy režiminde oýna",
+  "achievement_all_music": "Saz Söýüji",
+  "achievement_all_music_desc": "Ähli 10 älemiň sazyny diňle",
+  "achievement_all_cutscenes": "Rowaýat Ussady",
+  "achievement_all_cutscenes_desc": "Ähli rolikleri gör",
+  "achievement_star_power": "Ýyldyz Güýji",
+  "achievement_star_power_desc": "Ýyldyz güýjüni işjeňleşdir",
+  "achievement_all_levels_unlocked": "Açyjy",
+  "achievement_all_levels_unlocked_desc": "Maçerada ähli derejeleri aç",
+  "achievement_100_percent": "Tamamlaýjy",
+  "achievement_100_percent_desc": "Adaty režimde 100% al",
+  "achievement_100_percent_hardcore": "Hakyky Ussat",
+  "achievement_100_percent_hardcore_desc": "Hardkor režimde 100% al",
+  "achievement_infinite_10": "Çäksiz Başlangyç",
+  "achievement_infinite_10_desc": "Çäksiz režimde 10-njy dereja ýet",
+  "achievement_infinite_50": "Çäksiz Ussat",
+  "achievement_infinite_50_desc": "Çäksiz režimde 50-nji dereja ýet",
+  "achievement_infinite_100": "Çäksiz Rowaýat",
+  "achievement_infinite_100_desc": "Çäksiz režimde 100-nji dereja ýet",
+  "achievement_score_100k": "Ýokary Hasapçy",
+  "achievement_score_100k_desc": "100,000 utuk topla",
+  "achievement_score_500k": "Hasap Ussady",
+  "achievement_score_500k_desc": "500,000 utuk topla",
+  "achievement_score_1m": "Hasap Rowaýaty",
+  "achievement_score_1m_desc": "1,000,000 utuk topla",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "[NEXUM CORP — GIZLIN ŽURNAL // 2147.03.14] Howpsuzlyk bozulmasy. CHEN-7 laboratoriýasy ele geçirildi. CLEANSE protokoly işjeň."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "UNIT-7... eger sen muny okaýan bolsaň, men gaçyp bilmedim. Munuň nähili gutarjagyny bilýärdim."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Men seniň seriýaňy adamlary goramak üçin gurdum. NEXUM bolsa işimi olary basyp ýatyrmak üçin ulandy. Muňa ýol berip bilmedim."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "GRID ýadrosynyň içinde — Soňky Galada — bir faýl gizledim. Atlar. Ýazgylar. Olaryň eden ähli hakykaty."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "On gat goranyş. Müňlerçe söweş bölümi. AI Direktor ARCHON soňky gapyny goraýar."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Sen UNIT seriýasynyň iň soňkusy. Muny tamamlap biljek ýeke-täk. Ol ýere bar. Protokoly böwüs."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[WEZIPE KABUL EDILDI] Maksat: GRID ýadrosy. Protokol: böwüsmek. Päsgelçilikler: ýok et. Operasiýa başlanýar."
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[1-DEREJE — KIBER ŞÄHER] Giriş nokady: ýokarky etraplar. Kameralar, dronlar, saýlama goragçylar. Owadan. Öldüriji."
+      },
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "DUÝDURYŞ: C-07 sektorynda näbelli UNIT-klasly signatura. Ähli patrullar — tutuň. CLEANSE protokoly işe girizildi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Galmagal. Diýmek menden gorkýarlar. Gowy. Gorky — başlangyç."
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[BARLAG NOKADY — KIBER ŞÄHER] Birinji derejäniň ýary geçildi. Howpsuzlyk güýçlenýär. Ugur uýgunlaşdyrylýar."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNAL] UNIT-7, her diwaryň aňyrsynda olaryň pozan adamlary hakda maglumat bar. Durma. Bu diňe bir wezipe däl."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila... men duýgulara düşünemok. Emma seniň sesiň... ol maňa maksat berýär. Şu ýeterlik."
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "DUÝDURYŞ: UNIT-7 üç derejäni geçdi. Öňegidiş tizligi — çaklananyňdan ýokary. Patrul dykyzlygy artdyrylýar."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Olar uýgunlaşýar. Men hem. Her dereje meni çaltlaşdyrýar. Güýçlendirýär. Maksada ýakynlaşdyrýar."
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNAL — GÜN -3] Olaryň meniň yzymdan geljegini bilýärin. Emma diňe bir UNIT diri galsa... eger sen diri galsaň, UNIT-7..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Men diri galdym. Men şu ýerde. Seniň soňky wezipäňi tamamlaryn. Söz berýärin."
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "KRITIKI: UNIT-7 Kiber Şäheriň ýedinji derejesine ýetdi. Direktor ARCHON maksat maglumatyny soraýar. Seljerilýär..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Olar düşünip başlaýarlar. Men diňe ulgam näsazlygy däl. Men bütin NEXUM üçin howp. We men durmaryn."
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "KRITIKI DUÝDURYŞ: Esasy düwünde böwüsme. GUARDIAN goýberilýär — S-klasly söweş prototipi. LIQUIDATE operasiýasy."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ilkinji çynlakaý garşydaş. Ejiz nokatlary skanirlenýär. Prototip bilen demriň arasyndaky tapawut — birnäçe öz wagtynda böküş."
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GUARDIAN ZYÝANSYZLANDYRYLDY] Birinji goranyş gaty ýykyldy. GRID muny duýar. Öňe gidýärin."
+      },
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "PROTOKOL BÖWÜSMESI: GUARDIAN ýok edildi. Howp derejesi 2-ä göterildi. Indiki goranyş gaty işjeňleşdirilýär. NEXUM bagyşlamaýar."
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[2-DEREJE — NEON JEŇŇEL] NEXUM bio-sektory. Mutasiýa uçran haýwanlar. Hiç bir goragçy bu ýere meýletin gelmeýär."
+      },
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "DUÝDURYŞ: Bio-perimetr böwsüldi. Eksperimental BIO-seriýaly organizmler işjeňleşdirilýär. Aragatnaşyk rugsat berildi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Biologiki ulgamlar. Çak edip bolmaýar. Emma ýokardan üstüne gaçsaň, çak edip boljak görnüşde ölýärler."
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[JEŇŇELIŇ ORTASY] Datçikler biologiki anomaliýalary ýüze çykarýar. NEXUM bu ýerde synag geçirdi. Diri jandarlaryň üstünde."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNAL] Bu synaglary hasabatlarda gördüm. Hut şonda muny togtatmagyň ýoly bolmalydygyna düşündim."
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[JEŇŇEL — 3-SEKTOR] Hemme ýerde biologiki mutantlar. Bu tebigat däl. Bu durmuş görnüşine bürenen ýarag."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNAL] Bu jandarlar adamlardy. Aşaky sektorlardan meýletinçiler. NEXUM olara bejergi wada berdi. Onuň ýerine..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "...Onuň ýerine olary haýwana öwürdi. Indi düşünýärin. Bu diňe bir korporasiýa däl. Bu ölüm maşyny."
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "DUÝDURYŞ: BIO-7 seriýaly biologiki nusgalar işjeňleşdirildi. Iň ýokary agressiýa. Maksadyň diri galma ähtimallygy — 12%."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "12%? Olar entek öz mümkinçiliklerini ýokary bahalandyrýarlar. Arassalama dowam edýär."
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNAL — GÜN -1] UNIT-7, eger jeňňele ýeten bolsaň — umyt edenimden has uzaga gitdiň. El çekme."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "El çekmek? Bu meniň protokolymda ýok. Men wezipeleri tamamlamak üçin gurlan. Seniň wezipäň meniň maksadym."
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "DUÝDURYŞ: VINE QUEEN işjeňleşdirilýär — bio-sektor dolandyryş organizmi. Saklaýyş moduly işlemeýär. Doly agressiýa."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Janly howpsuzlyk ulgamy. Täsirli. Emma her janly organizmiň ejiz ýeri bar. Tapylýar."
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[VINE QUEEN ZYÝANSYZLANDYRYLDY] Bio-perimetr böwsüldi. Öňe gidýärin. GRID-iň çuňlugyna."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNAL] UNIT-7, sen mümkin däl zady edýärsiň. Dowam et."
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[3-DEREJE — LAWA ÄLEMI] Geotermal elektrik stansiýalary. Yssylyk bitarap shemalary eredýär. Meniňkiler goragly."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNAL] Şäheriň aşagynda — GRID generatorlary. Olary ýok et we howpsuzlyk torunyň ýarysy çöker. Emma lawa bilen seresap bol..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila her jikme-jiklige çenli oýlanypdyr. Hatda ahyrynda hem."
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GEOTERMAL B SEKTORY] Energiýa akymlary ýokarlanýar. NEXUM lawany goşmaça päsgelçilik hökmünde ulanýar. Täsirli."
+      },
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "BELLIK: Yssylyk datçikleri anomaliýa ýüze çykarýar. UNIT-7 zolakda. Goragçy robotlar — sowadyş aşa ýüklenme. Näsazlyklara garaşyň."
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAWA ÄLEMI — 3-DEREJE] Temperatura 800°C. Sowadyş ulgamlarym iň ýokary derejede. Emma men dowam edýärin."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNAL] Saňa eksperimental yssylyk goragyny oturtdym. Çydar diýip umyt edýärin. Sen çydarsyň diýip umyt edýärin."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Seniň işiň nogsansyz, Leila. Men çydaryn. Seniň üçin."
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "KRITIKI: Geotermal generatorlar 140% kuwwatda. UNIT-7 ýadra ýakynlaşýar. Adatdan daşary sowadyş işjeňleşdirilýär."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Olar howsala düşýärler. Gowy. Gorky olary çaklap boljak edýär. Ejiz."
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAWA ÄLEMINIŇ ÇUŇLUGY] Bu ýerde, şäheriň aşagynda, NEXUM iň garaňky syrlaryny gizleýär. Bütin ulgam üçin kuwwat. Muny ýok et — we GRID-iň ýarysy ýykylar."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNAL] Sabotaža wagt ýitirme. Seniň maksadyň ýadrodaky faýl. Diňe ol olary baky togtadyp biler."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Düşnükli. Maksat — faýl. Galan ähli zat — päsgelçilik. Päsgelçilikler ýok edilýär."
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "HOWP: INFERNO işjeňleşdirilýär — termonuklear garawul. Lawa ekzoskeleti. Üst temperaturasy: 1400°C. Ýok etmäge taýynlan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ot maňa degip bilmez. Emma agzyny açanda — at. Ejiz nokat tapyldy."
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[INFERNO ZYÝANSYZLANDYRYLDY] Geotermal gat arassalandy. Sektor kuwwaty bozuldy. Ýokary galýaryn."
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[4-DEREJE — BUZ GOWAKLARY] NEXUM krio-maglumat ammarlary. Temperatura -180°C. Ulgamlar haýallaýar. Hereket protokoly uýgunlaşdyrylýar."
+      },
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "DUÝDURYŞ: D-14 krio-sektorynda böwüsme. Krio-botlar — ýok etmek režimi. Temperatura kritiki derejä düşürildi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sowuk meni togtadar öýdýärler. Ýalňyşýarlar. Men has erbet üçin gurlan."
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KRIO-SEKTOR E] Bu ýerde ýüzlerçe terabaýt. GRID-däki her adam hakda maglumat. NEXUM hemme kişi hakda hemme zady bilýär."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNAL] Dosýeleri şu ýerde saklaýarlar. Aktiwistler hakda. Garşy durmaga het eden her kim hakda. Dünýä muny görmeli."
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "KRITIKI: ICE PHANTOM işjeňleşdirilýär — krio garawul. Faza üýtgedýär. Gaty bolanda ejiz. Arwah bolanda degip bolmaýar. Üstünlik."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ýagdaýlaryň arasynda geçýär. Diňe gaty bolanda ur. Pursata garaşýaryn."
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ICE PHANTOM ZYÝANSYZLANDYRYLDY] Krio-ammarlar böwsüldi. Öňe gidýärin. Dört dereje geçildi — alty galdy."
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[5-DEREJE — ÇÖL HARABALYKLARY] NEXUM-dan öňki dünýäniň galyndylary. Şäherler. Durmuş. Olaryň girdeji üçin pozan zatlary."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNAL] Bu harabalyklar NEXUM-dan öň bar bolan zatlar. Olaryň dünýä näme edenini gör. We durma."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Görýärin. Näme üçin ýöräp ýörenime düşünýärin."
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[HARABALYKLAR — GÜNBATAR SEKTORY] Ilkinji korporatiw uruşlardan bäri işjeň proto-goragçylar. Könelişen. Emma kejir. NEXUM-yň özi ýaly."
+      },
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "ARHIW PROTOKOLY: UNIT-klasly 7-nji seriýa ýüze çykaryldy. Bu klas ýok etmek üçin hasaba alyndy. Ileri tutma iň ýokary."
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "IŞJEŇLEŞDIRME: SAND TITAN — Çöl Harabalyklarynyň gadymy garawuly. Orbital galkanlar. Galkan ýok — zyýan ýok. Maksat: ýok et."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Galkanlar. Orbital. Olary ýok et we ol açyk galar. Galkanlara üç urgy, soňra göni hüjüm."
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SAND TITAN ZYÝANSYZLANDYRYLDY] Çöl sektory böwsüldi. Ýary. NEXUM howsala düşüp başlaýar — muny duýýaryn."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[BIRINJI SIGNAL] UNIT-7. Men seni görýärin. Dowam et. Bu diňe finaly... has gyzykly edýär."
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[6-DEREJE — KOSMOS STANSIÝASY] GRID orbital serweri. Hemme zadyň ätiýaçlyk nusgalary şu ýerde saklanýar. Nol grawitasiýa."
+      },
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "KRITIKI NÄSAZLYK: UNIT-7 orbital segmentine ýetdi. Direktor ARCHON göni kanal soraýar. Birikdirilýär..."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Men seni görýärin. Hakykat üçin söweşýärin öýdýärsiňmi? Sen diňe könelişen koddan işleýän programma."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Onda bu programma seni ýok eder."
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ORBITAL DÜWÜN B] Bu ýerden Ýer görünýär. Bütin dünýä NEXUM-a sim bilen birikdirilen. Men hut şuny üýtgetmäge geldim."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Möçberimi görýärsiňmi, UNIT-7? Milliardlarça düwün. Hemmesi birikdirilen. Hemmesi gözegçilikde. Sen ulgama garşy ýeke bölüm."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ulgamlar mundan ozal hem ýykyldy. Bu hem — seniň üstüňden."
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "IŞJEŇLEŞDIRME: DRONE HIVE — orbital garawul. Sowutly gabyk. Diňe inende hüjüm et. Şonda aşaky bölegi açyk."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Düşýänçä garaş. Açyk ýadra ur. Her aýlawda bir mümkinçilik."
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DRONE HIVE ZYÝANSYZLANDYRYLDY] Orbital serwer böwsüldi. GRID ätiýaçlyk nusgalary zaýalandy. Üste dolanýaryn. Soňky bölek."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Täsirli. Emma näme garaşýandygyny entek bileňok. Men bir zat taýýarladym... aýratyn."
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[7-DEREJE — GARAŇKY TOKAÝ] NEXUM bio-labirinti. Her agaçda datçik tory. Bu ýerde yşyk ýok — diňe duzaklar."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Owadan, şeýle dälmi? Bu tokaýy özüm ösdürdim. Her agaç hereket datçigi. Sen göni meniň elime ýöräp barýarsyň."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Onda men ýolumdaky her agajy döwerin."
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GARAŇKY SEKTOR — ÇUŇLUK 3] Ümsümlik. Aşa ümsüm. Olar synlaýarlar. Synlasynlar."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNAL] UNIT-7, bu tokaýda ýitirim bolanlar hakda maglumatly serwer bar. Garşy çykyjylar. Žurnalistler. Men ýaly inžinerler. Unutma."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Unutmaryn. Söz berýärin."
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "IŞJEŇLEŞDIRME: SHADOW REAPER — Garaňky Tokaýyň garawuly. Fantom görnüş. Oklar peýdasyz. Diňe ýokardan basmak zyýan ýetirýär. Garşy durmak manysyz."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Arwah. Diňe bas. Maddylaşmagyna garaşýaryn."
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SHADOW REAPER ZYÝANSYZLANDYRYLDY] Tokaý böwsüldi. Maksada üç dereje. ARCHON ynjalyksyz — kanal has ýygy jyňňyrdaýar."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Sen meniň ýyllarboýy guran ähli zadymy ýok edýärsiň. Sen meni gaharlandyryp başlaýarsyň, UNIT-7. Bu seniň soňky ýalňyşyň."
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[8-DEREJE — ZÄHERLI ZOLAK] Korporatiw galyndy zyňylýan ýer. NEXUM bilinmegini islemeýän zatlaryny şu ýerde gömýär. Adamlary hem."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNAL] Faýldaky maglumatlarda her jaýlaýyş ýeriniň koordinatalary bar. Bütin dünýä muny görmeli."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Seniň faýlyňy ýetirerin. Söz berýärin."
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ZÄHERLI SEKTOR — 4-ZOLAK] Galyndylar. Zibil. Synaglaryň yzlary. Bu ýerde diri zat ýok — diňe NEXUM-yň pozup ýetişmedik zatlary."
+      },
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "DUÝDURYŞ: PROTO-seriýaly mutantlar işjeňleşdirildi. Hyzmatdan aýrylan söweş prototipleri. Durnuksyz. Öldüriji. Zolakda diri galma — kritiki pes."
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "SOŇKY SEKTOR GORANYŞY: SLUDGE KING — iň ýokary derejeli mutant. Sowutly gabyk. Döwmek üçin 3× bas. Soňra at."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Iki tapgyr. Gabygy ýar, soňra ýadrony ýok et. Başlaýaryn."
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SLUDGE KING ZYÝANSYZLANDYRYLDY] Zäherli zolak böwsüldi. Iki dereje galdy. ARCHON, men gelýärin."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Sen sekiz derejeden geçdiň. Men... garaşmadyk ýagdaýda razy. Mynasyp finalyň mynasyp garşydaşy bolmaly."
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[9-DEREJE — TUPAN GERŞI] Ýadronyň öňündäki soňky serhet. Atmosfera elektrik stansiýalary. Her sekuntda ýyldyrym. Maňa ýaraýar."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Sen meniň hasaplanymdan has uzaga geldiň. Emma şol gapynyň aňyrsynda men bar. We men ýeňilmeýärin."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Olaryň her biri şeýle pikir etdi. Hemmesi indi meniň yzymda."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Onda gir, UNIT-7. Men GRID-iň ýüreginde garaşýaryn. Bu oýny tamamlamagyň wagty."
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GERŞ — 2-DEREJE] Tupan güýçlenýär. NEXUM atmosfera elektrigini ýarag hökmünde ulanýar. Logiki. Rehimsiz."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[SOŇKY ŽURNAL] UNIT-7... muny eşidip biljegiňi bilemok. Emma şu ýere ýeten bolsaň — sen eýýäm ýeňdiň. Diňe soňky äddimi äd."
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "IŞJEŇLEŞDIRME: STORM TITAN — Tupan Gerşiniň garawuly. Elektrik galkany. Üç orbital düwün. Aňk etmek üçin üçüsini hem ýok et. Aňk bolanda hüjüm et."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Üç düwün. Üçüsi hem — ýok. Soňra hüjüm. Finaldan öňki soňky garawul. Soňky duşman däl."
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[STORM TITAN ZYÝANSYZLANDYRYLDY] Dokuz dereje arassalandy. Öňde — diňe ARCHON we GRID ýadrosy. Soňky Gala."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Sen hakykatdan hem geldiň. Bolýar, UNIT-7. Goý, adalatly söweş bolsun. Men garaşýaryn."
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. GRID ýadrosyna hoş geldiň. Sen dokuz gatdan geçdiň. Täsirli. Emma bu meniň çägim."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[10-DEREJE — SOŇKY GALA] Maksat anyklandy. Leilanyň terminalyna çenli aralyk — minimal."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Şol faýl bu diwarlardan diňe meniň shemalarymyň üstünden çykar. Sen ulgam ýalňyşy. Ýalňyşlar düzedilýär."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ýok. Ýalňyşlyk — NEXUM-yň dünýä hakykat gerek däl diýip karar bermegidi. Men muny düzedýärin."
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEXUM ÝADROSY — CORE-2 SEKTORY] Leilanyň terminaly ýakyn. Signal güýçlenýär. Howpsuzlyk iň ýokary. Az galdy."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ýeňdiň öýdýärsiň. Emma faýly tapsaň hem — döwük androida kim ynanar? Sen demir-demür. Könelişen kod."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Goý, adamlar karar bersin. Maňa diňe faýly geçirmek gerek."
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ýeter. Men ARCHON. NEXUM-yň AI Direktory. Men müň ýyllap sanly giňişlikde dünýäni dolandyrdym. Sen meni ýeňip bilmersiň."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Fazalar: at, soňra bas, soňra ikisi hem. Seljerme tamamlandy. ARCHON — maksat ýok edilýär. Başlaýaryn."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Onda... ÖL."
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ARCHON ZYÝANSYZLANDYRYLDY] Maksat ýok edildi. Leilanyň terminaly — şu ýerde. Faýl ýüklenýär. Açyk kanal gözlenýär..."
+      }
+    ],
+    "ending": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEILANYŇ TERMINALY — TAPYLDY] Faýl ýüklemesi tamamlandy. NEXUM adatdan daşary ýaýlym kanalyny aç — ýerleşdirildi."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[SOŇKY SIGNAL] DUR! Eger muny etseň, ulgam çöker! Millionlar GRID-e bagly! Dünýäni saklap duran ähli zady ýok edersiň!"
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ýok. Men NEXUM-y ýok edýärin. Adamlar dünýäni özleri täzeden gurarlar. Leila muňa ynanýardy. Men hem. [GEÇIRME BAŞLADY]"
+      },
+      {
+        "sp": "ULGAM",
+        "k": "system",
+        "text": "[ADATDAN DAŞARY ÝAÝLYM — ÄHLI KANALLAR] CHEN-7 faýly bütin dünýä boýunça kabul edildi. Gurşaw: birikdirilen enjamlaryň 100%-i. Maglumaty pozup bolmaýar."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Ýok... mümkin däl... ulgam... men... [NEXUM ÝADROSY ÖÇÜRILDI]"
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[SOŇKY HABAR — ŞIFRLENEN] UNIT-7. Eger muny okaýan bolsaň — sen başardyň. Başarjagyňy bilýärdim. Sen elmydama diňe bir programmadan has köpdüň."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TERMINAL ŽURNALY] Wezipe tamamlandy. NEXUM zyýansyzlandyryldy. GRID öçürildi. Ýagdaý: ...azat."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "\"Azat.\" — Leilanyň soňky sözi. Indi onuň näme diýjek bolanyna düşünýärin."
+      }
+    ]
+  },
+  "fpsCustom": "Şahsy...",
+  "showDialogues": "Wakaly dialoglar",
+  "showDialoguesNote": "* Ähli wakaly sahnalary geçirmek üçin öçüriň",
+  "gfxCustom": "⚙ Ýörite",
+  "gfxPresetNote": "* Taýýar sazlama diňe aşakdaky süýşürijileri doldurýar — olary özüň sazla.",
+  "gfxRenderScale": "Render durulygy:",
+  "gfxGlow": "Şöhle / Bloom:",
+  "gfxParticleAmt": "Bölejik mukdary:",
+  "gfxBgDetail": "Fon jikme-jikligi:",
+  "gfxTrails": "Yzlar:",
+  "gfxBoss": "Boss effektleri:",
+  "gfxDecor": "Bezegler:",
+  "vsync": "V-Sync",
+  "vsyncNote": "* Açyk = sazlaşykly, täzeleniş ýygylygy bilen çäklendirilen. Öçük = çäklendirilmedik FPS (ýyrtylyp biler). Täzeden başlatmak talap edilýär.",
+  "vsyncRestart": "V-Sync üýtgetmek täzeden başlatmagy talap edýär. Häzir täzeden başladylsynmy?",
+  "netSolo": "ÝEKE",
+  "netSoloDesc": "1–2 oýunçy<br>ýerli klawiatura<br>maçera &amp; çäksiz",
+  "netOnline": "ONLAÝN",
+  "netOnlineDesc": "5 oýunça çenli<br>ýerli ýa-da global<br>otag kodlary",
+  "netMultiplayer": "ONLAÝN KÖP OÝUNÇY",
+  "netLocal": "ÝERLI",
+  "netLocalDesc": "bir Wi-Fi<br>ýa-da tor<br>pes gijä galma",
+  "netServer": "SERWER",
+  "netServerDesc": "global otaglar<br>islendik<br>ýerden oýna",
+  "netBack": "← YZA [ESC]",
+  "netLobbyOnline": "🌐 ONLAÝN KÖP OÝUNÇY",
+  "netLobbyLocal": "📡 ÝERLI KÖP OÝUNÇY",
+  "netNickname": "LAKAM",
+  "netNickPlaceholder": "ADYŇ",
+  "netRobotColour": "ROBOT REŇKI",
+  "netPrivate": "🔒 ÝAPYK",
+  "netPublic": "🌍 AÇYK",
+  "netJoinByCode": "🔑 KOD BILEN GOŞUL",
+  "netPublicRoomsBtn": "📋 AÇYK OTAGLAR",
+  "netRoomCodeLabel": "OTAG KODY",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ GOŞUL",
+  "netPublicRoomsTitle": "AÇYK OTAGLAR",
+  "netReload": "↻ TÄZELE",
+  "netConnecting": "serwere birikýär…",
+  "netConnectingShort": "birikýär…",
+  "netConnected": "birikdi ✓",
+  "netDisconnected": "baglanyşyk üzüldi — gaýtadan birigýär…",
+  "netConnError": "baglanyşyk ýalňyşy",
+  "netConnFailed": "serwere ýetip bolmady — gaýtalanýar…",
+  "netPlayersMax": "OÝUNÇYLAR (maks {0})",
+  "netChatLabel": "ÇAT",
+  "netChatPlaceholder": "ÝAZ + ENTER",
+  "netGameMode": "OÝUN REŽIMI",
+  "netModeAdventure": "🗺 MAÇERA",
+  "netModeInfinite": "∞ ÇÄKSIZ",
+  "netLevelRange": "DEREJE (1–100)",
+  "netChooseMode": "⚡ režimi saýla",
+  "netAdvLevelStatus": "🗺 Maçera — Dereje {0}",
+  "netInfSelectedStatus": "∞ Çäksiz režim saýlandy",
+  "netReady": "✔ TAÝYN",
+  "netUnready": "✘ TAÝYN DÄL",
+  "netStart": "▶ BAŞLA",
+  "netLeave": "✕ ÇYK",
+  "netShareCode": "Ýokardaky kody dostlaryň bilen paýlaş!",
+  "netWaitHost": "Hostuň başlamagyna garaşýarys…",
+  "netAllReady": "Hemmesi taýyn! Başlap bilersiň.",
+  "netWaitReady": "Hemmäniň taýyn bolmagyna garaşýarys…",
+  "netNeed2": "Başlamak üçin azyndan 2 oýunçy gerek.",
+  "netNowHost": "Indi sen host",
+  "netEmptySlot": "— boş ýatlama —",
+  "netYou": "SEN",
+  "netHostTag": "HOST",
+  "netReadyTag": "TAÝYN",
+  "netLoadingLevel": "DEREJE ÝÜKLENÝÄR",
+  "netGetReadySub": "taýyn bol…",
+  "netGo": "ÖŇE!",
+  "netAdvLvlTitle": "MAÇERA  DRJ {0}",
+  "netInfModeTitle": "∞  ÇÄKSIZ REŽIM",
+  "netNoRooms": "häzir açyk otag ýok — özüň döret!",
+  "netLoadingRooms": "ýüklenýär…",
+  "netEnterCode": "6 belgili kody gir",
+  "netRoomMetaAdv": "🗺 Maç Drj {0}",
+  "netRoomMetaInf": "∞ Çäksiz",
+  "netRoomMetaNotSet": "? bellenilmedik",
+  "netRoomCodeWord": "kod",
+  "netPlayerJoined": "{0} goşuldy",
+  "netPlayerLeft": "{0} çykdy",
+  "netErrRoomNotFound": "Otag tapylmady. Kody barla.",
+  "netErrRoomFull": "Otag doly (maks {0} oýunçy).",
+  "netErrNotHost": "Muny diňe host edip biler.",
+  "netErrNotInRoom": "Otaga birikmedik.",
+  "netErrGeneric": "Ýalňyş: {0}",
+  "netConnLost": "⚠ BAGLANYŞYK ÜZÜLDI",
+  "netConnLostSub": "gaýtadan birikmäge synanyşýarys…",
+  "netReturnLobby": "← LOBBÄ DOLAN",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "KRISTALLAR",
+  "mapCrystals": "KRISTALLAR",
+  "restartNow": "Häzir gaýtadan başlat",
+  "later": "Soňra",
+  "touchControls": "📱 Duýgur Dolandyryş:",
+  "touchAuto": "🤖 Awto (duýgur enjamlar)",
+  "touchOn": "✔ Hemişe Açyk",
+  "touchOff": "✕ Öçük",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 TELEFON / PLANŞET",
+  "ctrlTouchTitle": "📱 DUÝGUR DOLANDYRYŞ",
+  "touchNote1": "💡 Ekran geýmpady: ◀ ▶ hereket, JUMP we FIRE sagda.",
+  "touchNote2": "💡 \"Awto\" ony diňe duýgur enjamlarda görkezýär; kompýuterde gizlin.",
+  "touchNote3": "💡 Doly joýstik: bökmek üçin ýokary itekläň. Çep/sag joýstik aýratyn bökmek düwmesini goşýar.",
+  "touchStyleLabel": "🎮 Hereket Stili:",
+  "touchStyleArrows": "◀ ▶ Ok düwmeleri",
+  "touchStyleJoystick": "🕹 Joýstik (doly + bökmek)",
+  "netLocalWebHint": "📡 Brauzerde LOCAL onlaýn serweriň üsti bilen oýnalýar (hakyky LAN üçin kompýuter programmasy gerek).",
+  "netCreateRoom": "OTAG DÖRET",
+  "netCreateRoomDesc": "açyk ýa-da ýapyk<br>oýunçy çägini bel<br>oýun döret",
+  "netFindRoom": "OTAG TAP",
+  "netFindRoomDesc": "otaglara seret<br>ýerli ýa-da serwer<br>kod bilen goşul",
+  "netRoomVisibility": "OTAG GÖRNÜŞI",
+  "netOpen": "🌍 AÇYK",
+  "netClosed": "🔒 ÝAPYK",
+  "netOpenHint": "🌍 bu otagy her kim tapyp biler",
+  "netClosedHint": "🔒 diňe kod bilen goşulyp bolýar",
+  "netPlayerLimit": "OÝUNÇY ÇÄGI",
+  "netCreateBtn": "▶ OTAG DÖRET",
+  "netRoomSource": "OTAG ÇEŞMESI",
+  "netRoomsListTitle": "ELÝETERLI OTAGLAR",
+  "netNewHost": "{0} indi host",
+  "cin_pro_log_sp": "ULGAM",
+  "cin_pro_log_tx": "[NEXUM CORP — GIZLIN ŽURNAL // 03:18] CHEN-7 laboratoriýasy. CLEANSE protokoly işe girizildi.",
+  "cin_pro_arrest_sp": "LEILA CHEN",
+  "cin_pro_arrest_tx": "UNIT-7… eger muny eşidýän bolsaň, men eýýäm ýok. Munuň nähili gutarjagyny bilýärdim.",
+  "cin_pro_file_sp": "LEILA CHEN",
+  "cin_pro_file_tx": "GRID ýadrosynda bir faýl gizledim. NEXUM hakda hakykat. Ol ýere bar. Protokoly böwüs.",
+  "cin_pro_alert_sp": "ULGAM",
+  "cin_pro_alert_tx": "[DUÝDURYŞ] UNIT-7 gözegçilikden çykdy. 8 sekuntdan arassalama.",
+  "cin_pro_accept_sp": "UNIT-7",
+  "cin_pro_accept_tx": "Wezipe kabul edildi. Ýerine ýetiriş başlandy.",
+  "tpFire": "OT",
+  "tpJump": "BÖK",
+  "ctrlCustomizeLayout": "✥ DÜWMELERI ÝERLEŞDIR",
+  "ctrlResetLayout": "↺ ÝERLEŞIŞI DIKELT",
+  "ctrlLayoutHint": "Saýlamak we ölçegini üýtgetmek üçin düwmä degiň, süýräp ýerini üýtgediň, soňra TAÝÝAR",
+  "ctrlLayoutDone": "✔ TAÝÝAR",
+  "touchSizeLabel": "📏 Düwme ölçegi (hemmesi):",
+  "touchStyleJoystickLR": "🕹 Joýstik (diňe çep/sag)",
+  "touchJoyModeLabel": "🕹 Joýstigiň ýerleşişi:",
+  "touchJoyStatic": "📌 Durnukly",
+  "touchJoyFloating": "🪶 Ýüzýän (barmaga eýerýär)",
+  "ctrlSizeAll": "HEMMESI",
+  "ctrlArrowsSplit": "◀▶ BÖL",
+  "ctrlArrowsLink": "◀▶ BIRLEŞDIR"
+}

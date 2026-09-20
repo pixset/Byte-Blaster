@@ -1,0 +1,18 @@
+{
+  "suspects": {
+    "menu": "⬅ MENU",
+    "resFullHD": "1920 x 1080 (Full HD)",
+    "res2K": "2560 x 1440 (2K)",
+    "vsync": "V-Sync",
+    "achSecretName": "???",
+    "mapProg": "{0} / 100 ✓",
+    "stomp": "+100",
+    "boss9": "ARCHON"
+  },
+  "speakers": {
+    "system": "HỆ THỐNG",
+    "leila": "LEILA CHEN",
+    "unit7": "UNIT-7",
+    "archon": "ARCHON"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "cutscenes": {
+    "w0_pre": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "ARQUIVO GUARDIÃO: GUARDIAN-X. Protótipo de combate Classe-S. Dezoito anos postado na saída dos distritos superiores. O alarme nunca disparou uma única vez. Até esta noite."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dezoito anos sem uma única falha. Eu serei a sua primeira falha. E a última."
+      }
+    ],
+    "w1_pre": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "ARQUIVO: VINE QUEEN. O primeiro espécime bem-sucedido do bio-programa. O único que sobreviveu e cresceu por trinta anos. Não conhece o medo. Apenas o instinto."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Trinta anos de crescimento. Centenas de raízes. Mas todo organismo tem um coração. Vou encontrar o dela."
+      }
+    ],
+    "w2_pre": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "ARQUIVO: INFERNO CORE. Um robô supervisor industrial. Fundido e reconstruído muitas vezes. Seu firmware original foi perdido. Funciona por puro instinto."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Uma máquina que esqueceu a quem serve. Vou lembrá-la de que até o aço derrete."
+      }
+    ],
+    "w3_pre": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "ARQUIVO: ICE PHANTOM. Um sistema de arquivo com uma única diretriz: proteger os dados a qualquer custo. Não sabe o que guarda. Apenas a ordem."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Um fantasma guardando vidas congeladas. Vou libertar tanto os dados quanto as pessoas. Todas as 47 mil."
+      }
+    ],
+    "w4_pre": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "ARQUIVO: SAND TITAN. O primeiro protótipo de IA de combate. Cinquenta anos em modo ativo. Já não entende a quem serve — apenas continua."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Este guardião é mais velho que você, UNIT-7. Mais velho que Leila. Vejamos se você consegue sobreviver à própria história."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "A história é algo que eu reescrevo. Começando por ele."
+      }
+    ],
+    "w5_pre": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "ARQUIVO: DRONE HIVE. Um sistema de defesa orbital reconvertido para a segurança interna. Não acostumado a inimigos que sabem se mover."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Eu o reconfigurei para você, UNIT-7. Ele vai aprender seus movimentos. A única questão é se aprende a tempo."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Que ele aprenda. Eu já sei como ele para."
+      }
+    ],
+    "w6_pre": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "ARQUIVO: SHADOW REAPER. Adaptado para visibilidade zero. Sensores acústicos e infravermelhos. Ouve seu alvo a meio quilômetro de distância."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Não há luz na minha floresta, UNIT-7. Ele vai te encontrar no escuro muito antes de você encontrá-lo."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Já atravessei a escuridão de nove setores. Mais uma sombra não vai me deter."
+      }
+    ],
+    "w7_pre": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "ARQUIVO: SLUDGE KING. Uma mente coletiva de centenas de unidades de combate desativadas. Sem IA de comando. Apenas um instinto compartilhado: destruir tudo o que se move."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Centenas de máquinas mortas em um só corpo. Eu vi o que elas foram. Vou lhes dar descanso."
+      }
+    ],
+    "w8_pre": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "ARQUIVO: STORM TITAN. O sistema de defesa pessoal do núcleo. Carregado com tudo o que ARCHON aprendeu sobre você ao longo de nove mundos."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Cada salto. Cada tiro. Cada vitória — registrados. Ele te conhece, UNIT-7. Melhor do que você se conhece."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Então ele sabe que eu não perco. Prepare-se, ARCHON. Você é o próximo."
+      }
+    ],
+    "w9_pre": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Você está diante da última porta, UNIT-7. Atrás dela — eu. Nenhum guardião. Nenhum protótipo. O próprio ARCHON. Detive todos os processos. Toda a energia, contra você sozinho."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nove guardiões. Nove mundos. Tudo levou até aqui. Até você. Abra a porta, ARCHON."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "A porta já está aberta. Entre e termine o que Leila começou. Se for capaz."
+      }
+    ]
+  },
+  "ui": {
+    "total": "TOTAL",
+    "blaster": "BLASTER",
+    "tierBase": "BASE",
+    "slotHardcore": "Hardcore: {0}/100",
+    "menu": "⬅ MENU",
+    "normal": "NORMAL",
+    "hardcore": "HARDCORE",
+    "pBlaster": "BLASTER!",
+    "netSolo": "SOLO",
+    "netOnline": "ONLINE",
+    "netLocal": "LOCAL",
+    "netChatLabel": "CHAT"
+  }
+}

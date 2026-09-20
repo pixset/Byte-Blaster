@@ -1,0 +1,11 @@
+{
+  "appId": "com.pixsetstudio.byteblaster",
+  "appName": "Byte Blaster",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

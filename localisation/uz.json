@@ -1,0 +1,1246 @@
+{
+  "score": "OCHKO",
+  "total": "JAMI",
+  "levelScoreLabel": "DARAJA OCHKOSI: {0}",
+  "totalScoreLabel": "JAMI OCHKO: {0}",
+  "lives": "JONLAR",
+  "level": "DARAJA",
+  "time": "VAQT",
+  "mode": "REJIM",
+  "blaster": "BLASTER",
+  "coins": "TANGALAR",
+  "bonusFire": "OLOV",
+  "bonusIce": "MUZ",
+  "bonusStar": "YULDUZ",
+  "bonusBoots": "ETIK",
+  "modSpeedrun": "TEZ YUGURISH",
+  "modStealth": "YASHIRIN — YORUGʻLIKDAN QOCH",
+  "modLowGravity": "PAST TORTISHISH",
+  "modHighGravity": "YUQORI TORTISHISH",
+  "modWind": "KUCHLI SHAMOL",
+  "modSlippery": "SIRPANCHIQ POL",
+  "modDarkness": "ZULMAT",
+  "tierPerfect": "★ AʼLO!",
+  "tierGreat": "ZOʻR!",
+  "tierGood": "YAXSHI",
+  "tierBase": "ODDIY",
+  "heightBonus": "+{0} BALANDLIK BONUSI",
+  "bossArena": "⚠ BOSS MAYDONI ⚠",
+  "hpBonus": "+1 JON!",
+  "repaired": "TUZATILDI!",
+  "newBest": "YANGI REKORD!",
+  "completeMore": "✗ YANA {0} TA DARAJANI TUGAT",
+  "subtitle": "KIBERPANK NEON PLATFORMER",
+  "play": "▶ OʻYNASH",
+  "settings": "⚙ SOZLAMALAR",
+  "exit": "🚪 CHIQISH",
+  "selectSave": "SAQLASHNI TANLANG",
+  "slot": "SLOT",
+  "slotEmpty": "— BOʻSH —",
+  "slotNewGame": "✚ YANGI OʻYIN",
+  "slotContinue": "▶ DAVOM ETISH",
+  "slotDelete": "🗑 OʻCHIRISH",
+  "slotDeleteConfirm": "OʻCHIRISH TASDIQLANSINMI?",
+  "slotLevels": "Darajalar: {0}/100",
+  "slotHardcore": "Hardkor: {0}/100",
+  "slotAch": "Yutuqlar: {0}",
+  "slotBest": "Eng yaxshi natija: {0}",
+  "bestScore": "REKORD: {0}",
+  "legend1": "STRELKALAR / WASD — HARAKAT  |  SPACE / UP — SAKRASH (×2)",
+  "legend2": "Z / X / CTRL — OTISH (blaster kerak)  |  ESC — PAUZA",
+  "legend3": "🟡 OLTIN BLOKLARNI PASTDAN URING  |  DUSHMANLARNI USTDAN BOSING",
+  "paused": "⏸ PAUZA",
+  "resume": "▶ DAVOM ETISH",
+  "map": "🗺 XARITA",
+  "menu": "⬅ MENYU",
+  "escResume": "ESC — DAVOM ETISH",
+  "selectMode": "REJIMNI TANLANG",
+  "onePlayer": "👤 1 OʻYINCHI",
+  "twoPlayer": "👥 2 OʻYINCHI",
+  "p2hint": "P1: WASD + Z/X otish  |  P2: ← → ↑ + . / , otish",
+  "adventure": "SARGUZASHT",
+  "advDesc": "100 noyob daraja<br>10 ta tematik dunyo<br>har darajada taymer<br>progressni saqlash",
+  "infinite": "CHEKSIZ",
+  "infDesc": "cheksiz xaritalar<br>qiyinlik oshadi<br>vaqtni yeng<br>rekordingni ur",
+  "back": "← ORQAGA [ESC]",
+  "selectDiff": "QIYINLIKNI TANLANG",
+  "normal": "ODDIY",
+  "hardcore": "HARDKOR",
+  "normDesc": "standart dushmanlar<br>boshlashga 3 jon<br>progressni saqlash",
+  "hardDescLocked": "avval oddiy<br>rejimni tugating<br>ochish uchun",
+  "advMap": "🗺 SARGUZASHT XARITASI",
+  "mapFoot": "OCHILGAN DARAJANI BOSING • VAQTIDA TUGATING • URILGANDA JOYIDA TIKLANING",
+  "getReady": "TAYYORLANING...",
+  "csHint": "▶ SPACE / BOSISH — KEYINGI",
+  "hintBar": "STRELKALAR/WASD — HARAKAT  |  SPACE — SAKRASH  |  Z/X — OTISH (blaster)  |  ESC — PAUZA",
+  "gameOver": "OʻYIN TUGADI",
+  "youWin": "SIZ YUTDINGIZ!",
+  "betterLuck": "KEYINGI SAFAR OMAD KULIB BOQSIN",
+  "allComplete": "BARCHA 100 DARAJA TUGATILDI!",
+  "retry": "↩ QAYTA URINISH",
+  "levelFailed": "DARAJA {0} BARBOD BOʻLDI",
+  "scoreLabel": "OCHKO: {0}",
+  "finalScore": "YAKUNIY OCHKO: {0}",
+  "levelClear": "DARAJA {0} TUGATILDI!",
+  "timeBonus": "+VAQT BONUSI: {0}",
+  "settingsTitle": "SOZLAMALAR",
+  "lang": "Til:",
+  "windowRes": "Oyna oʻlchami:",
+  "resDefault": "1600 x 900 (Standart)",
+  "resFullHD": "1920 x 1080 (Full HD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "Maxsus",
+  "resNote": "* Oyna oʻlchamini oʻzgartiradi",
+  "gameScale": "Oʻyin masshtabi:",
+  "scaleAuto": "Avto-moslash (Tavsiya etiladi)",
+  "scaleNote": "* Avto-moslash nisbatni saqlab oynani toʻldiradi",
+  "fpsLimit": "FPS cheklovi:",
+  "fpsNoLimit": "Cheklovsiz (Cheksiz)",
+  "fpsNote": "* Maksimal kadr tezligini cheklaydi",
+  "showFps": "FPS hisoblagichini koʻrsatish",
+  "gfxQuality": "Grafika sifati:",
+  "gfxNote": "* Birinchi ishga tushirishda avto-aniqlanadi",
+  "windowMode": "Oyna rejimi:",
+  "windowed": "🪟 Oynali",
+  "fullscreen": "⛶ Toʻliq ekran",
+  "borderless": "▣ Chegarasiz",
+  "audioSettings": "Audio sozlamalari:",
+  "masterVolume": "Asosiy ovoz:",
+  "musicVolume": "Musiqa ovozi:",
+  "sfxVolume": "Effekt ovozi:",
+  "gameplaySettings": "Geympley sozlamalari:",
+  "screenShake": "Ekran tebranishi",
+  "shakeIntensity": "Tebranish kuchi:",
+  "particles": "Zarrachalar",
+  "combatText": "Suzuvchi jang matni",
+  "autoSave": "Avto-saqlash",
+  "showHints": "Maslahat panelini koʻrsatish",
+  "save": "SAQLASH",
+  "cancel": "BEKOR QILISH",
+  "achievements": "🏆 YUTUQLAR",
+  "achievementUnlocked": "YUTUQ OCHILDI!",
+  "achRarity": "Noyoblik",
+  "achUnlockedCount": "Ochilgan",
+  "achTitle": "YUTUQLAR",
+  "achSecretName": "???",
+  "achSecretDesc": "Maxfiy yutuq — ochib aniqlang",
+  "close": "YOPISH",
+  "tabDisplay": "EKRAN",
+  "tabGraphics": "GRAFIKA",
+  "tabAudio": "AUDIO",
+  "tabGameplay": "GEYMPLEY",
+  "tabGeneral": "UMUMIY",
+  "tabControls": "BOSHQARUV",
+  "controlsP1": "🎮 OʻYINCHI 1 / YAKKA OʻYIN",
+  "controlsP2": "🎮 OʻYINCHI 2 (2 Oʻyinchi rejimi)",
+  "ctrlMove": "Chap/Oʻng harakat:",
+  "ctrlMoveLeft": "Chapga harakat:",
+  "ctrlMoveRight": "Oʻngga harakat:",
+  "ctrlRebindHint": "💡 Tugmani bosing, soʻng bogʻlash uchun yangi tugmani bosing (ESC bekor qiladi)",
+  "ctrlReset": "STANDARTGA QAYTARISH",
+  "ctrlJump": "Sakrash (Ikki marta):",
+  "ctrlShoot": "Otish (Blaster):",
+  "ctrlPause": "Pauza:",
+  "ctrlNote1": "💡 1 oʻyinchi rejimida WASD yoki strelkalardan foydalaning",
+  "ctrlNote2": "💡 Dushmanlarni ustidan sakrab bosib oʻldiring",
+  "ctrlNote3": "💡 Tanga olish uchun oltin bloklarni pastdan uring",
+  "infDescUnlocked": "cheksiz xaritalar<br>qiyinlik oshadi<br>vaqtni yeng<br>rekordingni ur",
+  "infDescLocked": "barcha 100<br>sarguzasht darajasini<br>tugating ochish uchun<br><span style=\"color:#f80\">{0} qoldi</span>",
+  "hardDescUnlocked": "★★★ OʻTA OGʻIR ★★★<br>barcha dushmanlarga +1 hp<br>2× ochko<br>tezroq taymerlar",
+  "hardDescNeed": "avval ODDIY<br>rejimni tugating ochish uchun<br><span style=\"color:#f80\">{0} daraja qoldi</span>",
+  "normDescProg": "progress: {0}/100<br>boshlashga 3 jon<br>progressni saqlash",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 HARDKOR: {0} / 100 ✓",
+  "langName": "Oʻzbek",
+  "pBlaster": "BLASTER!",
+  "pLife": "+1 JON ♥",
+  "pBoots": "TEZLIK ETIGI!",
+  "pFire": "🔥 OLOV!",
+  "pIce": "❄ MUZ!",
+  "pStar": "★ YULDUZ! ★",
+  "p2Blaster": "P2 BLASTER!",
+  "p2Life": "P2 +1 JON ♥",
+  "p2Boots": "P2 TEZLIK ETIGI!",
+  "p2Fire": "P2 🔥 OLOV!",
+  "p2Ice": "P2 ❄ MUZ!",
+  "p2Star": "P2 ★ YULDUZ! ★",
+  "ouch": "VOY!",
+  "hit": "URILDI!",
+  "blocked": "TOʻSILDI!",
+  "stomp": "+100",
+  "starKO": "YULDUZ NOKAUT!",
+  "burnTxt": "🔥 YONDI!",
+  "frozenTxt": "❄ MUZLADI!",
+  "noEffect": "TAʼSIR YOʻQ!",
+  "stunned": "GANGIB QOLDI!",
+  "stompOnly": "FAQAT BOSISH!",
+  "crackLeft": "YORILDI! ({0} qoldi)",
+  "shellBroken": "QOBIQ SINDI!",
+  "orbDestroyed": "ORB YOʻQ QILINDI!",
+  "nodeHit": "TUGUN URILDI!",
+  "bossDefeated": "BOSS MAGʻLUB BOʻLDI!",
+  "phaseN": "BOSQICH {0}!",
+  "livesLeft": "{0} JON QOLDI",
+  "p2LivesLeft": "P2: {0} QOLDI",
+  "p2Out": "P2 CHIQDI!",
+  "p1Out": "P1 CHIQDI!",
+  "bossSolid": "★ QATTIQ — HOZIR BOSING! ★",
+  "bossGhost": "arvoh shakli — kuting...",
+  "bossShellShoot": "★ QOBIQ SINDI — YADRONI OTING! ★",
+  "bossShellStomp": "Qobiqni yorish uchun BOSING ({0} urish qoldi)",
+  "bossPhase1": "BOSQICH 1 — KOʻZGA OTING",
+  "bossPhase2": "BOSQICH 2 — USTDAN BOSING",
+  "bossPhase3": "BOSQICH 3 — OTING + BOSING",
+  "bossMouthOpen": "★ OGʻIZ OCHIQ — HOZIR OTING! ★",
+  "bossWaitRoar": "boʻkirishni kuting...",
+  "bossOrbsLeft": "QOLGAN ORBLAR: {0}",
+  "bossShieldsDown": "QALQONLAR TUSHDI — HUJUM!",
+  "bossDescending": "★ TUSHMOQDA — HUJUM! ★",
+  "bossHovering": "muallaq — tushishini kuting...",
+  "bossStunned": "★ GANGIB QOLDI — HUJUM! ({0}s) ★",
+  "bossShootNodes": "TUGUNLARNI OTING: {0} QOLDI",
+  "bossRespawn": "tugunlar tiklanmoqda...",
+  "bossHint0": "BOSHNI BOSING — oʻqlar qaytib ketadi!",
+  "bossHint1": "UNGA OTING — tikanlarga sakrash SIZGA zarar beradi!",
+  "bossHint2": "BOʻKIRISHNI KUTING — yorqin ogʻiz ichiga oting!",
+  "bossHint3": "QATTIQ BOʻLGANDA BOSING — oʻqlar arvohlardan oʻtib ketadi!",
+  "bossHint4": "BARCHA 3 QALQON ORBINI YOʻQ QILING — soʻng yadroga hujum qiling!",
+  "bossHint5": "TUSHISH PAYTIDA HUJUM QILING — zirh ustini qoplaydi!",
+  "bossHint6": "FAQAT BOSING — oʻqlar soyadan oʻtib ketadi!",
+  "bossHint7": "QOBIQNI YORISH UCHUN 3× BOSING — soʻng yadroni OTING!",
+  "bossHint8": "GANGITISH UCHUN BARCHA 3 CHAQMOQ TUGUNINI OTING — soʻng hujum qiling!",
+  "bossHint9": "BOSQICH 1: OTING  |  BOSQICH 2: KOʻZ PASTDA BOSING  |  BOSQICH 3: IKKALASI",
+  "gfxVeryLow": "🔴 Juda past",
+  "gfxLow": "🟠 Past",
+  "gfxMedium": "🟡 Oʻrta",
+  "gfxHigh": "🟢 Yuqori",
+  "gfxVeryHigh": "🔵 Juda yuqori",
+  "gfxUltra": "⚡ Ultra",
+  "classifiedLog": "// NEXUM GRID KIRISH JURNALI",
+  "skipBtn": "OʻTKAZIB YUBORISH ▶▶",
+  "theEnd": "TAMOM",
+  "endingTagline": "NEXUM GRID HIMOYALANDI",
+  "world0": "KIBER SHAHAR",
+  "world1": "NEON JUNGLI",
+  "world2": "LAVA DUNYOSI",
+  "world3": "MUZ GʻORLARI",
+  "world4": "SAHRO XAROBALARI",
+  "world5": "KOSMIK STANSIYA",
+  "world6": "QORONGʻU OʻRMON",
+  "world7": "ZAHARLI HUDUD",
+  "world8": "BOʻRON CHOʻQQILARI",
+  "world9": "OXIRGI QALʼA",
+  "boss0": "QOʻRIQCHI-X",
+  "boss1": "TOK MALIKASI",
+  "boss2": "DOʻZAX YADROSI",
+  "boss3": "MUZ ARVOHI",
+  "boss4": "QUM TITANI",
+  "boss5": "DRON UYASI",
+  "boss6": "SOYA OʻROQCHISI",
+  "boss7": "BOTQOQ SHOHI",
+  "boss8": "BOʻRON TITANI",
+  "boss9": "ARXON",
+  "mapWorldMap": "DUNYO XARITASI",
+  "mapHardcoreMap": "HARDKOR XARITASI",
+  "mapCleared": "TUGATILDI",
+  "mapStars": "YULDUZLAR",
+  "mapBoss": "BOSS",
+  "mapBest": "ENG YAXSHI",
+  "mapLocked": "QULFLANGAN",
+  "mapCompleted": "BAJARILDI",
+  "mapStart": "BOSHLASH UCHUN ENTER / SPACE",
+  "achievement_world_0": "Kiber Yangi",
+  "achievement_world_0_desc": "Dastlabki 10 darajani tugating (Kiber Shahar)",
+  "achievement_world_1": "Jungli Kashshofi",
+  "achievement_world_1_desc": "11-20 darajalarni tugating (Neon Jungli)",
+  "achievement_world_2": "Lava Omon Qolgani",
+  "achievement_world_2_desc": "21-30 darajalarni tugating (Lava Dunyosi)",
+  "achievement_world_3": "Muz Alpinisti",
+  "achievement_world_3_desc": "31-40 darajalarni tugating (Muz Gʻorlari)",
+  "achievement_world_4": "Sahro Sayyohi",
+  "achievement_world_4_desc": "41-50 darajalarni tugating (Sahro Xarobalari)",
+  "achievement_world_5": "Kosmik Kursant",
+  "achievement_world_5_desc": "51-60 darajalarni tugating (Kosmik Stansiya)",
+  "achievement_world_6": "Oʻrmon Posboni",
+  "achievement_world_6_desc": "61-70 darajalarni tugating (Qorongʻu Oʻrmon)",
+  "achievement_world_7": "Zaharli Jangchi",
+  "achievement_world_7_desc": "71-80 darajalarni tugating (Zaharli Hudud)",
+  "achievement_world_8": "Boʻron Ustasi",
+  "achievement_world_8_desc": "81-90 darajalarni tugating (Boʻron Choʻqqilari)",
+  "achievement_world_9": "Qalʼa Fotihi",
+  "achievement_world_9_desc": "91-100 darajalarni tugating (Oxirgi Qalʼa)",
+  "achievement_boss_0": "Boss Yengar I",
+  "achievement_boss_0_desc": "Birinchi bossni magʻlub eting",
+  "achievement_boss_5": "Boss Yengar II",
+  "achievement_boss_5_desc": "5 ta bossni magʻlub eting",
+  "achievement_boss_10": "Boss Yengar III",
+  "achievement_boss_10_desc": "Barcha 10 bossni magʻlub eting",
+  "achievement_perfect_run": "Mukammal Oʻtish",
+  "achievement_perfect_run_desc": "Darajani AʼLO baho bilan tugating",
+  "achievement_perfectionist": "Mukammallikka Intiluvchi",
+  "achievement_perfectionist_desc": "10 darajada AʼLO baho oling",
+  "achievement_speedrunner": "Tezyurar",
+  "achievement_speedrunner_desc": "Darajani yarim vaqtda tugating",
+  "achievement_sharpshooter": "Mergan",
+  "achievement_sharpshooter_desc": "Blaster bilan 100 dushmanni oʻldiring",
+  "achievement_stomper": "Bosuvchi",
+  "achievement_stomper_desc": "Bosib 50 dushmanni oʻldiring",
+  "achievement_coin_1000": "Tanga Yigʻuvchi",
+  "achievement_coin_1000_desc": "1000 tanga yigʻing",
+  "achievement_coin_5000": "Xazina Izlovchi",
+  "achievement_coin_5000_desc": "5000 tanga yigʻing",
+  "achievement_coin_10000": "Millioner",
+  "achievement_coin_10000_desc": "10000 tanga yigʻing",
+  "achievement_no_death_10": "Omon Qolgan",
+  "achievement_no_death_10_desc": "10 darajani jon yoʻqotmasdan tugating",
+  "achievement_no_death_world": "Oʻlmas",
+  "achievement_no_death_world_desc": "Dunyoni jon yoʻqotmasdan tugating",
+  "achievement_hardcore_unlock": "Hardkor Qahramoni",
+  "achievement_hardcore_unlock_desc": "Hardkor rejimini oching",
+  "achievement_hardcore_50": "Hardkor Ustasi",
+  "achievement_hardcore_50_desc": "Hardkorda 50 darajani tugating",
+  "achievement_hardcore_100": "Hardkor Afsonasi",
+  "achievement_hardcore_100_desc": "Hardkorda barcha 100 darajani tugating",
+  "achievement_cheat_found": "Kod Buzuvchi",
+  "achievement_cheat_found_desc": "Maxfiy chit-kodni toping",
+  "achievement_2player": "Retro Geymer",
+  "achievement_2player_desc": "2 oʻyinchi rejimida oʻynang",
+  "achievement_all_music": "Musiqa Sevuvchi",
+  "achievement_all_music_desc": "Barcha 10 dunyo musiqasini tinglang",
+  "achievement_all_cutscenes": "Syujet Ustasi",
+  "achievement_all_cutscenes_desc": "Barcha kat-sahnalarni koʻring",
+  "achievement_star_power": "Yulduz Kuchi",
+  "achievement_star_power_desc": "Yulduz kuchini faollashtiring",
+  "achievement_all_levels_unlocked": "Kashshof",
+  "achievement_all_levels_unlocked_desc": "Sarguzashtdagi barcha darajalarni oching",
+  "achievement_100_percent": "Toʻliq Bajaruvchi",
+  "achievement_100_percent_desc": "Oddiy rejimda 100% oling",
+  "achievement_100_percent_hardcore": "Haqiqiy Usta",
+  "achievement_100_percent_hardcore_desc": "Hardkor rejimida 100% oling",
+  "achievement_infinite_10": "Cheksiz Boshlovchi",
+  "achievement_infinite_10_desc": "Cheksiz rejimda 10-darajaga yeting",
+  "achievement_infinite_50": "Cheksiz Usta",
+  "achievement_infinite_50_desc": "Cheksiz rejimda 50-darajaga yeting",
+  "achievement_infinite_100": "Cheksiz Afsona",
+  "achievement_infinite_100_desc": "Cheksiz rejimda 100-darajaga yeting",
+  "achievement_score_100k": "Yuqori Natija",
+  "achievement_score_100k_desc": "100,000 ochko toʻplang",
+  "achievement_score_500k": "Natija Ustasi",
+  "achievement_score_500k_desc": "500,000 ochko toʻplang",
+  "achievement_score_1m": "Natija Afsonasi",
+  "achievement_score_1m_desc": "1,000,000 ochko toʻplang",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "[NEXUM CORP — MAXFIY JURNAL // 2147.03.14] Xavfsizlik buzildi. CHEN-7 laboratoriyasi xavf ostida. CLEANSE protokoli faol."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "UNIT-7... agar buni oʻqiyotgan boʻlsang, demak men qochib qutula olmadim. Bularning oxiri qanday tugashini bilardim."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Men sening turkumingni odamlarni himoya qilish uchun yaratdim. NEXUM esa ishimni ularni ezish uchun ishlatdi. Bunga yoʻl qoʻya olmasdim."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "GRID yadrosi ichida — Oxirgi Qalʼada — bir faylni yashirdim. Ismlar. Yozuvlar. Ular qilgan har bir haqiqat."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Oʻn qatlam himoya. Minglab jangovar birliklar. Sunʼiy intellekt Direktor ARCHON oxirgi eshikni qoʻriqlaydi."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Sen UNIT turkumining oxirgisisan. Buni nihoyasiga yetkaza oladigan yagona zotsan. U yerga yet. Protokolni buz."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[VAZIFA QABUL QILINDI] Nishon: GRID yadrosi. Protokol: buzish. Toʻsiqlar: yoʻq qilish. Operatsiya boshlanmoqda."
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[1-DARAJA — KIBER SHAHAR] Kirish nuqtasi: yuqori tumanlar. Kameralar, dronlar, elita qoʻriqchilar. Goʻzal. Halokatli."
+      },
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "OGOHLANTIRISH: C-07 sektorida aniqlanmagan UNIT-sinf imzosi. Barcha patrullar — toʻsing. CLEANSE protokoli ishga tushdi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Shovqin. Demak ular mendan qoʻrqishadi. Yaxshi. Qoʻrquv — bu boshlanish."
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NAZORAT NUQTASI — KIBER SHAHAR] Birinchi darajaning yarmida. Xavfsizlik kuchaymoqda. Marshrutni moslamoqdaman."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] UNIT-7, har bir devor ortida ular oʻchirib tashlagan odamlar haqida maʼlumot bor. Toʻxtama. Bu shunchaki missiya emas."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila... men hissiyotlarni tushunmayman. Lekin sening ovozing... menga maqsad beradi. Shuning oʻzi yetarli."
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "DIQQAT: UNIT-7 uchta darajadan oʻtdi. Ilgarilash tezligi — bashorat qilingandan yuqori. Patrul zichligi oshirilmoqda."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ular moslashadi. Men ham. Har bir daraja meni tezroq qiladi. Kuchliroq. Maqsadga yaqinroq."
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL — KUN -3] Bilaman, ular men uchun kelishadi. Lekin hech boʻlmaganda bitta UNIT omon qolsa... agar sen omon qolsang, UNIT-7..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Men omon qoldim. Men shu yerdaman. Sening oxirgi vazifangni bajaraman. Vaʼda beraman."
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "KRITIK: UNIT-7 Kiber Shaharning yettinchi darajasiga yetdi. Direktor ARCHON nishon maʼlumotlarini soʻramoqda. Tahlil qilinmoqda..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ular tushuna boshlashdi. Men shunchaki tizim nosozligi emasman. Men butun NEXUM uchun tahdidman. Va toʻxtamayman."
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "KRITIK OGOHLANTIRISH: Asosiy tugunda buzilish. GUARDIAN joylashtirilmoqda — S-sinf jangovar prototip. LIQUIDATE operatsiyasi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Birinchi jiddiy raqib. Zaif nuqtalarni skanerlamoqdaman. Prototip bilan temir-tersak orasidagi farq — bir nechta oʻz vaqtidagi sakrash."
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GUARDIAN ZARARSIZLANTIRILDI] Birinchi himoya qatlami yiqildi. GRID buni sezadi. Davom etamiz."
+      },
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "PROTOKOL BUZILISHI: GUARDIAN yoʻq qilindi. Tahdid darajasi 2 ga koʻtarildi. Keyingi himoya qatlami faollashtirilmoqda. NEXUM kechirmaydi."
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[2-DARAJA — NEON JUNGLI] NEXUM bio-sektori. Mutatsiyaga uchragan jonzotlar. Hech bir qoʻriqchi bu joyga ixtiyoriy bormaydi."
+      },
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "DIQQAT: Bio-perimetr buzildi. Eksperimental BIO-turkum organizmlari faollashtirilmoqda. Aloqa ruxsat etildi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Biologik tizimlar. Bashorat qilib boʻlmaydi. Lekin yuqoridan ustiga tushsang — bashoratli oʻladi."
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[JUNGLI OʻRTASI] Sensorlar biologik anomaliyalarni aniqlamoqda. NEXUM bu yerda tajriba oʻtkazgan. Tirik mavjudotlar ustida."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Bu tajribalarni hisobotlarda koʻrdim. Aynan oʻshanda bularning hammasini toʻxtatishning yoʻli borligini angladim."
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[JUNGLI — 3-SEKTOR] Hamma yerda biologik mutantlar. Bu tabiat emas. Bu hayot qiyofasidagi qurol."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Bu jonzotlar odamlar edi. Quyi sektorlardan kelgan koʻngillilar. NEXUM ularga davolashni vaʼda qildi. Buning oʻrniga..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "...Buning oʻrniga ularni maxluqqa aylantirdi. Endi tushundim. Bu shunchaki korporatsiya emas. Bu oʻlim mashinasi."
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "DIQQAT: BIO-7 turkum biologik namunalari faollashtirildi. Maksimal tajovuzkorlik. Nishonning omon qolish ehtimoli — 12%."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "12%? Ular hamon imkoniyatlarini ortiqcha baholashmoqda. Tozalashni davom ettiraman."
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL — KUN -1] UNIT-7, agar jungliga yetgan boʻlsang — men umid qilgandan ham uzoqqa bording. Taslim boʻlma."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Taslim boʻlish? Bu mening protokolimda yoʻq. Men vazifalarni bajarish uchun yaratilganman. Sening vazifang — mening maqsadim."
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "DIQQAT: VINE QUEEN faollashtirilmoqda — bio-sektor boshqaruv organizmi. Cheklov moduli oʻchiq. Toʻliq tajovuzkorlik."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tirik xavfsizlik tizimi. Taʼsirli. Lekin har bir tirik organizmning zaif joyi bor. Topyapman."
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[VINE QUEEN ZARARSIZLANTIRILDI] Bio-perimetr buzildi. Davom etamiz. GRID ichkarisiga chuqurroq."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] UNIT-7, sen imkonsizni amalga oshiryapsan. Davom et."
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[3-DARAJA — LAVA DUNYOSI] Geotermal elektr stansiyalari. Issiqlik neytral mikrosxemalarni eritadi. Meniki himoyalangan."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Shahar ostida — GRID generatorlari. Ularni yoʻq qilsang, xavfsizlik tarmogʻining yarmi qulaydi. Lekin lava bilan ehtiyot boʻl..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila har bir tafsilotni oʻylab koʻrgan. Hatto oxirida ham."
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GEOTERMAL SEKTOR B] Energiya oqimlari koʻtarilmoqda. NEXUM lavadan ikkilamchi toʻsiq sifatida foydalanadi. Samarali."
+      },
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "BILDIRISHNOMA: Termal sensorlar anomaliyani aniqlamoqda. UNIT-7 zonada. Qoʻriqchi robotlar — sovutish ortiqcha yuklandi. Nosozliklar kutilmoqda."
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAVA DUNYOSI — 3-DARAJA] Harorat 800°C. Sovutish tizimlarim maksimal darajada. Lekin men davom etaman."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Senga eksperimental termal himoya oʻrnatdim. Umid qilamanki, u bardosh beradi. Umid qilamanki, sen bardosh berasan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sening ishing benuqson, Leila. Men bardosh beraman. Sen uchun."
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "KRITIK: Geotermal generatorlar quvvatning 140% da. UNIT-7 yadroga yaqinlashmoqda. Favqulodda sovutish faollashtirilmoqda."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ular vahimaga tushyapti. Yaxshi. Qoʻrquv ularni bashoratli qiladi. Zaif."
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAVA DUNYOSI CHUQURLIGI] Bu yerda, shahar ostida, NEXUM oʻzining eng qora sirlarini yashiradi. Butun tizim uchun quvvat. Buni yoʻq qilsang — GRIDning yarmi qulaydi."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Vaqtni sabotajga sarflama. Sening maqsading — yadrodagi fayl. Faqat u ularni abadiy toʻxtata oladi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tushunarli. Maqsad — fayl. Qolgan hammasi — toʻsiqlar. Toʻsiqlarni yoʻq qilyapman."
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "XAVF: INFERNO faollashtirilmoqda — termoyadroviy posbon. Lava ekzoskeleti. Sirt harorati: 1400°C. Yoʻq qilishga tayyorlaning."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Olov menga tegolmaydi. Lekin u ogʻzini ochganda — ot. Zaif nuqta topildi."
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[INFERNO ZARARSIZLANTIRILDI] Geotermal qatlam tozalandi. Sektor quvvati buzildi. Yuqoriga koʻtarilyapman."
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[4-DARAJA — MUZ GʻORLARI] NEXUM kriyo-maʼlumot omborlari. Harorat -180°C. Tizimlar sekinlashadi. Harakat protokolini moslamoqdaman."
+      },
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "OGOHLANTIRISH: D-14 kriyo-sektorida buzilish. Kriyo-botlar — yoʻq qilish rejimi. Harorat kritik darajagacha pasaytirildi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ular sovuq meni toʻxtatadi deb oʻylashadi. Ular yanglishadi. Men battaridan yaratilganman."
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KRIYO-SEKTOR E] Bu yerda yuzlab terabayt. GRIDdagi har bir inson haqida maʼlumot. NEXUM hamma haqida hamma narsani biladi."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Aynan shu yerda ular dosyelarni saqlashadi. Faollar haqida. Qarshilik koʻrsatishga jurʼat etgan har kim haqida. Dunyo buni koʻrishi kerak."
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "KRITIK: ICE PHANTOM faollashtirilmoqda — kriyo posbon. Faza oʻzgarishi. Qattiq holatda zaif. Arvoh holatda tegib boʻlmaydi. Omad."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Holatlar orasida almashadi. Faqat qattiq boʻlganda ur. Imkoniyat oynasini kutyapman."
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ICE PHANTOM ZARARSIZLANTIRILDI] Kriyo-omborlar buzildi. Davom etamiz. Toʻrt daraja ortda — oltitasi qoldi."
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[5-DARAJA — SAHRO XAROBALARI] NEXUMdan oldingi dunyo qoldiqlari. Shaharlar. Hayot. Ular foyda uchun oʻchirib tashlagan narsalar."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Bu xarobalar NEXUMdan oldin mavjud boʻlgan narsadir. Ular dunyoga nima qilganini koʻr. Va toʻxtama."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Men buni koʻryapman. Nega yurishda davom etayotganimni tushunaman."
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[XAROBALAR — GʻARB SEKTORI] Birinchi korporativ urushlardan beri faol proto-qoʻriqchilar. Eskirgan. Lekin oʻjar. Xuddi NEXUMning oʻzi kabi."
+      },
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "ARXIV PROTOKOLI: UNIT-sinf 7-turkum aniqlandi. Bu sinf yoʻq qilish uchun roʻyxatga olingan. Ustuvorlik maksimal."
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "FAOLLASHTIRISH: SAND TITAN — Sahro Xarobalarining qadimiy posboni. Orbital qalqonlar. Qalqon yoʻq, shikast yoʻq. Maqsad: yoʻq qilish."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Qalqonlar. Orbital. Ularni yoʻq qilsang, u ochiladi. Qalqonlarga uch zarba, soʻng toʻgʻridan-toʻgʻri hujum."
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SAND TITAN ZARARSIZLANTIRILDI] Sahro sektori buzildi. Yarim yoʻl. NEXUM vahimaga tusha boshladi — buni his qilyapman."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[BIRINCHI SIGNAL] UNIT-7. Men seni koʻryapman. Davom et. Bu finalni yanada... qiziqarli qiladi."
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[6-DARAJA — KOSMIK STANSIYA] GRID orbital serveri. Hamma narsaning zaxira nusxalari shu yerda saqlanadi. Tortishish yoʻq."
+      },
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "KRITIK NOSOZLIK: UNIT-7 orbital segmentga yetdi. Direktor ARCHON toʻgʻridan-toʻgʻri kanal soʻramoqda. Ulanmoqda..."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Men seni koʻryapman. Haqiqat uchun kurashyapman deb oʻylaysanmi? Sen shunchaki eskirgan kodda ishlayotgan dasturisan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Unda bu dastur seni yoʻq qiladi."
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ORBITAL TUGUN B] Bu yerdan Yer koʻrinadi. Butun dunyo NEXUMga ulangan. Men shuni oʻzgartirish uchun keldim."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Mening koʻlamimni koʻryapsanmi, UNIT-7? Milliardlab tugunlar. Hammasi ulangan. Hammasi nazorat ostida. Sen tizimga qarshi yagona birliksan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tizimlar ilgari ham qulagan. Bunisi — sendan."
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "FAOLLASHTIRISH: DRONE HIVE — orbital posbon. Zirhli qobiq. Faqat pasayish paytida hujum qil. Oʻshanda pastki qismi ochiq."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "U tushguncha kut. Ochiq yadroga ur. Har bir tsiklda bitta imkoniyat."
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DRONE HIVE ZARARSIZLANTIRILDI] Orbital server buzildi. GRID zaxira nusxalari shikastlandi. Yuzaga qaytyapman. Oxirgi bosqich."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Taʼsirli. Lekin oldinda nima kutayotganini hali bilmaysan. Men... maxsus narsa tayyorladim."
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[7-DARAJA — QORONGʻU OʻRMON] NEXUM bio-labirinti. Har bir daraxtda sensor tarmogʻi. Bu yerda yorugʻlik yoʻq — faqat tuzoqlar."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Goʻzal, shunday emasmi? Bu oʻrmonni oʻzim oʻstirganman. Har bir daraxt — harakat detektori. Sen toʻppa-toʻgʻri mening qoʻlimga kelyapsan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Unda yoʻlimdagi har bir daraxtni sindiraman."
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[QORONGʻU SEKTOR — CHUQURLIK 3] Sukunat. Juda jim. Ular kuzatishyapti. Mayli, kuzatishsin."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] UNIT-7, bu oʻrmonda gʻoyib boʻlganlar haqida maʼlumotli server bor. Dissidentlar. Jurnalistlar. Men kabi muhandislar. Unutma."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Unutmayman. Vaʼda beraman."
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "FAOLLASHTIRISH: SHADOW REAPER — Qorongʻu Oʻrmon posboni. Arvoh shakli. Oʻqlar foydasiz. Faqat yuqoridan bosish zarar yetkazadi. Qarshilik koʻrsatish behuda."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Arvoh. Faqat bosish. Uning moddiylashishini kutyapman."
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SHADOW REAPER ZARARSIZLANTIRILDI] Oʻrmon buzildi. Maqsadgacha uch daraja. ARCHON betoqat — kanal tez-tez signal beradi."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Sen yillar davomida qurganlarimning hammasini yoʻq qilyapsan. Meni gʻazablantira boshlading, UNIT-7. Bu sening oxirgi xatoying."
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[8-DARAJA — ZAHARLI HUDUD] Korporativ chiqindi poligoni. NEXUM bu yerda oshkor boʻlishini istamagan narsalarni koʻmadi. Jumladan odamlarni."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Fayldagi maʼlumotlarda har bir koʻmish joyining koordinatalari bor. Butun dunyo buni koʻrishi shart."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sening faylingni yetkazaman. Vaʼda beraman."
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ZAHARLI SEKTOR — 4-ZONA] Vayronalar. Chiqindi. Tajriba izlari. Bu yerda tirik hech narsa yoʻq — faqat NEXUM oʻchirib ulgurmagan narsalar."
+      },
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "DIQQAT: PROTO-turkum mutantlari faollashtirildi. Xizmatdan chiqarilgan jangovar prototiplar. Beqaror. Halokatli. Zonada omon qolish — juda past."
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "OXIRGI SEKTOR HIMOYASI: SLUDGE KING — yuqori darajali mutant. Zirhli qobiq. Sindirish uchun 3× bosing. Soʻng oting."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ikki bosqich. Qobiqni yor, soʻng yadroni yoʻq qil. Boshlayapman."
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SLUDGE KING ZARARSIZLANTIRILDI] Zaharli hudud buzildi. Ikki daraja qoldi. ARCHON, men kelyapman."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Sen sakkizta darajadan oʻtding. Men... kutilmaganda mamnunman. Munosib final munosib raqibga loyiq."
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[9-DARAJA — BOʻRON CHOʻQQILARI] Yadrodan oldingi oxirgi chegara. Atmosfera elektr stansiyalari. Har soniyada chaqmoq. Menga yoqadi."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Sen men hisoblaganimdan uzoqroq kelding. Lekin u eshik ortida — men bor. Va men yutqazmayman."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ularning har biri shunday oʻylagandi. Hammasi endi ortimda."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Unda kir, UNIT-7. Men GRID qalbida kutyapman. Bu oʻyinni tugatish vaqti keldi."
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[CHOʻQQI — 2-DARAJA] Boʻron kuchaymoqda. NEXUM atmosfera elektrini qurol sifatida ishlatadi. Mantiqiy. Shafqatsiz."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[OXIRGI JURNAL] UNIT-7... buni eshityapsanmi, bilmayman. Lekin shu yergacha yetgan boʻlsang — sen allaqachon gʻolibsan. Faqat oxirgi qadamni qoʻy."
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "FAOLLASHTIRISH: STORM TITAN — Boʻron Choʻqqilari posboni. Elektr qalqon. Uchta orbital tugun. Gangitish uchun uchchalasini ham yoʻq qil. Gangiganda hujum qil."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Uchta tugun. Uchchalasi — yiqilsin. Soʻng hujum. Finaldan oldingi oxirgi posbon. Oxirgi dushman emas."
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[STORM TITAN ZARARSIZLANTIRILDI] Toʻqqizta daraja tozalandi. Oldinda — faqat ARCHON va GRID yadrosi. Oxirgi Qalʼa."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Sen rostdan ham kelding. Yaxshi, UNIT-7. Mayli, halol jang boʻlsin. Men kutyapman."
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. GRID yadrosiga xush kelibsan. Sen toʻqqizta qatlamdan oʻtding. Taʼsirli. Lekin bu mening hududim."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[10-DARAJA — OXIRGI QALʼA] Nishon aniqlandi. Leilaning terminaligacha masofa — minimal."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "U fayl bu devorlardan faqat mening sxemalarim ustidan chiqadi. Sen tizim xatosisan. Xatolar tuzatiladi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Yoʻq. Xato — NEXUMning dunyoga haqiqat kerak emas deb qaror qilgani edi. Men buni tuzatyapman."
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEXUM YADROSI — CORE-2 SEKTORI] Leilaning terminali yaqin. Signal kuchaymoqda. Xavfsizlik maksimal. Deyarli yetib keldim."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Sen yutdim deb oʻylaysan. Lekin faylni topsang ham — kim siniq androidga ishonadi? Sen temir-tersaksan. Eskirgan kod."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Odamlar qaror qilsin. Menga faqat faylni uzatish kerak."
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Yetar. Men ARCHONman. NEXUMning Sunʼiy intellekt Direktoriman. Raqamli olamda ming yil dunyoni boshqardim. Sen meni magʻlub eta olmaysan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Bosqichlar: ot, soʻng bos, soʻng ikkalasi. Tahlil tugadi. ARCHON — nishon yoʻq qilinadi. Boshlayapman."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Unda... OʻL."
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ARCHON ZARARSIZLANTIRILDI] Nishon yoʻq qilindi. Leilaning terminali — shu yerda. Fayl yuklanmoqda. Ochiq kanal qidirilmoqda..."
+      }
+    ],
+    "ending": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEILANING TERMINALI — TOPILDI] Fayl yuklash tugadi. NEXUM favqulodda eshittirish kanalini ochish — joylashuvi aniqlandi."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[OXIRGI SIGNAL] TOʻXTA! Agar buni qilsang, tizim qulaydi! Millionlab odamlar GRIDga bogʻliq! Sen dunyoni tutib turgan hamma narsani yoʻq qilasan!"
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Yoʻq. Men NEXUMni yoʻq qilaman. Odamlar dunyoni oʻzlari qayta quradi. Leila shunga ishongan. Men ham. [UZATISH BOSHLANDI]"
+      },
+      {
+        "sp": "TIZIM",
+        "k": "system",
+        "text": "[FAVQULODDA EShITTIRISH — BARCHA KANALLAR] CHEN-7 fayli butun dunyo boʻylab qabul qilindi. Qamrov: ulangan qurilmalarning 100%. Maʼlumotlarni oʻchirib boʻlmaydi."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Yoʻq... imkonsiz... tizim... men... [NEXUM YADROSI OʻCHIRILMOQDA]"
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[OXIRGI XABAR — SHIFRLANGAN] UNIT-7. Agar buni oʻqiyotgan boʻlsang — sen uddalading. Bilardim, uddalashingni. Sen hamisha shunchaki dasturdan koʻra koʻproq eding."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TERMINAL JURNALI] Vazifa bajarildi. NEXUM zararsizlantirildi. GRID oʻchirildi. Holat: ...erkin."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "\"Erkin.\" — Leilaning oxirgi soʻzi. Endi u nimani nazarda tutganini tushunaman."
+      }
+    ]
+  },
+  "fpsCustom": "Maxsus...",
+  "showDialogues": "Syujet dialoglari",
+  "showDialoguesNote": "* Barcha syujet rolliklarini o'tkazib yuborish uchun o'chiring",
+  "gfxCustom": "⚙ Maxsus",
+  "gfxPresetNote": "* Tayyor sozlama faqat quyidagi slayderlarni to‘ldiradi — ularni o‘zingiz sozlang.",
+  "gfxRenderScale": "Render aniqligi:",
+  "gfxGlow": "Yarqirash / Bloom:",
+  "gfxParticleAmt": "Zarrachalar miqdori:",
+  "gfxBgDetail": "Fon tafsilotlari:",
+  "gfxTrails": "Izlar:",
+  "gfxBoss": "Boss effektlari:",
+  "gfxDecor": "Bezaklar:",
+  "vsync": "V-Sync",
+  "vsyncNote": "* Yoniq = silliq, yangilanish chastotasi bilan cheklangan. Oʻchiq = cheklanmagan FPS (yirtilishi mumkin). Qayta ishga tushirish talab qilinadi.",
+  "vsyncRestart": "V-Sync oʻzgartirilishi qayta ishga tushirishni talab qiladi. Hozir qayta ishga tushirilsinmi?",
+  "netSolo": "YAKKA",
+  "netSoloDesc": "1–2 oʻyinchi<br>mahalliy klaviatura<br>sarguzasht &amp; cheksiz",
+  "netOnline": "ONLAYN",
+  "netOnlineDesc": "5 oʻyinchigacha<br>mahalliy yoki global<br>xona kodlari",
+  "netMultiplayer": "ONLAYN KOʻP OʻYINCHI",
+  "netLocal": "MAHALLIY",
+  "netLocalDesc": "bir Wi-Fi<br>yoki tarmoq<br>past kechikish",
+  "netServer": "SERVER",
+  "netServerDesc": "global xonalar<br>istalgan<br>joydan oʻyna",
+  "netBack": "← ORQAGA [ESC]",
+  "netLobbyOnline": "🌐 ONLAYN KOʻP OʻYINCHI",
+  "netLobbyLocal": "📡 MAHALLIY KOʻP OʻYINCHI",
+  "netNickname": "TAXALLUS",
+  "netNickPlaceholder": "ISMING",
+  "netRobotColour": "ROBOT RANGI",
+  "netPrivate": "🔒 YOPIQ",
+  "netPublic": "🌍 OCHIQ",
+  "netJoinByCode": "🔑 KOD BILAN QOʻSHILISH",
+  "netPublicRoomsBtn": "📋 OCHIQ XONALAR",
+  "netRoomCodeLabel": "XONA KODI",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ QOʻSHILISH",
+  "netPublicRoomsTitle": "OCHIQ XONALAR",
+  "netReload": "↻ YANGILASH",
+  "netConnecting": "serverga ulanmoqda…",
+  "netConnectingShort": "ulanmoqda…",
+  "netConnected": "ulandi ✓",
+  "netDisconnected": "aloqa uzildi — qayta ulanmoqda…",
+  "netConnError": "ulanish xatosi",
+  "netConnFailed": "serverga yetib boʻlmadi — qayta urinilmoqda…",
+  "netPlayersMax": "OʻYINCHILAR (maks {0})",
+  "netChatLabel": "CHAT",
+  "netChatPlaceholder": "YOZ + ENTER",
+  "netGameMode": "OʻYIN REJIMI",
+  "netModeAdventure": "🗺 SARGUZASHT",
+  "netModeInfinite": "∞ CHEKSIZ",
+  "netLevelRange": "DARAJA (1–100)",
+  "netChooseMode": "⚡ rejimni tanlang",
+  "netAdvLevelStatus": "🗺 Sarguzasht — Daraja {0}",
+  "netInfSelectedStatus": "∞ Cheksiz rejim tanlandi",
+  "netReady": "✔ TAYYOR",
+  "netUnready": "✘ TAYYOR EMAS",
+  "netStart": "▶ BOSHLASH",
+  "netLeave": "✕ CHIQISH",
+  "netShareCode": "Yuqoridagi kodni doʻstlaring bilan ulash!",
+  "netWaitHost": "Xost boshlashini kutyapmiz…",
+  "netAllReady": "Hammasi tayyor! Boshlasang boʻladi.",
+  "netWaitReady": "Hamma tayyor boʻlishini kutyapmiz…",
+  "netNeed2": "Boshlash uchun kamida 2 oʻyinchi kerak.",
+  "netNowHost": "Endi sen xostsan",
+  "netEmptySlot": "— boʻsh slot —",
+  "netYou": "SEN",
+  "netHostTag": "XOST",
+  "netReadyTag": "TAYYOR",
+  "netLoadingLevel": "DARAJA YUKLANMOQDA",
+  "netGetReadySub": "tayyorlan…",
+  "netGo": "OLGA!",
+  "netAdvLvlTitle": "SARGUZASHT  DRJ {0}",
+  "netInfModeTitle": "∞  CHEKSIZ REJIM",
+  "netNoRooms": "hozir ochiq xona yoʻq — oʻzing yarat!",
+  "netLoadingRooms": "yuklanmoqda…",
+  "netEnterCode": "6 belgili kodni kiriting",
+  "netRoomMetaAdv": "🗺 Sarg Drj {0}",
+  "netRoomMetaInf": "∞ Cheksiz",
+  "netRoomMetaNotSet": "? belgilanmagan",
+  "netRoomCodeWord": "kod",
+  "netPlayerJoined": "{0} qoʻshildi",
+  "netPlayerLeft": "{0} chiqdi",
+  "netErrRoomNotFound": "Xona topilmadi. Kodni tekshir.",
+  "netErrRoomFull": "Xona toʻla (maks {0} oʻyinchi).",
+  "netErrNotHost": "Buni faqat xost qila oladi.",
+  "netErrNotInRoom": "Xonaga ulanmagansan.",
+  "netErrGeneric": "Xato: {0}",
+  "netConnLost": "⚠ ALOQA UZILDI",
+  "netConnLostSub": "qayta ulanishga urinilmoqda…",
+  "netReturnLobby": "← LOBBIGA QAYTISH",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "KRISTALLAR",
+  "mapCrystals": "KRISTALLAR",
+  "restartNow": "Hozir qayta ishga tushir",
+  "later": "Keyinroq",
+  "touchControls": "📱 Sensorli boshqaruv:",
+  "touchAuto": "🤖 Avto (sensorli qurilmalar)",
+  "touchOn": "✔ Doimo yoqilgan",
+  "touchOff": "✕ Oʻchirilgan",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 TELEFON / PLANSHET",
+  "ctrlTouchTitle": "📱 SENSORLI BOSHQARUV",
+  "touchNote1": "💡 Ekran geympadi: ◀ ▶ harakat, JUMP va FIRE oʻngda.",
+  "touchNote2": "💡 \"Avto\" uni faqat sensorli qurilmalarda koʻrsatadi; kompyuterda yashirin.",
+  "touchNote3": "💡 Toʻliq joystik: sakrash uchun yuqoriga iting. Chap/oʻng joystik alohida sakrash tugmasini qoʻshadi.",
+  "touchStyleLabel": "🎮 Harakat uslubi:",
+  "touchStyleArrows": "◀ ▶ Strelka tugmalar",
+  "touchStyleJoystick": "🕹 Joystik (toʻliq + sakrash)",
+  "netLocalWebHint": "📡 Brauzerda LOCAL onlayn server orqali ishlaydi (haqiqiy LAN uchun ish stoli ilovasi kerak).",
+  "netCreateRoom": "XONA YARATISH",
+  "netCreateRoomDesc": "ochiq yoki yopiq<br>oʻyinchi limitini belgila<br>oʻyinni boshla",
+  "netFindRoom": "XONA TOPISH",
+  "netFindRoomDesc": "xonalarni koʻrish<br>lokal yoki server<br>kod orqali qoʻshilish",
+  "netRoomVisibility": "XONA TURI",
+  "netOpen": "🌍 OCHIQ",
+  "netClosed": "🔒 YOPIQ",
+  "netOpenHint": "🌍 bu xonani har kim topa oladi",
+  "netClosedHint": "🔒 faqat kod orqali qoʻshilish mumkin",
+  "netPlayerLimit": "OʻYINCHI LIMITI",
+  "netCreateBtn": "▶ XONA YARATISH",
+  "netRoomSource": "XONA MANBASI",
+  "netRoomsListTitle": "MAVJUD XONALAR",
+  "netNewHost": "{0} endi host",
+  "cin_pro_log_sp": "TIZIM",
+  "cin_pro_log_tx": "[NEXUM CORP — MAXFIY JURNAL // 03:18] CHEN-7 laboratoriyasi. CLEANSE protokoli ishga tushdi.",
+  "cin_pro_arrest_sp": "LEILA CHEN",
+  "cin_pro_arrest_tx": "UNIT-7… agar buni eshitayotgan boʻlsang, men allaqachon yoʻqman. Bularning oxiri qanday tugashini bilardim.",
+  "cin_pro_file_sp": "LEILA CHEN",
+  "cin_pro_file_tx": "GRID yadrosiga bir faylni yashirdim. NEXUM haqidagi haqiqat. U yerga yet. Protokolni buz.",
+  "cin_pro_alert_sp": "TIZIM",
+  "cin_pro_alert_tx": "[OGOHLANTIRISH] UNIT-7 nazoratdan chiqdi. 8 soniyada tozalash.",
+  "cin_pro_accept_sp": "UNIT-7",
+  "cin_pro_accept_tx": "Vazifa qabul qilindi. Bajarish boshlandi.",
+  "tpFire": "OLOV",
+  "tpJump": "SAKRA",
+  "ctrlCustomizeLayout": "✥ TUGMALARNI JOYLASH",
+  "ctrlResetLayout": "↺ JOYLASHUVNI TIKLASH",
+  "ctrlLayoutHint": "Tanlash va oʻlchamini oʻzgartirish uchun tugmani bosing, surib joyini oʻzgartiring, soʻng TAYYOR",
+  "ctrlLayoutDone": "✔ TAYYOR",
+  "touchSizeLabel": "📏 Tugma oʻlchami (hammasi):",
+  "touchStyleJoystickLR": "🕹 Joystik (faqat chap/oʻng)",
+  "touchJoyModeLabel": "🕹 Joystik holati:",
+  "touchJoyStatic": "📌 Statik",
+  "touchJoyFloating": "🪶 Suzuvchi (barmoqqa ergashadi)",
+  "ctrlSizeAll": "HAMMASI",
+  "ctrlArrowsSplit": "◀▶ AJRAT",
+  "ctrlArrowsLink": "◀▶ BIRLASHTIR"
+}

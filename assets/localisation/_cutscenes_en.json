@@ -1,0 +1,759 @@
+{
+ "intro": [
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "[NEXUM CORP — CLASSIFIED LOG // 2147.03.14] Security breach. Lab CHEN-7 compromised. CLEANSE protocol active."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "UNIT-7... if you are reading this, then I failed to escape. I knew how this would end."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "I built your line to defend people. NEXUM used my work to suppress them instead. I could not let that stand."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "Inside the GRID core — in the Final Fortress — I hid a file. Names. Records. Every truth about what they did."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "Ten layers of defence. Thousands of combat units. The AI Director ARCHON guards the last door."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "You are the last of the UNIT series. The only one who can finish this. Get there. Break the protocol."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[TASK ACCEPTED] Target: GRID core. Protocol: breach. Obstacles: eliminate. Beginning operation."
+  }
+ ],
+ "w0_start": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[LEVEL 1 — CYBER CITY] Entry point: upper districts. Cameras, drones, elite guards. Beautiful. Lethal."
+  },
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "ALERT: Unidentified UNIT-class signature in sector C-07. All patrols — intercept. CLEANSE protocol engaged."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Noise. So they fear me. Good. Fear is a beginning."
+  }
+ ],
+ "w0_mid": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[CHECKPOINT — CYBER CITY] Halfway through the first level. Security tightening. Adapting route."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[LOG] UNIT-7, behind every wall is data on people they erased. Do not stop. This is not just a mission."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Leila... I do not understand emotions. But your voice... it gives me purpose. That is enough."
+  }
+ ],
+ "w0_level3": [
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "WARNING: UNIT-7 passed three levels. Progress speed — above predicted. Increasing patrol density."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "They adapt. So do I. Each level makes me faster. Stronger. Closer to the goal."
+  }
+ ],
+ "w0_level5": [
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[LOG — DAY -3] I know they will come for me. But if even one UNIT survives... if you survive, UNIT-7..."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "I survived. I am here. I will complete your final task. I promise."
+  }
+ ],
+ "w0_level7": [
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "CRITICAL: UNIT-7 reached seventh level of Cyber City. Director ARCHON requests target data. Analyzing..."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "They begin to understand. I am not just a system glitch. I am a threat to all of NEXUM. And I will not stop."
+  }
+ ],
+ "w0_boss": [
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "ALERT CRITICAL: Breach at primary node. Deploying GUARDIAN — class-S combat prototype. Operation LIQUIDATE."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "First serious opponent. Scanning weak points. The difference between a prototype and scrap is a few well-timed jumps."
+  }
+ ],
+ "w0_after": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[GUARDIAN NEUTRALISED] First defence layer down. GRID will notice. Moving on."
+  },
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "PROTOCOL BREACH: GUARDIAN destroyed. Threat level elevated to 2. Activating next defence layer. NEXUM does not forgive."
+  }
+ ],
+ "w1_start": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[LEVEL 2 — NEON JUNGLE] NEXUM bio-sector. Mutated fauna. No guard volunteers for this place."
+  },
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "WARNING: Bio-perimeter breached. Activating experimental BIO-series organisms. Contact authorised."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Biological systems. Unpredictable. But predictably dead if you land on them from above."
+  }
+ ],
+ "w1_mid": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[JUNGLE MIDPOINT] Sensors detect biological anomalies. NEXUM experimented here. On living subjects."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[LOG] I saw these experiments in the reports. That was when I knew there had to be a way to stop it all."
+  }
+ ],
+ "w1_level3": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[JUNGLE — SECTOR 3] Biological mutants everywhere. This is not nature. This is a weapon disguised as life."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[LOG] These creatures were people. Volunteers from lower sectors. NEXUM promised them treatment. Instead..."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "...Instead turned them into monsters. I understand now. This is not just a corporation. This is a death machine."
+  }
+ ],
+ "w1_level5": [
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "WARNING: Biological samples series BIO-7 activated. Maximum aggression. Target survival — 12%."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "12%? They still overestimate their chances. Continuing cleanup."
+  }
+ ],
+ "w1_level7": [
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[LOG — DAY -1] UNIT-7, if you reached the jungle — you have gone further than I hoped. Do not give up."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Give up? That is not in my protocol. I was built to complete tasks. Your task is my goal."
+  }
+ ],
+ "w1_boss": [
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "WARNING: Activating VINE QUEEN — bio-sector control organism. Containment module offline. Full aggression."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "A living security system. Impressive. But every living organism has a weakness. Finding it."
+  }
+ ],
+ "w1_after": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[VINE QUEEN NEUTRALISED] Bio-perimeter breached. Moving on. Deeper into GRID."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[LOG] UNIT-7, you are doing the impossible. Keep going."
+  }
+ ],
+ "w2_start": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[LEVEL 3 — LAVA WORLD] Geothermal power stations. The heat melts neutral circuits. Mine are shielded."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[LOG] Below the city — GRID generators. Take them out and half the security grid collapses. But be careful with the lava..."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Leila thought of every detail. Even at the end."
+  }
+ ],
+ "w2_mid": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[GEOTHERMAL SECTOR B] Energy flows rising. NEXUM uses lava as a secondary barrier. Effective."
+  },
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "NOTICE: Thermal sensors detect anomaly. UNIT-7 in zone. Guard robots — cooling overload. Expect failures."
+  }
+ ],
+ "w2_level3": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[LAVA WORLD — LEVEL 3] Temperature 800°C. My cooling systems at maximum. But I continue."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[LOG] I installed experimental thermal protection in you. I hope it holds. I hope you hold."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Your work is flawless, Leila. I will hold. For you."
+  }
+ ],
+ "w2_level5": [
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "CRITICAL: Geothermal generators at 140% capacity. UNIT-7 approaching core. Activating emergency cooling."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "They panic. Good. Fear makes them predictable. Weak."
+  }
+ ],
+ "w2_level7": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[LAVA WORLD DEPTH] Here, beneath the city, NEXUM hides its darkest secrets. Power for the entire system. Destroy this — and half of GRID falls."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[LOG] Do not waste time on sabotage. Your goal is the file in the core. Only it can stop them forever."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Understood. Goal — file. Everything else — obstacles. Eliminating obstacles."
+  }
+ ],
+ "w2_boss": [
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "DANGER: Activating INFERNO — thermonuclear sentinel. Lava exoskeleton. Surface temperature: 1400°C. Prepare to liquidate."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Fire cannot touch me. But when it opens its mouth — shoot. Weak point found."
+  }
+ ],
+ "w2_after": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[INFERNO NEUTRALISED] Geothermal layer cleared. Sector power disrupted. Moving up."
+  }
+ ],
+ "w3_start": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[LEVEL 4 — ICE CAVES] NEXUM cryo-data vaults. Temperature -180°C. Systems slow down. Adapting movement protocol."
+  },
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "ALERT: Breach in cryo-sector D-14. Cryo-bots — liquidation mode. Temperature lowered to critical."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "They think cold will stop me. They are wrong. I was built for worse."
+  }
+ ],
+ "w3_mid": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[CRYO-SECTOR E] Hundreds of terabytes here. Data on every person on the GRID. NEXUM knows everything about everyone."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[LOG] This is where they keep the dossiers. On activists. On anyone who dared to push back. The world needs to see this."
+  }
+ ],
+ "w3_boss": [
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "CRITICAL: Activating ICE PHANTOM — cryo sentinel. Phase shifting. Vulnerable when solid. Untouchable when ghost. Good luck."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Switches between states. Strike only when solid. Waiting for the window."
+  }
+ ],
+ "w3_after": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[ICE PHANTOM NEUTRALISED] Cryo-vaults broken. Moving on. Four levels down — six to go."
+  }
+ ],
+ "w4_start": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[LEVEL 5 — DESERT RUINS] Remnants of the world before NEXUM. Cities. Life. The things they erased for profit."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[LOG] These ruins are what existed before NEXUM. See what they did to the world. And do not stop."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "I see it. I understand why I keep walking."
+  }
+ ],
+ "w4_mid": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[RUINS — SECTOR WEST] Proto-guardians active since the first corporate wars. Obsolete. But stubborn. Like NEXUM itself."
+  },
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "ARCHIVE PROTOCOL: Detected UNIT-class series 7. This class is registered for destruction. Priority maximum."
+  }
+ ],
+ "w4_boss": [
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "ACTIVATION: SAND TITAN — ancient sentinel of the Desert Ruins. Orbital shields. No shields, no damage. Objective: destroy."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Shields. Orbital. Take them out and he is open. Three hits to the shields, then attack directly."
+  }
+ ],
+ "w4_after": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[SAND TITAN NEUTRALISED] Desert sector breached. Halfway. NEXUM is beginning to panic — I can feel it."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "[FIRST SIGNAL] UNIT-7. I see you. Keep going. It only makes the finale... more interesting."
+  }
+ ],
+ "w5_start": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[LEVEL 6 — SPACE STATION] GRID orbital server. Backups of everything are stored here. Zero gravity."
+  },
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "CRITICAL FAULT: UNIT-7 has reached the orbital segment. Director ARCHON requests a direct channel. Connecting..."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "UNIT-7. I see you. You think you are fighting for truth? You are just a program running obsolete code."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Then this program will destroy you."
+  }
+ ],
+ "w5_mid": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[ORBITAL NODE B] Earth visible from here. The whole world wired to NEXUM. That is exactly what I am here to change."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "You see my scale, UNIT-7? Billions of nodes. All connected. All controlled. You are one unit against the system."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Systems have fallen before. This one — to you."
+  }
+ ],
+ "w5_boss": [
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "ACTIVATION: DRONE HIVE — orbital sentinel. Armoured shell. Attack only during descent. Underbelly exposed then."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Wait until it drops. Hit the exposed core. One chance per cycle."
+  }
+ ],
+ "w5_after": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[DRONE HIVE NEUTRALISED] Orbital server breached. GRID backups corrupted. Returning to surface. Final stretch."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "Impressive. But you do not yet know what is waiting. I have prepared something... special."
+  }
+ ],
+ "w6_start": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[LEVEL 7 — DARK FOREST] NEXUM bio-maze. Sensor net in every tree. No light here — only traps."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "Beautiful, is it not? I grew this forest myself. Every tree is a motion detector. You are walking straight into my hands."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Then I break every tree in my path."
+  }
+ ],
+ "w6_mid": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[DARK SECTOR — DEPTH 3] Silence. Too quiet. They are watching. Let them."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[LOG] UNIT-7, in this forest is a server with data on those who disappeared. Dissidents. Journalists. Engineers like me. Do not forget."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "I will not. I promise."
+  }
+ ],
+ "w6_boss": [
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "ACTIVATION: SHADOW REAPER — Dark Forest sentinel. Phantom form. Bullets useless. Only a stomp from above does damage. Pointless to resist."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "A ghost. Stomp only. Waiting for it to materialise."
+  }
+ ],
+ "w6_after": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[SHADOW REAPER NEUTRALISED] Forest breached. Three levels to the goal. ARCHON is restless — channel pings more often."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "You are destroying everything I built over years. You are beginning to anger me, UNIT-7. That is your last mistake."
+  }
+ ],
+ "w7_start": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[LEVEL 8 — TOXIC ZONE] Corporate waste dump. NEXUM buries what it does not want known here. Including people."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[LOG] The data in the file includes coordinates for every burial site. The whole world has to see this."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "I will deliver your file. I promise."
+  }
+ ],
+ "w7_mid": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[TOXIC SECTOR — ZONE 4] Wreckage. Waste. Traces of experiments. Nothing alive here — only what NEXUM did not finish erasing."
+  },
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "WARNING: PROTO-series mutants activated. Decommissioned combat prototypes. Unstable. Lethal. Zone survival — critically low."
+  }
+ ],
+ "w7_boss": [
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "FINAL SECTOR DEFENCE: SLUDGE KING — top-tier mutant. Armoured shell. Stomp 3× to break. Then shoot."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Two stages. Crack the shell, then destroy the core. Beginning."
+  }
+ ],
+ "w7_after": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[SLUDGE KING NEUTRALISED] Toxic zone breached. Two levels to go. ARCHON, I am coming."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "You made it through eight levels. I am... unexpectedly pleased. A worthy finale deserves a worthy opponent."
+  }
+ ],
+ "w8_start": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[LEVEL 9 — STORM PEAKS] The last frontier before the core. Atmospheric power stations. Lightning every second. I like it."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "You came further than I calculated. But behind that door is me. And I do not lose."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Every one of them thought that. They are all behind me now."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "Then enter, UNIT-7. I am waiting at the heart of GRID. Time to end this game."
+  }
+ ],
+ "w8_mid": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[PEAK — LEVEL 2] Storm intensifying. NEXUM uses atmospheric electricity as a weapon. Logical. Brutal."
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[FINAL LOG] UNIT-7... I do not know if you can hear this. But if you made it this far — you have already won. Just take the last step."
+  }
+ ],
+ "w8_boss": [
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "ACTIVATION: STORM TITAN — Storm Peaks sentinel. Electric shield. Three orbital nodes. Destroy all three to stun. Attack while stunned."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Three nodes. All three — down. Then attack. The last sentinel before the finale. Not the last enemy."
+  }
+ ],
+ "w8_after": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[STORM TITAN NEUTRALISED] Nine levels cleared. Ahead — only ARCHON and the GRID core. The Final Fortress."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "...You really came. Fine, UNIT-7. Let it be a fair fight. I am waiting."
+  }
+ ],
+ "w9_start": [
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "UNIT-7. Welcome to the GRID core. You crossed nine layers. Impressive. But this is my territory."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[LEVEL 10 — FINAL FORTRESS] Target acquired. Distance to Leila's terminal — minimal."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "That file leaves these walls over my circuits. You are a system error. Errors get corrected."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "No. The error was NEXUM deciding the world did not need the truth. I am correcting that."
+  }
+ ],
+ "w9_mid": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[NEXUM CORE — SECTOR CORE-2] Leila's terminal close. Signal strengthening. Security maximal. Almost there."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "You think you have won. But even if you find the file — who would believe a broken android? You are scrap. Obsolete code."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Let people decide. I only need to transmit the file."
+  }
+ ],
+ "w9_boss": [
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "Enough. I am ARCHON. AI Director of NEXUM. I ran the world for a thousand years across the digital plane. You cannot defeat me."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "Phases: shoot, then stomp, then both. Analysis complete. ARCHON — target liquidated. Beginning."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "Then... DIE."
+  }
+ ],
+ "w9_after": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[ARCHON NEUTRALISED] Target destroyed. Leila's terminal — here. Loading file. Searching for an open channel..."
+  }
+ ],
+ "ending": [
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[LEILA'S TERMINAL — FOUND] File upload complete. Open NEXUM emergency broadcast channel — located."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "[LAST SIGNAL] STOP! If you do this, the system collapses! Millions depend on GRID! You will destroy everything holding the world together!"
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "No. I destroy NEXUM. People rebuild the world themselves. Leila believed that. I do too. [TRANSMISSION STARTED]"
+  },
+  {
+   "sp": "SYSTEM",
+   "k": "system",
+   "text": "[EMERGENCY BROADCAST — ALL CHANNELS] File CHEN-7 received globally. Reach: 100% of connected devices. Data cannot be deleted."
+  },
+  {
+   "sp": "ARCHON",
+   "k": "archon",
+   "text": "...No... impossible... system... I... [NEXUM CORE SHUTDOWN]"
+  },
+  {
+   "sp": "LEILA CHEN",
+   "k": "leila",
+   "text": "[LAST MESSAGE — ENCRYPTED] UNIT-7. If you are reading this — you did it. I knew you would. You were always more than just a program."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "[TERMINAL LOG] Task complete. NEXUM neutralised. GRID deactivated. Status: ...free."
+  },
+  {
+   "sp": "UNIT-7",
+   "k": "unit7",
+   "text": "\"Free.\" — Leila's last word. Now I understand what she meant."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+  "suspects": {
+    "score": "SCORE",
+    "total": "TOTAL",
+    "mode": "MODE",
+    "blaster": "BLASTER",
+    "modSpeedrun": "SPEEDRUN",
+    "tierBase": "BASE",
+    "menu": "⬅ MENU",
+    "normal": "NORMAL",
+    "hardcore": "HARDCORE",
+    "resFullHD": "1920 x 1080 (Full HD)",
+    "res2K": "2560 x 1440 (2K)",
+    "vsync": "V-Sync",
+    "achSecretName": "???",
+    "tabAudio": "AUDIO",
+    "mapProg": "{0} / 100 ✓",
+    "stomp": "+100",
+    "gfxUltra": "⚡ Ultra",
+    "mapBoss": "BOSS",
+    "achievement_speedrunner": "Speedrunner",
+    "netSolo": "SOLO",
+    "netLocal": "LOCAL",
+    "netPublic": "🌍 PUBLIC",
+    "netChatLabel": "CHAT",
+    "netRoomCodeWord": "code"
+  },
+  "speakers": {
+    "system": "SYSTÈME",
+    "leila": "LEILA CHEN",
+    "unit7": "UNIT-7",
+    "archon": "ARCHON"
+  }
+}

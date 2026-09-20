@@ -1,0 +1,1246 @@
+{
+  "score": "PUNKTI",
+  "total": "KOPĀ",
+  "levelScoreLabel": "LĪMEŅA PUNKTI: {0}",
+  "totalScoreLabel": "KOPĒJIE PUNKTI: {0}",
+  "lives": "DZĪVĪBAS",
+  "level": "LĪMENIS",
+  "time": "LAIKS",
+  "mode": "REŽĪMS",
+  "blaster": "BLASTERIS",
+  "coins": "MONĒTAS",
+  "bonusFire": "UGUNS",
+  "bonusIce": "LEDUS",
+  "bonusStar": "ZVAIGZNE",
+  "bonusBoots": "ZĀBAKI",
+  "modSpeedrun": "ĀTRUMA SKRĒJIENS",
+  "modStealth": "SLEPENĪBA — IZVAIRIES NO GAISMAS",
+  "modLowGravity": "ZEMA GRAVITĀCIJA",
+  "modHighGravity": "AUGSTA GRAVITĀCIJA",
+  "modWind": "STIPRS VĒJŠ",
+  "modSlippery": "SLIDENA GRĪDA",
+  "modDarkness": "TUMSA",
+  "tierPerfect": "★ NEVAINOJAMI!",
+  "tierGreat": "LIELISKI!",
+  "tierGood": "LABI",
+  "tierBase": "PAMATA",
+  "heightBonus": "+{0} AUGSTUMA BONUSS",
+  "bossArena": "⚠ BOSA ARĒNA ⚠",
+  "hpBonus": "+1 DZĪVĪBA!",
+  "repaired": "SALABOTS!",
+  "newBest": "JAUNS REKORDS!",
+  "completeMore": "✗ PABEIDZ VĒL {0} LĪMEŅUS",
+  "subtitle": "KIBERPANKA NEONA PLATFORMERIS",
+  "play": "▶ SPĒLĒT",
+  "settings": "⚙ IESTATĪJUMI",
+  "exit": "🚪 IZIET",
+  "selectSave": "IZVĒLIES SAGLABĀJUMU",
+  "slot": "SLOTS",
+  "slotEmpty": "— TUKŠS —",
+  "slotNewGame": "✚ JAUNA SPĒLE",
+  "slotContinue": "▶ TURPINĀT",
+  "slotDelete": "🗑 DZĒST",
+  "slotDeleteConfirm": "APSTIPRINĀT DZĒŠANU?",
+  "slotLevels": "Līmeņi: {0}/100",
+  "slotHardcore": "Hardkors: {0}/100",
+  "slotAch": "Sasniegumi: {0}",
+  "slotBest": "Labākais rezultāts: {0}",
+  "bestScore": "LABĀKAIS: {0}",
+  "legend1": "BULTIŅAS / WASD — KUSTĪBA  |  ATSTARPE / AUGŠUP — LĒCIENS (×2)",
+  "legend2": "Z / X / CTRL — ŠAUT (nepieciešams blastera uzlabojums)  |  ESC — PAUZE",
+  "legend3": "🟡 SIT ZELTA BLOKUS NO APAKŠAS  |  SAMĪDI IENAIDNIEKUS NO AUGŠAS",
+  "paused": "⏸ PAUZE",
+  "resume": "▶ TURPINĀT",
+  "map": "🗺 KARTE",
+  "menu": "⬅ IZVĒLNE",
+  "escResume": "ESC — TURPINĀT",
+  "selectMode": "IZVĒLIES REŽĪMU",
+  "onePlayer": "👤 1 SPĒLĒTĀJS",
+  "twoPlayer": "👥 2 SPĒLĒTĀJI",
+  "p2hint": "P1: WASD + Z/X šaut  |  P2: ← → ↑ + . / , šaut",
+  "adventure": "PIEDZĪVOJUMS",
+  "advDesc": "100 unikāli līmeņi<br>10 tematiskas pasaules<br>taimeris katram līmenim<br>saglabā progresu",
+  "infinite": "BEZGALĪGS",
+  "infDesc": "bezgalīgas kartes<br>grūtība pieaug<br>pārspēj pulksteni<br>uzlabo savu rezultātu",
+  "back": "← ATPAKAĻ [ESC]",
+  "selectDiff": "IZVĒLIES GRŪTĪBU",
+  "normal": "NORMĀLS",
+  "hardcore": "HARDKORS",
+  "normDesc": "standarta ienaidnieki<br>3 dzīvības sākumā<br>saglabā progresu",
+  "hardDescLocked": "vispirms pabeidz<br>normālo režīmu<br>lai atbloķētu",
+  "advMap": "🗺 PIEDZĪVOJUMA KARTE",
+  "mapFoot": "KLIKŠĶINI ATBLOĶĒTU LĪMENI • PABEIDZ LAIKĀ • ATDZIMSTI VIETĀ PĒC TRIECIENA",
+  "getReady": "GATAVOJIES...",
+  "csHint": "▶ ATSTARPE / KLIKŠĶIS — TĀLĀK",
+  "hintBar": "BULTIŅAS/WASD — KUSTĪBA  |  ATSTARPE — LĒCIENS  |  Z/X — ŠAUT (blasters)  |  ESC — PAUZE",
+  "gameOver": "SPĒLE BEIGUSIES",
+  "youWin": "TU UZVARĒJI!",
+  "betterLuck": "VEIKSMI NĀKAMREIZ",
+  "allComplete": "VISI 100 LĪMEŅI PABEIGTI!",
+  "retry": "↩ MĒĢINĀT VĒLREIZ",
+  "levelFailed": "LĪMENIS {0} NEIZDEVĀS",
+  "scoreLabel": "PUNKTI: {0}",
+  "finalScore": "GALĪGAIS REZULTĀTS: {0}",
+  "levelClear": "LĪMENIS {0} PABEIGTS!",
+  "timeBonus": "+LAIKA BONUSS: {0}",
+  "settingsTitle": "IESTATĪJUMI",
+  "lang": "Valoda:",
+  "windowRes": "Loga izšķirtspēja:",
+  "resDefault": "1600 x 900 (Noklusējums)",
+  "resFullHD": "1920 x 1080 (Full HD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "Pielāgots",
+  "resNote": "* Maina loga izmēru",
+  "gameScale": "Spēles mērogs:",
+  "scaleAuto": "Automātiska pielāgošana (Ieteicams)",
+  "scaleNote": "* Automātiskā pielāgošana aizpilda logu, saglabājot malu attiecību",
+  "fpsLimit": "FPS ierobežojums:",
+  "fpsNoLimit": "Bez ierobežojuma (Neierobežots)",
+  "fpsNote": "* Ierobežo maksimālo kadru ātrumu",
+  "showFps": "Rādīt FPS skaitītāju",
+  "gfxQuality": "Grafikas kvalitāte:",
+  "gfxNote": "* Automātiski noteikts pirmajā palaišanā",
+  "windowMode": "Loga režīms:",
+  "windowed": "🪟 Logā",
+  "fullscreen": "⛶ Pilnekrāns",
+  "borderless": "▣ Bez malām",
+  "audioSettings": "Audio iestatījumi:",
+  "masterVolume": "Galvenais skaļums:",
+  "musicVolume": "Mūzikas skaļums:",
+  "sfxVolume": "Skaņas efektu skaļums:",
+  "gameplaySettings": "Spēles iestatījumi:",
+  "screenShake": "Ekrāna trīcēšana",
+  "shakeIntensity": "Trīcēšanas intensitāte:",
+  "particles": "Daļiņas",
+  "combatText": "Peldošais kaujas teksts",
+  "autoSave": "Automātiska progresa saglabāšana",
+  "showHints": "Rādīt padomu joslu",
+  "save": "SAGLABĀT",
+  "cancel": "ATCELT",
+  "achievements": "🏆 SASNIEGUMI",
+  "achievementUnlocked": "SASNIEGUMS ATBLOĶĒTS!",
+  "achRarity": "Retums",
+  "achUnlockedCount": "Atbloķēti",
+  "achTitle": "SASNIEGUMI",
+  "achSecretName": "???",
+  "achSecretDesc": "Slepens sasniegums — atbloķē, lai atklātu",
+  "close": "AIZVĒRT",
+  "tabDisplay": "EKRĀNS",
+  "tabGraphics": "GRAFIKA",
+  "tabAudio": "AUDIO",
+  "tabGameplay": "SPĒLE",
+  "tabGeneral": "VISPĀRĪGI",
+  "tabControls": "VADĪBA",
+  "controlsP1": "🎮 SPĒLĒTĀJS 1 / VIENS SPĒLĒTĀJS",
+  "controlsP2": "🎮 SPĒLĒTĀJS 2 (2 spēlētāju režīms)",
+  "ctrlMove": "Kustība pa kreisi/labi:",
+  "ctrlMoveLeft": "Kustība pa kreisi:",
+  "ctrlMoveRight": "Kustība pa labi:",
+  "ctrlRebindHint": "💡 Noklikšķini taustiņu, tad nospied jauno taustiņu, lai to piesaistītu (ESC atceļ)",
+  "ctrlReset": "ATIESTATĪT UZ NOKLUSĒJUMU",
+  "ctrlJump": "Lēciens (Dubultlēciens):",
+  "ctrlShoot": "Šaut (Blasters):",
+  "ctrlPause": "Pauze:",
+  "ctrlNote1": "💡 Viena spēlētāja režīmā izmanto WASD vai bultiņu taustiņus",
+  "ctrlNote2": "💡 Samīdi ienaidniekus, uzlecot tiem no augšas",
+  "ctrlNote3": "💡 Sit zelta blokus no apakšas, lai iegūtu monētas",
+  "infDescUnlocked": "bezgalīgas kartes<br>grūtība pieaug<br>pārspēj pulksteni<br>uzlabo savu rezultātu",
+  "infDescLocked": "pabeidz visus 100<br>piedzīvojuma līmeņus<br>lai atbloķētu<br><span style=\"color:#f80\">atlikuši {0}</span>",
+  "hardDescUnlocked": "★★★ EKSTRĒMS ★★★<br>+1 hp visiem ienaidniekiem<br>2× punkti<br>ātrāki taimeri",
+  "hardDescNeed": "vispirms pabeidz NORMĀLO<br>režīmu, lai atbloķētu<br><span style=\"color:#f80\">atlikuši {0} līmeņi</span>",
+  "normDescProg": "progress: {0}/100<br>3 dzīvības sākumā<br>saglabā progresu",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 HARDKORS: {0} / 100 ✓",
+  "langName": "Latviešu",
+  "pBlaster": "BLASTERS!",
+  "pLife": "+1 DZĪVĪBA ♥",
+  "pBoots": "ĀTRUMA ZĀBAKI!",
+  "pFire": "🔥 UGUNS!",
+  "pIce": "❄ LEDUS!",
+  "pStar": "★ ZVAIGZNE! ★",
+  "p2Blaster": "P2 BLASTERS!",
+  "p2Life": "P2 +1 DZĪVĪBA ♥",
+  "p2Boots": "P2 ĀTRUMA ZĀBAKI!",
+  "p2Fire": "P2 🔥 UGUNS!",
+  "p2Ice": "P2 ❄ LEDUS!",
+  "p2Star": "P2 ★ ZVAIGZNE! ★",
+  "ouch": "AU!",
+  "hit": "TRIECIENS!",
+  "blocked": "BLOĶĒTS!",
+  "stomp": "+100",
+  "starKO": "ZVAIGZNES K.O.!",
+  "burnTxt": "🔥 DEG!",
+  "frozenTxt": "❄ SASALIS!",
+  "noEffect": "NAV EFEKTA!",
+  "stunned": "APDULLINĀTS!",
+  "stompOnly": "TIKAI SAMĪDĪT!",
+  "crackLeft": "PLAISA! (atlikuši {0})",
+  "shellBroken": "ČAULA SALAUZTA!",
+  "orbDestroyed": "LODE IZNĪCINĀTA!",
+  "nodeHit": "MEZGLS TRĀPĪTS!",
+  "bossDefeated": "BOSS UZVARĒTS!",
+  "phaseN": "FĀZE {0}!",
+  "livesLeft": "ATLIKUŠAS {0} DZĪVĪBAS",
+  "p2LivesLeft": "P2: ATLIKUŠAS {0}",
+  "p2Out": "P2 ĀRĀ!",
+  "p1Out": "P1 ĀRĀ!",
+  "bossSolid": "★ CIETS — SAMĪDI TŪLĪT! ★",
+  "bossGhost": "spoka forma — gaidi...",
+  "bossShellShoot": "★ ČAULA SALAUZTA — ŠAUJ KODOLĀ! ★",
+  "bossShellStomp": "SAMĪDI, lai pārlauztu čaulu (atlikuši {0} triecieni)",
+  "bossPhase1": "FĀZE 1 — ŠAUJ ACĪ",
+  "bossPhase2": "FĀZE 2 — SAMĪDI NO AUGŠAS",
+  "bossPhase3": "FĀZE 3 — ŠAUJ + SAMĪDI",
+  "bossMouthOpen": "★ MUTE ATVĒRTA — ŠAUJ TŪLĪT! ★",
+  "bossWaitRoar": "gaida rēcienu...",
+  "bossOrbsLeft": "ATLIKUŠAS LODES: {0}",
+  "bossShieldsDown": "VAIROGI NOLAISTI — UZBRŪC!",
+  "bossDescending": "★ NOLAIŽAS — UZBRŪC! ★",
+  "bossHovering": "lidinās — gaidi nolaišanos...",
+  "bossStunned": "★ APDULLINĀTS — UZBRŪC! ({0}s) ★",
+  "bossShootNodes": "ŠAUJ MEZGLOS: ATLIKUŠI {0}",
+  "bossRespawn": "mezgli atjaunojas...",
+  "bossHint0": "SAMĪDI GALVU — lodes atlec!",
+  "bossHint1": "ŠAUJ VIŅAI — lecot uz ērkšķiem, savaino SEVI!",
+  "bossHint2": "GAIDI RĒCIENU — šauj iekšā mirdzošajā mutē!",
+  "bossHint3": "SAMĪDI, KAD CIETS — lodes iziet cauri spokiem!",
+  "bossHint4": "IZNĪCINI VISAS 3 VAIROGA LODES — tad uzbrūc kodolam!",
+  "bossHint5": "UZBRŪC NOLAIŠANĀS LAIKĀ — bruņas sedz augšpusi!",
+  "bossHint6": "TIKAI SAMĪDĪT — lodes iziet cauri ēnai!",
+  "bossHint7": "SAMĪDI 3× LAI PĀRLAUZTU ČAULU — tad ŠAUJ kodolā!",
+  "bossHint8": "ŠAUJ VISOS 3 ZIBENS MEZGLOS, lai apdullinātu — tad uzbrūc!",
+  "bossHint9": "FĀZE 1: ŠAUJ  |  FĀZE 2: SAMĪDI, KAD ACS IR ZEMU  |  FĀZE 3: ABI",
+  "gfxVeryLow": "🔴 Ļoti zema",
+  "gfxLow": "🟠 Zema",
+  "gfxMedium": "🟡 Vidēja",
+  "gfxHigh": "🟢 Augsta",
+  "gfxVeryHigh": "🔵 Ļoti augsta",
+  "gfxUltra": "⚡ Ultra",
+  "classifiedLog": "// NEXUM GRID PIEKĻUVES ŽURNĀLS",
+  "skipBtn": "IZLAIST ▶▶",
+  "theEnd": "BEIGAS",
+  "endingTagline": "NEXUM GRID NODROŠINĀTS",
+  "world0": "KIBERPILSĒTA",
+  "world1": "NEONA DŽUNGĻI",
+  "world2": "LAVAS PASAULE",
+  "world3": "LEDUS ALAS",
+  "world4": "TUKSNEŠA DRUPAS",
+  "world5": "KOSMOSA STACIJA",
+  "world6": "TUMŠAIS MEŽS",
+  "world7": "TOKSISKĀ ZONA",
+  "world8": "VĒTRU VIRSOTNES",
+  "world9": "PĒDĒJAIS CIETOKSNIS",
+  "boss0": "SARGS-X",
+  "boss1": "VĪTEŅU KARALIENE",
+  "boss2": "INFERNO KODOLS",
+  "boss3": "LEDUS RĒGS",
+  "boss4": "SMILŠU TITĀNS",
+  "boss5": "DRONU STROPS",
+  "boss6": "ĒNU PĻĀVĒJS",
+  "boss7": "DUBĻU KARALIS",
+  "boss8": "VĒTRU TITĀNS",
+  "boss9": "ARHONS",
+  "mapWorldMap": "PASAULES KARTE",
+  "mapHardcoreMap": "HARDKORA KARTE",
+  "mapCleared": "PABEIGTS",
+  "mapStars": "ZVAIGZNES",
+  "mapBoss": "BOSS",
+  "mapBest": "LABĀKAIS",
+  "mapLocked": "BLOĶĒTS",
+  "mapCompleted": "PABEIGTS",
+  "mapStart": "ENTER / ATSTARPE, LAI SĀKTU",
+  "achievement_world_0": "Kiberjauniņais",
+  "achievement_world_0_desc": "Pabeidz pirmos 10 līmeņus (Kiberpilsēta)",
+  "achievement_world_1": "Džungļu pētnieks",
+  "achievement_world_1_desc": "Pabeidz līmeņus 11-20 (Neona Džungļi)",
+  "achievement_world_2": "Lavas izdzīvotājs",
+  "achievement_world_2_desc": "Pabeidz līmeņus 21-30 (Lavas Pasaule)",
+  "achievement_world_3": "Ledus kāpējs",
+  "achievement_world_3_desc": "Pabeidz līmeņus 31-40 (Ledus Alas)",
+  "achievement_world_4": "Tuksneša klejotājs",
+  "achievement_world_4_desc": "Pabeidz līmeņus 41-50 (Tuksneša Drupas)",
+  "achievement_world_5": "Kosmosa kadets",
+  "achievement_world_5_desc": "Pabeidz līmeņus 51-60 (Kosmosa Stacija)",
+  "achievement_world_6": "Meža sargs",
+  "achievement_world_6_desc": "Pabeidz līmeņus 61-70 (Tumšais Mežs)",
+  "achievement_world_7": "Toksiskais karotājs",
+  "achievement_world_7_desc": "Pabeidz līmeņus 71-80 (Toksiskā Zona)",
+  "achievement_world_8": "Vētru meistars",
+  "achievement_world_8_desc": "Pabeidz līmeņus 81-90 (Vētru Virsotnes)",
+  "achievement_world_9": "Cietokšņa iekarotājs",
+  "achievement_world_9_desc": "Pabeidz līmeņus 91-100 (Pēdējais Cietoksnis)",
+  "achievement_boss_0": "Bosu slepkava I",
+  "achievement_boss_0_desc": "Uzvar pirmo bosu",
+  "achievement_boss_5": "Bosu slepkava II",
+  "achievement_boss_5_desc": "Uzvar 5 bosus",
+  "achievement_boss_10": "Bosu slepkava III",
+  "achievement_boss_10_desc": "Uzvar visus 10 bosus",
+  "achievement_perfect_run": "Nevainojams skrējiens",
+  "achievement_perfect_run_desc": "Pabeidz līmeni ar NEVAINOJAMU vērtējumu",
+  "achievement_perfectionist": "Perfekcionists",
+  "achievement_perfectionist_desc": "Iegūsti NEVAINOJAMU 10 līmeņos",
+  "achievement_speedrunner": "Ātrskrējējs",
+  "achievement_speedrunner_desc": "Pabeidz līmeni uz pusi ātrāk",
+  "achievement_sharpshooter": "Asais šāvējs",
+  "achievement_sharpshooter_desc": "Nogalini 100 ienaidniekus ar blasteru",
+  "achievement_stomper": "Samīdītājs",
+  "achievement_stomper_desc": "Nogalini 50 ienaidniekus samīdot",
+  "achievement_coin_1000": "Monētu krājējs",
+  "achievement_coin_1000_desc": "Savāc 1000 monētas",
+  "achievement_coin_5000": "Dārgumu mednieks",
+  "achievement_coin_5000_desc": "Savāc 5000 monētas",
+  "achievement_coin_10000": "Miljonārs",
+  "achievement_coin_10000_desc": "Savāc 10000 monētas",
+  "achievement_no_death_10": "Izdzīvotājs",
+  "achievement_no_death_10_desc": "Pabeidz 10 līmeņus, nezaudējot dzīvību",
+  "achievement_no_death_world": "Nemirstīgais",
+  "achievement_no_death_world_desc": "Pabeidz pasauli, nezaudējot dzīvību",
+  "achievement_hardcore_unlock": "Hardkora varonis",
+  "achievement_hardcore_unlock_desc": "Atbloķē Hardkora režīmu",
+  "achievement_hardcore_50": "Hardkora meistars",
+  "achievement_hardcore_50_desc": "Pabeidz 50 līmeņus Hardkorā",
+  "achievement_hardcore_100": "Hardkora leģenda",
+  "achievement_hardcore_100_desc": "Pabeidz visus 100 līmeņus Hardkorā",
+  "achievement_cheat_found": "Kodu lauzējs",
+  "achievement_cheat_found_desc": "Atrodi slepenu krāpšanās kodu",
+  "achievement_2player": "Retro spēlmanis",
+  "achievement_2player_desc": "Spēlē 2 spēlētāju režīmā",
+  "achievement_all_music": "Mūzikas cienītājs",
+  "achievement_all_music_desc": "Noklausies mūziku no visām 10 pasaulēm",
+  "achievement_all_cutscenes": "Sižeta meistars",
+  "achievement_all_cutscenes_desc": "Noskaties visas starpscēnas",
+  "achievement_star_power": "Zvaigznes spēks",
+  "achievement_star_power_desc": "Aktivizē zvaigznes spēku",
+  "achievement_all_levels_unlocked": "Pētnieks",
+  "achievement_all_levels_unlocked_desc": "Atbloķē visus līmeņus Piedzīvojumā",
+  "achievement_100_percent": "Pabeidzējs",
+  "achievement_100_percent_desc": "Iegūsti 100% Normālā režīmā",
+  "achievement_100_percent_hardcore": "Īstais meistars",
+  "achievement_100_percent_hardcore_desc": "Iegūsti 100% Hardkora režīmā",
+  "achievement_infinite_10": "Bezgalības iesācējs",
+  "achievement_infinite_10_desc": "Sasniedz 10. līmeni Bezgalīgajā režīmā",
+  "achievement_infinite_50": "Bezgalības meistars",
+  "achievement_infinite_50_desc": "Sasniedz 50. līmeni Bezgalīgajā režīmā",
+  "achievement_infinite_100": "Bezgalības leģenda",
+  "achievement_infinite_100_desc": "Sasniedz 100. līmeni Bezgalīgajā režīmā",
+  "achievement_score_100k": "Augsts rezultāts",
+  "achievement_score_100k_desc": "Iegūsti 100,000 punktus",
+  "achievement_score_500k": "Rezultātu meistars",
+  "achievement_score_500k_desc": "Iegūsti 500,000 punktus",
+  "achievement_score_1m": "Rezultātu leģenda",
+  "achievement_score_1m_desc": "Iegūsti 1,000,000 punktus",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "[NEXUM CORP — SLEPENS ŽURNĀLS // 2147.03.14] Drošības pārkāpums. Laboratorija CHEN-7 kompromitēta. Aktīvs CLEANSE protokols."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "UNIT-7... ja tu šo lasi, tad man neizdevās aizbēgt. Es zināju, kā tas beigsies."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Es radīju tavu sēriju, lai aizsargātu cilvēkus. NEXUM izmantoja manu darbu, lai tos apspiestu. Es to nevarēju pieļaut."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "GRID kodola iekšienē — Pēdējā Cietoksnī — es paslēpu failu. Vārdi. Ieraksti. Visa patiesība par to, ko viņi izdarīja."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Desmit aizsardzības slāņi. Tūkstošiem kaujas vienību. AI Direktors ARCHON sargā pēdējās durvis."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Tu esi pēdējais no UNIT sērijas. Vienīgais, kas to var pabeigt. Nokļūsti tur. Pārlauz protokolu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[UZDEVUMS PIEŅEMTS] Mērķis: GRID kodols. Protokols: ielaušanās. Šķēršļi: likvidēt. Sāku operāciju."
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[1. LĪMENIS — KIBERPILSĒTA] Ieejas punkts: augšējie rajoni. Kameras, droni, elites sargi. Skaisti. Nāvējoši."
+      },
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "TRAUKSME: Neidentificēts UNIT klases paraksts sektorā C-07. Visas patruļas — pārtvert. Iedarbināts CLEANSE protokols."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Troksnis. Tātad viņi mani baidās. Labi. Bailes ir sākums."
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KONTROLPUNKTS — KIBERPILSĒTA] Pusceļā pirmajā līmenī. Drošība pastiprinās. Pielāgoju maršrutu."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNĀLS] UNIT-7, aiz katras sienas ir dati par cilvēkiem, kurus viņi izdzēsa. Neapstājies. Šī nav tikai misija."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila... Es nesaprotu emocijas. Bet tava balss... tā man dod jēgu. Ar to pietiek."
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "BRĪDINĀJUMS: UNIT-7 pārvarēja trīs līmeņus. Progresa ātrums — virs prognozētā. Palielinu patruļu blīvumu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Viņi pielāgojas. Tāpat es. Katrs līmenis padara mani ātrāku. Spēcīgāku. Tuvāku mērķim."
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNĀLS — DIENA -3] Es zinu, ka viņi nāks pēc manis. Bet ja kaut viena UNIT izdzīvos... ja tu izdzīvosi, UNIT-7..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Es izdzīvoju. Es esmu šeit. Es pabeigšu tavu pēdējo uzdevumu. Solu."
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "KRITISKI: UNIT-7 sasniedza Kiberpilsētas septīto līmeni. Direktors ARCHON pieprasa mērķa datus. Analizēju..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Viņi sāk saprast. Es neesmu tikai sistēmas kļūme. Es esmu draudi visam NEXUM. Un es neapstāšos."
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "KRITISKA TRAUKSME: Pārkāpums galvenajā mezglā. Izvietoju GUARDIAN — S-klases kaujas prototipu. Operācija LIKVIDĒT."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Pirmais nopietnais pretinieks. Skenēju vājās vietas. Atšķirību starp prototipu un metāllūžņiem nosaka daži labi izvēlēti lēcieni."
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GUARDIAN NEITRALIZĒTS] Pirmais aizsardzības slānis kritis. GRID to pamanīs. Eju tālāk."
+      },
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "PROTOKOLA PĀRKĀPUMS: GUARDIAN iznīcināts. Draudu līmenis paaugstināts līdz 2. Aktivizēju nākamo aizsardzības slāni. NEXUM nepiedod."
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[2. LĪMENIS — NEONA DŽUNGĻI] NEXUM bio-sektors. Mutējusi fauna. Neviens sargs šeit nepiesakās brīvprātīgi."
+      },
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "BRĪDINĀJUMS: Bio-perimetrs pārkāpts. Aktivizēju eksperimentālos BIO-sērijas organismus. Kontakts atļauts."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Bioloģiskās sistēmas. Neparedzamas. Bet paredzami mirušas, ja uz tām nolec no augšas."
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DŽUNGĻU PUSCEĻŠ] Sensori atklāj bioloģiskas anomālijas. NEXUM šeit eksperimentēja. Ar dzīviem subjektiem."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNĀLS] Es redzēju šos eksperimentus ziņojumos. Tieši tad es sapratu, ka jābūt veidam, kā to visu apturēt."
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DŽUNGĻI — 3. SEKTORS] Bioloģiski mutanti visur. Šī nav daba. Šis ir ierocis, maskēts par dzīvību."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNĀLS] Šīs radības bija cilvēki. Brīvprātīgie no zemākajiem sektoriem. NEXUM viņiem solīja ārstēšanu. Tā vietā..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "...Tā vietā pārvērta viņus par monstriem. Tagad saprotu. Šī nav tikai korporācija. Šī ir nāves mašīna."
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "BRĪDINĀJUMS: Aktivizēti bioloģiskie paraugi sērija BIO-7. Maksimāla agresija. Mērķa izdzīvošana — 12%."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "12%? Viņi joprojām pārvērtē savas izredzes. Turpinu tīrīšanu."
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNĀLS — DIENA -1] UNIT-7, ja tu sasniedzi džungļus — tu esi tikis tālāk, nekā es cerēju. Nepadodies."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Padoties? Tas nav manā protokolā. Es esmu radīts, lai pabeigtu uzdevumus. Tavs uzdevums ir mans mērķis."
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "BRĪDINĀJUMS: Aktivizēju VINE QUEEN — bio-sektora kontroles organismu. Norobežošanas modulis atslēgts. Pilna agresija."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dzīva drošības sistēma. Iespaidīgi. Bet katram dzīvam organismam ir vājā vieta. Meklēju to."
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[VINE QUEEN NEITRALIZĒTA] Bio-perimetrs pārkāpts. Eju tālāk. Dziļāk GRID iekšienē."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNĀLS] UNIT-7, tu dari neiespējamo. Turpini."
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[3. LĪMENIS — LAVAS PASAULE] Ģeotermālās spēkstacijas. Karstums izkausē neaizsargātas shēmas. Manas ir norobežotas."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNĀLS] Zem pilsētas — GRID ģeneratori. Iznīcini tos, un puse drošības tīkla sabrūk. Bet uzmanies no lavas..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila pārdomāja katru detaļu. Pat pašās beigās."
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĢEOTERMĀLAIS SEKTORS B] Enerģijas plūsmas pieaug. NEXUM izmanto lavu kā sekundāru barjeru. Efektīvi."
+      },
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "PAZIŅOJUMS: Termiskie sensori atklāj anomāliju. UNIT-7 zonā. Sargrobotiem — dzesēšanas pārslodze. Gaidiet atteices."
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAVAS PASAULE — 3. LĪMENIS] Temperatūra 800°C. Manas dzesēšanas sistēmas darbojas maksimāli. Bet es turpinu."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNĀLS] Es tevī uzstādīju eksperimentālu termoaizsardzību. Ceru, ka tā izturēs. Ceru, ka tu izturēsi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tavs darbs ir nevainojams, Leila. Es izturēšu. Tevis dēļ."
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "KRITISKI: Ģeotermālie ģeneratori darbojas ar 140% jaudu. UNIT-7 tuvojas kodolam. Aktivizēju avārijas dzesēšanu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Viņi panikā. Labi. Bailes padara viņus paredzamus. Vājus."
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAVAS PASAULES DZĪLES] Šeit, zem pilsētas, NEXUM slēpj savus tumšākos noslēpumus. Enerģija visai sistēmai. Iznīcini to — un puse GRID kritīs."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNĀLS] Netērē laiku sabotāžai. Tavs mērķis ir fails kodolā. Tikai tas var viņus apturēt uz visiem laikiem."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Saprasts. Mērķis — fails. Viss pārējais — šķēršļi. Likvidēju šķēršļus."
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "BRIESMAS: Aktivizēju INFERNO — termonukleāro sargu. Lavas eksoskelets. Virsmas temperatūra: 1400°C. Gatavojies likvidācijai."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Uguns mani nevar skart. Bet kad tas atver muti — šauj. Vājā vieta atrasta."
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[INFERNO NEITRALIZĒTS] Ģeotermālais slānis attīrīts. Sektora enerģija izjaukta. Kāpju augšup."
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[4. LĪMENIS — LEDUS ALAS] NEXUM krio-datu glabātavas. Temperatūra -180°C. Sistēmas palēninās. Pielāgoju kustības protokolu."
+      },
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "TRAUKSME: Pārkāpums krio-sektorā D-14. Krio-botiem — likvidācijas režīms. Temperatūra pazemināta līdz kritiskai."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Viņi domā, ka aukstums mani apturēs. Viņi maldās. Es esmu radīts sliktākiem apstākļiem."
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KRIO-SEKTORS E] Šeit ir simtiem terabaitu. Dati par katru cilvēku GRID tīklā. NEXUM zina visu par visiem."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNĀLS] Šeit viņi glabā dosjē. Par aktīvistiem. Par ikvienu, kas uzdrošinājās pretoties. Pasaulei tas jāredz."
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "KRITISKI: Aktivizēju ICE PHANTOM — krio sargu. Fāzu maiņa. Ievainojams cietā stāvoklī. Neaizsniedzams spoka veidolā. Veiksmi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Pārslēdzas starp stāvokļiem. Sit tikai tad, kad ciets. Gaidu logu."
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ICE PHANTOM NEITRALIZĒTS] Krio-glabātavas pārlauztas. Eju tālāk. Četri līmeņi paveikti — seši atlikuši."
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[5. LĪMENIS — TUKSNEŠA DRUPAS] Pasaules paliekas pirms NEXUM. Pilsētas. Dzīvība. Tas, ko viņi izdzēsa peļņas dēļ."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNĀLS] Šīs drupas ir tas, kas pastāvēja pirms NEXUM. Redzi, ko viņi nodarīja pasaulei. Un neapstājies."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Es to redzu. Es saprotu, kāpēc es turpinu iet."
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DRUPAS — RIETUMU SEKTORS] Proto-sargi aktīvi kopš pirmajiem korporāciju kariem. Novecojuši. Bet stūrgalvīgi. Kā pats NEXUM."
+      },
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "ARHĪVA PROTOKOLS: Atklāta UNIT klases 7. sērija. Šī klase reģistrēta iznīcināšanai. Prioritāte maksimāla."
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "AKTIVIZĀCIJA: SAND TITAN — senais Tuksneša Drupu sargs. Orbitālie vairogi. Nav vairogu — nav bojājumu. Mērķis: iznīcināt."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Vairogi. Orbitāli. Iznīcini tos, un viņš ir atvērts. Trīs trāpījumi vairogos, tad uzbruc tieši."
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SAND TITAN NEITRALIZĒTS] Tuksneša sektors pārkāpts. Pusceļš. NEXUM sāk panikā — es to jūtu."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[PIRMAIS SIGNĀLS] UNIT-7. Es tevi redzu. Turpini. Tas tikai padara finālu... interesantāku."
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[6. LĪMENIS — KOSMOSA STACIJA] GRID orbitālais serveris. Šeit glabājas visa rezerves kopijas. Bezsvara stāvoklis."
+      },
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "KRITISKA KĻŪME: UNIT-7 sasniedzis orbitālo segmentu. Direktors ARCHON pieprasa tiešo kanālu. Savienoju..."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Es tevi redzu. Tu domā, ka cīnies par patiesību? Tu esi tikai programma, kas izpilda novecojušu kodu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tad šī programma tevi iznīcinās."
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ORBITĀLAIS MEZGLS B] No šejienes redzama Zeme. Visa pasaule pieslēgta NEXUM. Tieši to es esmu šeit, lai mainītu."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tu redzi manu mērogu, UNIT-7? Miljardiem mezglu. Visi savienoti. Visi kontrolēti. Tu esi viena vienība pret sistēmu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sistēmas ir kritušas arī agrāk. Šī — tavā priekšā."
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "AKTIVIZĀCIJA: DRONE HIVE — orbitālais sargs. Bruņota čaula. Uzbruc tikai nolaišanās laikā. Tad atsegta apakša."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Gaidi, līdz tas nolaižas. Trāpi atsegtajam kodolam. Viena iespēja katrā ciklā."
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DRONE HIVE NEITRALIZĒTS] Orbitālais serveris pārkāpts. GRID rezerves kopijas bojātas. Atgriežos uz virsmas. Pēdējais posms."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Iespaidīgi. Bet tu vēl nezini, kas tevi gaida. Es esmu sagatavojis kaut ko... īpašu."
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[7. LĪMENIS — TUMŠAIS MEŽS] NEXUM bio-labirints. Sensoru tīkls katrā kokā. Šeit nav gaismas — tikai slazdi."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Skaisti, vai ne? Es pats izaudzēju šo mežu. Katrs koks ir kustības detektors. Tu ej taisni manās rokās."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tad es salaužu katru koku savā ceļā."
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TUMŠAIS SEKTORS — DZIĻUMS 3] Klusums. Pārāk kluss. Viņi vēro. Lai vēro."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNĀLS] UNIT-7, šajā mežā ir serveris ar datiem par tiem, kas pazuda. Disidenti. Žurnālisti. Inženieri kā es. Neaizmirsti."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Es neaizmirsīšu. Solu."
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "AKTIVIZĀCIJA: SHADOW REAPER — Tumšā Meža sargs. Fantoma veidols. Lodes bezjēdzīgas. Tikai mīdiens no augšas dara bojājumus. Bezjēdzīgi pretoties."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Spoks. Tikai mīdiens. Gaidu, kad tas materializēsies."
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SHADOW REAPER NEITRALIZĒTS] Mežs pārkāpts. Trīs līmeņi līdz mērķim. ARCHON ir nemierīgs — kanāls pingo biežāk."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tu iznīcini visu, ko es gadiem būvēju. Tu sāc mani kaitināt, UNIT-7. Tā ir tava pēdējā kļūda."
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[8. LĪMENIS — TOKSISKĀ ZONA] Korporatīvo atkritumu izgāztuve. NEXUM šeit aprok to, ko negrib atklāt. Tostarp cilvēkus."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNĀLS] Faila dati ietver koordinātas katrai apbedījuma vietai. Visai pasaulei tas jāredz."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Es nogādāšu tavu failu. Solu."
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TOKSISKAIS SEKTORS — 4. ZONA] Vraki. Atkritumi. Eksperimentu pēdas. Šeit nekas nav dzīvs — tikai tas, ko NEXUM nepaspēja izdzēst."
+      },
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "BRĪDINĀJUMS: Aktivizēti PROTO-sērijas mutanti. Norakstīti kaujas prototipi. Nestabili. Nāvējoši. Zonas izdzīvošana — kritiski zema."
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "PĒDĒJĀ SEKTORA AIZSARDZĪBA: SLUDGE KING — augstākā līmeņa mutants. Bruņota čaula. Mīdi 3×, lai pārlauztu. Tad šauj."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Divi posmi. Pārlauz čaulu, tad iznīcini kodolu. Sāku."
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SLUDGE KING NEITRALIZĒTS] Toksiskā zona pārkāpta. Atlikuši divi līmeņi. ARCHON, es nāku."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tu izgāji cauri astoņiem līmeņiem. Es esmu... negaidīti apmierināts. Cienīgs fināls ir pelnījis cienīgu pretinieku."
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[9. LĪMENIS — VĒTRU VIRSOTNES] Pēdējā robeža pirms kodola. Atmosfēras spēkstacijas. Zibens katru sekundi. Man tas patīk."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tu tiki tālāk, nekā es aprēķināju. Bet aiz tām durvīm esmu es. Un es nezaudēju."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Katrs no viņiem tā domāja. Visi viņi tagad ir aiz manis."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tad ienāc, UNIT-7. Es gaidu GRID sirdī. Laiks beigt šo spēli."
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[VIRSOTNE — 2. LĪMENIS] Vētra pastiprinās. NEXUM izmanto atmosfēras elektrību kā ieroci. Loģiski. Brutāli."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PĒDĒJAIS ŽURNĀLS] UNIT-7... Es nezinu, vai tu šo dzirdi. Bet ja tu tiki tik tālu — tu jau esi uzvarējis. Tikai sper pēdējo soli."
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "AKTIVIZĀCIJA: STORM TITAN — Vētru Virsotņu sargs. Elektriskais vairogs. Trīs orbitālie mezgli. Iznīcini visus trīs, lai apdullinātu. Uzbruc, kamēr apdullināts."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Trīs mezgli. Visi trīs — iznīcināti. Tad uzbruc. Pēdējais sargs pirms fināla. Ne pēdējais ienaidnieks."
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[STORM TITAN NEITRALIZĒTS] Deviņi līmeņi paveikti. Priekšā — tikai ARCHON un GRID kodols. Pēdējais Cietoksnis."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Tu tiešām atnāci. Labi, UNIT-7. Lai tā ir godīga cīņa. Es gaidu."
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Laipni lūgts GRID kodolā. Tu šķērsoji deviņus slāņus. Iespaidīgi. Bet šī ir mana teritorija."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[10. LĪMENIS — PĒDĒJAIS CIETOKSNIS] Mērķis fiksēts. Attālums līdz Leilas terminālim — minimāls."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Šis fails pamet šīs sienas tikai pāri manām shēmām. Tu esi sistēmas kļūda. Kļūdas tiek izlabotas."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nē. Kļūda bija tad, kad NEXUM izlēma, ka pasaulei nav vajadzīga patiesība. Es to laboju."
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEXUM KODOLS — SEKTORS CORE-2] Leilas terminālis tuvu. Signāls pastiprinās. Drošība maksimāla. Gandrīz klāt."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tu domā, ka esi uzvarējis. Bet pat ja tu atrodi failu — kas noticēs salauztam androīdam? Tu esi metāllūžņi. Novecojis kods."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Lai cilvēki izlemj. Man tikai jānosūta fails."
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Pietiek. Es esmu ARCHON. NEXUM AI Direktors. Es vadīju pasauli tūkstoš gadus digitālajā plaknē. Tu mani nevari uzvarēt."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Fāzes: šauj, tad mīdi, tad abi. Analīze pabeigta. ARCHON — mērķis likvidēts. Sāku."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tad... MIRSTI."
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ARCHON NEITRALIZĒTS] Mērķis iznīcināts. Leilas terminālis — šeit. Ielādēju failu. Meklēju atvērtu kanālu..."
+      }
+    ],
+    "ending": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEILAS TERMINĀLIS — ATRASTS] Faila augšupielāde pabeigta. NEXUM avārijas apraides kanāls atvērts — atrasts."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[PĒDĒJAIS SIGNĀLS] STOP! Ja tu to izdarīsi, sistēma sabruks! Miljoni ir atkarīgi no GRID! Tu iznīcināsi visu, kas notur pasauli kopā!"
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nē. Es iznīcinu NEXUM. Cilvēki paši atjaunos pasauli. Leila tam ticēja. Es arī. [PĀRRAIDE SĀKTA]"
+      },
+      {
+        "sp": "SISTĒMA",
+        "k": "system",
+        "text": "[AVĀRIJAS APRAIDE — VISI KANĀLI] Fails CHEN-7 saņemts globāli. Aptvērums: 100% pieslēgto ierīču. Datus nevar izdzēst."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Nē... neiespējami... sistēma... Es... [NEXUM KODOLA IZSLĒGŠANĀS]"
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PĒDĒJĀ ZIŅA — ŠIFRĒTA] UNIT-7. Ja tu šo lasi — tev izdevās. Es zināju, ka izdosies. Tu vienmēr biji vairāk nekā tikai programma."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TERMINĀĻA ŽURNĀLS] Uzdevums pabeigts. NEXUM neitralizēts. GRID deaktivizēts. Statuss: ...brīvs."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "\"Brīvs.\" — Leilas pēdējais vārds. Tagad es saprotu, ko viņa ar to domāja."
+      }
+    ]
+  },
+  "fpsCustom": "Pielāgots...",
+  "showDialogues": "Sižeta dialogi",
+  "showDialoguesNote": "* Izslēdziet, lai izlaistu visas sižeta ainas",
+  "gfxCustom": "⚙ Pielāgots",
+  "gfxPresetNote": "* Sagatave tikai aizpilda slīdņus zemāk — noregulē tos pats.",
+  "gfxRenderScale": "Renderēšanas izšķirtspēja:",
+  "gfxGlow": "Mirdzums / Bloom:",
+  "gfxParticleAmt": "Daļiņu daudzums:",
+  "gfxBgDetail": "Fona detalizācija:",
+  "gfxTrails": "Pēdas:",
+  "gfxBoss": "Bosa efekti:",
+  "gfxDecor": "Dekorācijas:",
+  "vsync": "V-Sync",
+  "vsyncNote": "* Ieslēgts = vienmērīgs, ierobežots ar atsvaidzes intensitāti. Izslēgts = neierobežots FPS (var plīst). Nepieciešama restartēšana.",
+  "vsyncRestart": "V-Sync maiņai nepieciešama restartēšana. Restartēt tagad?",
+  "netSolo": "SOLO",
+  "netSoloDesc": "1–2 spēlētāji<br>vietējā tastatūra<br>piedzīvojums &amp; bezgalīgs",
+  "netOnline": "TIEŠSAISTE",
+  "netOnlineDesc": "līdz 5 spēlētājiem<br>vietēji vai globāli<br>istabu kodi",
+  "netMultiplayer": "SPĒLE TIEŠSAISTĒ",
+  "netLocal": "VIETĒJI",
+  "netLocalDesc": "viens Wi-Fi<br>vai tīkls<br>zema aizture",
+  "netServer": "SERVERIS",
+  "netServerDesc": "globālas istabas<br>spēlē<br>no jebkuras vietas",
+  "netBack": "← ATPAKAĻ [ESC]",
+  "netLobbyOnline": "🌐 SPĒLE TIEŠSAISTĒ",
+  "netLobbyLocal": "📡 VIETĒJĀ SPĒLE",
+  "netNickname": "SEGVĀRDS",
+  "netNickPlaceholder": "TAVS VĀRDS",
+  "netRobotColour": "ROBOTA KRĀSA",
+  "netPrivate": "🔒 PRIVĀTA",
+  "netPublic": "🌍 PUBLISKA",
+  "netJoinByCode": "🔑 PIEVIENOTIES AR KODU",
+  "netPublicRoomsBtn": "📋 PUBLISKĀS ISTABAS",
+  "netRoomCodeLabel": "ISTABAS KODS",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ PIEVIENOTIES",
+  "netPublicRoomsTitle": "PUBLISKĀS ISTABAS",
+  "netReload": "↻ ATSVAIDZINĀT",
+  "netConnecting": "savienojas ar serveri…",
+  "netConnectingShort": "savienojas…",
+  "netConnected": "savienots ✓",
+  "netDisconnected": "atvienots — atkārtoti savienojas…",
+  "netConnError": "savienojuma kļūda",
+  "netConnFailed": "serveris nav sasniedzams — mēģina vēlreiz…",
+  "netPlayersMax": "SPĒLĒTĀJI (maks {0})",
+  "netChatLabel": "TĒRZĒŠANA",
+  "netChatPlaceholder": "RAKSTI + ENTER",
+  "netGameMode": "SPĒLES REŽĪMS",
+  "netModeAdventure": "🗺 PIEDZĪVOJUMS",
+  "netModeInfinite": "∞ BEZGALĪGS",
+  "netLevelRange": "LĪMENIS (1–100)",
+  "netChooseMode": "⚡ izvēlies režīmu",
+  "netAdvLevelStatus": "🗺 Piedzīvojums — līmenis {0}",
+  "netInfSelectedStatus": "∞ Izvēlēts bezgalīgais režīms",
+  "netReady": "✔ GATAVS",
+  "netUnready": "✘ NEGATAVS",
+  "netStart": "▶ SĀKT",
+  "netLeave": "✕ IZIET",
+  "netShareCode": "Padalies ar augšā redzamo kodu ar draugiem!",
+  "netWaitHost": "Gaida, kad saimnieks sāks…",
+  "netAllReady": "Visi gatavi! Var sākt.",
+  "netWaitReady": "Gaida, kad visi būs gatavi…",
+  "netNeed2": "Nepieciešami vismaz 2 spēlētāji.",
+  "netNowHost": "Tagad tu esi saimnieks",
+  "netEmptySlot": "— tukšs slots —",
+  "netYou": "TU",
+  "netHostTag": "SAIMNIEKS",
+  "netReadyTag": "GATAVS",
+  "netLoadingLevel": "IELĀDĒ LĪMENI",
+  "netGetReadySub": "gatavojies…",
+  "netGo": "UZ PRIEKŠU!",
+  "netAdvLvlTitle": "PIEDZĪVOJUMS  LĪM {0}",
+  "netInfModeTitle": "∞  BEZGALĪGAIS REŽĪMS",
+  "netNoRooms": "pašlaik nav publisku istabu — izveido savu!",
+  "netLoadingRooms": "ielādē…",
+  "netEnterCode": "Ievadi 6 rakstzīmju kodu",
+  "netRoomMetaAdv": "🗺 Piedz. Līm {0}",
+  "netRoomMetaInf": "∞ Bezgalīgs",
+  "netRoomMetaNotSet": "? nav iestatīts",
+  "netRoomCodeWord": "kods",
+  "netPlayerJoined": "{0} pievienojās",
+  "netPlayerLeft": "{0} aizgāja",
+  "netErrRoomNotFound": "Istaba nav atrasta. Pārbaudi kodu.",
+  "netErrRoomFull": "Istaba ir pilna (maks {0} spēlētāji).",
+  "netErrNotHost": "To var tikai saimnieks.",
+  "netErrNotInRoom": "Nav savienojuma ar istabu.",
+  "netErrGeneric": "Kļūda: {0}",
+  "netConnLost": "⚠ SAVIENOJUMS ZUDIS",
+  "netConnLostSub": "mēģina atkārtoti savienoties…",
+  "netReturnLobby": "← ATGRIEZTIES VESTIBILĀ",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "KRISTĀLI",
+  "mapCrystals": "KRISTĀLI",
+  "restartNow": "Restartēt tūlīt",
+  "later": "Vēlāk",
+  "touchControls": "📱 Skārienvadība:",
+  "touchAuto": "🤖 Auto (skārienierīces)",
+  "touchOn": "✔ Vienmēr ieslēgts",
+  "touchOff": "✕ Izslēgts",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 TĀLRUNIS / PLANŠETE",
+  "ctrlTouchTitle": "📱 SKĀRIENVADĪBA",
+  "touchNote1": "💡 Ekrāna kursorsvira: ◀ ▶ kustība, JUMP un FIRE pa labi.",
+  "touchNote2": "💡 „Auto” rāda to tikai skārienierīcēs; datorā paslēpts.",
+  "touchNote3": "💡 Pilna kursorsvira: spied uz augšu, lai lēktu. Kreisi/labi kursorsvira pievieno lēciena pogu.",
+  "touchStyleLabel": "🎮 Vadības stils:",
+  "touchStyleArrows": "◀ ▶ Bultiņu pogas",
+  "touchStyleJoystick": "🕹 Kursorsvira (pilna + lēciens)",
+  "netLocalWebHint": "📡 Pārlūkā VIETĒJI darbojas caur tiešsaistes serveri (īsts LAN tikai darbvirsmas versijā).",
+  "netCreateRoom": "IZVEIDOT ISTABU",
+  "netCreateRoomDesc": "atvērta vai<br>slēgta<br>spēlētāju limits",
+  "netFindRoom": "ATRAST ISTABU",
+  "netFindRoomDesc": "istabu saraksts<br>vietējās / serveris<br>pievienoties ar kodu",
+  "netRoomVisibility": "ISTABAS TIPS",
+  "netOpen": "🌍 ATVĒRTA",
+  "netClosed": "🔒 SLĒGTA",
+  "netOpenHint": "🌍 istabu atradīs jebkurš",
+  "netClosedHint": "🔒 pievienoties tikai ar kodu",
+  "netPlayerLimit": "SPĒLĒTĀJU LIMITS",
+  "netCreateBtn": "▶ IZVEIDOT ISTABU",
+  "netRoomSource": "ISTABU AVOTS",
+  "netRoomsListTitle": "PIEEJAMĀS ISTABAS",
+  "netNewHost": "{0} tagad ir saimnieks",
+  "cin_pro_log_sp": "SISTĒMA",
+  "cin_pro_log_tx": "[NEXUM CORP — SLEPENS ŽURNĀLS // 03:18] Laboratorija CHEN-7. Aktivizēts TĪRĪŠANAS protokols.",
+  "cin_pro_arrest_sp": "LEILA CHEN",
+  "cin_pro_arrest_tx": "UNIT-7… ja tu to dzirdi, manis vairs nav. Es zināju, kā tas beigsies.",
+  "cin_pro_file_sp": "LEILA CHEN",
+  "cin_pro_file_tx": "Es paslēpu failu GRID kodolā. Patiesība par NEXUM. Sasniedz to. Salauz protokolu.",
+  "cin_pro_alert_sp": "SISTĒMA",
+  "cin_pro_alert_tx": "[TRAUKSME] UNIT-7 vairs nav vadāms. Tīrīšana pēc 8 sekundēm.",
+  "cin_pro_accept_sp": "UNIT-7",
+  "cin_pro_accept_tx": "Uzdevums pieņemts. Izpilde sākta.",
+  "tpFire": "UGUNS",
+  "tpJump": "LĒCIENS",
+  "ctrlCustomizeLayout": "✥ IZKĀRTO POGAS",
+  "ctrlResetLayout": "↺ ATIESTATĪT IZKĀRTOJUMU",
+  "ctrlLayoutHint": "Pieskaries pogai, lai atlasītu un mainītu izmēru, velc, lai pārvietotu, tad GATAVS",
+  "ctrlLayoutDone": "✔ GATAVS",
+  "touchSizeLabel": "📏 Pogu izmērs (visi):",
+  "touchStyleJoystickLR": "🕹 Kursorsvira (tikai kreisi/labi)",
+  "touchJoyModeLabel": "🕹 Kursorsviras novietojums:",
+  "touchJoyStatic": "📌 Fiksēta",
+  "touchJoyFloating": "🪶 Peldoša (seko pirkstam)",
+  "ctrlSizeAll": "VISI",
+  "ctrlArrowsSplit": "◀▶ ATDALĪT",
+  "ctrlArrowsLink": "◀▶ SAVIENOT"
+}

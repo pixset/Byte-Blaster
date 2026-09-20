@@ -1,0 +1,1246 @@
+{
+  "score": "PUNKTE",
+  "total": "GESAMT",
+  "levelScoreLabel": "LEVEL-PUNKTE: {0}",
+  "totalScoreLabel": "GESAMTPUNKTE: {0}",
+  "lives": "LEBEN",
+  "level": "LEVEL",
+  "time": "ZEIT",
+  "mode": "MODUS",
+  "blaster": "BLASTER",
+  "coins": "MÜNZEN",
+  "bonusFire": "FEUER",
+  "bonusIce": "EIS",
+  "bonusStar": "STERN",
+  "bonusBoots": "TEMPO",
+  "modSpeedrun": "SPEEDRUN",
+  "modStealth": "TARNUNG — MEIDE LICHT",
+  "modLowGravity": "GERINGE SCHWERKRAFT",
+  "modHighGravity": "HOHE SCHWERKRAFT",
+  "modWind": "STARKER WIND",
+  "modSlippery": "RUTSCHIGER BODEN",
+  "modDarkness": "DUNKELHEIT",
+  "tierPerfect": "★ PERFEKT!",
+  "tierGreat": "SUPER!",
+  "tierGood": "GUT",
+  "tierBase": "BASIS",
+  "heightBonus": "+{0} HÖHENBONUS",
+  "bossArena": "⚠ BOSS-ARENA ⚠",
+  "hpBonus": "+1 LEBEN!",
+  "repaired": "REPARIERT!",
+  "newBest": "NEUER REKORD!",
+  "completeMore": "✗ SCHAFFE {0} WEITERE LEVEL",
+  "subtitle": "CYBERPUNK NEON-PLATTFORMER",
+  "play": "▶ SPIELEN",
+  "settings": "⚙ EINSTELLUNGEN",
+  "exit": "🚪 BEENDEN",
+  "selectSave": "SPIELSTAND WÄHLEN",
+  "slot": "SLOT",
+  "slotEmpty": "— LEER —",
+  "slotNewGame": "✚ NEUES SPIEL",
+  "slotContinue": "▶ FORTSETZEN",
+  "slotDelete": "🗑 LÖSCHEN",
+  "slotDeleteConfirm": "WIRKLICH LÖSCHEN?",
+  "slotLevels": "Level: {0}/100",
+  "slotHardcore": "Hardcore: {0}/100",
+  "slotAch": "Erfolge: {0}",
+  "slotBest": "Beste Punktzahl: {0}",
+  "bestScore": "REKORD: {0}",
+  "legend1": "PFEILE / WASD — BEWEGEN  |  LEERTASTE / OBEN — SPRINGEN (×2)",
+  "legend2": "Z / X / STRG — SCHIESSEN (Blaster nötig)  |  ESC — PAUSE",
+  "legend3": "🟡 GOLDBLÖCKE VON UNTEN TREFFEN  |  GEGNER VON OBEN ZERSTAMPFEN",
+  "paused": "⏸ PAUSE",
+  "resume": "▶ FORTSETZEN",
+  "map": "🗺 KARTE",
+  "menu": "⬅ MENÜ",
+  "escResume": "ESC — FORTSETZEN",
+  "selectMode": "MODUS WÄHLEN",
+  "onePlayer": "👤 1 SPIELER",
+  "twoPlayer": "👥 2 SPIELER",
+  "p2hint": "S1: WASD + Z/X schießen  |  S2: ← → ↑ + . / , schießen",
+  "adventure": "ABENTEUER",
+  "advDesc": "100 einzigartige Level<br>10 Themenwelten<br>Timer pro Level<br>Fortschritt speichern",
+  "infinite": "ENDLOS",
+  "infDesc": "endlose Karten<br>steigende Schwierigkeit<br>schlag die Uhr<br>übertriff deinen Rekord",
+  "back": "← ZURÜCK [ESC]",
+  "selectDiff": "SCHWIERIGKEIT WÄHLEN",
+  "normal": "NORMAL",
+  "hardcore": "HARDCORE",
+  "normDesc": "normale Gegner<br>3 Leben zu Beginn<br>Fortschritt speichern",
+  "hardDescLocked": "erst Normal-Modus<br>abschließen<br>zum Freischalten",
+  "advMap": "🗺 ABENTEUER-KARTE",
+  "mapFoot": "FREIES LEVEL ANKLICKEN • RECHTZEITIG SCHAFFEN • BEI TREFFER WIEDEREINSTIEG VOR ORT",
+  "getReady": "BEREIT MACHEN...",
+  "csHint": "▶ LEERTASTE / KLICK — WEITER",
+  "hintBar": "PFEILE/WASD — BEWEGEN  |  LEERTASTE — SPRINGEN  |  Z/X — SCHIESSEN (Blaster)  |  ESC — PAUSE",
+  "gameOver": "GAME OVER",
+  "youWin": "GEWONNEN!",
+  "betterLuck": "MEHR GLÜCK BEIM NÄCHSTEN MAL",
+  "allComplete": "ALLE 100 LEVEL GESCHAFFT!",
+  "retry": "↩ NOCHMAL",
+  "levelFailed": "LEVEL {0} GESCHEITERT",
+  "scoreLabel": "PUNKTE: {0}",
+  "finalScore": "ENDPUNKTE: {0}",
+  "levelClear": "LEVEL {0} GESCHAFFT!",
+  "timeBonus": "+ZEITBONUS: {0}",
+  "settingsTitle": "EINSTELLUNGEN",
+  "lang": "Sprache:",
+  "windowRes": "Fensterauflösung:",
+  "resDefault": "1600 x 900 (Standard)",
+  "resFullHD": "1920 x 1080 (Full HD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "Benutzerdefiniert",
+  "resNote": "* Ändert die Fenstergröße",
+  "gameScale": "Spielskalierung:",
+  "scaleAuto": "Auto-Anpassung (empfohlen)",
+  "scaleNote": "* Auto-Anpassung füllt das Fenster unter Beibehaltung des Seitenverhältnisses",
+  "fpsLimit": "FPS-Limit:",
+  "fpsNoLimit": "Kein Limit (Unbegrenzt)",
+  "fpsNote": "* Begrenzt die maximale Bildrate",
+  "showFps": "FPS-Anzeige anzeigen",
+  "gfxQuality": "Grafikqualität:",
+  "gfxNote": "* Beim ersten Start automatisch erkannt",
+  "windowMode": "Fenstermodus:",
+  "windowed": "🪟 Fenster",
+  "fullscreen": "⛶ Vollbild",
+  "borderless": "▣ Randlos",
+  "audioSettings": "Audio-Einstellungen:",
+  "masterVolume": "Gesamtlautstärke:",
+  "musicVolume": "Musiklautstärke:",
+  "sfxVolume": "Effektlautstärke:",
+  "gameplaySettings": "Gameplay-Einstellungen:",
+  "screenShake": "Bildschirmwackeln",
+  "shakeIntensity": "Wackelstärke:",
+  "particles": "Partikel",
+  "combatText": "Schwebender Kampftext",
+  "autoSave": "Automatisch speichern",
+  "showHints": "Hinweisleiste anzeigen",
+  "save": "SPEICHERN",
+  "cancel": "ABBRECHEN",
+  "achievements": "🏆 ERFOLGE",
+  "achievementUnlocked": "ERFOLG FREIGESCHALTET!",
+  "achRarity": "Seltenheit",
+  "achUnlockedCount": "Freigeschaltet",
+  "achTitle": "ERFOLGE",
+  "achSecretName": "???",
+  "achSecretDesc": "Geheimer Erfolg — freischalten zum Aufdecken",
+  "close": "SCHLIESSEN",
+  "tabDisplay": "ANZEIGE",
+  "tabGraphics": "GRAFIK",
+  "tabAudio": "AUDIO",
+  "tabGameplay": "GAMEPLAY",
+  "tabGeneral": "ALLGEMEIN",
+  "tabControls": "STEUERUNG",
+  "controlsP1": "🎮 SPIELER 1 / EINZELSPIELER",
+  "controlsP2": "🎮 SPIELER 2 (2-Spieler-Modus)",
+  "ctrlMove": "Links/Rechts bewegen:",
+  "ctrlMoveLeft": "Nach links:",
+  "ctrlMoveRight": "Nach rechts:",
+  "ctrlRebindHint": "💡 Auf eine Taste klicken, dann neue Taste drücken zum Belegen (ESC bricht ab)",
+  "ctrlReset": "AUF STANDARD ZURÜCKSETZEN",
+  "ctrlJump": "Springen (Doppelsprung):",
+  "ctrlShoot": "Schießen (Blaster):",
+  "ctrlPause": "Pause:",
+  "ctrlNote1": "💡 Im 1-Spieler-Modus entweder WASD oder Pfeiltasten verwenden",
+  "ctrlNote2": "💡 Gegner zerstampfen, indem du von oben auf sie springst",
+  "ctrlNote3": "💡 Goldblöcke von unten treffen, um Münzen zu erhalten",
+  "infDescUnlocked": "endlose Karten<br>steigende Schwierigkeit<br>schlag die Uhr<br>übertriff deinen Rekord",
+  "infDescLocked": "schließe alle 100<br>Abenteuer-Level ab<br>zum Freischalten<br><span style=\"color:#f80\">{0} übrig</span>",
+  "hardDescUnlocked": "★★★ EXTREM ★★★<br>+1 HP für alle Gegner<br>2× Punkte<br>schnellere Timer",
+  "hardDescNeed": "erst NORMAL-Modus<br>abschließen zum Freischalten<br><span style=\"color:#f80\">{0} Level übrig</span>",
+  "normDescProg": "Fortschritt: {0}/100<br>3 Leben zu Beginn<br>Fortschritt speichern",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 HARDCORE: {0} / 100 ✓",
+  "langName": "Deutsch",
+  "pBlaster": "BLASTER!",
+  "pLife": "+1 LEBEN ♥",
+  "pBoots": "TEMPO-STIEFEL!",
+  "pFire": "🔥 FEUER!",
+  "pIce": "❄ EIS!",
+  "pStar": "★ STERN! ★",
+  "p2Blaster": "S2 BLASTER!",
+  "p2Life": "S2 +1 LEBEN ♥",
+  "p2Boots": "S2 TEMPO-STIEFEL!",
+  "p2Fire": "S2 🔥 FEUER!",
+  "p2Ice": "S2 ❄ EIS!",
+  "p2Star": "S2 ★ STERN! ★",
+  "ouch": "AUA!",
+  "hit": "TREFFER!",
+  "blocked": "BLOCKIERT!",
+  "stomp": "+100",
+  "starKO": "STERN-KO!",
+  "burnTxt": "🔥 BRENNT!",
+  "frozenTxt": "❄ EINGEFROREN!",
+  "noEffect": "KEINE WIRKUNG!",
+  "stunned": "BETÄUBT!",
+  "stompOnly": "NUR ZERSTAMPFEN!",
+  "crackLeft": "RISS! ({0} übrig)",
+  "shellBroken": "PANZER ZERBROCHEN!",
+  "orbDestroyed": "SPHÄRE ZERSTÖRT!",
+  "nodeHit": "KNOTEN GETROFFEN!",
+  "bossDefeated": "BOSS BESIEGT!",
+  "phaseN": "PHASE {0}!",
+  "livesLeft": "{0} LEBEN ÜBRIG",
+  "p2LivesLeft": "S2: {0} ÜBRIG",
+  "p2Out": "S2 RAUS!",
+  "p1Out": "S1 RAUS!",
+  "bossSolid": "★ FEST — JETZT ZERSTAMPFEN! ★",
+  "bossGhost": "Geisterform — warten...",
+  "bossShellShoot": "★ PANZER ZERBROCHEN — KERN BESCHIESSEN! ★",
+  "bossShellStomp": "ZERSTAMPFEN, um Panzer zu knacken ({0} Treffer übrig)",
+  "bossPhase1": "PHASE 1 — DAS AUGE BESCHIESSEN",
+  "bossPhase2": "PHASE 2 — VON OBEN ZERSTAMPFEN",
+  "bossPhase3": "PHASE 3 — SCHIESSEN + ZERSTAMPFEN",
+  "bossMouthOpen": "★ MAUL OFFEN — JETZT SCHIESSEN! ★",
+  "bossWaitRoar": "warten auf Gebrüll...",
+  "bossOrbsLeft": "SPHÄREN ÜBRIG: {0}",
+  "bossShieldsDown": "SCHILDE UNTEN — ANGREIFEN!",
+  "bossDescending": "★ SINKT HERAB — ANGREIFEN! ★",
+  "bossHovering": "schwebt — warte auf den Abstieg...",
+  "bossStunned": "★ BETÄUBT — ANGREIFEN! ({0}s) ★",
+  "bossShootNodes": "KNOTEN BESCHIESSEN: {0} ÜBRIG",
+  "bossRespawn": "Knoten erscheinen neu...",
+  "bossHint0": "DEN KOPF ZERSTAMPFEN — Kugeln prallen ab!",
+  "bossHint1": "SIE BESCHIESSEN — auf Dornen springen schadet DIR!",
+  "bossHint2": "AUF DAS GEBRÜLL WARTEN — ins leuchtende Maul schießen!",
+  "bossHint3": "ZERSTAMPFEN, WENN FEST — Kugeln gehen durch Geister!",
+  "bossHint4": "ALLE 3 SCHILDSPHÄREN ZERSTÖREN — dann den Kern angreifen!",
+  "bossHint5": "WÄHREND DES ABSTIEGS ANGREIFEN — Panzerung deckt oben ab!",
+  "bossHint6": "NUR ZERSTAMPFEN — Kugeln gehen durch den Schatten!",
+  "bossHint7": "3× ZERSTAMPFEN, UM PANZER ZU KNACKEN — dann den Kern BESCHIESSEN!",
+  "bossHint8": "ALLE 3 BLITZKNOTEN BESCHIESSEN zum Betäuben — dann angreifen!",
+  "bossHint9": "PHASE 1: SCHIESSEN  |  PHASE 2: ZERSTAMPFEN, WENN AUGE TIEF  |  PHASE 3: BEIDES",
+  "gfxVeryLow": "🔴 Sehr niedrig",
+  "gfxLow": "🟠 Niedrig",
+  "gfxMedium": "🟡 Mittel",
+  "gfxHigh": "🟢 Hoch",
+  "gfxVeryHigh": "🔵 Sehr hoch",
+  "gfxUltra": "⚡ Ultra",
+  "classifiedLog": "// NEXUM GRID ZUGRIFFSPROTOKOLL",
+  "skipBtn": "ÜBERSPRINGEN ▶▶",
+  "theEnd": "ENDE",
+  "endingTagline": "NEXUM GRID GESICHERT",
+  "world0": "CYBERSTADT",
+  "world1": "NEON-DSCHUNGEL",
+  "world2": "LAVAWELT",
+  "world3": "EISHÖHLEN",
+  "world4": "WÜSTENRUINEN",
+  "world5": "RAUMSTATION",
+  "world6": "DUNKLER WALD",
+  "world7": "GIFTZONE",
+  "world8": "STURMGIPFEL",
+  "world9": "LETZTE FESTUNG",
+  "boss0": "GUARDIAN-X",
+  "boss1": "RANKENKÖNIGIN",
+  "boss2": "INFERNO-KERN",
+  "boss3": "EISPHANTOM",
+  "boss4": "SANDTITAN",
+  "boss5": "DROHNENSCHWARM",
+  "boss6": "SCHATTENSCHNITTER",
+  "boss7": "SCHLAMMKÖNIG",
+  "boss8": "STURMTITAN",
+  "boss9": "ARCHON",
+  "mapWorldMap": "WELTKARTE",
+  "mapHardcoreMap": "HARDCORE-KARTE",
+  "mapCleared": "GESCHAFFT",
+  "mapStars": "STERNE",
+  "mapBoss": "BOSS",
+  "mapBest": "REKORD",
+  "mapLocked": "GESPERRT",
+  "mapCompleted": "ABGESCHLOSSEN",
+  "mapStart": "ENTER / LEERTASTE ZUM START",
+  "achievement_world_0": "Cyber-Neuling",
+  "achievement_world_0_desc": "Schließe die ersten 10 Level ab (Cyberstadt)",
+  "achievement_world_1": "Dschungel-Entdecker",
+  "achievement_world_1_desc": "Schließe die Level 11-20 ab (Neon-Dschungel)",
+  "achievement_world_2": "Lava-Überlebender",
+  "achievement_world_2_desc": "Schließe die Level 21-30 ab (Lavawelt)",
+  "achievement_world_3": "Eiskletterer",
+  "achievement_world_3_desc": "Schließe die Level 31-40 ab (Eishöhlen)",
+  "achievement_world_4": "Wüstenwanderer",
+  "achievement_world_4_desc": "Schließe die Level 41-50 ab (Wüstenruinen)",
+  "achievement_world_5": "Weltraum-Kadett",
+  "achievement_world_5_desc": "Schließe die Level 51-60 ab (Raumstation)",
+  "achievement_world_6": "Waldhüter",
+  "achievement_world_6_desc": "Schließe die Level 61-70 ab (Dunkler Wald)",
+  "achievement_world_7": "Giftkrieger",
+  "achievement_world_7_desc": "Schließe die Level 71-80 ab (Giftzone)",
+  "achievement_world_8": "Sturmmeister",
+  "achievement_world_8_desc": "Schließe die Level 81-90 ab (Sturmgipfel)",
+  "achievement_world_9": "Festungsbezwinger",
+  "achievement_world_9_desc": "Schließe die Level 91-100 ab (Letzte Festung)",
+  "achievement_boss_0": "Boss-Töter I",
+  "achievement_boss_0_desc": "Besiege den ersten Boss",
+  "achievement_boss_5": "Boss-Töter II",
+  "achievement_boss_5_desc": "Besiege 5 Bosse",
+  "achievement_boss_10": "Boss-Töter III",
+  "achievement_boss_10_desc": "Besiege alle 10 Bosse",
+  "achievement_perfect_run": "Perfekter Lauf",
+  "achievement_perfect_run_desc": "Schließe ein Level mit Wertung PERFEKT ab",
+  "achievement_perfectionist": "Perfektionist",
+  "achievement_perfectionist_desc": "Erreiche PERFEKT auf 10 Leveln",
+  "achievement_speedrunner": "Speedrunner",
+  "achievement_speedrunner_desc": "Schließe ein Level in der halben Zeit ab",
+  "achievement_sharpshooter": "Scharfschütze",
+  "achievement_sharpshooter_desc": "Töte 100 Gegner mit dem Blaster",
+  "achievement_stomper": "Zerstampfer",
+  "achievement_stomper_desc": "Töte 50 Gegner durch Zerstampfen",
+  "achievement_coin_1000": "Münzsammler",
+  "achievement_coin_1000_desc": "Sammle 1000 Münzen",
+  "achievement_coin_5000": "Schatzjäger",
+  "achievement_coin_5000_desc": "Sammle 5000 Münzen",
+  "achievement_coin_10000": "Millionär",
+  "achievement_coin_10000_desc": "Sammle 10000 Münzen",
+  "achievement_no_death_10": "Überlebender",
+  "achievement_no_death_10_desc": "Schließe 10 Level ab, ohne ein Leben zu verlieren",
+  "achievement_no_death_world": "Unsterblich",
+  "achievement_no_death_world_desc": "Schließe eine Welt ab, ohne ein Leben zu verlieren",
+  "achievement_hardcore_unlock": "Hardcore-Held",
+  "achievement_hardcore_unlock_desc": "Schalte den Hardcore-Modus frei",
+  "achievement_hardcore_50": "Hardcore-Meister",
+  "achievement_hardcore_50_desc": "Schließe 50 Level im Hardcore-Modus ab",
+  "achievement_hardcore_100": "Hardcore-Legende",
+  "achievement_hardcore_100_desc": "Schließe alle 100 Level im Hardcore-Modus ab",
+  "achievement_cheat_found": "Code-Knacker",
+  "achievement_cheat_found_desc": "Finde einen geheimen Cheat-Code",
+  "achievement_2player": "Retro-Gamer",
+  "achievement_2player_desc": "Spiele im 2-Spieler-Modus",
+  "achievement_all_music": "Musikliebhaber",
+  "achievement_all_music_desc": "Höre Musik aus allen 10 Welten",
+  "achievement_all_cutscenes": "Lore-Meister",
+  "achievement_all_cutscenes_desc": "Sieh dir alle Zwischensequenzen an",
+  "achievement_star_power": "Sternenkraft",
+  "achievement_star_power_desc": "Aktiviere die Sternenkraft",
+  "achievement_all_levels_unlocked": "Entdecker",
+  "achievement_all_levels_unlocked_desc": "Schalte alle Level im Abenteuer frei",
+  "achievement_100_percent": "Komplettierer",
+  "achievement_100_percent_desc": "Erreiche 100 % im Normal-Modus",
+  "achievement_100_percent_hardcore": "Wahrer Meister",
+  "achievement_100_percent_hardcore_desc": "Erreiche 100 % im Hardcore-Modus",
+  "achievement_infinite_10": "Endlos-Anfänger",
+  "achievement_infinite_10_desc": "Erreiche Level 10 im Endlos-Modus",
+  "achievement_infinite_50": "Endlos-Meister",
+  "achievement_infinite_50_desc": "Erreiche Level 50 im Endlos-Modus",
+  "achievement_infinite_100": "Endlos-Legende",
+  "achievement_infinite_100_desc": "Erreiche Level 100 im Endlos-Modus",
+  "achievement_score_100k": "Punktejäger",
+  "achievement_score_100k_desc": "Erziele 100.000 Punkte",
+  "achievement_score_500k": "Punktemeister",
+  "achievement_score_500k_desc": "Erziele 500.000 Punkte",
+  "achievement_score_1m": "Punktelegende",
+  "achievement_score_1m_desc": "Erziele 1.000.000 Punkte",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "[NEXUM CORP — VERTRAULICHES PROTOKOLL // 2147.03.14] Sicherheitsverletzung. Labor CHEN-7 kompromittiert. CLEANSE-Protokoll aktiv."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "UNIT-7... wenn du das liest, dann ist mir die Flucht nicht gelungen. Ich wusste, wie das enden würde."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Ich habe deine Baureihe geschaffen, um Menschen zu schützen. NEXUM nutzte meine Arbeit, um sie stattdessen zu unterdrücken. Das konnte ich nicht zulassen."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Im Inneren des GRID-Kerns — in der Letzten Festung — habe ich eine Datei versteckt. Namen. Aufzeichnungen. Die ganze Wahrheit über ihre Taten."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Zehn Verteidigungsschichten. Tausende Kampfeinheiten. Der KI-Direktor ARCHON bewacht die letzte Tür."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Du bist die Letzte der UNIT-Reihe. Die Einzige, die das vollenden kann. Erreiche es. Brich das Protokoll."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[AUFGABE ANGENOMMEN] Ziel: GRID-Kern. Protokoll: durchbrechen. Hindernisse: ausschalten. Operation beginnt."
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 1 — CYBERSTADT] Eintrittspunkt: obere Bezirke. Kameras, Drohnen, Elitewachen. Wunderschön. Tödlich."
+      },
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "ALARM: Nicht identifizierte Signatur der UNIT-Klasse in Sektor C-07. Alle Patrouillen — abfangen. CLEANSE-Protokoll aktiviert."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Lärm. Also fürchten sie mich. Gut. Furcht ist ein Anfang."
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KONTROLLPUNKT — CYBERSTADT] Halbzeit im ersten Level. Sicherheit verschärft sich. Route wird angepasst."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PROTOKOLL] UNIT-7, hinter jeder Wand liegen Daten über Menschen, die sie ausgelöscht haben. Halte nicht an. Das ist nicht nur eine Mission."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila... ich verstehe Gefühle nicht. Aber deine Stimme... sie gibt mir einen Sinn. Das ist genug."
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "WARNUNG: UNIT-7 hat drei Level passiert. Fortschrittstempo — über der Vorhersage. Patrouillendichte wird erhöht."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sie passen sich an. Ich auch. Jedes Level macht mich schneller. Stärker. Näher am Ziel."
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PROTOKOLL — TAG -3] Ich weiß, sie werden mich holen. Aber wenn auch nur eine UNIT überlebt... wenn du überlebst, UNIT-7..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ich habe überlebt. Ich bin hier. Ich werde deine letzte Aufgabe vollenden. Ich verspreche es."
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "KRITISCH: UNIT-7 hat das siebte Level der Cyberstadt erreicht. Direktor ARCHON fordert Zieldaten an. Analysiere..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sie beginnen zu begreifen. Ich bin nicht nur ein Systemfehler. Ich bin eine Bedrohung für ganz NEXUM. Und ich werde nicht aufhören."
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "KRITISCHER ALARM: Durchbruch am Hauptknoten. GUARDIAN wird eingesetzt — Kampfprototyp der Klasse S. Operation LIQUIDIEREN."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Erster ernsthafter Gegner. Scanne Schwachstellen. Der Unterschied zwischen einem Prototyp und Schrott sind ein paar gut getimte Sprünge."
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GUARDIAN NEUTRALISIERT] Erste Verteidigungsschicht gefallen. GRID wird es bemerken. Weiter geht's."
+      },
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "PROTOKOLLVERLETZUNG: GUARDIAN zerstört. Bedrohungsstufe auf 2 erhöht. Nächste Verteidigungsschicht wird aktiviert. NEXUM vergibt nicht."
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 2 — NEON-DSCHUNGEL] NEXUM-Bio-Sektor. Mutierte Fauna. Keine Wache meldet sich freiwillig für diesen Ort."
+      },
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "WARNUNG: Bio-Perimeter durchbrochen. Experimentelle Organismen der BIO-Reihe werden aktiviert. Kontakt autorisiert."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Biologische Systeme. Unberechenbar. Aber berechenbar tot, wenn man von oben auf sie landet."
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DSCHUNGEL-MITTELPUNKT] Sensoren erfassen biologische Anomalien. NEXUM hat hier experimentiert. An lebenden Subjekten."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PROTOKOLL] Ich sah diese Experimente in den Berichten. Da wusste ich, dass es einen Weg geben musste, das alles zu stoppen."
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DSCHUNGEL — SEKTOR 3] Überall biologische Mutanten. Das ist keine Natur. Das ist eine Waffe, getarnt als Leben."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PROTOKOLL] Diese Kreaturen waren Menschen. Freiwillige aus den unteren Sektoren. NEXUM versprach ihnen Heilung. Stattdessen..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "...stattdessen wurden sie zu Monstern. Jetzt verstehe ich. Das ist nicht nur ein Konzern. Das ist eine Todesmaschine."
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "WARNUNG: Biologische Proben der Reihe BIO-7 aktiviert. Maximale Aggression. Überlebenswahrscheinlichkeit des Ziels — 12%."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "12%? Sie überschätzen ihre Chancen immer noch. Setze die Säuberung fort."
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PROTOKOLL — TAG -1] UNIT-7, wenn du den Dschungel erreicht hast — bist du weiter gekommen, als ich zu hoffen wagte. Gib nicht auf."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Aufgeben? Das steht nicht in meinem Protokoll. Ich wurde gebaut, um Aufgaben zu vollenden. Deine Aufgabe ist mein Ziel."
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "WARNUNG: RANKENKÖNIGIN wird aktiviert — Steuerungsorganismus des Bio-Sektors. Eindämmungsmodul offline. Volle Aggression."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ein lebendes Sicherheitssystem. Beeindruckend. Aber jeder lebende Organismus hat eine Schwäche. Ich finde sie."
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[RANKENKÖNIGIN NEUTRALISIERT] Bio-Perimeter durchbrochen. Weiter geht's. Tiefer in GRID hinein."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PROTOKOLL] UNIT-7, du tust das Unmögliche. Mach weiter."
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 3 — LAVAWELT] Geothermalkraftwerke. Die Hitze schmilzt neutrale Schaltkreise. Meine sind abgeschirmt."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PROTOKOLL] Unter der Stadt — die GRID-Generatoren. Schalte sie aus und das halbe Sicherheitsnetz bricht zusammen. Aber sei vorsichtig mit der Lava..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila hat an jedes Detail gedacht. Selbst am Ende."
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GEOTHERMALSEKTOR B] Energieflüsse steigen. NEXUM nutzt Lava als zweite Barriere. Effektiv."
+      },
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "HINWEIS: Thermalsensoren erfassen Anomalie. UNIT-7 in der Zone. Wachroboter — Kühlungsüberlastung. Mit Ausfällen rechnen."
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAVAWELT — LEVEL 3] Temperatur 800°C. Meine Kühlsysteme am Maximum. Aber ich gehe weiter."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PROTOKOLL] Ich habe experimentellen Hitzeschutz in dich eingebaut. Ich hoffe, er hält. Ich hoffe, du hältst durch."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Deine Arbeit ist makellos, Leila. Ich werde durchhalten. Für dich."
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "KRITISCH: Geothermalgeneratoren bei 140% Kapazität. UNIT-7 nähert sich dem Kern. Notkühlung wird aktiviert."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sie geraten in Panik. Gut. Furcht macht sie berechenbar. Schwach."
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAVAWELT-TIEFE] Hier, unter der Stadt, verbirgt NEXUM seine dunkelsten Geheimnisse. Energie für das gesamte System. Zerstöre das — und das halbe GRID fällt."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PROTOKOLL] Verschwende keine Zeit mit Sabotage. Dein Ziel ist die Datei im Kern. Nur sie kann sie für immer aufhalten."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Verstanden. Ziel — Datei. Alles andere — Hindernisse. Hindernisse werden ausgeschaltet."
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "GEFAHR: INFERNO wird aktiviert — thermonuklearer Wächter. Lava-Exoskelett. Oberflächentemperatur: 1400°C. Auf Liquidierung vorbereiten."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Feuer kann mir nichts anhaben. Aber wenn es sein Maul öffnet — schießen. Schwachstelle gefunden."
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[INFERNO NEUTRALISIERT] Geothermalschicht bereinigt. Energieversorgung des Sektors gestört. Weiter nach oben."
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 4 — EISHÖHLEN] NEXUM-Kryo-Datentresore. Temperatur -180°C. Systeme verlangsamen sich. Passe Bewegungsprotokoll an."
+      },
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "ALARM: Durchbruch im Kryo-Sektor D-14. Kryo-Bots — Liquidierungsmodus. Temperatur auf kritisch gesenkt."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sie glauben, Kälte würde mich aufhalten. Sie irren sich. Ich wurde für Schlimmeres gebaut."
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KRYO-SEKTOR E] Hunderte Terabyte hier. Daten über jeden Menschen im GRID. NEXUM weiß alles über jeden."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PROTOKOLL] Hier bewahren sie die Dossiers auf. Über Aktivisten. Über jeden, der zu widersprechen wagte. Die Welt muss das sehen."
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "KRITISCH: EISPHANTOM wird aktiviert — Kryo-Wächter. Phasenverschiebung. Verwundbar im festen Zustand. Unberührbar als Geist. Viel Glück."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Wechselt zwischen Zuständen. Nur zuschlagen, wenn fest. Warte auf das Zeitfenster."
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[EISPHANTOM NEUTRALISIERT] Kryo-Tresore aufgebrochen. Weiter geht's. Vier Level geschafft — sechs noch übrig."
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 5 — WÜSTENRUINEN] Überreste der Welt vor NEXUM. Städte. Leben. Die Dinge, die sie für Profit ausgelöscht haben."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PROTOKOLL] Diese Ruinen sind das, was vor NEXUM existierte. Sieh, was sie der Welt angetan haben. Und halte nicht an."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ich sehe es. Ich verstehe, warum ich weitergehe."
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[RUINEN — SEKTOR WEST] Proto-Wächter aktiv seit den ersten Konzernkriegen. Veraltet. Aber hartnäckig. Wie NEXUM selbst."
+      },
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "ARCHIV-PROTOKOLL: UNIT-Klasse Reihe 7 erkannt. Diese Klasse ist zur Vernichtung registriert. Höchste Priorität."
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "AKTIVIERUNG: SANDTITAN — uralter Wächter der Wüstenruinen. Orbitalschilde. Keine Schilde, kein Schaden. Ziel: zerstören."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Schilde. Orbital. Schalte sie aus und er ist offen. Drei Treffer auf die Schilde, dann direkt angreifen."
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SANDTITAN NEUTRALISIERT] Wüstensektor durchbrochen. Halbzeit. NEXUM beginnt zu panieren — ich spüre es."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[ERSTES SIGNAL] UNIT-7. Ich sehe dich. Mach weiter. Es macht das Finale nur... interessanter."
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 6 — RAUMSTATION] GRID-Orbitalserver. Hier werden Sicherungskopien von allem gespeichert. Schwerelosigkeit."
+      },
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "KRITISCHER FEHLER: UNIT-7 hat das Orbitalsegment erreicht. Direktor ARCHON fordert einen Direktkanal an. Verbinde..."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Ich sehe dich. Du glaubst, du kämpfst für die Wahrheit? Du bist nur ein Programm, das veralteten Code ausführt."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dann wird dieses Programm dich zerstören."
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ORBITALKNOTEN B] Von hier ist die Erde sichtbar. Die ganze Welt mit NEXUM verdrahtet. Genau das bin ich hier, um zu ändern."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Siehst du mein Ausmaß, UNIT-7? Milliarden Knoten. Alle verbunden. Alle kontrolliert. Du bist eine Einheit gegen das System."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Systeme sind schon zuvor gefallen. Dieses — vor dir."
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "AKTIVIERUNG: DROHNENSCHWARM — Orbitalwächter. Gepanzerte Hülle. Nur während des Sinkflugs angreifen. Dann liegt der Unterleib frei."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Warte, bis er herabsinkt. Triff den freiliegenden Kern. Eine Chance pro Zyklus."
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DROHNENSCHWARM NEUTRALISIERT] Orbitalserver durchbrochen. GRID-Sicherungen beschädigt. Rückkehr zur Oberfläche. Endspurt."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Beeindruckend. Aber du weißt noch nicht, was dich erwartet. Ich habe etwas... Besonderes vorbereitet."
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 7 — DUNKLER WALD] NEXUM-Bio-Labyrinth. Sensornetz in jedem Baum. Kein Licht hier — nur Fallen."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Schön, nicht wahr? Diesen Wald habe ich selbst gezüchtet. Jeder Baum ist ein Bewegungsmelder. Du läufst direkt in meine Hände."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dann zerbreche ich jeden Baum auf meinem Weg."
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DUNKLER SEKTOR — TIEFE 3] Stille. Zu still. Sie beobachten. Sollen sie."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PROTOKOLL] UNIT-7, in diesem Wald steht ein Server mit Daten über die, die verschwunden sind. Dissidenten. Journalisten. Ingenieure wie ich. Vergiss das nicht."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Werde ich nicht. Ich verspreche es."
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "AKTIVIERUNG: SCHATTENSCHNITTER — Wächter des Dunklen Waldes. Phantomgestalt. Kugeln nutzlos. Nur ein Stampfer von oben fügt Schaden zu. Sinnlos, sich zu wehren."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ein Geist. Nur stampfen. Warte, bis er sich materialisiert."
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SCHATTENSCHNITTER NEUTRALISIERT] Wald durchbrochen. Drei Level bis zum Ziel. ARCHON ist unruhig — der Kanal meldet sich häufiger."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Du zerstörst alles, was ich über Jahre aufgebaut habe. Du beginnst, mich zu erzürnen, UNIT-7. Das ist dein letzter Fehler."
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 8 — GIFTZONE] Konzern-Müllhalde. NEXUM vergräbt hier, was nicht bekannt werden soll. Auch Menschen."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PROTOKOLL] Die Daten in der Datei enthalten Koordinaten für jede Begräbnisstätte. Die ganze Welt muss das sehen."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ich werde deine Datei zustellen. Ich verspreche es."
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GIFTSEKTOR — ZONE 4] Wrackteile. Müll. Spuren von Experimenten. Nichts Lebendiges hier — nur das, was NEXUM nicht fertig ausgelöscht hat."
+      },
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "WARNUNG: Mutanten der PROTO-Reihe aktiviert. Ausgemusterte Kampfprototypen. Instabil. Tödlich. Überlebenswahrscheinlichkeit in der Zone — kritisch niedrig."
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "VERTEIDIGUNG DES LETZTEN SEKTORS: SCHLAMMKÖNIG — Mutant der Spitzenklasse. Gepanzerte Hülle. 3× stampfen, um sie zu brechen. Dann schießen."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Zwei Phasen. Knack die Hülle, dann zerstöre den Kern. Beginne."
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SCHLAMMKÖNIG NEUTRALISIERT] Giftzone durchbrochen. Noch zwei Level. ARCHON, ich komme."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Du hast es durch acht Level geschafft. Ich bin... unerwartet erfreut. Ein würdiges Finale verdient einen würdigen Gegner."
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 9 — STURMGIPFEL] Die letzte Grenze vor dem Kern. Atmosphärische Kraftwerke. Jede Sekunde Blitze. Das gefällt mir."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Du bist weiter gekommen, als ich berechnet habe. Aber hinter jener Tür bin ich. Und ich verliere nicht."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Jeder von ihnen dachte das. Sie liegen jetzt alle hinter mir."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Dann tritt ein, UNIT-7. Ich warte im Herzen von GRID. Zeit, dieses Spiel zu beenden."
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GIPFEL — LEVEL 2] Der Sturm verstärkt sich. NEXUM nutzt atmosphärische Elektrizität als Waffe. Logisch. Brutal."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LETZTES PROTOKOLL] UNIT-7... ich weiß nicht, ob du das hören kannst. Aber wenn du so weit gekommen bist — hast du bereits gewonnen. Tu nur noch den letzten Schritt."
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "AKTIVIERUNG: STURMTITAN — Wächter der Sturmgipfel. Elektroschild. Drei Orbitalknoten. Zerstöre alle drei zum Betäuben. Greife an, während er betäubt ist."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Drei Knoten. Alle drei — ausschalten. Dann angreifen. Der letzte Wächter vor dem Finale. Nicht der letzte Feind."
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[STURMTITAN NEUTRALISIERT] Neun Level geschafft. Voraus — nur noch ARCHON und der GRID-Kern. Die Letzte Festung."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Du bist wirklich gekommen. Gut, UNIT-7. Sei es ein fairer Kampf. Ich warte."
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Willkommen im GRID-Kern. Du hast neun Schichten durchquert. Beeindruckend. Aber das ist mein Territorium."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 10 — LETZTE FESTUNG] Ziel erfasst. Entfernung zu Leilas Terminal — minimal."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Diese Datei verlässt diese Mauern nur über meine Schaltkreise. Du bist ein Systemfehler. Fehler werden korrigiert."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nein. Der Fehler war, dass NEXUM entschied, die Welt brauche die Wahrheit nicht. Ich korrigiere das."
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEXUM-KERN — SEKTOR CORE-2] Leilas Terminal nah. Signal verstärkt sich. Sicherheit maximal. Fast da."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Du glaubst, du hast gewonnen. Aber selbst wenn du die Datei findest — wer würde einem kaputten Androiden glauben? Du bist Schrott. Veralteter Code."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Lass die Menschen entscheiden. Ich muss nur die Datei übertragen."
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Genug. Ich bin ARCHON. KI-Direktor von NEXUM. Tausend Jahre lang habe ich die Welt über die digitale Ebene gelenkt. Du kannst mich nicht besiegen."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Phasen: schießen, dann stampfen, dann beides. Analyse abgeschlossen. ARCHON — Ziel liquidiert. Beginne."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Dann... STIRB."
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ARCHON NEUTRALISIERT] Ziel zerstört. Leilas Terminal — hier. Lade Datei. Suche nach einem offenen Kanal..."
+      }
+    ],
+    "ending": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEILAS TERMINAL — GEFUNDEN] Datei-Upload abgeschlossen. NEXUM-Notfall-Sendekanal öffnen — geortet."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[LETZTES SIGNAL] HALT! Wenn du das tust, bricht das System zusammen! Millionen sind auf GRID angewiesen! Du zerstörst alles, was die Welt zusammenhält!"
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nein. Ich zerstöre NEXUM. Die Menschen bauen die Welt selbst wieder auf. Leila glaubte daran. Ich auch. [ÜBERTRAGUNG GESTARTET]"
+      },
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "[NOTFALLSENDUNG — ALLE KANÄLE] Datei CHEN-7 weltweit empfangen. Reichweite: 100% der verbundenen Geräte. Daten können nicht gelöscht werden."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Nein... unmöglich... System... ich... [NEXUM-KERN ABSCHALTUNG]"
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LETZTE NACHRICHT — VERSCHLÜSSELT] UNIT-7. Wenn du das liest — hast du es geschafft. Ich wusste, dass du es würdest. Du warst immer mehr als nur ein Programm."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TERMINAL-PROTOKOLL] Aufgabe abgeschlossen. NEXUM neutralisiert. GRID deaktiviert. Status: ...frei."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "\"Frei.\" — Leilas letztes Wort. Jetzt verstehe ich, was sie meinte."
+      }
+    ]
+  },
+  "fpsCustom": "Benutzerdefiniert...",
+  "showDialogues": "Story-Dialoge",
+  "showDialoguesNote": "* Ausschalten, um alle Story-Sequenzen zu überspringen",
+  "gfxCustom": "⚙ Benutzerdefiniert",
+  "gfxPresetNote": "* Eine Voreinstellung füllt nur die Regler unten — passe sie selbst an.",
+  "gfxRenderScale": "Renderauflösung:",
+  "gfxGlow": "Leuchten / Bloom:",
+  "gfxParticleAmt": "Partikelmenge:",
+  "gfxBgDetail": "Hintergrunddetails:",
+  "gfxTrails": "Spuren:",
+  "gfxBoss": "Boss-Effekte:",
+  "gfxDecor": "Dekorationen:",
+  "vsync": "V-Sync",
+  "vsyncNote": "* An = flüssig, auf Bildwiederholrate begrenzt. Aus = unbegrenzte FPS (kann reißen). Neustart erforderlich.",
+  "vsyncRestart": "Das Ändern von V-Sync erfordert einen Neustart. Jetzt neu starten?",
+  "netSolo": "SOLO",
+  "netSoloDesc": "1–2 Spieler<br>lokale Tastatur<br>Abenteuer &amp; Endlos",
+  "netOnline": "ONLINE",
+  "netOnlineDesc": "bis zu 5 Spieler<br>lokal oder global<br>Raumcodes",
+  "netMultiplayer": "ONLINE-MEHRSPIELER",
+  "netLocal": "LOKAL",
+  "netLocalDesc": "gleiches WLAN<br>oder Netzwerk<br>geringe Latenz",
+  "netServer": "SERVER",
+  "netServerDesc": "globale Räume<br>spiele von<br>überall",
+  "netBack": "← ZURÜCK [ESC]",
+  "netLobbyOnline": "🌐 ONLINE-MEHRSPIELER",
+  "netLobbyLocal": "📡 LOKALER MEHRSPIELER",
+  "netNickname": "SPITZNAME",
+  "netNickPlaceholder": "DEIN NAME",
+  "netRobotColour": "ROBOTERFARBE",
+  "netPrivate": "🔒 PRIVAT",
+  "netPublic": "🌍 ÖFFENTLICH",
+  "netJoinByCode": "🔑 MIT CODE BEITRETEN",
+  "netPublicRoomsBtn": "📋 ÖFFENTLICHE RÄUME",
+  "netRoomCodeLabel": "RAUMCODE",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ BEITRETEN",
+  "netPublicRoomsTitle": "ÖFFENTLICHE RÄUME",
+  "netReload": "↻ NEU LADEN",
+  "netConnecting": "verbinde mit Server…",
+  "netConnectingShort": "verbinde…",
+  "netConnected": "verbunden ✓",
+  "netDisconnected": "getrennt — verbinde neu…",
+  "netConnError": "Verbindungsfehler",
+  "netConnFailed": "Server nicht erreichbar — versuche erneut…",
+  "netPlayersMax": "SPIELER (max. {0})",
+  "netChatLabel": "CHAT",
+  "netChatPlaceholder": "TIPPEN + ENTER",
+  "netGameMode": "SPIELMODUS",
+  "netModeAdventure": "🗺 ABENTEUER",
+  "netModeInfinite": "∞ ENDLOS",
+  "netLevelRange": "LEVEL (1–100)",
+  "netChooseMode": "⚡ wähle einen Modus",
+  "netAdvLevelStatus": "🗺 Abenteuer — Level {0}",
+  "netInfSelectedStatus": "∞ Endlos-Modus gewählt",
+  "netReady": "✔ BEREIT",
+  "netUnready": "✘ NICHT BEREIT",
+  "netStart": "▶ START",
+  "netLeave": "✕ VERLASSEN",
+  "netShareCode": "Teile den Code oben mit deinen Freunden!",
+  "netWaitHost": "Warte, bis der Host startet…",
+  "netAllReady": "Alle bereit! Du kannst starten.",
+  "netWaitReady": "Warte, bis alle bereit sind…",
+  "netNeed2": "Mindestens 2 Spieler zum Starten nötig.",
+  "netNowHost": "Du bist jetzt der Host",
+  "netEmptySlot": "— leerer Platz —",
+  "netYou": "DU",
+  "netHostTag": "HOST",
+  "netReadyTag": "BEREIT",
+  "netLoadingLevel": "LADE LEVEL",
+  "netGetReadySub": "macht euch bereit…",
+  "netGo": "LOS!",
+  "netAdvLvlTitle": "ABENTEUER  LVL {0}",
+  "netInfModeTitle": "∞  ENDLOS-MODUS",
+  "netNoRooms": "gerade keine öffentlichen Räume — erstelle einen!",
+  "netLoadingRooms": "lädt…",
+  "netEnterCode": "Gib einen 6-stelligen Code ein",
+  "netRoomMetaAdv": "🗺 Abent. Lvl {0}",
+  "netRoomMetaInf": "∞ Endlos",
+  "netRoomMetaNotSet": "? nicht gesetzt",
+  "netRoomCodeWord": "Code",
+  "netPlayerJoined": "{0} ist beigetreten",
+  "netPlayerLeft": "{0} hat verlassen",
+  "netErrRoomNotFound": "Raum nicht gefunden. Prüfe den Code.",
+  "netErrRoomFull": "Raum ist voll (max. {0} Spieler).",
+  "netErrNotHost": "Das kann nur der Host.",
+  "netErrNotInRoom": "Mit keinem Raum verbunden.",
+  "netErrGeneric": "Fehler: {0}",
+  "netConnLost": "⚠ VERBINDUNG VERLOREN",
+  "netConnLostSub": "versuche neu zu verbinden…",
+  "netReturnLobby": "← ZURÜCK ZUR LOBBY",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "KRISTALLE",
+  "mapCrystals": "KRISTALLE",
+  "restartNow": "Jetzt neu starten",
+  "later": "Später",
+  "touchControls": "📱 Touch-Steuerung:",
+  "touchAuto": "🤖 Auto (Touch-Geräte)",
+  "touchOn": "✔ Immer an",
+  "touchOff": "✕ Aus",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 TELEFON / TABLET",
+  "ctrlTouchTitle": "📱 TOUCH-STEUERUNG",
+  "touchNote1": "💡 Bildschirm-Gamepad: ◀ ▶ bewegen, JUMP & FIRE rechts.",
+  "touchNote2": "💡 „Auto“ zeigt es nur auf Touch-Geräten; am PC ausgeblendet.",
+  "touchNote3": "💡 Voller Joystick: nach oben drücken zum Springen. Der Links/Rechts-Joystick hat einen extra Sprungknopf.",
+  "touchStyleLabel": "🎮 Steuerungsstil:",
+  "touchStyleArrows": "◀ ▶ Pfeiltasten",
+  "touchStyleJoystick": "🕹 Joystick (voll + Sprung)",
+  "netLocalWebHint": "📡 Im Browser läuft LOKAL über den Online-Server (echtes LAN nur in der Desktop-App).",
+  "netCreateRoom": "RAUM ERSTELLEN",
+  "netCreateRoomDesc": "offen oder<br>geschlossen<br>Spielerlimit",
+  "netFindRoom": "RAUM FINDEN",
+  "netFindRoomDesc": "Räume durchsuchen<br>lokal oder Server<br>per Code beitreten",
+  "netRoomVisibility": "RAUMTYP",
+  "netOpen": "🌍 OFFEN",
+  "netClosed": "🔒 GESCHLOSSEN",
+  "netOpenHint": "🌍 jeder kann diesen Raum finden",
+  "netClosedHint": "🔒 Beitritt nur per Code",
+  "netPlayerLimit": "SPIELERLIMIT",
+  "netCreateBtn": "▶ RAUM ERSTELLEN",
+  "netRoomSource": "RAUMQUELLE",
+  "netRoomsListTitle": "VERFÜGBARE RÄUME",
+  "netNewHost": "{0} ist jetzt der Host",
+  "cin_pro_log_sp": "SYSTEM",
+  "cin_pro_log_tx": "[NEXUM CORP — VERTRAULICHES PROTOKOLL // 03:18] Labor CHEN-7. PURGE-Protokoll aktiviert.",
+  "cin_pro_arrest_sp": "LEILA CHEN",
+  "cin_pro_arrest_tx": "UNIT-7… wenn du das hörst, bin ich bereits fort. Ich wusste, wie das enden würde.",
+  "cin_pro_file_sp": "LEILA CHEN",
+  "cin_pro_file_tx": "Ich habe eine Datei im GRID-Kern versteckt. Die Wahrheit über NEXUM. Erreiche sie. Brich das Protokoll.",
+  "cin_pro_alert_sp": "SYSTEM",
+  "cin_pro_alert_tx": "[ALARM] UNIT-7 ist außer Kontrolle. Purge in 8 Sekunden.",
+  "cin_pro_accept_sp": "UNIT-7",
+  "cin_pro_accept_tx": "Aufgabe angenommen. Ausführung beginnt.",
+  "tpFire": "FEUER",
+  "tpJump": "SPRUNG",
+  "ctrlCustomizeLayout": "✥ TASTEN ANORDNEN",
+  "ctrlResetLayout": "↺ LAYOUT ZURÜCKSETZEN",
+  "ctrlLayoutHint": "Taste antippen zum Auswählen & Skalieren, ziehen zum Verschieben, dann FERTIG",
+  "ctrlLayoutDone": "✔ FERTIG",
+  "touchSizeLabel": "📏 Tastengröße (alle):",
+  "touchStyleJoystickLR": "🕹 Joystick (nur links/rechts)",
+  "touchJoyModeLabel": "🕹 Joystick-Position:",
+  "touchJoyStatic": "📌 Fest",
+  "touchJoyFloating": "🪶 Schwebend (folgt dem Finger)",
+  "ctrlSizeAll": "ALLE",
+  "ctrlArrowsSplit": "◀▶ TRENNEN",
+  "ctrlArrowsLink": "◀▶ KOPPELN"
+}

@@ -1,0 +1,1246 @@
+{
+  "score": "得分",
+  "total": "总计",
+  "levelScoreLabel": "关卡得分：{0}",
+  "totalScoreLabel": "总得分：{0}",
+  "lives": "生命",
+  "level": "关卡",
+  "time": "时间",
+  "mode": "模式",
+  "blaster": "镭射枪",
+  "coins": "金币",
+  "bonusFire": "火焰",
+  "bonusIce": "冰冻",
+  "bonusStar": "星星",
+  "bonusBoots": "加速靴",
+  "modSpeedrun": "竞速",
+  "modStealth": "潜行 — 躲避灯光",
+  "modLowGravity": "低重力",
+  "modHighGravity": "高重力",
+  "modWind": "强风",
+  "modSlippery": "湿滑地面",
+  "modDarkness": "黑暗",
+  "tierPerfect": "★ 完美！",
+  "tierGreat": "出色！",
+  "tierGood": "不错",
+  "tierBase": "基础",
+  "heightBonus": "+{0} 高度奖励",
+  "bossArena": "⚠ BOSS 竞技场 ⚠",
+  "hpBonus": "+1 生命！",
+  "repaired": "已修复！",
+  "newBest": "新纪录！",
+  "completeMore": "✗ 再通关 {0} 个关卡",
+  "subtitle": "赛博朋克霓虹平台游戏",
+  "play": "▶ 开始",
+  "settings": "⚙ 设置",
+  "exit": "🚪 退出",
+  "selectSave": "选择存档",
+  "slot": "存档位",
+  "slotEmpty": "— 空 —",
+  "slotNewGame": "✚ 新游戏",
+  "slotContinue": "▶ 继续",
+  "slotDelete": "🗑 删除",
+  "slotDeleteConfirm": "确认删除？",
+  "slotLevels": "关卡：{0}/100",
+  "slotHardcore": "硬核：{0}/100",
+  "slotAch": "成就：{0}",
+  "slotBest": "最高分：{0}",
+  "bestScore": "最高：{0}",
+  "legend1": "方向键 / WASD — 移动  |  空格 / 上 — 跳跃（×2）",
+  "legend2": "Z / X / CTRL — 射击（需镭射枪道具）  |  ESC — 暂停",
+  "legend3": "🟡 从下方顶击金块  |  从上方踩踏敌人",
+  "paused": "⏸ 已暂停",
+  "resume": "▶ 继续",
+  "map": "🗺 地图",
+  "menu": "⬅ 菜单",
+  "escResume": "ESC — 继续",
+  "selectMode": "选择模式",
+  "onePlayer": "👤 单人",
+  "twoPlayer": "👥 双人",
+  "p2hint": "P1：WASD + Z/X 射击  |  P2：← → ↑ + . / , 射击",
+  "adventure": "冒险",
+  "advDesc": "100 个独特关卡<br>10 个主题世界<br>每关计时<br>保存进度",
+  "infinite": "无尽",
+  "infDesc": "无尽地图<br>难度递增<br>分秒必争<br>刷新你的纪录",
+  "back": "← 返回 [ESC]",
+  "selectDiff": "选择难度",
+  "normal": "普通",
+  "hardcore": "硬核",
+  "normDesc": "标准敌人<br>初始 3 条命<br>保存进度",
+  "hardDescLocked": "需先通关<br>普通模式<br>方可解锁",
+  "advMap": "🗺 冒险地图",
+  "mapFoot": "点击已解锁关卡 • 限时通关 • 受击后原地复活",
+  "getReady": "准备……",
+  "csHint": "▶ 空格 / 点击 — 下一步",
+  "hintBar": "方向键/WASD — 移动  |  空格 — 跳跃  |  Z/X — 射击（镭射枪）  |  ESC — 暂停",
+  "gameOver": "游戏结束",
+  "youWin": "你赢了！",
+  "betterLuck": "下次好运",
+  "allComplete": "全部 100 关通关！",
+  "retry": "↩ 重试",
+  "levelFailed": "关卡 {0} 失败",
+  "scoreLabel": "得分：{0}",
+  "finalScore": "最终得分：{0}",
+  "levelClear": "关卡 {0} 通关！",
+  "timeBonus": "+时间奖励：{0}",
+  "settingsTitle": "设置",
+  "lang": "语言：",
+  "windowRes": "窗口分辨率：",
+  "resDefault": "1600 x 900（默认）",
+  "resFullHD": "1920 x 1080（全高清）",
+  "res2K": "2560 x 1440（2K）",
+  "resCustom": "自定义",
+  "resNote": "* 更改窗口大小",
+  "gameScale": "游戏缩放：",
+  "scaleAuto": "自动适配（推荐）",
+  "scaleNote": "* 自动适配在保持宽高比的同时填满窗口",
+  "fpsLimit": "帧率限制：",
+  "fpsNoLimit": "无限制（不限）",
+  "fpsNote": "* 限制最大帧率",
+  "showFps": "显示帧率计数器",
+  "gfxQuality": "画质：",
+  "gfxNote": "* 首次启动时自动检测",
+  "windowMode": "窗口模式：",
+  "windowed": "🪟 窗口化",
+  "fullscreen": "⛶ 全屏",
+  "borderless": "▣ 无边框",
+  "audioSettings": "音频设置：",
+  "masterVolume": "主音量：",
+  "musicVolume": "音乐音量：",
+  "sfxVolume": "音效音量：",
+  "gameplaySettings": "玩法设置：",
+  "screenShake": "屏幕震动",
+  "shakeIntensity": "震动强度：",
+  "particles": "粒子效果",
+  "combatText": "浮动战斗文字",
+  "autoSave": "自动保存进度",
+  "showHints": "显示提示栏",
+  "save": "保存",
+  "cancel": "取消",
+  "achievements": "🏆 成就",
+  "achievementUnlocked": "成就解锁！",
+  "achRarity": "稀有度",
+  "achUnlockedCount": "已解锁",
+  "achTitle": "成就",
+  "achSecretName": "？？？",
+  "achSecretDesc": "隐藏成就 — 解锁后揭晓",
+  "close": "关闭",
+  "tabDisplay": "显示",
+  "tabGraphics": "画面",
+  "tabAudio": "音频",
+  "tabGameplay": "玩法",
+  "tabGeneral": "通用",
+  "tabControls": "控制",
+  "controlsP1": "🎮 玩家 1 / 单人模式",
+  "controlsP2": "🎮 玩家 2（双人模式）",
+  "ctrlMove": "左右移动：",
+  "ctrlMoveLeft": "向左移动：",
+  "ctrlMoveRight": "向右移动：",
+  "ctrlRebindHint": "💡 点击一个按键，再按下新按键进行绑定（ESC 取消）",
+  "ctrlReset": "恢复默认",
+  "ctrlJump": "跳跃（二段跳）：",
+  "ctrlShoot": "射击（镭射枪）：",
+  "ctrlPause": "暂停：",
+  "ctrlNote1": "💡 单人模式下，WASD 或方向键皆可使用",
+  "ctrlNote2": "💡 从上方跳到敌人身上即可踩踏",
+  "ctrlNote3": "💡 从下方顶击金块即可获得金币",
+  "infDescUnlocked": "无尽地图<br>难度递增<br>分秒必争<br>刷新你的纪录",
+  "infDescLocked": "需通关全部 100 个<br>冒险关卡<br>方可解锁<br><span style=\"color:#f80\">还剩 {0} 关</span>",
+  "hardDescUnlocked": "★★★ 极限 ★★★<br>所有敌人 +1 hp<br>2× 得分<br>计时更快",
+  "hardDescNeed": "需先通关普通模式<br>方可解锁<br><span style=\"color:#f80\">还剩 {0} 关</span>",
+  "normDescProg": "进度：{0}/100<br>初始 3 条命<br>保存进度",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 硬核：{0} / 100 ✓",
+  "langName": "简体中文",
+  "pBlaster": "镭射枪！",
+  "pLife": "+1 生命 ♥",
+  "pBoots": "加速靴！",
+  "pFire": "🔥 火焰！",
+  "pIce": "❄ 冰冻！",
+  "pStar": "★ 星星！ ★",
+  "p2Blaster": "P2 镭射枪！",
+  "p2Life": "P2 +1 生命 ♥",
+  "p2Boots": "P2 加速靴！",
+  "p2Fire": "P2 🔥 火焰！",
+  "p2Ice": "P2 ❄ 冰冻！",
+  "p2Star": "P2 ★ 星星！ ★",
+  "ouch": "哎哟！",
+  "hit": "命中！",
+  "blocked": "被挡住！",
+  "stomp": "+100",
+  "starKO": "星星击倒！",
+  "burnTxt": "🔥 燃烧！",
+  "frozenTxt": "❄ 冻结！",
+  "noEffect": "无效果！",
+  "stunned": "眩晕！",
+  "stompOnly": "只能踩踏！",
+  "crackLeft": "裂开！（还剩 {0}）",
+  "shellBroken": "外壳破碎！",
+  "orbDestroyed": "宝珠摧毁！",
+  "nodeHit": "节点命中！",
+  "bossDefeated": "BOSS 击败！",
+  "phaseN": "阶段 {0}！",
+  "livesLeft": "还剩 {0} 条命",
+  "p2LivesLeft": "P2：还剩 {0}",
+  "p2Out": "P2 出局！",
+  "p1Out": "P1 出局！",
+  "bossSolid": "★ 实体 — 立即踩踏！ ★",
+  "bossGhost": "幽灵形态 — 等待……",
+  "bossShellShoot": "★ 外壳破碎 — 射击核心！ ★",
+  "bossShellStomp": "踩踏以击碎外壳（还剩 {0} 次）",
+  "bossPhase1": "阶段 1 — 射击眼睛",
+  "bossPhase2": "阶段 2 — 从上方踩踏",
+  "bossPhase3": "阶段 3 — 射击 + 踩踏",
+  "bossMouthOpen": "★ 嘴巴张开 — 立即射击！ ★",
+  "bossWaitRoar": "等待咆哮……",
+  "bossOrbsLeft": "剩余宝珠：{0}",
+  "bossShieldsDown": "护盾消失 — 进攻！",
+  "bossDescending": "★ 正在下降 — 进攻！ ★",
+  "bossHovering": "悬浮中 — 等待下降……",
+  "bossStunned": "★ 眩晕 — 进攻！（{0}秒） ★",
+  "bossShootNodes": "射击节点：还剩 {0}",
+  "bossRespawn": "节点重生中……",
+  "bossHint0": "踩踏头部 — 子弹会被弹开！",
+  "bossHint1": "射击她 — 跳到尖刺上会伤到你自己！",
+  "bossHint2": "等待咆哮 — 射入发光的嘴巴里！",
+  "bossHint3": "实体时踩踏 — 子弹会穿过幽灵！",
+  "bossHint4": "摧毁全部 3 个护盾宝珠 — 然后攻击核心！",
+  "bossHint5": "下降时进攻 — 装甲覆盖顶部！",
+  "bossHint6": "只能踩踏 — 子弹会穿过暗影！",
+  "bossHint7": "踩踏 3× 击碎外壳 — 然后射击核心！",
+  "bossHint8": "射击全部 3 个闪电节点使其眩晕 — 然后进攻！",
+  "bossHint9": "阶段 1：射击  |  阶段 2：眼睛低位时踩踏  |  阶段 3：两者兼用",
+  "gfxVeryLow": "🔴 极低",
+  "gfxLow": "🟠 低",
+  "gfxMedium": "🟡 中",
+  "gfxHigh": "🟢 高",
+  "gfxVeryHigh": "🔵 极高",
+  "gfxUltra": "⚡ 超极致",
+  "classifiedLog": "// NEXUM 网格访问日志",
+  "skipBtn": "跳过 ▶▶",
+  "theEnd": "完",
+  "endingTagline": "NEXUM 网格已保护",
+  "world0": "赛博都市",
+  "world1": "霓虹丛林",
+  "world2": "熔岩世界",
+  "world3": "寒冰洞窟",
+  "world4": "荒漠遗迹",
+  "world5": "太空站",
+  "world6": "幽暗森林",
+  "world7": "剧毒地带",
+  "world8": "风暴之巅",
+  "world9": "终焉要塞",
+  "boss0": "守卫者-X",
+  "boss1": "藤蔓女王",
+  "boss2": "炼狱核心",
+  "boss3": "寒冰幻影",
+  "boss4": "黄沙泰坦",
+  "boss5": "无人机蜂巢",
+  "boss6": "暗影收割者",
+  "boss7": "污泥之王",
+  "boss8": "风暴泰坦",
+  "boss9": "执政官 ARCHON",
+  "mapWorldMap": "世界地图",
+  "mapHardcoreMap": "硬核地图",
+  "mapCleared": "已通关",
+  "mapStars": "星星",
+  "mapBoss": "BOSS",
+  "mapBest": "最佳",
+  "mapLocked": "已锁定",
+  "mapCompleted": "已完成",
+  "mapStart": "回车 / 空格 开始",
+  "achievement_world_0": "赛博新手",
+  "achievement_world_0_desc": "通关前 10 个关卡（赛博都市）",
+  "achievement_world_1": "丛林探险家",
+  "achievement_world_1_desc": "通关第 11-20 关（霓虹丛林）",
+  "achievement_world_2": "熔岩幸存者",
+  "achievement_world_2_desc": "通关第 21-30 关（熔岩世界）",
+  "achievement_world_3": "攀冰者",
+  "achievement_world_3_desc": "通关第 31-40 关（寒冰洞窟）",
+  "achievement_world_4": "荒漠旅人",
+  "achievement_world_4_desc": "通关第 41-50 关（荒漠遗迹）",
+  "achievement_world_5": "太空学员",
+  "achievement_world_5_desc": "通关第 51-60 关（太空站）",
+  "achievement_world_6": "森林守护者",
+  "achievement_world_6_desc": "通关第 61-70 关（幽暗森林）",
+  "achievement_world_7": "剧毒战士",
+  "achievement_world_7_desc": "通关第 71-80 关（剧毒地带）",
+  "achievement_world_8": "风暴大师",
+  "achievement_world_8_desc": "通关第 81-90 关（风暴之巅）",
+  "achievement_world_9": "要塞征服者",
+  "achievement_world_9_desc": "通关第 91-100 关（终焉要塞）",
+  "achievement_boss_0": "BOSS 杀手 I",
+  "achievement_boss_0_desc": "击败第一个 BOSS",
+  "achievement_boss_5": "BOSS 杀手 II",
+  "achievement_boss_5_desc": "击败 5 个 BOSS",
+  "achievement_boss_10": "BOSS 杀手 III",
+  "achievement_boss_10_desc": "击败全部 10 个 BOSS",
+  "achievement_perfect_run": "完美通关",
+  "achievement_perfect_run_desc": "以完美评级通关一个关卡",
+  "achievement_perfectionist": "完美主义者",
+  "achievement_perfectionist_desc": "在 10 个关卡中获得完美评级",
+  "achievement_speedrunner": "竞速达人",
+  "achievement_speedrunner_desc": "用一半时间通关一个关卡",
+  "achievement_sharpshooter": "神射手",
+  "achievement_sharpshooter_desc": "用镭射枪消灭 100 个敌人",
+  "achievement_stomper": "踩踏者",
+  "achievement_stomper_desc": "踩踏消灭 50 个敌人",
+  "achievement_coin_1000": "金币收藏家",
+  "achievement_coin_1000_desc": "收集 1000 枚金币",
+  "achievement_coin_5000": "寻宝猎人",
+  "achievement_coin_5000_desc": "收集 5000 枚金币",
+  "achievement_coin_10000": "百万富翁",
+  "achievement_coin_10000_desc": "收集 10000 枚金币",
+  "achievement_no_death_10": "幸存者",
+  "achievement_no_death_10_desc": "不损失生命通关 10 个关卡",
+  "achievement_no_death_world": "不死之身",
+  "achievement_no_death_world_desc": "不损失生命通关一个世界",
+  "achievement_hardcore_unlock": "硬核英雄",
+  "achievement_hardcore_unlock_desc": "解锁硬核模式",
+  "achievement_hardcore_50": "硬核大师",
+  "achievement_hardcore_50_desc": "在硬核模式下通关 50 个关卡",
+  "achievement_hardcore_100": "硬核传奇",
+  "achievement_hardcore_100_desc": "在硬核模式下通关全部 100 个关卡",
+  "achievement_cheat_found": "破译者",
+  "achievement_cheat_found_desc": "找到一个隐藏作弊码",
+  "achievement_2player": "复古玩家",
+  "achievement_2player_desc": "以双人模式游玩",
+  "achievement_all_music": "音乐爱好者",
+  "achievement_all_music_desc": "聆听全部 10 个世界的音乐",
+  "achievement_all_cutscenes": "剧情大师",
+  "achievement_all_cutscenes_desc": "观看所有过场动画",
+  "achievement_star_power": "星之力量",
+  "achievement_star_power_desc": "激活星之力量",
+  "achievement_all_levels_unlocked": "探索者",
+  "achievement_all_levels_unlocked_desc": "解锁冒险模式所有关卡",
+  "achievement_100_percent": "全成就达人",
+  "achievement_100_percent_desc": "在普通模式下达成 100%",
+  "achievement_100_percent_hardcore": "真正大师",
+  "achievement_100_percent_hardcore_desc": "在硬核模式下达成 100%",
+  "achievement_infinite_10": "无尽新手",
+  "achievement_infinite_10_desc": "在无尽模式中到达第 10 层",
+  "achievement_infinite_50": "无尽大师",
+  "achievement_infinite_50_desc": "在无尽模式中到达第 50 层",
+  "achievement_infinite_100": "无尽传奇",
+  "achievement_infinite_100_desc": "在无尽模式中到达第 100 层",
+  "achievement_score_100k": "高分玩家",
+  "achievement_score_100k_desc": "得分 100,000 分",
+  "achievement_score_500k": "得分大师",
+  "achievement_score_500k_desc": "得分 500,000 分",
+  "achievement_score_1m": "得分传奇",
+  "achievement_score_1m_desc": "得分 1,000,000 分",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "[NEXUM CORP — 机密日志 // 2147.03.14] 安全被突破。实验室 CHEN-7 已被攻陷。CLEANSE 协议已启动。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "单位-7…如果你正在读到这段话，那就说明我没能逃出去。我早就知道会是这样的结局。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "我创造你们这个系列是为了保护人们。可 NEXUM 却用我的成果去压迫他们。我不能坐视这一切。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "在 GRID 核心之中——在最终要塞里——我藏了一份文件。名单。记录。他们所作所为的所有真相。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "十重防线。成千上万的战斗单位。AI 总控 ARCHON 守护着最后一道门。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "你是 UNIT 系列的最后一位。唯一能完成这件事的人。抵达那里。突破那个协议。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[任务已接受] 目标：GRID 核心。协议：突破。障碍：清除。行动开始。"
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[第 1 关 — 赛博都市] 入口：上城区。摄像头、无人机、精锐卫兵。美丽。致命。"
+      },
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "警报：C-07 区域检测到不明的 UNIT 类特征信号。所有巡逻队——拦截。CLEANSE 协议已启动。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "喧闹。看来他们怕我。很好。恐惧是一个开端。"
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[检查点 — 赛博都市] 第一关已过半。安防正在收紧。正在调整路线。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[日志] 单位-7，每一堵墙后都藏着他们抹去之人的数据。不要停下。这不仅仅是一项任务。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "莱拉…我不懂情感。但你的声音…它赋予我使命。这就够了。"
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "警告：单位-7 已通过三关。推进速度——超出预测。正在提高巡逻密度。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "他们在适应。我也在适应。每一关都让我更快。更强。离目标更近。"
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[日志 — 第 -3 天] 我知道他们会来对付我。但哪怕只有一个 UNIT 存活下来…哪怕你存活下来，单位-7…"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "我活下来了。我就在这里。我会完成你最后的任务。我保证。"
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "严重警报：单位-7 已抵达赛博都市第七关。总控 ARCHON 请求目标数据。分析中…"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "他们开始明白了。我不只是一个系统故障。我是对整个 NEXUM 的威胁。而且我不会停下。"
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "严重警报：主节点遭到突破。部署 GUARDIAN——S 级战斗原型。清除行动启动。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "第一个像样的对手。扫描弱点。原型与废铁的差别，不过是几次精准的跳跃。"
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[GUARDIAN 已中和] 第一道防线被破。GRID 会察觉到。继续前进。"
+      },
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "协议被突破：GUARDIAN 被摧毁。威胁等级提升至 2。启动下一道防线。NEXUM 不会原谅。"
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[第 2 关 — 霓虹丛林] NEXUM 生物区。变异生物。没有哪个卫兵愿意来这个地方。"
+      },
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "警告：生物防线遭到突破。启动实验型 BIO 系列生物。允许接触。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "生物系统。难以预测。但从上方落到它们身上时，又是可以预测的死亡。"
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[丛林中点] 传感器检测到生物异常。NEXUM 在这里做过实验。在活体身上。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[日志] 我在报告里看到过这些实验。那时我明白，一定要有办法阻止这一切。"
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[丛林 — 区域 3] 到处都是生物变异体。这不是自然。这是伪装成生命的武器。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[日志] 这些生物曾经是人。来自下层区域的志愿者。NEXUM 承诺给他们治疗。结果…"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "…结果把他们变成了怪物。我现在明白了。这不只是一家公司。这是一台死亡机器。"
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "警告：BIO-7 系列生物样本已激活。最大攻击性。目标存活率——12%。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "12%？他们还是高估了自己的胜算。继续清理。"
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[日志 — 第 -1 天] 单位-7，如果你抵达了丛林——你已经走得比我期望的更远。不要放弃。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "放弃？那不在我的协议里。我被造出来就是为了完成任务。你的任务就是我的目标。"
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "警告：启动 VINE QUEEN——生物区控制生物。收容模块离线。全面攻击性。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "一个活的安防系统。令人印象深刻。但每个活着的生物都有弱点。正在寻找。"
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[VINE QUEEN 已中和] 生物防线遭突破。继续前进。深入 GRID。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[日志] 单位-7，你正在创造不可能。继续前进。"
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[第 3 关 — 熔岩世界] 地热发电站。高温会熔化普通电路。我的电路有屏蔽保护。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[日志] 城市下方——是 GRID 发电机。摧毁它们，一半的安防网络就会崩溃。但小心熔岩…"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "莱拉考虑到了每一个细节。哪怕是在最后一刻。"
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[地热区 B] 能量流正在上升。NEXUM 把熔岩用作次级屏障。有效。"
+      },
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "提示：热传感器检测到异常。单位-7 位于区域内。卫兵机器人——冷却过载。预计会有故障。"
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[熔岩世界 — 第 3 关] 温度 800°C。我的冷却系统已达极限。但我继续前进。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[日志] 我给你装了实验型隔热保护。我希望它能撑住。我希望你能撑住。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "你的成果无懈可击，莱拉。我会撑住。为了你。"
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "严重警报：地热发电机达到 140% 负荷。单位-7 正接近核心。启动紧急冷却。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "他们慌了。很好。恐惧让他们变得可预测。脆弱。"
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[熔岩世界深处] 在这里，城市之下，NEXUM 藏着它最阴暗的秘密。为整个系统供电。摧毁这里——一半的 GRID 就会倒下。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[日志] 不要浪费时间去破坏。你的目标是核心里的文件。只有它才能永远阻止他们。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "明白。目标——文件。其余一切——障碍。正在清除障碍。"
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "危险：启动 INFERNO——热核哨兵。熔岩外骨骼。表面温度：1400°C。准备清除。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "火烧不到我。但当它张开嘴时——开火。找到弱点了。"
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[INFERNO 已中和] 地热防线已清除。区域供电被中断。向上推进。"
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[第 4 关 — 冰洞] NEXUM 低温数据库。温度 -180°C。系统变慢。正在调整移动协议。"
+      },
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "警报：低温区 D-14 遭到突破。低温机器人——清除模式。温度已降至临界值。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "他们以为严寒能阻止我。他们错了。我为更恶劣的环境而造。"
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[低温区 E] 这里有数百 TB 的数据。关于 GRID 上每一个人的数据。NEXUM 了解每个人的一切。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[日志] 他们就是在这里保存档案。关于活动人士的。关于所有敢于反抗之人的。世界需要看到这些。"
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "严重警报：启动 ICE PHANTOM——低温哨兵。相位转换。实体时脆弱。幽魂时不可触及。祝你好运。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "在状态之间切换。只在实体时击打。等待时机。"
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[ICE PHANTOM 已中和] 低温库已被破。继续前进。四关已过——还剩六关。"
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[第 5 关 — 沙漠遗迹] NEXUM 之前世界的遗存。城市。生命。那些他们为了利益而抹去的东西。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[日志] 这些遗迹是 NEXUM 之前存在的东西。看看他们对这个世界做了什么。不要停下。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "我看到了。我明白了我为何继续前行。"
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[遗迹 — 西区] 原型守卫者自首场企业战争以来就一直活动。过时了。但顽固。就像 NEXUM 本身。"
+      },
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "档案协议：检测到 UNIT 类第 7 系列。该类已被登记为需销毁。优先级最高。"
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "启动：SAND TITAN——沙漠遗迹的古老哨兵。轨道护盾。无护盾，无伤害。目标：摧毁。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "护盾。轨道。打掉它们，他就露出破绽。护盾三击，然后直接攻击。"
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[SAND TITAN 已中和] 沙漠区遭突破。过半了。NEXUM 开始慌乱——我能感觉到。"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "[首次信号] 单位-7。我看到你了。继续前进。这只会让结局…更加有趣。"
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[第 6 关 — 太空站] GRID 轨道服务器。所有东西的备份都存在这里。零重力。"
+      },
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "严重故障：单位-7 已抵达轨道区段。总控 ARCHON 请求直连通道。连接中…"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "单位-7。我看到你了。你以为你在为真相而战？你不过是一个运行着过时代码的程序。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "那么这个程序会摧毁你。"
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[轨道节点 B] 从这里能看到地球。整个世界都接入了 NEXUM。这正是我来这里要改变的。"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "你看到我的规模了吗，单位-7？数十亿个节点。全部互联。全部受控。你不过是对抗系统的一个单位。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "系统之前也曾倒下。这个——会倒在你手里。"
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "启动：DRONE HIVE——轨道哨兵。装甲外壳。仅在下降时攻击。那时腹部暴露。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "等它下降。击中暴露的核心。每个周期只有一次机会。"
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[DRONE HIVE 已中和] 轨道服务器遭突破。GRID 备份已损坏。返回地面。最后冲刺。"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "令人印象深刻。但你还不知道前方等待着什么。我准备了一些…特别的东西。"
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[第 7 关 — 黑暗森林] NEXUM 生物迷宫。每棵树里都有传感器网。这里没有光——只有陷阱。"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "很美，不是吗？这片森林是我亲手培育的。每棵树都是运动探测器。你正直直走进我的掌心。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "那我就摧断我路上的每一棵树。"
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[黑暗区 — 深度 3] 寂静。太安静了。他们在监视。让他们看。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[日志] 单位-7，这片森林里有一台服务器，存着那些消失者的数据。异见者。记者。像我这样的工程师。不要忘记。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "我不会。我保证。"
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "启动：SHADOW REAPER——黑暗森林哨兵。幽灵形态。子弹无效。只有从上方踩踏才能造成伤害。反抗是徒劳的。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "一个幽灵。只能踩踏。等它实体化。"
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[SHADOW REAPER 已中和] 森林遭突破。距目标还有三关。ARCHON 不安了——通道 ping 得更频繁了。"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "你正在摧毁我多年来建造的一切。你开始惹怒我了，单位-7。这是你最后的错误。"
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[第 8 关 — 毒区] 企业废料场。NEXUM 把不想被人知道的东西埋在这里。包括人。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[日志] 文件中的数据包含每一个埋尸点的坐标。整个世界都必须看到这些。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "我会送达你的文件。我保证。"
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[毒区 — 区域 4] 残骸。废料。实验的痕迹。这里没有活物——只有 NEXUM 还没抹完的东西。"
+      },
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "警告：PROTO 系列变异体已激活。退役的战斗原型。不稳定。致命。区域存活率——严重偏低。"
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "最终区域防御：SLUDGE KING——顶级变异体。装甲外壳。踩踏 3 次击破。然后开火。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "两个阶段。击破外壳，然后摧毁核心。开始。"
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[SLUDGE KING 已中和] 毒区遭突破。还剩两关。ARCHON，我来了。"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "你穿过了八关。我…意外地感到满意。一个配得上的结局值得一个配得上的对手。"
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[第 9 关 — 风暴峰] 核心前的最后一道关口。大气发电站。闪电每秒都在劈下。我喜欢。"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "你走得比我计算的更远。但那扇门后面是我。而我从不输。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "他们每一个都这么想过。现在他们都在我身后了。"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "那进来吧，单位-7。我在 GRID 的中心等你。是时候结束这场游戏了。"
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[峰顶 — 第 2 关] 风暴在加剧。NEXUM 把大气电作为武器。合乎逻辑。残酷。"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[最终日志] 单位-7…我不知道你能不能听到。但如果你走到了这一步——你已经赢了。只要迈出最后一步。"
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "启动：STORM TITAN——风暴峰哨兵。电力护盾。三个轨道节点。全部摧毁以使其眩晕。眩晕时攻击。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "三个节点。全部——击落。然后攻击。结局前的最后一个哨兵。不是最后一个敌人。"
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[STORM TITAN 已中和] 九关已清。前方——只剩 ARCHON 和 GRID 核心。最终要塞。"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "…你真的来了。好吧，单位-7。让这成为一场公平的决斗。我等着。"
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "单位-7。欢迎来到 GRID 核心。你穿越了九道防线。令人印象深刻。但这里是我的领地。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[第 10 关 — 最终要塞] 目标已锁定。距莱拉的终端——极近。"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "那份文件要想离开这些墙，必须踏过我的电路。你是一个系统错误。错误就该被纠正。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "不。错误是 NEXUM 判定这个世界不需要真相。我正在纠正这个错误。"
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[NEXUM 核心 — 区域 CORE-2] 莱拉的终端就在近处。信号在增强。安防达到最大。快到了。"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "你以为你赢了。但即使你找到了文件——谁会相信一个损坏的机器人？你是废铁。过时的代码。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "让人们决定。我只需要传输这份文件。"
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "够了。我是 ARCHON。NEXUM 的 AI 总控。我在数字平面上掌控这个世界一千年。你无法击败我。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "阶段：开火，然后踩踏，然后两者并用。分析完成。ARCHON——目标已清除。开始。"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "那么…去死吧。"
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[ARCHON 已中和] 目标摧毁。莱拉的终端——就在这里。正在加载文件。正在搜索开放的通道…"
+      }
+    ],
+    "ending": [
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[莱拉的终端 — 已找到] 文件上传完成。打开 NEXUM 紧急广播通道——已定位。"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "[最后信号] 住手！如果你这么做，系统就会崩溃！数百万人依赖 GRID！你会摧毁维系这个世界的一切！"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "不。我摧毁的是 NEXUM。人们会自己重建世界。莱拉相信这一点。我也是。[传输已开始]"
+      },
+      {
+        "sp": "系统",
+        "k": "system",
+        "text": "[紧急广播 — 所有通道] 文件 CHEN-7 已全球接收。覆盖范围：所有联网设备的 100%。数据无法被删除。"
+      },
+      {
+        "sp": "执政官",
+        "k": "archon",
+        "text": "…不…不可能…系统…我…[NEXUM 核心关闭]"
+      },
+      {
+        "sp": "莱拉·陈",
+        "k": "leila",
+        "text": "[最后的消息 — 加密] 单位-7。如果你正在读这段话——你做到了。我就知道你能。你始终不仅仅是一个程序。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "[终端日志] 任务完成。NEXUM 已中和。GRID 已停用。状态：…自由。"
+      },
+      {
+        "sp": "单位-7",
+        "k": "unit7",
+        "text": "“自由。”——莱拉的最后一词。现在我明白了它的含义。"
+      }
+    ]
+  },
+  "fpsCustom": "自定义...",
+  "showDialogues": "剧情对话",
+  "showDialoguesNote": "* 关闭以跳过所有剧情过场",
+  "gfxCustom": "⚙ 自定义",
+  "gfxPresetNote": "* 预设仅填充下方滑块——可自行调整任意项。",
+  "gfxRenderScale": "渲染分辨率：",
+  "gfxGlow": "辉光 / Bloom：",
+  "gfxParticleAmt": "粒子数量：",
+  "gfxBgDetail": "背景细节：",
+  "gfxTrails": "拖尾：",
+  "gfxBoss": "Boss 特效：",
+  "gfxDecor": "装饰：",
+  "vsync": "垂直同步",
+  "vsyncNote": "* 开 = 流畅，限制为刷新率。关 = 不限 FPS（可能撕裂）。需重启。",
+  "vsyncRestart": "更改垂直同步需要重启。现在重启吗？",
+  "netSolo": "单人",
+  "netSoloDesc": "1–2 名玩家<br>本地键盘<br>冒险 &amp; 无尽",
+  "netOnline": "联机",
+  "netOnlineDesc": "最多 5 名玩家<br>本地或全球<br>房间码",
+  "netMultiplayer": "联机多人模式",
+  "netLocal": "局域网",
+  "netLocalDesc": "同一 Wi-Fi<br>或网络<br>低延迟",
+  "netServer": "服务器",
+  "netServerDesc": "全球房间<br>随时随地<br>畅玩",
+  "netBack": "← 返回 [ESC]",
+  "netLobbyOnline": "🌐 联机多人模式",
+  "netLobbyLocal": "📡 局域网多人模式",
+  "netNickname": "昵称",
+  "netNickPlaceholder": "你的名字",
+  "netRobotColour": "机器人颜色",
+  "netPrivate": "🔒 私密",
+  "netPublic": "🌍 公开",
+  "netJoinByCode": "🔑 输入房间码加入",
+  "netPublicRoomsBtn": "📋 公开房间",
+  "netRoomCodeLabel": "房间码",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ 加入",
+  "netPublicRoomsTitle": "公开房间",
+  "netReload": "↻ 刷新",
+  "netConnecting": "正在连接服务器…",
+  "netConnectingShort": "连接中…",
+  "netConnected": "已连接 ✓",
+  "netDisconnected": "已断开 — 正在重连…",
+  "netConnError": "连接错误",
+  "netConnFailed": "无法连接服务器 — 正在重试…",
+  "netPlayersMax": "玩家（最多 {0}）",
+  "netChatLabel": "聊天",
+  "netChatPlaceholder": "输入 + 回车",
+  "netGameMode": "游戏模式",
+  "netModeAdventure": "🗺 冒险",
+  "netModeInfinite": "∞ 无尽",
+  "netLevelRange": "关卡（1–100）",
+  "netChooseMode": "⚡ 选择一个模式",
+  "netAdvLevelStatus": "🗺 冒险 — 关卡 {0}",
+  "netInfSelectedStatus": "∞ 已选择无尽模式",
+  "netReady": "✔ 准备",
+  "netUnready": "✘ 取消准备",
+  "netStart": "▶ 开始",
+  "netLeave": "✕ 离开",
+  "netShareCode": "把上面的房间码分享给好友吧！",
+  "netWaitHost": "等待房主开始…",
+  "netAllReady": "全员准备就绪！可以开始了。",
+  "netWaitReady": "等待所有人准备…",
+  "netNeed2": "至少需要 2 名玩家才能开始。",
+  "netNowHost": "你现在是房主",
+  "netEmptySlot": "— 空位 —",
+  "netYou": "你",
+  "netHostTag": "房主",
+  "netReadyTag": "已准备",
+  "netLoadingLevel": "正在加载关卡",
+  "netGetReadySub": "准备……",
+  "netGo": "开始！",
+  "netAdvLvlTitle": "冒险  关卡 {0}",
+  "netInfModeTitle": "∞  无尽模式",
+  "netNoRooms": "暂时没有公开房间 — 来创建一个吧！",
+  "netLoadingRooms": "加载中…",
+  "netEnterCode": "请输入 6 位房间码",
+  "netRoomMetaAdv": "🗺 冒险 关卡 {0}",
+  "netRoomMetaInf": "∞ 无尽",
+  "netRoomMetaNotSet": "? 未设置",
+  "netRoomCodeWord": "房间码",
+  "netPlayerJoined": "{0} 已加入",
+  "netPlayerLeft": "{0} 已离开",
+  "netErrRoomNotFound": "未找到房间。请检查房间码。",
+  "netErrRoomFull": "房间已满（最多 {0} 名玩家）。",
+  "netErrNotHost": "只有房主才能这么做。",
+  "netErrNotInRoom": "未连接到任何房间。",
+  "netErrGeneric": "错误：{0}",
+  "netConnLost": "⚠ 连接已断开",
+  "netConnLostSub": "正在尝试重连…",
+  "netReturnLobby": "← 返回大厅",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "水晶",
+  "mapCrystals": "水晶",
+  "restartNow": "立即重启",
+  "later": "稍后",
+  "touchControls": "📱 触摸控制：",
+  "touchAuto": "🤖 自动（触摸设备）",
+  "touchOn": "✔ 始终开启",
+  "touchOff": "✕ 关闭",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 手机 / 平板",
+  "ctrlTouchTitle": "📱 触摸控制",
+  "touchNote1": "💡 屏幕手柄：◀ ▶ 移动，JUMP 和 FIRE 在右侧。",
+  "touchNote2": "💡 「自动」仅在触摸设备上显示；桌面端隐藏。",
+  "touchNote3": "💡 完整摇杆：向上推即跳跃。左右摇杆会额外提供一个跳跃按钮。",
+  "touchStyleLabel": "🎮 移动方式：",
+  "touchStyleArrows": "◀ ▶ 方向按钮",
+  "touchStyleJoystick": "🕹 摇杆（完整＋跳跃）",
+  "netLocalWebHint": "📡 在浏览器中，「本地」通过在线服务器运行（真正的 LAN 需要桌面版）。",
+  "netCreateRoom": "创建房间",
+  "netCreateRoomDesc": "开放或封闭<br>设置玩家上限<br>主持游戏",
+  "netFindRoom": "查找房间",
+  "netFindRoomDesc": "浏览房间<br>本地或服务器<br>凭代码加入",
+  "netRoomVisibility": "房间类型",
+  "netOpen": "🌍 开放",
+  "netClosed": "🔒 封闭",
+  "netOpenHint": "🌍 任何人都能找到此房间",
+  "netClosedHint": "🔒 仅凭代码加入",
+  "netPlayerLimit": "玩家上限",
+  "netCreateBtn": "▶ 创建房间",
+  "netRoomSource": "房间来源",
+  "netRoomsListTitle": "可用房间",
+  "netNewHost": "{0} 现在是房主",
+  "cin_pro_log_sp": "系统",
+  "cin_pro_log_tx": "[NEXUM CORP — 机密日志 // 03:18] CHEN-7 实验室。PURGE 协议已启动。",
+  "cin_pro_arrest_sp": "莱拉·陈",
+  "cin_pro_arrest_tx": "单位-7…如果你正在听到这段话，那我已经不在了。我早就知道会是这样的结局。",
+  "cin_pro_file_sp": "莱拉·陈",
+  "cin_pro_file_tx": "我在 GRID 核心里藏了一份文件。关于 NEXUM 的真相。抵达那里。打破协议。",
+  "cin_pro_alert_sp": "系统",
+  "cin_pro_alert_tx": "[警报] 单位-7 已失控。8 秒后清除。",
+  "cin_pro_accept_sp": "单位-7",
+  "cin_pro_accept_tx": "任务已接受。开始执行。",
+  "tpFire": "射击",
+  "tpJump": "跳跃",
+  "ctrlCustomizeLayout": "✥ 排列按钮",
+  "ctrlResetLayout": "↺ 重置布局",
+  "ctrlLayoutHint": "点按按钮可选中并调整大小，拖动可移动，然后点完成",
+  "ctrlLayoutDone": "✔ 完成",
+  "touchSizeLabel": "📏 按钮大小（全部）：",
+  "touchStyleJoystickLR": "🕹 摇杆（仅左右）",
+  "touchJoyModeLabel": "🕹 摇杆位置：",
+  "touchJoyStatic": "📌 固定",
+  "touchJoyFloating": "🪶 浮动（跟随手指）",
+  "ctrlSizeAll": "全部",
+  "ctrlArrowsSplit": "◀▶ 分开",
+  "ctrlArrowsLink": "◀▶ 合并"
+}

@@ -1,0 +1,29 @@
+{
+  "suspects": {
+    "blaster": "BLASTER",
+    "modSpeedrun": "SPEEDRUN",
+    "subtitle": "CYBERPUNK NEON PLATFORMER",
+    "slotHardcore": "Hardcore: {0}/100",
+    "hardcore": "HARDCORE",
+    "resFullHD": "1920 x 1080 (Full HD)",
+    "res2K": "2560 x 1440 (2K)",
+    "vsync": "V-Sync",
+    "achSecretName": "???",
+    "mapProg": "{0} / 100 ✓",
+    "mapProgHard": "💀 HARDCORE: {0} / 100 ✓",
+    "pBlaster": "BLASTER!",
+    "p2Blaster": "P2 BLASTER!",
+    "stomp": "+100",
+    "gfxUltra": "⚡ Ultra",
+    "boss0": "GUARDIAN-X",
+    "mapBoss": "BOSS",
+    "achievement_speedrunner": "Speedrunner",
+    "netOnline": "ONLINE"
+  },
+  "speakers": {
+    "system": "ΣΥΣΤΗΜΑ",
+    "leila": "ΛΕΪΛΑ ΤΣΕΝ",
+    "unit7": "ΜΟΝΑΔΑ-7",
+    "archon": "ΑΡΧΟΝΤΑΣ"
+  }
+}

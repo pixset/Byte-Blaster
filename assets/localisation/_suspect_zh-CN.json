@@ -1,0 +1,13 @@
+{
+  "suspects": {
+    "mapProg": "{0} / 100 ✓",
+    "stomp": "+100",
+    "mapBoss": "BOSS"
+  },
+  "speakers": {
+    "system": "系统",
+    "leila": "莱拉·陈",
+    "unit7": "单位-7",
+    "archon": "执政官"
+  }
+}

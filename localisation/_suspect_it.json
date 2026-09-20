@@ -1,0 +1,34 @@
+{
+  "suspects": {
+    "blaster": "BLASTER",
+    "tierBase": "BASE",
+    "slot": "SLOT",
+    "slotHardcore": "Hardcore: {0}/100",
+    "menu": "⬅ MENU",
+    "hardcore": "HARDCORE",
+    "gameOver": "GAME OVER",
+    "resFullHD": "1920 x 1080 (Full HD)",
+    "res2K": "2560 x 1440 (2K)",
+    "vsync": "V-Sync",
+    "achSecretName": "???",
+    "tabAudio": "AUDIO",
+    "mapProg": "{0} / 100 ✓",
+    "mapProgHard": "💀 HARDCORE: {0} / 100 ✓",
+    "pBlaster": "BLASTER!",
+    "stomp": "+100",
+    "gfxUltra": "⚡ Ultra",
+    "boss0": "GUARDIAN-X",
+    "mapBoss": "BOSS",
+    "netSolo": "SOLO",
+    "netOnline": "ONLINE",
+    "netServer": "SERVER",
+    "netChatLabel": "CHAT",
+    "netHostTag": "HOST"
+  },
+  "speakers": {
+    "system": "SISTEMA",
+    "leila": "LEILA CHEN",
+    "unit7": "UNIT-7",
+    "archon": "ARCHON"
+  }
+}

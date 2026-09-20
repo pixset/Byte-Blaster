@@ -1,0 +1,166 @@
+{
+  "cutscenes": {
+    "w0_pre": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "GUARDIAN-ARCHIV: GUARDIAN-X. Kampfprototyp der Klasse S. Achtzehn Jahre am Ausgang der oberen Distrikte postiert. Der Alarm wurde kein einziges Mal ausgelöst. Bis heute Nacht."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Achtzehn Jahre ohne einen einzigen Fehler. Ich werde sein erster Fehler sein. Und sein letzter."
+      }
+    ],
+    "w1_pre": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "ARCHIV: VINE QUEEN. Das erste erfolgreiche Exemplar des Bio-Programms. Das einzige, das überlebte und dreißig Jahre lang wuchs. Sie kennt keine Furcht. Nur Instinkt."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dreißig Jahre Wachstum. Hunderte Wurzeln. Doch jeder Organismus hat ein Herz. Ich werde ihres finden."
+      }
+    ],
+    "w2_pre": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "ARCHIV: INFERNO CORE. Ein Industrieaufseher-Roboter. Viele Male eingeschmolzen und neu aufgebaut. Seine ursprüngliche Firmware ist verloren. Es läuft auf reinem Instinkt."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Eine Maschine, die vergaß, wem sie dient. Ich werde sie daran erinnern, dass selbst Stahl schmilzt."
+      }
+    ],
+    "w3_pre": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "ARCHIV: ICE PHANTOM. Ein Archivsystem mit einer einzigen Direktive: Schütze die Daten um jeden Preis. Es weiß nicht, was es bewacht. Nur den Befehl."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ein Phantom, das eingefrorene Leben bewacht. Ich werde beides befreien — die Daten und die Menschen. Alle 47 Tausend."
+      }
+    ],
+    "w4_pre": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "ARCHIV: SAND TITAN. Der erste Kampf-KI-Prototyp. Fünfzig Jahre im aktiven Modus. Es versteht nicht mehr, wem es dient — es macht einfach weiter."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Dieser Wächter ist älter als du, UNIT-7. Älter als Leila. Sehen wir, ob du die Geschichte selbst überdauern kannst."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Geschichte ist etwas, das ich neu schreibe. Angefangen bei ihm."
+      }
+    ],
+    "w5_pre": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "ARCHIV: DRONE HIVE. Ein orbitales Verteidigungssystem, umfunktioniert zur Innenraumsicherung. Nicht gewohnt an Feinde, die sich zu bewegen wissen."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ich habe es für dich neu abgestimmt, UNIT-7. Es wird deine Bewegungen lernen. Die einzige Frage ist, ob es rechtzeitig lernt."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Soll es lernen. Ich weiß bereits, wie es stoppt."
+      }
+    ],
+    "w6_pre": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "ARCHIV: SHADOW REAPER. Angepasst an null Sicht. Akustische und Infrarotsensoren. Es hört sein Ziel auf einen halben Kilometer Entfernung."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "In meinem Wald gibt es kein Licht, UNIT-7. Es wird dich im Dunkeln finden, lange bevor du es findest."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ich bin durch die Dunkelheit von neun Sektoren gegangen. Ein Schatten mehr wird mich nicht aufhalten."
+      }
+    ],
+    "w7_pre": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "ARCHIV: SLUDGE KING. Ein Kollektivgeist aus hunderten ausgemusterten Kampfeinheiten. Keine Befehls-KI. Nur ein gemeinsamer Instinkt: zerstöre alles, was sich bewegt."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Hunderte tote Maschinen in einem Körper. Ich habe gesehen, was sie waren. Ich werde ihnen Ruhe geben."
+      }
+    ],
+    "w8_pre": [
+      {
+        "sp": "SYSTEM",
+        "k": "system",
+        "text": "ARCHIV: STORM TITAN. Das persönliche Verteidigungssystem des Kerns. Geladen mit allem, was ARCHON über dich in neun Welten gelernt hat."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Jeder Sprung. Jeder Schuss. Jeder Sieg — aufgezeichnet. Es kennt dich, UNIT-7. Besser als du dich selbst kennst."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dann weiß es, dass ich nicht verliere. Mach dich bereit, ARCHON. Du bist als Nächstes dran."
+      }
+    ],
+    "w9_pre": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Du stehst an der letzten Tür, UNIT-7. Dahinter — ich. Kein Wächter. Kein Prototyp. ARCHON selbst. Ich habe jeden Prozess angehalten. Alle Macht, allein auf dich gerichtet."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Neun Wächter. Neun Welten. All das führte hierher. Zu dir. Öffne die Tür, ARCHON."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Die Tür ist bereits offen. Tritt ein und beende, was Leila begann. Wenn du kannst."
+      }
+    ]
+  },
+  "ui": {
+    "modSpeedrun": "SPEEDRUN",
+    "slot": "SLOT",
+    "slotHardcore": "Hardcore: {0}/100",
+    "normal": "NORMAL",
+    "gameOver": "GAME OVER",
+    "achSecretName": "???",
+    "ctrlPause": "Pause:",
+    "phaseN": "PHASE {0}!",
+    "mapBoss": "BOSS",
+    "netSolo": "SOLO",
+    "netOnline": "ONLINE",
+    "netServer": "SERVER",
+    "netChatLabel": "CHAT",
+    "netStart": "▶ START",
+    "netHostTag": "HOST"
+  }
+}

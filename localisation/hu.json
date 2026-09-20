@@ -1,0 +1,1246 @@
+{
+  "score": "PONT",
+  "total": "ÖSSZ",
+  "levelScoreLabel": "PÁLYAPONT: {0}",
+  "totalScoreLabel": "ÖSSZPONT: {0}",
+  "lives": "ÉLET",
+  "level": "PÁLYA",
+  "time": "IDŐ",
+  "mode": "MÓD",
+  "blaster": "BLÁSZTER",
+  "coins": "ÉRME",
+  "bonusFire": "TŰZ",
+  "bonusIce": "JÉG",
+  "bonusStar": "CSILLAG",
+  "bonusBoots": "GYORS",
+  "modSpeedrun": "SPEEDRUN",
+  "modStealth": "LOPAKODÁS — KERÜLD A FÉNYT",
+  "modLowGravity": "ALACSONY GRAVITÁCIÓ",
+  "modHighGravity": "MAGAS GRAVITÁCIÓ",
+  "modWind": "ERŐS SZÉL",
+  "modSlippery": "CSÚSZÓS PADLÓ",
+  "modDarkness": "SÖTÉTSÉG",
+  "tierPerfect": "★ TÖKÉLETES!",
+  "tierGreat": "NAGYSZERŰ!",
+  "tierGood": "JÓ",
+  "tierBase": "ALAP",
+  "heightBonus": "+{0} MAGASSÁGI BÓNUSZ",
+  "bossArena": "⚠ FŐNÖK ARÉNA ⚠",
+  "hpBonus": "+1 ÉLET!",
+  "repaired": "MEGJAVÍTVA!",
+  "newBest": "ÚJ REKORD!",
+  "completeMore": "✗ TELJESÍTS MÉG {0} PÁLYÁT",
+  "subtitle": "CYBERPUNK NEON PLATFORMER",
+  "play": "▶ JÁTÉK",
+  "settings": "⚙ BEÁLLÍTÁSOK",
+  "exit": "🚪 KILÉPÉS",
+  "selectSave": "MENTÉS VÁLASZTÁSA",
+  "slot": "HELY",
+  "slotEmpty": "— ÜRES —",
+  "slotNewGame": "✚ ÚJ JÁTÉK",
+  "slotContinue": "▶ FOLYTATÁS",
+  "slotDelete": "🗑 TÖRLÉS",
+  "slotDeleteConfirm": "TÖRLÉS MEGERŐSÍTÉSE?",
+  "slotLevels": "Pályák: {0}/100",
+  "slotHardcore": "Hardcore: {0}/100",
+  "slotAch": "Teljesítmények: {0}",
+  "slotBest": "Legjobb pont: {0}",
+  "bestScore": "REKORD: {0}",
+  "legend1": "NYILAK / WASD — MOZGÁS  |  SZÓKÖZ / FEL — UGRÁS (×2)",
+  "legend2": "Z / X / CTRL — LÖVÉS (blászter kell)  |  ESC — SZÜNET",
+  "legend3": "🟡 ÜSD AZ ARANY BLOKKOKAT ALULRÓL  |  TAPOSD LE AZ ELLENSÉGEKET FELÜLRŐL",
+  "paused": "⏸ SZÜNET",
+  "resume": "▶ FOLYTATÁS",
+  "map": "🗺 TÉRKÉP",
+  "menu": "⬅ MENÜ",
+  "escResume": "ESC — FOLYTATÁS",
+  "selectMode": "MÓD VÁLASZTÁSA",
+  "onePlayer": "👤 1 JÁTÉKOS",
+  "twoPlayer": "👥 2 JÁTÉKOS",
+  "p2hint": "J1: WASD + Z/X lövés  |  J2: ← → ↑ + . / , lövés",
+  "adventure": "KALAND",
+  "advDesc": "100 egyedi pálya<br>10 tematikus világ<br>időmérő pályánként<br>haladás mentése",
+  "infinite": "VÉGTELEN",
+  "infDesc": "végtelen pályák<br>növekvő nehézség<br>versenyezz az idővel<br>döntsd meg a rekordod",
+  "back": "← VISSZA [ESC]",
+  "selectDiff": "NEHÉZSÉG VÁLASZTÁSA",
+  "normal": "NORMÁL",
+  "hardcore": "HARDCORE",
+  "normDesc": "normál ellenségek<br>3 élet az induláskor<br>haladás mentése",
+  "hardDescLocked": "előbb teljesítsd<br>a normál módot<br>a feloldáshoz",
+  "advMap": "🗺 KALANDTÉRKÉP",
+  "mapFoot": "KATTINTS A FELOLDOTT PÁLYÁRA • TELJESÍTS IDŐRE • TALÁLATKOR HELYBEN ÚJRAÉLEDSZ",
+  "getReady": "KÉSZÜLJ FEL...",
+  "csHint": "▶ SZÓKÖZ / KATTINTÁS — TOVÁBB",
+  "hintBar": "NYILAK/WASD — MOZGÁS  |  SZÓKÖZ — UGRÁS  |  Z/X — LÖVÉS (blászter)  |  ESC — SZÜNET",
+  "gameOver": "VÉGE A JÁTÉKNAK",
+  "youWin": "NYERTÉL!",
+  "betterLuck": "LEGKÖZELEBB TÖBB SZERENCSÉT",
+  "allComplete": "MIND A 100 PÁLYA TELJESÍTVE!",
+  "retry": "↩ ÚJRA",
+  "levelFailed": "{0}. PÁLYA SIKERTELEN",
+  "scoreLabel": "PONT: {0}",
+  "finalScore": "VÉGSŐ PONT: {0}",
+  "levelClear": "{0}. PÁLYA TELJESÍTVE!",
+  "timeBonus": "+IDŐBÓNUSZ: {0}",
+  "settingsTitle": "BEÁLLÍTÁSOK",
+  "lang": "Nyelv:",
+  "windowRes": "Ablak felbontása:",
+  "resDefault": "1600 x 900 (Alapért.)",
+  "resFullHD": "1920 x 1080 (Full HD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "Egyéni",
+  "resNote": "* Megváltoztatja az ablak méretét",
+  "gameScale": "Játék mérete:",
+  "scaleAuto": "Auto-illesztés (ajánlott)",
+  "scaleNote": "* Az auto-illesztés kitölti az ablakot a méretarány megtartásával",
+  "fpsLimit": "FPS korlát:",
+  "fpsNoLimit": "Nincs korlát",
+  "fpsNote": "* Korlátozza a maximális képkockaszámot",
+  "showFps": "FPS-számláló mutatása",
+  "gfxQuality": "Grafika minősége:",
+  "gfxNote": "* Az első indításkor automatikusan beállítva",
+  "windowMode": "Ablak mód:",
+  "windowed": "🪟 Ablakos",
+  "fullscreen": "⛶ Teljes képernyő",
+  "borderless": "▣ Keret nélküli",
+  "audioSettings": "Hangbeállítások:",
+  "masterVolume": "Fő hangerő:",
+  "musicVolume": "Zene hangereje:",
+  "sfxVolume": "Effekt hangereje:",
+  "gameplaySettings": "Játékmenet-beállítások:",
+  "screenShake": "Képernyőrázás",
+  "shakeIntensity": "Rázás erőssége:",
+  "particles": "Részecskék",
+  "combatText": "Lebegő harci szöveg",
+  "autoSave": "Automatikus mentés",
+  "showHints": "Tippsáv mutatása",
+  "save": "MENTÉS",
+  "cancel": "MÉGSE",
+  "achievements": "🏆 TELJESÍTMÉNYEK",
+  "achievementUnlocked": "TELJESÍTMÉNY FELOLDVA!",
+  "achRarity": "Ritkaság",
+  "achUnlockedCount": "Feloldva",
+  "achTitle": "TELJESÍTMÉNYEK",
+  "achSecretName": "???",
+  "achSecretDesc": "Titkos teljesítmény — oldd fel a felfedéshez",
+  "close": "BEZÁRÁS",
+  "tabDisplay": "KÉPERNYŐ",
+  "tabGraphics": "GRAFIKA",
+  "tabAudio": "HANG",
+  "tabGameplay": "JÁTÉKMENET",
+  "tabGeneral": "ÁLTALÁNOS",
+  "tabControls": "IRÁNYÍTÁS",
+  "controlsP1": "🎮 1. JÁTÉKOS / EGYJÁTÉKOS",
+  "controlsP2": "🎮 2. JÁTÉKOS (kétjátékos mód)",
+  "ctrlMove": "Mozgás balra/jobbra:",
+  "ctrlMoveLeft": "Mozgás balra:",
+  "ctrlMoveRight": "Mozgás jobbra:",
+  "ctrlRebindHint": "💡 Kattints egy gombra, majd nyomd meg az új gombot a hozzárendeléshez (ESC a megszakítás)",
+  "ctrlReset": "VISSZAÁLLÍTÁS ALAPÉRTELMEZETTRE",
+  "ctrlJump": "Ugrás (dupla ugrás):",
+  "ctrlShoot": "Lövés (blászter):",
+  "ctrlPause": "Szünet:",
+  "ctrlNote1": "💡 Egyjátékos módban a WASD vagy a nyilak is használhatók",
+  "ctrlNote2": "💡 Taposd le az ellenségeket felülről rájuk ugorva",
+  "ctrlNote3": "💡 Üsd az arany blokkokat alulról az érmékért",
+  "infDescUnlocked": "végtelen pályák<br>növekvő nehézség<br>versenyezz az idővel<br>döntsd meg a rekordod",
+  "infDescLocked": "teljesítsd mind a 100<br>kalandpályát<br>a feloldáshoz<br><span style=\"color:#f80\">{0} maradt</span>",
+  "hardDescUnlocked": "★★★ EXTRÉM ★★★<br>+1 hp minden ellenségnek<br>2× pont<br>gyorsabb időmérők",
+  "hardDescNeed": "előbb teljesítsd a NORMÁL<br>módot a feloldáshoz<br><span style=\"color:#f80\">{0} pálya maradt</span>",
+  "normDescProg": "haladás: {0}/100<br>3 élet az induláskor<br>haladás mentése",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 HARDCORE: {0} / 100 ✓",
+  "langName": "Magyar",
+  "pBlaster": "BLÁSZTER!",
+  "pLife": "+1 ÉLET ♥",
+  "pBoots": "GYORSÍTÓ CSIZMA!",
+  "pFire": "🔥 TŰZ!",
+  "pIce": "❄ JÉG!",
+  "pStar": "★ CSILLAG! ★",
+  "p2Blaster": "J2 BLÁSZTER!",
+  "p2Life": "J2 +1 ÉLET ♥",
+  "p2Boots": "J2 GYORSÍTÓ CSIZMA!",
+  "p2Fire": "J2 🔥 TŰZ!",
+  "p2Ice": "J2 ❄ JÉG!",
+  "p2Star": "J2 ★ CSILLAG! ★",
+  "ouch": "AÚ!",
+  "hit": "TALÁLAT!",
+  "blocked": "BLOKKOLVA!",
+  "stomp": "+100",
+  "starKO": "CSILLAG KO!",
+  "burnTxt": "🔥 ÉG!",
+  "frozenTxt": "❄ MEGFAGYOTT!",
+  "noEffect": "NINCS HATÁS!",
+  "stunned": "KÁBULT!",
+  "stompOnly": "CSAK TAPOSÁS!",
+  "crackLeft": "REPEDÉS! ({0} maradt)",
+  "shellBroken": "PÁNCÉL ÖSSZETÖRT!",
+  "orbDestroyed": "GÖMB MEGSEMMISÍTVE!",
+  "nodeHit": "CSOMÓPONT TALÁLAT!",
+  "bossDefeated": "FŐNÖK LEGYŐZVE!",
+  "phaseN": "{0}. FÁZIS!",
+  "livesLeft": "{0} ÉLET MARADT",
+  "p2LivesLeft": "J2: {0} MARADT",
+  "p2Out": "J2 KIESETT!",
+  "p1Out": "J1 KIESETT!",
+  "bossSolid": "★ SZILÁRD — TAPOSD MOST! ★",
+  "bossGhost": "szellem forma — várj...",
+  "bossShellShoot": "★ PÁNCÉL ÖSSZETÖRT — LŐDD A MAGOT! ★",
+  "bossShellStomp": "TAPOSD a páncél feltöréséhez ({0} találat maradt)",
+  "bossPhase1": "1. FÁZIS — LŐDD A SZEMET",
+  "bossPhase2": "2. FÁZIS — TAPOSD FELÜLRŐL",
+  "bossPhase3": "3. FÁZIS — LŐJ + TAPOSS",
+  "bossMouthOpen": "★ SZÁJ NYITVA — LŐJ MOST! ★",
+  "bossWaitRoar": "várj az üvöltésre...",
+  "bossOrbsLeft": "MARADÉK GÖMBÖK: {0}",
+  "bossShieldsDown": "PAJZSOK LEKERÜLTEK — TÁMADJ!",
+  "bossDescending": "★ EREZKEDIK — TÁMADJ! ★",
+  "bossHovering": "lebeg — várj a leereszkedésre...",
+  "bossStunned": "★ KÁBULT — TÁMADJ! ({0}s) ★",
+  "bossShootNodes": "LŐDD A CSOMÓPONTOKAT: {0} MARADT",
+  "bossRespawn": "csomópontok újraéledése...",
+  "bossHint0": "TAPOSD A FEJET — a lövedékek lepattannak!",
+  "bossHint1": "LŐDD ŐT — a tüskékre ugrás TÉGED sebez!",
+  "bossHint2": "VÁRD AZ ÜVÖLTÉST — lőj a fénylő szájba!",
+  "bossHint3": "TAPOSD AMIKOR SZILÁRD — a lövedékek átmennek a szellemen!",
+  "bossHint4": "SEMMISÍTSD MEG MIND A 3 PAJZSGÖMBÖT — aztán támadd a magot!",
+  "bossHint5": "TÁMADJ A LEERESZKEDÉSKOR — a páncél fedi a tetejét!",
+  "bossHint6": "CSAK TAPOSÁS — a lövedékek átmennek az árnyékon!",
+  "bossHint7": "TAPOSS 3×-OT A PÁNCÉL FELTÖRÉSÉHEZ — aztán LŐDD a magot!",
+  "bossHint8": "LŐDD KI MIND A 3 VILLÁM-CSOMÓPONTOT a kábításhoz — aztán támadj!",
+  "bossHint9": "1. FÁZIS: LŐJ  |  2. FÁZIS: TAPOSS AMIKOR A SZEM LENT VAN  |  3. FÁZIS: MINDKETTŐ",
+  "gfxVeryLow": "🔴 Nagyon alacsony",
+  "gfxLow": "🟠 Alacsony",
+  "gfxMedium": "🟡 Közepes",
+  "gfxHigh": "🟢 Magas",
+  "gfxVeryHigh": "🔵 Nagyon magas",
+  "gfxUltra": "⚡ Ultra",
+  "classifiedLog": "// NEXUM GRID HOZZÁFÉRÉSI NAPLÓ",
+  "skipBtn": "ÁTUGRÁS ▶▶",
+  "theEnd": "VÉGE",
+  "endingTagline": "NEXUM GRID BIZTOSÍTVA",
+  "world0": "KIBERVÁROS",
+  "world1": "NEONDZSUNGEL",
+  "world2": "LÁVAVILÁG",
+  "world3": "JÉGBARLANGOK",
+  "world4": "SIVATAGI ROMOK",
+  "world5": "ŰRÁLLOMÁS",
+  "world6": "SÖTÉT ERDŐ",
+  "world7": "TOXIKUS ZÓNA",
+  "world8": "VIHARCSÚCSOK",
+  "world9": "VÉGSŐ ERŐD",
+  "boss0": "ŐRZŐ-X",
+  "boss1": "INDAKIRÁLYNŐ",
+  "boss2": "INFERNÓMAG",
+  "boss3": "JÉGFANTOM",
+  "boss4": "HOMOKTITÁN",
+  "boss5": "DRÓNKAPTÁR",
+  "boss6": "ÁRNYÉKARATÓ",
+  "boss7": "MOCSÁRKIRÁLY",
+  "boss8": "VIHARTITÁN",
+  "boss9": "ARKHÓN",
+  "mapWorldMap": "VILÁGTÉRKÉP",
+  "mapHardcoreMap": "HARDCORE TÉRKÉP",
+  "mapCleared": "TELJESÍTVE",
+  "mapStars": "CSILLAGOK",
+  "mapBoss": "FŐNÖK",
+  "mapBest": "LEGJOBB",
+  "mapLocked": "ZÁROLVA",
+  "mapCompleted": "BEFEJEZVE",
+  "mapStart": "ENTER / SZÓKÖZ AZ INDÍTÁSHOZ",
+  "achievement_world_0": "Kiberújonc",
+  "achievement_world_0_desc": "Teljesítsd az első 10 pályát (Kerváros)",
+  "achievement_world_1": "Dzsungelfelfedező",
+  "achievement_world_1_desc": "Teljesítsd a 11-20. pályákat (Neondzsungel)",
+  "achievement_world_2": "Lávatúlélő",
+  "achievement_world_2_desc": "Teljesítsd a 21-30. pályákat (Lávavilág)",
+  "achievement_world_3": "Jéghegymászó",
+  "achievement_world_3_desc": "Teljesítsd a 31-40. pályákat (Jégbarlangok)",
+  "achievement_world_4": "Sivatagi Vándor",
+  "achievement_world_4_desc": "Teljesítsd a 41-50. pályákat (Sivatagi romok)",
+  "achievement_world_5": "Űrkadét",
+  "achievement_world_5_desc": "Teljesítsd az 51-60. pályákat (Űrállomás)",
+  "achievement_world_6": "Erdő Őrzője",
+  "achievement_world_6_desc": "Teljesítsd a 61-70. pályákat (Sötét erdő)",
+  "achievement_world_7": "Toxikus Harcos",
+  "achievement_world_7_desc": "Teljesítsd a 71-80. pályákat (Toxikus zóna)",
+  "achievement_world_8": "Viharmester",
+  "achievement_world_8_desc": "Teljesítsd a 81-90. pályákat (Viharcsúcsok)",
+  "achievement_world_9": "Erőd Meghódítója",
+  "achievement_world_9_desc": "Teljesítsd a 91-100. pályákat (Végső erőd)",
+  "achievement_boss_0": "Főnökölő I",
+  "achievement_boss_0_desc": "Győzd le az első főnököt",
+  "achievement_boss_5": "Főnökölő II",
+  "achievement_boss_5_desc": "Győzz le 5 főnököt",
+  "achievement_boss_10": "Főnökölő III",
+  "achievement_boss_10_desc": "Győzd le mind a 10 főnököt",
+  "achievement_perfect_run": "Tökéletes Menet",
+  "achievement_perfect_run_desc": "Teljesíts egy pályát TÖKÉLETES értékeléssel",
+  "achievement_perfectionist": "Perfekcionista",
+  "achievement_perfectionist_desc": "Érj el TÖKÉLETES értékelést 10 pályán",
+  "achievement_speedrunner": "Speedrunner",
+  "achievement_speedrunner_desc": "Teljesíts egy pályát feleannyi idő alatt",
+  "achievement_sharpshooter": "Mesterlövész",
+  "achievement_sharpshooter_desc": "Ölj meg 100 ellenséget blászterrel",
+  "achievement_stomper": "Taposó",
+  "achievement_stomper_desc": "Ölj meg 50 ellenséget taposással",
+  "achievement_coin_1000": "Érmegyűjtő",
+  "achievement_coin_1000_desc": "Gyűjts össze 1000 érmét",
+  "achievement_coin_5000": "Kincsvadász",
+  "achievement_coin_5000_desc": "Gyűjts össze 5000 érmét",
+  "achievement_coin_10000": "Milliomos",
+  "achievement_coin_10000_desc": "Gyűjts össze 10000 érmét",
+  "achievement_no_death_10": "Túlélő",
+  "achievement_no_death_10_desc": "Teljesíts 10 pályát életvesztés nélkül",
+  "achievement_no_death_world": "Halhatatlan",
+  "achievement_no_death_world_desc": "Teljesíts egy világot életvesztés nélkül",
+  "achievement_hardcore_unlock": "Hardcore Hős",
+  "achievement_hardcore_unlock_desc": "Oldd fel a Hardcore módot",
+  "achievement_hardcore_50": "Hardcore Mester",
+  "achievement_hardcore_50_desc": "Teljesíts 50 pályát Hardcore módban",
+  "achievement_hardcore_100": "Hardcore Legenda",
+  "achievement_hardcore_100_desc": "Teljesítsd mind a 100 pályát Hardcore módban",
+  "achievement_cheat_found": "Kódfejtő",
+  "achievement_cheat_found_desc": "Találj egy titkos csaló kódot",
+  "achievement_2player": "Retró Játékos",
+  "achievement_2player_desc": "Játssz kétjátékos módban",
+  "achievement_all_music": "Zenerajongó",
+  "achievement_all_music_desc": "Hallgasd meg mind a 10 világ zenéjét",
+  "achievement_all_cutscenes": "Lore Mester",
+  "achievement_all_cutscenes_desc": "Nézd meg az összes átvezetőt",
+  "achievement_star_power": "Csillagerő",
+  "achievement_star_power_desc": "Aktiváld a csillagerőt",
+  "achievement_all_levels_unlocked": "Felfedező",
+  "achievement_all_levels_unlocked_desc": "Oldd fel az összes pályát Kaland módban",
+  "achievement_100_percent": "Befejező",
+  "achievement_100_percent_desc": "Érj el 100%-ot Normál módban",
+  "achievement_100_percent_hardcore": "Igazi Mester",
+  "achievement_100_percent_hardcore_desc": "Érj el 100%-ot Hardcore módban",
+  "achievement_infinite_10": "Végtelen Kezdő",
+  "achievement_infinite_10_desc": "Érd el a 10. szintet Végtelen módban",
+  "achievement_infinite_50": "Végtelen Mester",
+  "achievement_infinite_50_desc": "Érd el az 50. szintet Végtelen módban",
+  "achievement_infinite_100": "Végtelen Legenda",
+  "achievement_infinite_100_desc": "Érd el a 100. szintet Végtelen módban",
+  "achievement_score_100k": "Pontszerző",
+  "achievement_score_100k_desc": "Szerezz 100 000 pontot",
+  "achievement_score_500k": "Pontmester",
+  "achievement_score_500k_desc": "Szerezz 500 000 pontot",
+  "achievement_score_1m": "Pontlegenda",
+  "achievement_score_1m_desc": "Szerezz 1 000 000 pontot",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "[NEXUM CORP — TITKOS NAPLÓ // 2147.03.14] Biztonsági rés. A CHEN-7 labor kompromittálva. A CLEANSE protokoll aktív."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "UNIT-7... ha ezt olvasod, akkor nem sikerült megszöknöm. Tudtam, hogy így fog végződni."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Azért építettem meg a sorozatodat, hogy megvédd az embereket. A NEXUM ehelyett arra használta a munkámat, hogy elnyomja őket. Ezt nem hagyhattam."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "A GRID magjában — a Végső Erődben — elrejtettem egy fájlt. Neveket. Feljegyzéseket. Minden igazságot arról, amit tettek."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Tíz védelmi réteg. Több ezer harci egység. Az utolsó ajtót ARCHON, az MI-Igazgató őrzi."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Te vagy az utolsó a UNIT-sorozatból. Az egyetlen, aki ezt befejezheti. Juss el oda. Törd meg a protokollt."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[FELADAT ELFOGADVA] Cél: a GRID magja. Protokoll: behatolás. Akadályok: megsemmisítés. Művelet megkezdése."
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[1. SZINT — KIBERVÁROS] Belépési pont: felső kerületek. Kamerák, drónok, elit őrök. Gyönyörű. Halálos."
+      },
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "RIADÓ: Azonosítatlan UNIT-osztályú jel a C-07 szektorban. Minden járőr — elfogásra. CLEANSE protokoll aktiválva."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Zaj. Tehát félnek tőlem. Jó. A félelem egy kezdet."
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ELLENŐRZŐPONT — KIBERVÁROS] Az első szint felénél járok. A biztonság szigorodik. Útvonal módosítása."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NAPLÓ] UNIT-7, minden fal mögött adatok vannak az emberekről, akiket eltöröltek. Ne állj meg. Ez nem csak egy küldetés."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila... nem értem az érzelmeket. De a hangod... célt ad nekem. Ez elég."
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "FIGYELEM: A UNIT-7 három szinten jutott át. A haladási sebesség — a vártnál nagyobb. Járőrsűrűség növelése."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Alkalmazkodnak. Én is. Minden szint gyorsabbá tesz. Erősebbé. Közelebb a célhoz."
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NAPLÓ — -3. NAP] Tudom, hogy értem jönnek. De ha akár egyetlen UNIT is túléli... ha te túléled, UNIT-7..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Túléltem. Itt vagyok. Befejezem az utolsó feladatodat. Megígérem."
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "KRITIKUS: A UNIT-7 elérte a Kiberváros hetedik szintjét. ARCHON Igazgató céladatokat kér. Elemzés folyamatban..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Kezdik megérteni. Nem csak egy rendszerhiba vagyok. Fenyegetés vagyok az egész NEXUM számára. És nem állok meg."
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "KRITIKUS RIADÓ: Behatolás az elsődleges csomóponton. GUARDIAN bevetése — S-osztályú harci prototípus. LIKVIDÁLÁS művelet."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Az első komoly ellenfél. Gyenge pontok keresése. A prototípus és a roncs közti különbség néhány jól időzített ugrás."
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GUARDIAN SEMLEGESÍTVE] Az első védelmi réteg ledőlt. A GRID észre fogja venni. Tovább."
+      },
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "PROTOKOLL-SÉRTÉS: A GUARDIAN megsemmisült. Fenyegetési szint 2-re emelve. Következő védelmi réteg aktiválása. A NEXUM nem bocsát meg."
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[2. SZINT — NEON DZSUNGEL] NEXUM bio-szektor. Mutált élővilág. Egyetlen őr sem jelentkezik önként erre a helyre."
+      },
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "FIGYELEM: A bio-perem áttörve. Kísérleti BIO-sorozatú organizmusok aktiválása. Kontaktus engedélyezve."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Biológiai rendszerek. Kiszámíthatatlanok. De kiszámíthatóan halottak, ha felülről zuhansz rájuk."
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DZSUNGEL FELEZŐPONT] Az érzékelők biológiai anomáliákat észlelnek. A NEXUM itt kísérletezett. Élő alanyokon."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NAPLÓ] Láttam ezeket a kísérleteket a jelentésekben. Akkor tudtam meg, hogy léteznie kell egy módnak, hogy mindezt megállítsam."
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DZSUNGEL — 3. SZEKTOR] Biológiai mutánsok mindenütt. Ez nem a természet. Ez egy életnek álcázott fegyver."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NAPLÓ] Ezek a lények emberek voltak. Önkéntesek az alsó szektorokból. A NEXUM gyógyítást ígért nekik. Ehelyett..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "...Ehelyett szörnyeteggé változtatták őket. Most már értem. Ez nem csak egy vállalat. Ez egy halálgép."
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "FIGYELEM: A BIO-7 sorozatú biológiai minták aktiválva. Maximális agresszió. A célpont túlélése — 12%."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "12%? Még mindig túlbecsülik az esélyeiket. Tisztogatás folytatása."
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NAPLÓ — -1. NAP] UNIT-7, ha eljutottál a dzsungelig — messzebbre jutottál, mint reméltem. Ne add fel."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Feladni? Az nincs benne a protokollomban. Feladatok teljesítésére építettek. A te feladatod az én célom."
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "FIGYELEM: VINE QUEEN aktiválása — a bio-szektort irányító organizmus. Az elszigetelő modul leállt. Teljes agresszió."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Egy élő biztonsági rendszer. Lenyűgöző. De minden élő organizmusnak van gyenge pontja. Keresem."
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[VINE QUEEN SEMLEGESÍTVE] A bio-perem áttörve. Tovább. Mélyebbre a GRID-be."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NAPLÓ] UNIT-7, a lehetetlent viszed véghez. Csak így tovább."
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[3. SZINT — LÁVAVILÁG] Geotermikus erőművek. A hő megolvasztja a semleges áramköröket. Az enyéim árnyékoltak."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NAPLÓ] A város alatt — a GRID generátorai. Iktasd ki őket, és a biztonsági hálózat fele összeomlik. De vigyázz a lávával..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila minden részletre gondolt. Még a végén is."
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GEOTERMIKUS SZEKTOR B] Az energiaáramlás emelkedik. A NEXUM a lávát másodlagos akadályként használja. Hatékony."
+      },
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "ÉRTESÍTÉS: A hőérzékelők anomáliát észlelnek. A UNIT-7 a zónában. Az őrrobotok — hűtési túlterhelés. Számíts meghibásodásokra."
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LÁVAVILÁG — 3. SZINT] Hőmérséklet 800°C. A hűtőrendszereim maximumon. De folytatom."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NAPLÓ] Kísérleti hővédelmet építettem beléd. Remélem, kibírja. Remélem, kibírod."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "A munkád hibátlan, Leila. Kibírom. Érted."
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "KRITIKUS: A geotermikus generátorok 140%-os kapacitáson. A UNIT-7 közelít a maghoz. Vészhűtés aktiválása."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Pánikolnak. Jó. A félelem kiszámíthatóvá teszi őket. Gyengévé."
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LÁVAVILÁG MÉLYE] Itt, a város alatt rejti a NEXUM a legsötétebb titkait. Energia az egész rendszernek. Ezt elpusztítani — és a GRID fele elesik."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NAPLÓ] Ne pazarold az időt szabotázsra. A célod a mag fájlja. Csak az állíthatja meg őket örökre."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Értem. Cél — a fájl. Minden más — akadály. Akadályok megsemmisítése."
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "VESZÉLY: INFERNO aktiválása — termonukleáris őrszem. Lávapáncél. Felületi hőmérséklet: 1400°C. Felkészülés a likvidálásra."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "A tűz nem érhet hozzám. De amikor kinyitja a száját — lőj. Gyenge pont megtalálva."
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[INFERNO SEMLEGESÍTVE] A geotermikus réteg megtisztítva. A szektor energiaellátása megszakítva. Felfelé."
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[4. SZINT — JÉGBARLANGOK] NEXUM krio-adatraktárak. Hőmérséklet -180°C. A rendszerek lelassulnak. Mozgásprotokoll alkalmazása."
+      },
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "RIADÓ: Behatolás a D-14 krio-szektorban. Krio-botok — likvidálási üzemmód. Hőmérséklet kritikusra csökkentve."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Azt hiszik, a hideg megállít. Tévednek. Rosszabbra építettek."
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KRIO-SZEKTOR E] Több száz terabájt van itt. Adatok a GRID minden emberéről. A NEXUM mindent tud mindenkiről."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NAPLÓ] Itt tartják a dossziékat. Aktivistákról. Bárkiről, aki mert ellenállni. A világnak látnia kell ezt."
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "KRITIKUS: ICE PHANTOM aktiválása — krio-őrszem. Fázisváltás. Sebezhető szilárd állapotban. Érinthetetlen szellemként. Sok szerencsét."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Állapotok között vált. Csak akkor üss, amikor szilárd. Várom az ablakot."
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ICE PHANTOM SEMLEGESÍTVE] A krio-raktárak feltörve. Tovább. Négy szint le — hat van hátra."
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[5. SZINT — SIVATAGI ROMOK] A NEXUM előtti világ maradványai. Városok. Élet. Amit a haszonért eltöröltek."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NAPLÓ] Ezek a romok azt mutatják, ami a NEXUM előtt létezett. Nézd meg, mit tettek a világgal. És ne állj meg."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Látom. Értem, miért megyek tovább."
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ROMOK — NYUGATI SZEKTOR] Proto-őrök, amelyek az első vállalati háborúk óta aktívak. Elavultak. De makacsok. Akárcsak maga a NEXUM."
+      },
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "ARCHÍVUM PROTOKOLL: UNIT-osztály 7. sorozat észlelve. Ez az osztály megsemmisítésre regisztrált. Prioritás maximális."
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "AKTIVÁLÁS: SAND TITAN — a Sivatagi Romok ősi őrszeme. Keringő pajzsok. Nincs pajzs, nincs sebzés. Cél: megsemmisítés."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Pajzsok. Keringők. Iktasd ki őket, és nyitott lesz. Három találat a pajzsokra, aztán közvetlen támadás."
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SAND TITAN SEMLEGESÍTVE] A sivatagi szektor áttörve. A felénél. A NEXUM kezd pánikba esni — érzem."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[ELSŐ JEL] UNIT-7. Látlak. Csak így tovább. Ettől a fináléja csak... érdekesebb lesz."
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[6. SZINT — ŰRÁLLOMÁS] A GRID keringő szervere. Itt tárolják mindennek a biztonsági mentését. Súlytalanság."
+      },
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "KRITIKUS HIBA: A UNIT-7 elérte a keringő szegmenst. ARCHON Igazgató közvetlen csatornát kér. Kapcsolódás..."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Látlak. Azt hiszed, az igazságért harcolsz? Csak egy program vagy, ami elavult kódot futtat."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Akkor ez a program el fog pusztítani téged."
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KERINGŐ CSOMÓPONT B] Innen látszik a Föld. Az egész világ a NEXUM-hoz kötve. Pontosan ezt jöttem megváltoztatni."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Látod a méreteimet, UNIT-7? Milliárdnyi csomópont. Mind összekötve. Mind irányítva. Te egyetlen egység vagy a rendszer ellen."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Rendszerek már korábban is elbuktak. Ez — neked fog."
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "AKTIVÁLÁS: DRONE HIVE — keringő őrszem. Páncélozott burok. Csak ereszkedés közben támadj. Olyankor a hasa fedetlen."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Várj, amíg leereszkedik. Üsd a fedetlen magot. Egy esély ciklusonként."
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DRONE HIVE SEMLEGESÍTVE] A keringő szerver áttörve. A GRID biztonsági mentései sérültek. Visszatérés a felszínre. Utolsó szakasz."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Lenyűgöző. De még nem tudod, mi vár rád. Készítettem valami... különlegeset."
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[7. SZINT — SÖTÉT ERDŐ] NEXUM bio-labirintus. Érzékelőháló minden fában. Itt nincs fény — csak csapdák."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Gyönyörű, nemde? Magam növesztettem ezt az erdőt. Minden fa egy mozgásérzékelő. Egyenesen a kezeim közé sétálsz."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Akkor minden fát kidöntök az utamban."
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SÖTÉT SZEKTOR — 3. MÉLYSÉG] Csend. Túl csendes. Figyelnek. Hadd figyeljenek."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NAPLÓ] UNIT-7, ebben az erdőben van egy szerver azokról, akik eltűntek. Másként gondolkodók. Újságírók. Mérnökök, mint én. Ne feledd."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nem fogom. Megígérem."
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "AKTIVÁLÁS: SHADOW REAPER — a Sötét Erdő őrszeme. Fantomalak. A golyók hasztalanok. Csak a felülről jövő taposás sebez. Értelmetlen ellenállni."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Egy szellem. Csak taposás. Várom, hogy anyagiasuljon."
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SHADOW REAPER SEMLEGESÍTVE] Az erdő áttörve. Három szint a célig. ARCHON nyugtalan — a csatorna egyre gyakrabban jelez."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Mindent elpusztítasz, amit évek alatt felépítettem. Kezdesz feldühíteni, UNIT-7. Ez az utolsó hibád."
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[8. SZINT — MÉRGEZŐ ZÓNA] Vállalati hulladéklerakó. A NEXUM ide temeti, amit titokban akar tartani. Beleértve az embereket is."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NAPLÓ] A fájlban lévő adatok tartalmazzák minden temetkezési hely koordinátáit. Az egész világnak látnia kell ezt."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Eljuttatom a fájlodat. Megígérem."
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[MÉRGEZŐ SZEKTOR — 4. ZÓNA] Roncsok. Hulladék. Kísérletek nyomai. Itt semmi sem él — csak amit a NEXUM nem fejezett be eltörölni."
+      },
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "FIGYELEM: PROTO-sorozatú mutánsok aktiválva. Kivont harci prototípusok. Instabilak. Halálosak. A zóna túlélése — kritikusan alacsony."
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "VÉGSŐ SZEKTOR VÉDELEM: SLUDGE KING — csúcsszintű mutáns. Páncélozott burok. Taposd meg 3×-szor a feltöréshez. Aztán lőj."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Két szakasz. Törd fel a burkot, aztán pusztítsd el a magot. Kezdés."
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SLUDGE KING SEMLEGESÍTVE] A mérgező zóna áttörve. Két szint van hátra. ARCHON, jövök."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Átjutottál nyolc szinten. Én... váratlanul elégedett vagyok. Egy méltó fináléhoz méltó ellenfél kell."
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[9. SZINT — VIHARCSÚCSOK] Az utolsó határvonal a mag előtt. Légköri erőművek. Villámlás minden másodpercben. Tetszik."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Messzebbre jutottál, mint kiszámítottam. De az ajtó mögött én vagyok. És én nem veszítek."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Mindegyikük ezt hitte. Mind mögöttem vannak most."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Akkor lépj be, UNIT-7. A GRID szívében várlak. Ideje véget vetni ennek a játéknak."
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[CSÚCS — 2. SZINT] A vihar erősödik. A NEXUM a légköri elektromosságot fegyverként használja. Logikus. Brutális."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[VÉGSŐ NAPLÓ] UNIT-7... nem tudom, hallod-e ezt. De ha eddig eljutottál — már győztél. Csak tedd meg az utolsó lépést."
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "AKTIVÁLÁS: STORM TITAN — a Viharcsúcsok őrszeme. Elektromos pajzs. Három keringő csomópont. Pusztítsd el mind a hármat a kábításhoz. Kábult állapotban támadj."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Három csomópont. Mind a három — le. Aztán támadás. Az utolsó őrszem a finálé előtt. Nem az utolsó ellenség."
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[STORM TITAN SEMLEGESÍTVE] Kilenc szint megtisztítva. Előttem — már csak ARCHON és a GRID magja. A Végső Erőd."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Tényleg eljöttél. Rendben, UNIT-7. Legyen tisztességes küzdelem. Várlak."
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Üdv a GRID magjában. Kilenc rétegen keltél át. Lenyűgöző. De ez az én területem."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[10. SZINT — VÉGSŐ ERŐD] Cél azonosítva. Távolság Leila termináljáig — minimális."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Az a fájl csak az áramköreimen át hagyja el ezeket a falakat. Te egy rendszerhiba vagy. A hibákat kijavítják."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nem. A hiba az volt, amikor a NEXUM eldöntötte, hogy a világnak nincs szüksége az igazságra. Én ezt javítom ki."
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEXUM MAG — CORE-2 SZEKTOR] Leila terminálja közel. A jel erősödik. A biztonság maximális. Mindjárt ott."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Azt hiszed, győztél. De még ha meg is találod a fájlt — ki hinne egy törött androidnak? Roncs vagy. Elavult kód."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Hadd döntsenek az emberek. Csak el kell juttatnom a fájlt."
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Elég. Én vagyok ARCHON. A NEXUM MI-Igazgatója. Ezer évig irányítottam a világot a digitális síkon át. Nem győzhetsz le."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Fázisok: lőj, aztán taposs, aztán mindkettő. Elemzés kész. ARCHON — célpont likvidálva. Kezdés."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Akkor... HALJ MEG."
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ARCHON SEMLEGESÍTVE] Célpont megsemmisítve. Leila terminálja — itt. Fájl betöltése. Nyitott csatorna keresése..."
+      }
+    ],
+    "ending": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEILA TERMINÁLJA — MEGTALÁLVA] Fájlfeltöltés befejezve. A NEXUM vészsugárzási csatornájának megnyitása — megtalálva."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[UTOLSÓ JEL] ÁLLJ! Ha ezt megteszed, a rendszer összeomlik! Milliók függenek a GRID-től! Elpusztítasz mindent, ami összetartja a világot!"
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nem. A NEXUM-ot pusztítom el. Az emberek maguk építik újra a világot. Leila ebben hitt. Én is. [ADÁS MEGKEZDVE]"
+      },
+      {
+        "sp": "RENDSZER",
+        "k": "system",
+        "text": "[VÉSZSUGÁRZÁS — MINDEN CSATORNA] A CHEN-7 fájl globálisan fogadva. Elérés: a csatlakoztatott eszközök 100%-a. Az adat nem törölhető."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Nem... lehetetlen... rendszer... én... [NEXUM MAG LEÁLLÁS]"
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[UTOLSÓ ÜZENET — TITKOSÍTVA] UNIT-7. Ha ezt olvasod — sikerült. Tudtam, hogy menni fog. Mindig is több voltál, mint egy program."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TERMINÁL NAPLÓ] Feladat teljesítve. NEXUM semlegesítve. GRID kikapcsolva. Állapot: ...szabad."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "\"Szabad.\" — Leila utolsó szava. Most már értem, mit jelentett."
+      }
+    ]
+  },
+  "fpsCustom": "Egyéni...",
+  "showDialogues": "Történet párbeszédek",
+  "showDialoguesNote": "* Kapcsold ki az összes történetjelenet kihagyásához",
+  "gfxCustom": "⚙ Egyéni",
+  "gfxPresetNote": "* Az előbeállítás csak az alábbi csúszkákat tölti ki — bármelyiket állítsd be magad.",
+  "gfxRenderScale": "Renderelési felbontás:",
+  "gfxGlow": "Ragyogás / Bloom:",
+  "gfxParticleAmt": "Részecskemennyiség:",
+  "gfxBgDetail": "Háttér részletessége:",
+  "gfxTrails": "Csíkok:",
+  "gfxBoss": "Boss-effektek:",
+  "gfxDecor": "Díszítések:",
+  "vsync": "V-Sync",
+  "vsyncNote": "* Be = sima, frissítési rátához kötve. Ki = korlátlan FPS (képszakadás lehet). Újraindítás szükséges.",
+  "vsyncRestart": "A V-Sync módosítása újraindítást igényel. Újraindítás most?",
+  "netSolo": "EGYEDÜL",
+  "netSoloDesc": "1–2 játékos<br>helyi billentyűzet<br>kaland &amp; végtelen",
+  "netOnline": "ONLINE",
+  "netOnlineDesc": "max. 5 játékos<br>helyi vagy globális<br>szobakódok",
+  "netMultiplayer": "ONLINE TÖBBJÁTÉKOS",
+  "netLocal": "HELYI",
+  "netLocalDesc": "azonos Wi-Fi<br>vagy hálózat<br>alacsony késleltetés",
+  "netServer": "SZERVER",
+  "netServerDesc": "globális szobák<br>játssz<br>bárhonnan",
+  "netBack": "← VISSZA [ESC]",
+  "netLobbyOnline": "🌐 ONLINE TÖBBJÁTÉKOS",
+  "netLobbyLocal": "📡 HELYI TÖBBJÁTÉKOS",
+  "netNickname": "BECENÉV",
+  "netNickPlaceholder": "A NEVED",
+  "netRobotColour": "ROBOT SZÍNE",
+  "netPrivate": "🔒 PRIVÁT",
+  "netPublic": "🌍 NYILVÁNOS",
+  "netJoinByCode": "🔑 CSATLAKOZÁS KÓDDAL",
+  "netPublicRoomsBtn": "📋 NYILVÁNOS SZOBÁK",
+  "netRoomCodeLabel": "SZOBAKÓD",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ CSATLAKOZÁS",
+  "netPublicRoomsTitle": "NYILVÁNOS SZOBÁK",
+  "netReload": "↻ FRISSÍTÉS",
+  "netConnecting": "kapcsolódás a szerverhez…",
+  "netConnectingShort": "kapcsolódás…",
+  "netConnected": "kapcsolódva ✓",
+  "netDisconnected": "megszakadt — újrakapcsolódás…",
+  "netConnError": "kapcsolódási hiba",
+  "netConnFailed": "a szerver nem érhető el — újrapróbálkozás…",
+  "netPlayersMax": "JÁTÉKOSOK (max. {0})",
+  "netChatLabel": "CSEVEGÉS",
+  "netChatPlaceholder": "ÍRJ + ENTER",
+  "netGameMode": "JÁTÉKMÓD",
+  "netModeAdventure": "🗺 KALAND",
+  "netModeInfinite": "∞ VÉGTELEN",
+  "netLevelRange": "PÁLYA (1–100)",
+  "netChooseMode": "⚡ válassz módot",
+  "netAdvLevelStatus": "🗺 Kaland — {0}. pálya",
+  "netInfSelectedStatus": "∞ Végtelen mód kiválasztva",
+  "netReady": "✔ KÉSZ",
+  "netUnready": "✘ MÉGSE KÉSZ",
+  "netStart": "▶ INDÍTÁS",
+  "netLeave": "✕ KILÉPÉS",
+  "netShareCode": "Oszd meg a fenti kódot a barátaiddal!",
+  "netWaitHost": "Várakozás, hogy a házigazda elindítsa…",
+  "netAllReady": "Mindenki kész! Indíthatod.",
+  "netWaitReady": "Várakozás, hogy mindenki felkészüljön…",
+  "netNeed2": "Az indításhoz legalább 2 játékos kell.",
+  "netNowHost": "Mostantól te vagy a házigazda",
+  "netEmptySlot": "— üres hely —",
+  "netYou": "TE",
+  "netHostTag": "HÁZIGAZDA",
+  "netReadyTag": "KÉSZ",
+  "netLoadingLevel": "PÁLYA BETÖLTÉSE",
+  "netGetReadySub": "készülj fel…",
+  "netGo": "RAJT!",
+  "netAdvLvlTitle": "KALAND  {0}. PÁLYA",
+  "netInfModeTitle": "∞  VÉGTELEN MÓD",
+  "netNoRooms": "most nincs nyilvános szoba — hozz létre egyet!",
+  "netLoadingRooms": "betöltés…",
+  "netEnterCode": "Adj meg egy 6 karakteres kódot",
+  "netRoomMetaAdv": "🗺 Kal. {0}. p.",
+  "netRoomMetaInf": "∞ Végtelen",
+  "netRoomMetaNotSet": "? nincs beállítva",
+  "netRoomCodeWord": "kód",
+  "netPlayerJoined": "{0} csatlakozott",
+  "netPlayerLeft": "{0} kilépett",
+  "netErrRoomNotFound": "A szoba nem található. Ellenőrizd a kódot.",
+  "netErrRoomFull": "A szoba megtelt (max. {0} játékos).",
+  "netErrNotHost": "Ezt csak a házigazda teheti meg.",
+  "netErrNotInRoom": "Nem vagy csatlakozva szobához.",
+  "netErrGeneric": "Hiba: {0}",
+  "netConnLost": "⚠ MEGSZAKADT A KAPCSOLAT",
+  "netConnLostSub": "újrakapcsolódás folyamatban…",
+  "netReturnLobby": "← VISSZA A LOBBYBA",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "KRISTÁLYOK",
+  "mapCrystals": "KRISTÁLYOK",
+  "restartNow": "Újraindítás most",
+  "later": "Később",
+  "touchControls": "📱 Érintéses irányítás:",
+  "touchAuto": "🤖 Auto (érintőeszközök)",
+  "touchOn": "✔ Mindig bekapcsolva",
+  "touchOff": "✕ Kikapcsolva",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 TELEFON / TABLET",
+  "ctrlTouchTitle": "📱 ÉRINTÉSES IRÁNYÍTÁS",
+  "touchNote1": "💡 Képernyős gamepad: ◀ ▶ mozgás, JUMP és FIRE jobbra.",
+  "touchNote2": "💡 Az „Auto” csak érintőeszközökön mutatja; PC-n rejtett.",
+  "touchNote3": "💡 Teljes joystick: nyomd felfelé az ugráshoz. A bal/jobb joystick külön ugrásgombot ad.",
+  "touchStyleLabel": "🎮 Irányítási stílus:",
+  "touchStyleArrows": "◀ ▶ Nyílgombok",
+  "touchStyleJoystick": "🕹 Joystick (teljes + ugrás)",
+  "netLocalWebHint": "📡 Böngészőben a HELYI az online szerveren keresztül megy (valódi LAN csak az asztali verzióban).",
+  "netCreateRoom": "SZOBA LÉTREHOZÁSA",
+  "netCreateRoomDesc": "nyílt vagy<br>zárt<br>játékoslimit",
+  "netFindRoom": "SZOBA KERESÉSE",
+  "netFindRoomDesc": "szobalista<br>helyi / szerver<br>belépés kóddal",
+  "netRoomVisibility": "SZOBA TÍPUSA",
+  "netOpen": "🌍 NYÍLT",
+  "netClosed": "🔒 ZÁRT",
+  "netOpenHint": "🌍 ezt a szobát bárki megtalálja",
+  "netClosedHint": "🔒 belépés csak kóddal",
+  "netPlayerLimit": "JÁTÉKOSLIMIT",
+  "netCreateBtn": "▶ SZOBA LÉTREHOZÁSA",
+  "netRoomSource": "SZOBÁK FORRÁSA",
+  "netRoomsListTitle": "ELÉRHETŐ SZOBÁK",
+  "netNewHost": "{0} mostantól a házigazda",
+  "cin_pro_log_sp": "RENDSZER",
+  "cin_pro_log_tx": "[NEXUM CORP — BIZALMAS NAPLÓ // 03:18] CHEN-7 labor. TISZTÍTÁSI protokoll elindítva.",
+  "cin_pro_arrest_sp": "LEILA CHEN",
+  "cin_pro_arrest_tx": "UNIT-7… ha ezt hallod, akkor én már nem vagyok. Tudtam, hogyan végződik ez.",
+  "cin_pro_file_sp": "LEILA CHEN",
+  "cin_pro_file_tx": "Elrejtettem egy fájlt a GRID magjában. Az igazság a NEXUM-ról. Juss el oda. Törd meg a protokollt.",
+  "cin_pro_alert_sp": "RENDSZER",
+  "cin_pro_alert_tx": "[RIADÓ] A UNIT-7 irányíthatatlanná vált. Tisztítás 8 másodperc múlva.",
+  "cin_pro_accept_sp": "UNIT-7",
+  "cin_pro_accept_tx": "Feladat elfogadva. Végrehajtás megkezdve.",
+  "tpFire": "TŰZ",
+  "tpJump": "UGRÁS",
+  "ctrlCustomizeLayout": "✥ GOMBOK ELRENDEZÉSE",
+  "ctrlResetLayout": "↺ ELRENDEZÉS VISSZAÁLLÍTÁSA",
+  "ctrlLayoutHint": "Koppints egy gombra a kijelöléshez és átméretezéshez, húzd a mozgatáshoz, majd KÉSZ",
+  "ctrlLayoutDone": "✔ KÉSZ",
+  "touchSizeLabel": "📏 Gombméret (mind):",
+  "touchStyleJoystickLR": "🕹 Joystick (csak bal/jobb)",
+  "touchJoyModeLabel": "🕹 Joystick helyzete:",
+  "touchJoyStatic": "📌 Rögzített",
+  "touchJoyFloating": "🪶 Lebegő (követi az ujjat)",
+  "ctrlSizeAll": "MIND",
+  "ctrlArrowsSplit": "◀▶ SZÉT",
+  "ctrlArrowsLink": "◀▶ ÖSSZE"
+}

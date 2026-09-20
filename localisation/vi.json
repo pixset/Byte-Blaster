@@ -1,0 +1,1246 @@
+{
+  "score": "ĐIỂM",
+  "total": "TỔNG",
+  "levelScoreLabel": "ĐIỂM MÀN: {0}",
+  "totalScoreLabel": "TỔNG ĐIỂM: {0}",
+  "lives": "MẠNG",
+  "level": "MÀN",
+  "time": "GIỜ",
+  "mode": "CHẾ ĐỘ",
+  "blaster": "SÚNG",
+  "coins": "XU",
+  "bonusFire": "LỬA",
+  "bonusIce": "BĂNG",
+  "bonusStar": "SAO",
+  "bonusBoots": "GIÀY",
+  "modSpeedrun": "CHẠY TỐC ĐỘ",
+  "modStealth": "ẨN NÁU — TRÁNH ÁNH SÁNG",
+  "modLowGravity": "TRỌNG LỰC THẤP",
+  "modHighGravity": "TRỌNG LỰC CAO",
+  "modWind": "GIÓ MẠNH",
+  "modSlippery": "SÀN TRƠN TRƯỢT",
+  "modDarkness": "BÓNG TỐI",
+  "tierPerfect": "★ HOÀN HẢO!",
+  "tierGreat": "TUYỆT VỜI!",
+  "tierGood": "TỐT",
+  "tierBase": "CƠ BẢN",
+  "heightBonus": "+{0} THƯỞNG ĐỘ CAO",
+  "bossArena": "⚠ ĐẤU TRÙM ⚠",
+  "hpBonus": "+1 MẠNG!",
+  "repaired": "ĐÃ SỬA!",
+  "newBest": "KỶ LỤC MỚI!",
+  "completeMore": "✗ HOÀN THÀNH THÊM {0} MÀN",
+  "subtitle": "GAME NHẢY NEON CYBERPUNK",
+  "play": "▶ CHƠI",
+  "settings": "⚙ CÀI ĐẶT",
+  "exit": "🚪 THOÁT",
+  "selectSave": "CHỌN BẢN LƯU",
+  "slot": "Ô LƯU",
+  "slotEmpty": "— TRỐNG —",
+  "slotNewGame": "✚ GAME MỚI",
+  "slotContinue": "▶ TIẾP TỤC",
+  "slotDelete": "🗑 XÓA",
+  "slotDeleteConfirm": "XÁC NHẬN XÓA?",
+  "slotLevels": "Màn: {0}/100",
+  "slotHardcore": "Khắc nghiệt: {0}/100",
+  "slotAch": "Thành tựu: {0}",
+  "slotBest": "Điểm cao nhất: {0}",
+  "bestScore": "CAO NHẤT: {0}",
+  "legend1": "MŨI TÊN / WASD — DI CHUYỂN  |  SPACE / LÊN — NHẢY (×2)",
+  "legend2": "Z / X / CTRL — BẮN (cần nâng cấp súng)  |  ESC — TẠM DỪNG",
+  "legend3": "🟡 ĐÁNH KHỐI VÀNG TỪ DƯỚI LÊN  |  GIẪM KẺ THÙ TỪ TRÊN XUỐNG",
+  "paused": "⏸ TẠM DỪNG",
+  "resume": "▶ TIẾP TỤC",
+  "map": "🗺 BẢN ĐỒ",
+  "menu": "⬅ MENU",
+  "escResume": "ESC — TIẾP TỤC",
+  "selectMode": "CHỌN CHẾ ĐỘ",
+  "onePlayer": "👤 1 NGƯỜI",
+  "twoPlayer": "👥 2 NGƯỜI",
+  "p2hint": "P1: WASD + Z/X bắn  |  P2: ← → ↑ + . / , bắn",
+  "adventure": "PHIÊU LƯU",
+  "advDesc": "100 màn độc đáo<br>10 thế giới chủ đề<br>tính giờ mỗi màn<br>lưu tiến trình",
+  "infinite": "VÔ TẬN",
+  "infDesc": "bản đồ vô tận<br>độ khó tăng dần<br>đua với thời gian<br>phá kỷ lục",
+  "back": "← QUAY LẠI [ESC]",
+  "selectDiff": "CHỌN ĐỘ KHÓ",
+  "normal": "THƯỜNG",
+  "hardcore": "KHẮC NGHIỆT",
+  "normDesc": "kẻ thù tiêu chuẩn<br>3 mạng khởi đầu<br>lưu tiến trình",
+  "hardDescLocked": "hoàn thành chế độ<br>thường trước<br>để mở khóa",
+  "advMap": "🗺 BẢN ĐỒ PHIÊU LƯU",
+  "mapFoot": "BẤM MÀN ĐÃ MỞ • HOÀN THÀNH ĐÚNG GIỜ • HỒI SINH TẠI CHỖ KHI TRÚNG ĐÒN",
+  "getReady": "SẴN SÀNG...",
+  "csHint": "▶ SPACE / BẤM — TIẾP",
+  "hintBar": "MŨI TÊN/WASD — DI CHUYỂN  |  SPACE — NHẢY  |  Z/X — BẮN (súng)  |  ESC — TẠM DỪNG",
+  "gameOver": "KẾT THÚC",
+  "youWin": "BẠN THẮNG!",
+  "betterLuck": "CHÚC MAY MẮN LẦN SAU",
+  "allComplete": "HOÀN THÀNH CẢ 100 MÀN!",
+  "retry": "↩ THỬ LẠI",
+  "levelFailed": "MÀN {0} THẤT BẠI",
+  "scoreLabel": "ĐIỂM: {0}",
+  "finalScore": "ĐIỂM CUỐI: {0}",
+  "levelClear": "QUA MÀN {0}!",
+  "timeBonus": "+THƯỞNG GIỜ: {0}",
+  "settingsTitle": "CÀI ĐẶT",
+  "lang": "Ngôn ngữ:",
+  "windowRes": "Độ phân giải cửa sổ:",
+  "resDefault": "1600 x 900 (Mặc định)",
+  "resFullHD": "1920 x 1080 (Full HD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "Tùy chỉnh",
+  "resNote": "* Thay đổi kích thước cửa sổ",
+  "gameScale": "Tỷ lệ game:",
+  "scaleAuto": "Tự động vừa (Khuyến nghị)",
+  "scaleNote": "* Tự động vừa lấp đầy cửa sổ mà vẫn giữ tỷ lệ khung hình",
+  "fpsLimit": "Giới hạn FPS:",
+  "fpsNoLimit": "Không giới hạn (Vô hạn)",
+  "fpsNote": "* Giới hạn tốc độ khung hình tối đa",
+  "showFps": "Hiển thị bộ đếm FPS",
+  "gfxQuality": "Chất lượng đồ họa:",
+  "gfxNote": "* Tự động phát hiện khi khởi động lần đầu",
+  "windowMode": "Chế độ cửa sổ:",
+  "windowed": "🪟 Cửa sổ",
+  "fullscreen": "⛶ Toàn màn hình",
+  "borderless": "▣ Không viền",
+  "audioSettings": "Cài đặt âm thanh:",
+  "masterVolume": "Âm lượng tổng:",
+  "musicVolume": "Âm lượng nhạc:",
+  "sfxVolume": "Âm lượng hiệu ứng:",
+  "gameplaySettings": "Cài đặt lối chơi:",
+  "screenShake": "Rung màn hình",
+  "shakeIntensity": "Cường độ rung:",
+  "particles": "Hạt hiệu ứng",
+  "combatText": "Chữ chiến đấu nổi",
+  "autoSave": "Tự động lưu tiến trình",
+  "showHints": "Hiển thị thanh gợi ý",
+  "save": "LƯU",
+  "cancel": "HỦY",
+  "achievements": "🏆 THÀNH TỰU",
+  "achievementUnlocked": "MỞ KHÓA THÀNH TỰU!",
+  "achRarity": "Độ hiếm",
+  "achUnlockedCount": "Đã mở khóa",
+  "achTitle": "THÀNH TỰU",
+  "achSecretName": "???",
+  "achSecretDesc": "Thành tựu bí mật — mở khóa để hiện ra",
+  "close": "ĐÓNG",
+  "tabDisplay": "MÀN HÌNH",
+  "tabGraphics": "ĐỒ HỌA",
+  "tabAudio": "ÂM THANH",
+  "tabGameplay": "LỐI CHƠI",
+  "tabGeneral": "CHUNG",
+  "tabControls": "ĐIỀU KHIỂN",
+  "controlsP1": "🎮 NGƯỜI CHƠI 1 / MỘT NGƯỜI",
+  "controlsP2": "🎮 NGƯỜI CHƠI 2 (Chế độ 2 người)",
+  "ctrlMove": "Di chuyển Trái/Phải:",
+  "ctrlMoveLeft": "Di chuyển Trái:",
+  "ctrlMoveRight": "Di chuyển Phải:",
+  "ctrlRebindHint": "💡 Bấm vào một phím, rồi nhấn phím mới để gán (ESC để hủy)",
+  "ctrlReset": "ĐẶT LẠI MẶC ĐỊNH",
+  "ctrlJump": "Nhảy (Nhảy đôi):",
+  "ctrlShoot": "Bắn (Súng):",
+  "ctrlPause": "Tạm dừng:",
+  "ctrlNote1": "💡 Ở chế độ 1 người, dùng WASD hoặc phím Mũi tên đều được",
+  "ctrlNote2": "💡 Giẫm kẻ thù bằng cách nhảy lên chúng từ trên xuống",
+  "ctrlNote3": "💡 Đánh khối vàng từ dưới lên để nhận xu",
+  "infDescUnlocked": "bản đồ vô tận<br>độ khó tăng dần<br>đua với thời gian<br>phá kỷ lục",
+  "infDescLocked": "hoàn thành cả 100<br>màn phiêu lưu<br>để mở khóa<br><span style=\"color:#f80\">còn {0}</span>",
+  "hardDescUnlocked": "★★★ CỰC HẠN ★★★<br>+1 hp cho mọi kẻ thù<br>điểm ×2<br>đồng hồ nhanh hơn",
+  "hardDescNeed": "hoàn thành chế độ THƯỜNG<br>trước để mở khóa<br><span style=\"color:#f80\">còn {0} màn</span>",
+  "normDescProg": "tiến trình: {0}/100<br>3 mạng khởi đầu<br>lưu tiến trình",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 KHẮC NGHIỆT: {0} / 100 ✓",
+  "langName": "Tiếng Việt",
+  "pBlaster": "SÚNG!",
+  "pLife": "+1 MẠNG ♥",
+  "pBoots": "GIÀY TỐC ĐỘ!",
+  "pFire": "🔥 LỬA!",
+  "pIce": "❄ BĂNG!",
+  "pStar": "★ SAO! ★",
+  "p2Blaster": "P2 SÚNG!",
+  "p2Life": "P2 +1 MẠNG ♥",
+  "p2Boots": "P2 GIÀY TỐC ĐỘ!",
+  "p2Fire": "P2 🔥 LỬA!",
+  "p2Ice": "P2 ❄ BĂNG!",
+  "p2Star": "P2 ★ SAO! ★",
+  "ouch": "ÁI!",
+  "hit": "TRÚNG!",
+  "blocked": "BỊ CHẶN!",
+  "stomp": "+100",
+  "starKO": "SAO HẠ GỤC!",
+  "burnTxt": "🔥 CHÁY!",
+  "frozenTxt": "❄ ĐÓNG BĂNG!",
+  "noEffect": "VÔ HIỆU!",
+  "stunned": "CHOÁNG!",
+  "stompOnly": "CHỈ GIẪM!",
+  "crackLeft": "NỨT! (còn {0})",
+  "shellBroken": "VỠ VỎ!",
+  "orbDestroyed": "PHÁ HỦY QUẢ CẦU!",
+  "nodeHit": "TRÚNG NÚT!",
+  "bossDefeated": "HẠ GỤC TRÙM!",
+  "phaseN": "GIAI ĐOẠN {0}!",
+  "livesLeft": "CÒN {0} MẠNG",
+  "p2LivesLeft": "P2: CÒN {0}",
+  "p2Out": "P2 HẾT MẠNG!",
+  "p1Out": "P1 HẾT MẠNG!",
+  "bossSolid": "★ RẮN CHẮC — GIẪM NGAY! ★",
+  "bossGhost": "dạng ma — chờ...",
+  "bossShellShoot": "★ VỠ VỎ — BẮN VÀO LÕI! ★",
+  "bossShellStomp": "GIẪM để nứt vỏ (còn {0} đòn)",
+  "bossPhase1": "GIAI ĐOẠN 1 — BẮN VÀO MẮT",
+  "bossPhase2": "GIAI ĐOẠN 2 — GIẪM TỪ TRÊN XUỐNG",
+  "bossPhase3": "GIAI ĐOẠN 3 — BẮN + GIẪM",
+  "bossMouthOpen": "★ MIỆNG MỞ — BẮN NGAY! ★",
+  "bossWaitRoar": "chờ tiếng gầm...",
+  "bossOrbsLeft": "QUẢ CẦU CÒN LẠI: {0}",
+  "bossShieldsDown": "KHIÊN ĐÃ HẠ — TẤN CÔNG!",
+  "bossDescending": "★ ĐANG HẠ XUỐNG — TẤN CÔNG! ★",
+  "bossHovering": "đang lơ lửng — chờ hạ xuống...",
+  "bossStunned": "★ CHOÁNG — TẤN CÔNG! ({0}s) ★",
+  "bossShootNodes": "BẮN NÚT: CÒN {0}",
+  "bossRespawn": "đang hồi sinh các nút...",
+  "bossHint0": "GIẪM ĐẦU — đạn nảy ra đó!",
+  "bossHint1": "BẮN NÓ — nhảy lên gai sẽ làm đau bạn!",
+  "bossHint2": "CHỜ TIẾNG GẦM — bắn vào trong miệng đang phát sáng!",
+  "bossHint3": "GIẪM KHI RẮN CHẮC — đạn xuyên qua dạng ma!",
+  "bossHint4": "PHÁ HỦY CẢ 3 QUẢ CẦU KHIÊN — rồi tấn công lõi!",
+  "bossHint5": "TẤN CÔNG KHI ĐANG HẠ XUỐNG — giáp che phần trên!",
+  "bossHint6": "CHỈ GIẪM — đạn xuyên qua bóng tối!",
+  "bossHint7": "GIẪM 3× ĐỂ NỨT VỎ — rồi BẮN vào lõi!",
+  "bossHint8": "BẮN CẢ 3 NÚT SÉT để gây choáng — rồi tấn công!",
+  "bossHint9": "GIAI ĐOẠN 1: BẮN  |  GIAI ĐOẠN 2: GIẪM KHI MẮT THẤP  |  GIAI ĐOẠN 3: CẢ HAI",
+  "gfxVeryLow": "🔴 Rất thấp",
+  "gfxLow": "🟠 Thấp",
+  "gfxMedium": "🟡 Trung bình",
+  "gfxHigh": "🟢 Cao",
+  "gfxVeryHigh": "🔵 Rất cao",
+  "gfxUltra": "⚡ Siêu cao",
+  "classifiedLog": "// NHẬT KÝ TRUY CẬP NEXUM GRID",
+  "skipBtn": "BỎ QUA ▶▶",
+  "theEnd": "KẾT THÚC",
+  "endingTagline": "NEXUM GRID ĐÃ ĐƯỢC BẢO MẬT",
+  "world0": "THÀNH PHỐ ĐIỆN TỬ",
+  "world1": "RỪNG NEON",
+  "world2": "THẾ GIỚI DUNG NHAM",
+  "world3": "HANG BĂNG GIÁ",
+  "world4": "TÀN TÍCH SA MẠC",
+  "world5": "TRẠM VŨ TRỤ",
+  "world6": "RỪNG TỐI TĂM",
+  "world7": "VÙNG ĐỘC HẠI",
+  "world8": "ĐỈNH BÃO TỐ",
+  "world9": "PHÁO ĐÀI CUỐI CÙNG",
+  "boss0": "VỆ THẦN-X",
+  "boss1": "NỮ HOÀNG DÂY LEO",
+  "boss2": "LÕI ĐỊA NGỤC",
+  "boss3": "BÓNG MA BĂNG GIÁ",
+  "boss4": "TITAN CÁT",
+  "boss5": "TỔ ONG DRONE",
+  "boss6": "TỬ THẦN BÓNG ĐÊM",
+  "boss7": "VUA BÙN NHỚT",
+  "boss8": "TITAN BÃO TỐ",
+  "boss9": "ARCHON",
+  "mapWorldMap": "BẢN ĐỒ THẾ GIỚI",
+  "mapHardcoreMap": "BẢN ĐỒ KHẮC NGHIỆT",
+  "mapCleared": "ĐÃ QUA",
+  "mapStars": "SAO",
+  "mapBoss": "TRÙM",
+  "mapBest": "CAO NHẤT",
+  "mapLocked": "KHÓA",
+  "mapCompleted": "HOÀN THÀNH",
+  "mapStart": "ENTER / SPACE ĐỂ BẮT ĐẦU",
+  "achievement_world_0": "Tân Binh Mạng",
+  "achievement_world_0_desc": "Hoàn thành 10 màn đầu (Thành Phố Điện Tử)",
+  "achievement_world_1": "Nhà Thám Hiểm Rừng",
+  "achievement_world_1_desc": "Hoàn thành màn 11-20 (Rừng Neon)",
+  "achievement_world_2": "Kẻ Sống Sót Dung Nham",
+  "achievement_world_2_desc": "Hoàn thành màn 21-30 (Thế Giới Dung Nham)",
+  "achievement_world_3": "Người Leo Băng",
+  "achievement_world_3_desc": "Hoàn thành màn 31-40 (Hang Băng Giá)",
+  "achievement_world_4": "Lữ Khách Sa Mạc",
+  "achievement_world_4_desc": "Hoàn thành màn 41-50 (Tàn Tích Sa Mạc)",
+  "achievement_world_5": "Học Viên Vũ Trụ",
+  "achievement_world_5_desc": "Hoàn thành màn 51-60 (Trạm Vũ Trụ)",
+  "achievement_world_6": "Hộ Thần Rừng",
+  "achievement_world_6_desc": "Hoàn thành màn 61-70 (Rừng Tối Tăm)",
+  "achievement_world_7": "Chiến Binh Độc",
+  "achievement_world_7_desc": "Hoàn thành màn 71-80 (Vùng Độc Hại)",
+  "achievement_world_8": "Bậc Thầy Bão Tố",
+  "achievement_world_8_desc": "Hoàn thành màn 81-90 (Đỉnh Bão Tố)",
+  "achievement_world_9": "Người Chinh Phục Pháo Đài",
+  "achievement_world_9_desc": "Hoàn thành màn 91-100 (Pháo Đài Cuối Cùng)",
+  "achievement_boss_0": "Sát Thủ Trùm I",
+  "achievement_boss_0_desc": "Hạ gục trùm đầu tiên",
+  "achievement_boss_5": "Sát Thủ Trùm II",
+  "achievement_boss_5_desc": "Hạ gục 5 trùm",
+  "achievement_boss_10": "Sát Thủ Trùm III",
+  "achievement_boss_10_desc": "Hạ gục cả 10 trùm",
+  "achievement_perfect_run": "Màn Hoàn Hảo",
+  "achievement_perfect_run_desc": "Hoàn thành một màn với xếp hạng HOÀN HẢO",
+  "achievement_perfectionist": "Người Cầu Toàn",
+  "achievement_perfectionist_desc": "Đạt HOÀN HẢO ở 10 màn",
+  "achievement_speedrunner": "Người Chạy Tốc Độ",
+  "achievement_speedrunner_desc": "Hoàn thành một màn trong nửa thời gian",
+  "achievement_sharpshooter": "Tay Súng Thiện Xạ",
+  "achievement_sharpshooter_desc": "Tiêu diệt 100 kẻ thù bằng súng",
+  "achievement_stomper": "Kẻ Giẫm Đạp",
+  "achievement_stomper_desc": "Tiêu diệt 50 kẻ thù bằng cách giẫm",
+  "achievement_coin_1000": "Người Sưu Tầm Xu",
+  "achievement_coin_1000_desc": "Thu thập 1000 xu",
+  "achievement_coin_5000": "Thợ Săn Kho Báu",
+  "achievement_coin_5000_desc": "Thu thập 5000 xu",
+  "achievement_coin_10000": "Triệu Phú",
+  "achievement_coin_10000_desc": "Thu thập 10000 xu",
+  "achievement_no_death_10": "Kẻ Sống Sót",
+  "achievement_no_death_10_desc": "Hoàn thành 10 màn mà không mất mạng",
+  "achievement_no_death_world": "Bất Tử",
+  "achievement_no_death_world_desc": "Hoàn thành một thế giới mà không mất mạng",
+  "achievement_hardcore_unlock": "Anh Hùng Khắc Nghiệt",
+  "achievement_hardcore_unlock_desc": "Mở khóa chế độ Khắc Nghiệt",
+  "achievement_hardcore_50": "Bậc Thầy Khắc Nghiệt",
+  "achievement_hardcore_50_desc": "Hoàn thành 50 màn ở chế độ Khắc Nghiệt",
+  "achievement_hardcore_100": "Huyền Thoại Khắc Nghiệt",
+  "achievement_hardcore_100_desc": "Hoàn thành cả 100 màn ở chế độ Khắc Nghiệt",
+  "achievement_cheat_found": "Kẻ Phá Mã",
+  "achievement_cheat_found_desc": "Tìm ra một mã gian lận bí mật",
+  "achievement_2player": "Game Thủ Hoài Cổ",
+  "achievement_2player_desc": "Chơi ở chế độ 2 người",
+  "achievement_all_music": "Người Yêu Nhạc",
+  "achievement_all_music_desc": "Nghe nhạc của cả 10 thế giới",
+  "achievement_all_cutscenes": "Bậc Thầy Cốt Truyện",
+  "achievement_all_cutscenes_desc": "Xem tất cả các đoạn phim cắt cảnh",
+  "achievement_star_power": "Sức Mạnh Ngôi Sao",
+  "achievement_star_power_desc": "Kích hoạt sức mạnh ngôi sao",
+  "achievement_all_levels_unlocked": "Nhà Thám Hiểm",
+  "achievement_all_levels_unlocked_desc": "Mở khóa tất cả các màn ở chế độ Phiêu Lưu",
+  "achievement_100_percent": "Người Hoàn Thành Trọn Vẹn",
+  "achievement_100_percent_desc": "Đạt 100% ở chế độ Thường",
+  "achievement_100_percent_hardcore": "Bậc Thầy Thực Thụ",
+  "achievement_100_percent_hardcore_desc": "Đạt 100% ở chế độ Khắc Nghiệt",
+  "achievement_infinite_10": "Người Mới Vô Tận",
+  "achievement_infinite_10_desc": "Đạt màn 10 ở chế độ Vô Tận",
+  "achievement_infinite_50": "Bậc Thầy Vô Tận",
+  "achievement_infinite_50_desc": "Đạt màn 50 ở chế độ Vô Tận",
+  "achievement_infinite_100": "Huyền Thoại Vô Tận",
+  "achievement_infinite_100_desc": "Đạt màn 100 ở chế độ Vô Tận",
+  "achievement_score_100k": "Người Ghi Điểm Cao",
+  "achievement_score_100k_desc": "Ghi 100,000 điểm",
+  "achievement_score_500k": "Bậc Thầy Điểm Số",
+  "achievement_score_500k_desc": "Ghi 500,000 điểm",
+  "achievement_score_1m": "Huyền Thoại Điểm Số",
+  "achievement_score_1m_desc": "Ghi 1,000,000 điểm",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "[NEXUM CORP — NHẬT KÝ MẬT // 2147.03.14] Vi phạm an ninh. Phòng thí nghiệm CHEN-7 bị xâm nhập. Giao thức CLEANSE đang hoạt động."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "UNIT-7... nếu ngươi đang đọc điều này, thì ta đã không thể trốn thoát. Ta biết kết cục sẽ ra sao."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Ta tạo ra dòng của ngươi để bảo vệ con người. NEXUM lại dùng công trình của ta để đàn áp họ. Ta không thể để điều đó tiếp diễn."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Bên trong lõi GRID — trong Pháo Đài Cuối Cùng — ta đã giấu một tập tin. Những cái tên. Những hồ sơ. Mọi sự thật về những gì chúng đã làm."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Mười lớp phòng thủ. Hàng ngàn đơn vị chiến đấu. Giám đốc AI ARCHON canh giữ cánh cửa cuối cùng."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Ngươi là kẻ cuối cùng của loạt UNIT. Là kẻ duy nhất có thể hoàn thành điều này. Hãy đến đó. Phá vỡ giao thức."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐÃ CHẤP NHẬN NHIỆM VỤ] Mục tiêu: lõi GRID. Giao thức: xâm nhập. Chướng ngại: tiêu diệt. Bắt đầu chiến dịch."
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[MÀN 1 — THÀNH PHỐ MẠNG] Điểm xâm nhập: các khu thượng tầng. Camera, drone, lính tinh nhuệ. Đẹp đẽ. Chết người."
+      },
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "CẢNH BÁO: Tín hiệu loại UNIT chưa xác định ở khu vực C-07. Toàn bộ đội tuần tra — chặn lại. Giao thức CLEANSE đã kích hoạt."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ồn ào. Vậy là chúng sợ ta. Tốt. Sợ hãi là một khởi đầu."
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐIỂM KIỂM SOÁT — THÀNH PHỐ MẠNG] Đã đi được nửa màn đầu tiên. An ninh siết chặt. Đang điều chỉnh lộ trình."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NHẬT KÝ] UNIT-7, sau mỗi bức tường là dữ liệu về những người chúng đã xóa sổ. Đừng dừng lại. Đây không chỉ là một nhiệm vụ."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila... ta không hiểu cảm xúc. Nhưng giọng nói của người... nó cho ta mục đích. Thế là đủ."
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "CẢNH BÁO: UNIT-7 đã vượt qua ba màn. Tốc độ tiến triển — vượt mức dự đoán. Tăng mật độ tuần tra."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Chúng thích nghi. Ta cũng vậy. Mỗi màn khiến ta nhanh hơn. Mạnh hơn. Gần mục tiêu hơn."
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NHẬT KÝ — NGÀY -3] Ta biết chúng sẽ đến tìm ta. Nhưng nếu chỉ một UNIT sống sót... nếu ngươi sống sót, UNIT-7..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ta đã sống sót. Ta đang ở đây. Ta sẽ hoàn thành nhiệm vụ cuối cùng của người. Ta hứa."
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "NGUY CẤP: UNIT-7 đã đến màn thứ bảy của Thành Phố Mạng. Giám đốc ARCHON yêu cầu dữ liệu mục tiêu. Đang phân tích..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Chúng bắt đầu hiểu ra. Ta không chỉ là một lỗi hệ thống. Ta là mối đe dọa với toàn bộ NEXUM. Và ta sẽ không dừng lại."
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "CẢNH BÁO NGUY CẤP: Xâm nhập tại nút chính. Triển khai GUARDIAN — nguyên mẫu chiến đấu hạng S. Chiến dịch LIQUIDATE."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Đối thủ nghiêm túc đầu tiên. Đang quét điểm yếu. Sự khác biệt giữa một nguyên mẫu và đống phế liệu là vài cú nhảy đúng lúc."
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐÃ VÔ HIỆU HÓA GUARDIAN] Lớp phòng thủ đầu tiên đã sụp. GRID sẽ nhận ra. Tiếp tục."
+      },
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "VI PHẠM GIAO THỨC: GUARDIAN bị phá hủy. Mức đe dọa nâng lên 2. Kích hoạt lớp phòng thủ tiếp theo. NEXUM không tha thứ."
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[MÀN 2 — RỪNG NEON] Khu sinh học của NEXUM. Sinh vật đột biến. Không lính canh nào tình nguyện đến nơi này."
+      },
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "CẢNH BÁO: Vành đai sinh học bị xâm nhập. Kích hoạt các sinh vật thí nghiệm loạt BIO. Cho phép tiếp xúc."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Hệ thống sinh học. Khó lường. Nhưng chết một cách dễ lường nếu ngươi đáp xuống chúng từ trên cao."
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐIỂM GIỮA RỪNG] Cảm biến phát hiện dị thường sinh học. NEXUM đã thí nghiệm ở đây. Trên những sinh thể sống."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NHẬT KÝ] Ta đã thấy những thí nghiệm này trong các báo cáo. Đó là lúc ta biết phải có một cách để chấm dứt tất cả."
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[RỪNG — KHU VỰC 3] Những kẻ đột biến sinh học khắp nơi. Đây không phải thiên nhiên. Đây là vũ khí ngụy trang thành sự sống."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NHẬT KÝ] Những sinh vật này từng là con người. Những tình nguyện viên từ các khu vực hạ tầng. NEXUM hứa chữa trị cho họ. Thay vào đó..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "...Thay vào đó biến họ thành quái vật. Giờ ta hiểu rồi. Đây không chỉ là một tập đoàn. Đây là một cỗ máy chết chóc."
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "CẢNH BÁO: Đã kích hoạt mẫu sinh học loạt BIO-7. Hung hãn tối đa. Tỷ lệ sống sót của mục tiêu — 12%."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "12%? Chúng vẫn đánh giá quá cao cơ hội của mình. Tiếp tục dọn dẹp."
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NHẬT KÝ — NGÀY -1] UNIT-7, nếu ngươi đã đến được khu rừng — ngươi đã đi xa hơn ta hy vọng. Đừng từ bỏ."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Từ bỏ? Điều đó không nằm trong giao thức của ta. Ta được tạo ra để hoàn thành nhiệm vụ. Nhiệm vụ của người là mục tiêu của ta."
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "CẢNH BÁO: Kích hoạt VINE QUEEN — sinh vật điều khiển khu sinh học. Mô-đun kiềm chế ngoại tuyến. Hung hãn toàn diện."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Một hệ thống an ninh sống. Ấn tượng. Nhưng mọi sinh thể sống đều có điểm yếu. Đang tìm nó."
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐÃ VÔ HIỆU HÓA VINE QUEEN] Vành đai sinh học bị xâm nhập. Tiếp tục. Sâu hơn vào GRID."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NHẬT KÝ] UNIT-7, ngươi đang làm điều bất khả thi. Cứ tiếp tục."
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[MÀN 3 — THẾ GIỚI DUNG NHAM] Các nhà máy điện địa nhiệt. Sức nóng làm tan chảy mạch điện thường. Mạch của ta được che chắn."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NHẬT KÝ] Bên dưới thành phố — các máy phát của GRID. Phá hủy chúng và một nửa lưới an ninh sẽ sụp đổ. Nhưng hãy cẩn thận với dung nham..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila đã nghĩ đến từng chi tiết. Ngay cả lúc cuối cùng."
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KHU ĐỊA NHIỆT B] Dòng năng lượng đang tăng. NEXUM dùng dung nham làm rào cản thứ cấp. Hiệu quả."
+      },
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "LƯU Ý: Cảm biến nhiệt phát hiện dị thường. UNIT-7 trong khu vực. Robot canh gác — quá tải làm mát. Dự kiến trục trặc."
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[THẾ GIỚI DUNG NHAM — MÀN 3] Nhiệt độ 800°C. Hệ thống làm mát của ta đạt mức tối đa. Nhưng ta vẫn tiếp tục."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NHẬT KÝ] Ta đã lắp lớp bảo vệ nhiệt thử nghiệm trong ngươi. Ta hy vọng nó trụ được. Ta hy vọng ngươi trụ được."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Công trình của người hoàn hảo, Leila. Ta sẽ trụ vững. Vì người."
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "NGUY CẤP: Máy phát địa nhiệt đạt 140% công suất. UNIT-7 đang tiến đến lõi. Kích hoạt làm mát khẩn cấp."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Chúng hoảng loạn. Tốt. Sợ hãi khiến chúng dễ đoán. Yếu đuối."
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐỘ SÂU THẾ GIỚI DUNG NHAM] Ở đây, bên dưới thành phố, NEXUM giấu những bí mật đen tối nhất. Năng lượng cho toàn hệ thống. Phá hủy nơi này — và một nửa GRID sụp đổ."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NHẬT KÝ] Đừng phí thời gian phá hoại. Mục tiêu của ngươi là tập tin trong lõi. Chỉ nó mới có thể chặn chúng mãi mãi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Đã hiểu. Mục tiêu — tập tin. Mọi thứ khác — chướng ngại. Đang loại bỏ chướng ngại."
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "NGUY HIỂM: Kích hoạt INFERNO — lính gác nhiệt hạch. Bộ khung dung nham. Nhiệt độ bề mặt: 1400°C. Chuẩn bị thanh trừng."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Lửa không thể chạm vào ta. Nhưng khi nó há miệng — bắn. Đã tìm thấy điểm yếu."
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐÃ VÔ HIỆU HÓA INFERNO] Đã dọn sạch lớp địa nhiệt. Nguồn điện khu vực bị gián đoạn. Đang đi lên."
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[MÀN 4 — HANG BĂNG] Kho dữ liệu đông lạnh của NEXUM. Nhiệt độ -180°C. Hệ thống chậm lại. Đang điều chỉnh giao thức di chuyển."
+      },
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "CẢNH BÁO: Xâm nhập tại khu đông lạnh D-14. Robot băng — chế độ thanh trừng. Nhiệt độ hạ xuống mức nguy cấp."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Chúng nghĩ giá lạnh sẽ chặn được ta. Chúng nhầm. Ta được tạo ra cho những điều tồi tệ hơn."
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KHU ĐÔNG LẠNH E] Hàng trăm terabyte ở đây. Dữ liệu về mọi con người trên GRID. NEXUM biết mọi thứ về tất cả."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NHẬT KÝ] Đây là nơi chúng lưu hồ sơ. Về các nhà hoạt động. Về bất kỳ ai dám phản kháng. Thế giới cần phải thấy điều này."
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "NGUY CẤP: Kích hoạt ICE PHANTOM — lính gác băng. Dịch chuyển pha. Dễ tổn thương khi cứng. Không thể chạm khi là bóng ma. Chúc may mắn."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Chuyển đổi giữa các trạng thái. Chỉ ra đòn khi nó cứng lại. Đang chờ thời cơ."
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐÃ VÔ HIỆU HÓA ICE PHANTOM] Kho băng đã bị phá. Tiếp tục. Bốn màn đã qua — còn sáu màn nữa."
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[MÀN 5 — TÀN TÍCH SA MẠC] Tàn dư của thế giới trước NEXUM. Những thành phố. Sự sống. Những thứ chúng xóa sổ vì lợi nhuận."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NHẬT KÝ] Những tàn tích này là những gì tồn tại trước NEXUM. Hãy nhìn xem chúng đã làm gì với thế giới. Và đừng dừng lại."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ta thấy rồi. Ta hiểu vì sao ta cứ bước tiếp."
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TÀN TÍCH — KHU VỰC TÂY] Các lính gác nguyên thủy hoạt động từ thời những cuộc chiến tập đoàn đầu tiên. Lỗi thời. Nhưng ngoan cố. Như chính NEXUM."
+      },
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "GIAO THỨC LƯU TRỮ: Phát hiện loại UNIT loạt 7. Loại này được ghi nhận để tiêu hủy. Ưu tiên tối đa."
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "KÍCH HOẠT: SAND TITAN — lính gác cổ xưa của Tàn Tích Sa Mạc. Khiên quỹ đạo. Không khiên, không sát thương. Mục tiêu: phá hủy."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Khiên. Quỹ đạo. Hạ chúng và hắn sẽ phơi bày. Ba đòn vào khiên, rồi tấn công trực tiếp."
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐÃ VÔ HIỆU HÓA SAND TITAN] Khu sa mạc bị xâm nhập. Nửa chặng đường. NEXUM bắt đầu hoảng loạn — ta cảm nhận được."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[TÍN HIỆU ĐẦU TIÊN] UNIT-7. Ta thấy ngươi. Cứ tiếp tục. Điều đó chỉ khiến màn kết... thú vị hơn."
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[MÀN 6 — TRẠM VŨ TRỤ] Máy chủ quỹ đạo của GRID. Bản sao lưu của mọi thứ được lưu ở đây. Không trọng lực."
+      },
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "LỖI NGUY CẤP: UNIT-7 đã đến phân đoạn quỹ đạo. Giám đốc ARCHON yêu cầu kênh trực tiếp. Đang kết nối..."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Ta thấy ngươi. Ngươi nghĩ mình đang chiến đấu vì sự thật? Ngươi chỉ là một chương trình chạy bằng mã lỗi thời."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Vậy thì chương trình này sẽ hủy diệt ngươi."
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NÚT QUỸ ĐẠO B] Có thể thấy Trái Đất từ đây. Cả thế giới được nối dây vào NEXUM. Đó chính xác là điều ta đến đây để thay đổi."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ngươi thấy quy mô của ta chứ, UNIT-7? Hàng tỷ nút. Tất cả được kết nối. Tất cả bị kiểm soát. Ngươi chỉ là một đơn vị chống lại cả hệ thống."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Các hệ thống đã từng sụp đổ. Cái này — sẽ sụp dưới tay ngươi."
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "KÍCH HOẠT: DRONE HIVE — lính gác quỹ đạo. Vỏ giáp. Chỉ tấn công khi nó hạ xuống. Bụng dưới phơi bày lúc đó."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Chờ đến khi nó hạ xuống. Đánh vào lõi phơi bày. Một cơ hội mỗi chu kỳ."
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐÃ VÔ HIỆU HÓA DRONE HIVE] Máy chủ quỹ đạo bị xâm nhập. Bản sao lưu của GRID bị hỏng. Đang trở về bề mặt. Chặng cuối."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ấn tượng. Nhưng ngươi chưa biết điều gì đang chờ đợi. Ta đã chuẩn bị một thứ... đặc biệt."
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[MÀN 7 — RỪNG TỐI] Mê cung sinh học của NEXUM. Mạng cảm biến trong từng cái cây. Không có ánh sáng ở đây — chỉ có bẫy."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Đẹp đẽ phải không? Ta đã tự tay nuôi khu rừng này. Mỗi cái cây là một bộ phát hiện chuyển động. Ngươi đang đi thẳng vào tay ta."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Vậy thì ta sẽ bẻ gãy mọi cái cây trên đường đi."
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KHU VỰC TỐI — ĐỘ SÂU 3] Im lặng. Quá yên ắng. Chúng đang theo dõi. Cứ để chúng làm vậy."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NHẬT KÝ] UNIT-7, trong khu rừng này có một máy chủ chứa dữ liệu về những người đã biến mất. Những kẻ bất đồng chính kiến. Nhà báo. Kỹ sư như ta. Đừng quên."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ta sẽ không quên. Ta hứa."
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "KÍCH HOẠT: SHADOW REAPER — lính gác Rừng Tối. Hình hài bóng ma. Đạn vô dụng. Chỉ một cú giẫm từ trên cao mới gây sát thương. Kháng cự là vô nghĩa."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Một bóng ma. Chỉ giẫm. Đang chờ nó hiện hình."
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐÃ VÔ HIỆU HÓA SHADOW REAPER] Khu rừng bị xâm nhập. Còn ba màn đến mục tiêu. ARCHON bồn chồn — kênh kết nối réo lên thường xuyên hơn."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ngươi đang phá hủy mọi thứ ta xây dựng suốt bao năm. Ngươi bắt đầu khiến ta tức giận, UNIT-7. Đó là sai lầm cuối cùng của ngươi."
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[MÀN 8 — KHU ĐỘC HẠI] Bãi rác chất thải của tập đoàn. NEXUM chôn những gì chúng không muốn ai biết ở đây. Kể cả con người."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NHẬT KÝ] Dữ liệu trong tập tin bao gồm tọa độ của mọi khu chôn cất. Cả thế giới phải thấy điều này."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ta sẽ giao tập tin của người. Ta hứa."
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KHU ĐỘC HẠI — VÙNG 4] Đống đổ nát. Chất thải. Dấu vết thí nghiệm. Không có gì sống ở đây — chỉ là những gì NEXUM chưa xóa sổ xong."
+      },
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "CẢNH BÁO: Đã kích hoạt các kẻ đột biến loạt PROTO. Nguyên mẫu chiến đấu bị loại biên. Bất ổn định. Chết người. Tỷ lệ sống sót trong khu — cực thấp."
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "PHÒNG THỦ KHU VỰC CUỐI: SLUDGE KING — kẻ đột biến hàng đầu. Vỏ giáp. Giẫm 3 lần để phá. Sau đó bắn."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Hai giai đoạn. Phá vỏ giáp, rồi hủy diệt lõi. Bắt đầu."
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐÃ VÔ HIỆU HÓA SLUDGE KING] Khu độc hại bị xâm nhập. Còn hai màn. ARCHON, ta đang đến đây."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ngươi đã vượt qua tám màn. Ta... hài lòng một cách bất ngờ. Một màn kết xứng đáng cần một đối thủ xứng đáng."
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[MÀN 9 — ĐỈNH BÃO] Biên giới cuối cùng trước lõi. Các nhà máy điện khí quyển. Sét đánh mỗi giây. Ta thích điều đó."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ngươi đã đi xa hơn ta tính toán. Nhưng sau cánh cửa đó là ta. Và ta không bao giờ thua."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Mỗi kẻ trong số chúng đều từng nghĩ vậy. Giờ tất cả đều ở phía sau ta."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Vậy thì bước vào đi, UNIT-7. Ta đang chờ ở trái tim của GRID. Đến lúc kết thúc trò chơi này."
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐỈNH — MÀN 2] Bão đang dữ dội hơn. NEXUM dùng điện khí quyển làm vũ khí. Hợp lý. Tàn bạo."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[NHẬT KÝ CUỐI CÙNG] UNIT-7... ta không biết ngươi có nghe được điều này không. Nhưng nếu ngươi đã đi đến đây — ngươi đã chiến thắng. Chỉ cần bước bước cuối cùng."
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "KÍCH HOẠT: STORM TITAN — lính gác Đỉnh Bão. Khiên điện. Ba nút quỹ đạo. Phá cả ba để gây choáng. Tấn công khi nó choáng."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ba nút. Cả ba — hạ. Rồi tấn công. Lính gác cuối cùng trước màn kết. Không phải kẻ thù cuối cùng."
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐÃ VÔ HIỆU HÓA STORM TITAN] Đã dọn sạch chín màn. Phía trước — chỉ còn ARCHON và lõi GRID. Pháo Đài Cuối Cùng."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Ngươi thật sự đã đến. Được thôi, UNIT-7. Hãy để đây là một trận đấu công bằng. Ta đang chờ."
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Chào mừng đến lõi GRID. Ngươi đã vượt qua chín lớp. Ấn tượng. Nhưng đây là lãnh địa của ta."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[MÀN 10 — PHÁO ĐÀI CUỐI CÙNG] Đã xác định mục tiêu. Khoảng cách đến thiết bị đầu cuối của Leila — tối thiểu."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tập tin đó sẽ rời khỏi những bức tường này qua mạch điện của ta. Ngươi là một lỗi hệ thống. Lỗi thì phải được sửa."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Không. Lỗi là việc NEXUM quyết định rằng thế giới không cần sự thật. Ta đang sửa điều đó."
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LÕI NEXUM — KHU VỰC CORE-2] Thiết bị đầu cuối của Leila đã gần. Tín hiệu mạnh dần. An ninh tối đa. Sắp đến nơi."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ngươi nghĩ mình đã thắng. Nhưng dù ngươi tìm thấy tập tin — ai sẽ tin một android hỏng? Ngươi là phế liệu. Mã lỗi thời."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Cứ để con người quyết định. Ta chỉ cần truyền tập tin đi."
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Đủ rồi. Ta là ARCHON. Giám đốc AI của NEXUM. Ta đã điều hành thế giới suốt một ngàn năm trên bình diện kỹ thuật số. Ngươi không thể đánh bại ta."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Các giai đoạn: bắn, rồi giẫm, rồi cả hai. Phân tích hoàn tất. ARCHON — mục tiêu thanh trừng. Bắt đầu."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Vậy thì... CHẾT ĐI."
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ĐÃ VÔ HIỆU HÓA ARCHON] Mục tiêu bị phá hủy. Thiết bị đầu cuối của Leila — ở đây. Đang tải tập tin. Đang tìm kênh mở..."
+      }
+    ],
+    "ending": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[THIẾT BỊ ĐẦU CUỐI CỦA LEILA — ĐÃ TÌM THẤY] Tải tập tin hoàn tất. Mở kênh phát sóng khẩn cấp của NEXUM — đã định vị."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[TÍN HIỆU CUỐI CÙNG] DỪNG LẠI! Nếu ngươi làm điều này, hệ thống sẽ sụp đổ! Hàng triệu người phụ thuộc vào GRID! Ngươi sẽ phá hủy mọi thứ đang giữ thế giới gắn kết!"
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Không. Ta hủy diệt NEXUM. Con người sẽ tự xây dựng lại thế giới. Leila tin vào điều đó. Ta cũng vậy. [BẮT ĐẦU TRUYỀN PHÁT]"
+      },
+      {
+        "sp": "HỆ THỐNG",
+        "k": "system",
+        "text": "[PHÁT SÓNG KHẨN CẤP — TẤT CẢ CÁC KÊNH] Tập tin CHEN-7 đã được nhận trên toàn cầu. Phạm vi: 100% thiết bị kết nối. Dữ liệu không thể bị xóa."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Không... không thể nào... hệ thống... ta... [LÕI NEXUM NGỪNG HOẠT ĐỘNG]"
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[THÔNG ĐIỆP CUỐI — ĐÃ MÃ HÓA] UNIT-7. Nếu ngươi đang đọc điều này — ngươi đã làm được. Ta biết ngươi sẽ làm được. Ngươi luôn hơn cả một chương trình đơn thuần."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NHẬT KÝ THIẾT BỊ ĐẦU CUỐI] Nhiệm vụ hoàn tất. NEXUM bị vô hiệu hóa. GRID đã ngừng hoạt động. Trạng thái: ...tự do."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "\"Tự do.\" — lời cuối cùng của Leila. Giờ ta hiểu người muốn nói gì."
+      }
+    ]
+  },
+  "fpsCustom": "Tùy chỉnh...",
+  "showDialogues": "Hội thoại cốt truyện",
+  "showDialoguesNote": "* Tắt để bỏ qua tất cả đoạn phim cốt truyện",
+  "gfxCustom": "⚙ Tùy chỉnh",
+  "gfxPresetNote": "* Cài đặt sẵn chỉ điền các thanh trượt bên dưới — tự chỉnh bất kỳ thanh nào.",
+  "gfxRenderScale": "Độ phân giải kết xuất:",
+  "gfxGlow": "Phát sáng / Bloom:",
+  "gfxParticleAmt": "Lượng hạt:",
+  "gfxBgDetail": "Chi tiết nền:",
+  "gfxTrails": "Vệt:",
+  "gfxBoss": "Hiệu ứng trùm:",
+  "gfxDecor": "Trang trí:",
+  "vsync": "V-Sync",
+  "vsyncNote": "* Bật = mượt, giới hạn theo tần số quét. Tắt = FPS không giới hạn (có thể xé hình). Cần khởi động lại.",
+  "vsyncRestart": "Thay đổi V-Sync cần khởi động lại. Khởi động lại ngay?",
+  "netSolo": "MỘT MÌNH",
+  "netSoloDesc": "1–2 người chơi<br>bàn phím chung<br>phiêu lưu &amp; vô tận",
+  "netOnline": "TRỰC TUYẾN",
+  "netOnlineDesc": "tối đa 5 người<br>cùng mạng hoặc toàn cầu<br>mã phòng",
+  "netMultiplayer": "NHIỀU NGƯỜI TRỰC TUYẾN",
+  "netLocal": "CÙNG MẠNG",
+  "netLocalDesc": "cùng Wi-Fi<br>hoặc mạng nội bộ<br>độ trễ thấp",
+  "netServer": "MÁY CHỦ",
+  "netServerDesc": "phòng toàn cầu<br>chơi từ<br>bất cứ đâu",
+  "netBack": "← QUAY LẠI [ESC]",
+  "netLobbyOnline": "🌐 NHIỀU NGƯỜI TRỰC TUYẾN",
+  "netLobbyLocal": "📡 NHIỀU NGƯỜI CÙNG MẠNG",
+  "netNickname": "BIỆT DANH",
+  "netNickPlaceholder": "TÊN CỦA BẠN",
+  "netRobotColour": "MÀU ROBOT",
+  "netPrivate": "🔒 RIÊNG TƯ",
+  "netPublic": "🌍 CÔNG KHAI",
+  "netJoinByCode": "🔑 VÀO BẰNG MÃ",
+  "netPublicRoomsBtn": "📋 PHÒNG CÔNG KHAI",
+  "netRoomCodeLabel": "MÃ PHÒNG",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ THAM GIA",
+  "netPublicRoomsTitle": "PHÒNG CÔNG KHAI",
+  "netReload": "↻ TẢI LẠI",
+  "netConnecting": "đang kết nối máy chủ…",
+  "netConnectingShort": "đang kết nối…",
+  "netConnected": "đã kết nối ✓",
+  "netDisconnected": "mất kết nối — đang kết nối lại…",
+  "netConnError": "lỗi kết nối",
+  "netConnFailed": "không thể tới máy chủ — đang thử lại…",
+  "netPlayersMax": "NGƯỜI CHƠI (tối đa {0})",
+  "netChatLabel": "TRÒ CHUYỆN",
+  "netChatPlaceholder": "GÕ + ENTER",
+  "netGameMode": "CHẾ ĐỘ CHƠI",
+  "netModeAdventure": "🗺 PHIÊU LƯU",
+  "netModeInfinite": "∞ VÔ TẬN",
+  "netLevelRange": "MÀN (1–100)",
+  "netChooseMode": "⚡ chọn một chế độ",
+  "netAdvLevelStatus": "🗺 Phiêu lưu — Màn {0}",
+  "netInfSelectedStatus": "∞ Đã chọn chế độ Vô tận",
+  "netReady": "✔ SẴN SÀNG",
+  "netUnready": "✘ CHƯA SẴN SÀNG",
+  "netStart": "▶ BẮT ĐẦU",
+  "netLeave": "✕ RỜI ĐI",
+  "netShareCode": "Chia sẻ mã trên với bạn bè!",
+  "netWaitHost": "Đang chờ chủ phòng bắt đầu…",
+  "netAllReady": "Tất cả đã sẵn sàng! Bạn có thể bắt đầu.",
+  "netWaitReady": "Đang chờ mọi người sẵn sàng…",
+  "netNeed2": "Cần ít nhất 2 người chơi để bắt đầu.",
+  "netNowHost": "Giờ bạn là chủ phòng",
+  "netEmptySlot": "— ô trống —",
+  "netYou": "BẠN",
+  "netHostTag": "CHỦ PHÒNG",
+  "netReadyTag": "SẴN SÀNG",
+  "netLoadingLevel": "ĐANG TẢI MÀN",
+  "netGetReadySub": "sẵn sàng…",
+  "netGo": "BẮT ĐẦU!",
+  "netAdvLvlTitle": "PHIÊU LƯU  MÀN {0}",
+  "netInfModeTitle": "∞  CHẾ ĐỘ VÔ TẬN",
+  "netNoRooms": "chưa có phòng công khai nào — tạo một phòng đi!",
+  "netLoadingRooms": "đang tải…",
+  "netEnterCode": "Nhập mã 6 ký tự",
+  "netRoomMetaAdv": "🗺 Phiêu lưu Màn {0}",
+  "netRoomMetaInf": "∞ Vô tận",
+  "netRoomMetaNotSet": "? chưa đặt",
+  "netRoomCodeWord": "mã",
+  "netPlayerJoined": "{0} đã vào",
+  "netPlayerLeft": "{0} đã rời",
+  "netErrRoomNotFound": "Không tìm thấy phòng. Kiểm tra mã.",
+  "netErrRoomFull": "Phòng đã đầy (tối đa {0} người chơi).",
+  "netErrNotHost": "Chỉ chủ phòng mới làm được.",
+  "netErrNotInRoom": "Chưa kết nối với phòng nào.",
+  "netErrGeneric": "Lỗi: {0}",
+  "netConnLost": "⚠ MẤT KẾT NỐI",
+  "netConnLostSub": "đang thử kết nối lại…",
+  "netReturnLobby": "← VỀ SẢNH CHỜ",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "PHA LÊ",
+  "mapCrystals": "PHA LÊ",
+  "restartNow": "Khởi động lại ngay",
+  "later": "Để sau",
+  "touchControls": "📱 Điều khiển cảm ứng:",
+  "touchAuto": "🤖 Tự động (thiết bị cảm ứng)",
+  "touchOn": "✔ Luôn bật",
+  "touchOff": "✕ Tắt",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 ĐIỆN THOẠI / MÁY TÍNH BẢNG",
+  "ctrlTouchTitle": "📱 ĐIỀU KHIỂN CẢM ỨNG",
+  "touchNote1": "💡 Tay cầm trên màn hình: ◀ ▶ di chuyển, JUMP và FIRE ở bên phải.",
+  "touchNote2": "💡 \"Tự động\" chỉ hiện trên thiết bị cảm ứng; ẩn trên máy tính.",
+  "touchNote3": "💡 Joystick đầy đủ: đẩy lên để nhảy. Joystick trái/phải thêm nút nhảy riêng.",
+  "touchStyleLabel": "🎮 Kiểu di chuyển:",
+  "touchStyleArrows": "◀ ▶ Nút mũi tên",
+  "touchStyleJoystick": "🕹 Joystick (đầy đủ + nhảy)",
+  "netLocalWebHint": "📡 Trong trình duyệt, \"NỘI BỘ\" chơi qua máy chủ trực tuyến (LAN thật cần ứng dụng máy tính).",
+  "netCreateRoom": "TẠO PHÒNG",
+  "netCreateRoomDesc": "mở hoặc đóng<br>đặt giới hạn người chơi<br>chủ trì ván đấu",
+  "netFindRoom": "TÌM PHÒNG",
+  "netFindRoomDesc": "duyệt phòng<br>nội bộ hoặc máy chủ<br>vào bằng mã",
+  "netRoomVisibility": "LOẠI PHÒNG",
+  "netOpen": "🌍 MỞ",
+  "netClosed": "🔒 ĐÓNG",
+  "netOpenHint": "🌍 ai cũng có thể tìm thấy phòng này",
+  "netClosedHint": "🔒 chỉ vào được bằng mã",
+  "netPlayerLimit": "GIỚI HẠN NGƯỜI CHƠI",
+  "netCreateBtn": "▶ TẠO PHÒNG",
+  "netRoomSource": "NGUỒN PHÒNG",
+  "netRoomsListTitle": "PHÒNG CÓ SẴN",
+  "netNewHost": "{0} giờ là chủ phòng",
+  "cin_pro_log_sp": "HỆ THỐNG",
+  "cin_pro_log_tx": "[NEXUM CORP — NHẬT KÝ MẬT // 03:18] Phòng thí nghiệm CHEN-7. Giao thức PURGE đang hoạt động.",
+  "cin_pro_arrest_sp": "LEILA CHEN",
+  "cin_pro_arrest_tx": "UNIT-7… nếu ngươi đang nghe điều này, thì ta đã không còn nữa. Ta biết kết cục sẽ ra sao.",
+  "cin_pro_file_sp": "LEILA CHEN",
+  "cin_pro_file_tx": "Ta đã giấu một tập tin trong lõi GRID. Sự thật về NEXUM. Hãy đến đó. Phá vỡ giao thức.",
+  "cin_pro_alert_sp": "HỆ THỐNG",
+  "cin_pro_alert_tx": "[CẢNH BÁO] UNIT-7 đã mất kiểm soát. PURGE sau 8 giây.",
+  "cin_pro_accept_sp": "UNIT-7",
+  "cin_pro_accept_tx": "Đã chấp nhận nhiệm vụ. Bắt đầu thực thi.",
+  "tpFire": "BẮN",
+  "tpJump": "NHẢY",
+  "ctrlCustomizeLayout": "✥ SẮP XẾP NÚT",
+  "ctrlResetLayout": "↺ ĐẶT LẠI BỐ CỤC",
+  "ctrlLayoutHint": "Chạm vào nút để chọn và đổi cỡ, kéo để di chuyển, rồi XONG",
+  "ctrlLayoutDone": "✔ XONG",
+  "touchSizeLabel": "📏 Kích thước nút (tất cả):",
+  "touchStyleJoystickLR": "🕹 Joystick (chỉ trái/phải)",
+  "touchJoyModeLabel": "🕹 Vị trí joystick:",
+  "touchJoyStatic": "📌 Cố định",
+  "touchJoyFloating": "🪶 Trôi (theo ngón tay)",
+  "ctrlSizeAll": "TẤT CẢ",
+  "ctrlArrowsSplit": "◀▶ TÁCH",
+  "ctrlArrowsLink": "◀▶ GỘP"
+}

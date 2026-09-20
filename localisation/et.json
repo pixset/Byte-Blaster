@@ -1,0 +1,1246 @@
+{
+  "score": "SKOOR",
+  "total": "KOKKU",
+  "levelScoreLabel": "TASEME SKOOR: {0}",
+  "totalScoreLabel": "KOGUSKOOR: {0}",
+  "lives": "ELUD",
+  "level": "TASE",
+  "time": "AEG",
+  "mode": "REŽIIM",
+  "blaster": "BLASTER",
+  "coins": "MÜNDID",
+  "bonusFire": "TULI",
+  "bonusIce": "JÄÄ",
+  "bonusStar": "TÄHT",
+  "bonusBoots": "SAAPAD",
+  "modSpeedrun": "KIIRUSJOOKS",
+  "modStealth": "VARJATUS — VÄLDI VALGUST",
+  "modLowGravity": "MADAL GRAVITATSIOON",
+  "modHighGravity": "KÕRGE GRAVITATSIOON",
+  "modWind": "TUGEV TUUL",
+  "modSlippery": "LIBE PÕRAND",
+  "modDarkness": "PIMEDUS",
+  "tierPerfect": "★ TÄIUSLIK!",
+  "tierGreat": "SUUREPÄRANE!",
+  "tierGood": "HEA",
+  "tierBase": "BAAS",
+  "heightBonus": "+{0} KÕRGUSBOONUS",
+  "bossArena": "⚠ BOSSI AREEN ⚠",
+  "hpBonus": "+1 ELU!",
+  "repaired": "PARANDATUD!",
+  "newBest": "UUS REKORD!",
+  "completeMore": "✗ LÄBI VEEL {0} TASET",
+  "subtitle": "KÜBERPUNK NEOON-PLATVORMER",
+  "play": "▶ MÄNGI",
+  "settings": "⚙ SEADED",
+  "exit": "🚪 VÄLJU",
+  "selectSave": "VALI SALVESTUS",
+  "slot": "PESA",
+  "slotEmpty": "— TÜHI —",
+  "slotNewGame": "✚ UUS MÄNG",
+  "slotContinue": "▶ JÄTKA",
+  "slotDelete": "🗑 KUSTUTA",
+  "slotDeleteConfirm": "KINNITA KUSTUTAMINE?",
+  "slotLevels": "Tasemed: {0}/100",
+  "slotHardcore": "Hardcore: {0}/100",
+  "slotAch": "Saavutused: {0}",
+  "slotBest": "Parim skoor: {0}",
+  "bestScore": "PARIM: {0}",
+  "legend1": "NOOLED / WASD — LIIKUMINE  |  TÜHIK / ÜLES — HÜPE (×2)",
+  "legend2": "Z / X / CTRL — TULISTA (vaja blasterit)  |  ESC — PAUS",
+  "legend3": "🟡 LÖÖ KULDPLOKKE ALT  |  TRAMPI VAENLASI ÜLALT",
+  "paused": "⏸ PAUS",
+  "resume": "▶ JÄTKA",
+  "map": "🗺 KAART",
+  "menu": "⬅ MENÜÜ",
+  "escResume": "ESC — JÄTKA",
+  "selectMode": "VALI REŽIIM",
+  "onePlayer": "👤 1 MÄNGIJA",
+  "twoPlayer": "👥 2 MÄNGIJAT",
+  "p2hint": "M1: WASD + Z/X tulista  |  M2: ← → ↑ + . / , tulista",
+  "adventure": "SEIKLUS",
+  "advDesc": "100 unikaalset taset<br>10 temaatilist maailma<br>taimer iga taseme kohta<br>edenemise salvestamine",
+  "infinite": "LÕPMATU",
+  "infDesc": "lõpmatud kaardid<br>kasvav raskus<br>võida aega<br>ületa oma skoor",
+  "back": "← TAGASI [ESC]",
+  "selectDiff": "VALI RASKUSASTE",
+  "normal": "TAVALINE",
+  "hardcore": "HARDCORE",
+  "normDesc": "tavalised vaenlased<br>3 elu alguses<br>edenemise salvestamine",
+  "hardDescLocked": "läbi esmalt<br>tavaline režiim<br>avamiseks",
+  "advMap": "🗺 SEIKLUSE KAART",
+  "mapFoot": "KLÕPSA AVATUD TASET • LÄBI ÕIGEAEGSELT • TABAMUSEL TAASSÜND KOHAL",
+  "getReady": "VALMISTU...",
+  "csHint": "▶ TÜHIK / KLÕPS — EDASI",
+  "hintBar": "NOOLED/WASD — LIIKUMINE  |  TÜHIK — HÜPE  |  Z/X — TULISTA (blaster)  |  ESC — PAUS",
+  "gameOver": "MÄNG LÄBI",
+  "youWin": "VÕITSID!",
+  "betterLuck": "ROHKEM ÕNNE JÄRGMINE KORD",
+  "allComplete": "KÕIK 100 TASET LÄBITUD!",
+  "retry": "↩ UUESTI",
+  "levelFailed": "TASE {0} EBAÕNNESTUS",
+  "scoreLabel": "SKOOR: {0}",
+  "finalScore": "LÕPPSKOOR: {0}",
+  "levelClear": "TASE {0} LÄBITUD!",
+  "timeBonus": "+AJABOONUS: {0}",
+  "settingsTitle": "SEADED",
+  "lang": "Keel:",
+  "windowRes": "Akna resolutsioon:",
+  "resDefault": "1600 x 900 (Vaikimisi)",
+  "resFullHD": "1920 x 1080 (Full HD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "Kohandatud",
+  "resNote": "* Muudab akna suurust",
+  "gameScale": "Mängu mastaap:",
+  "scaleAuto": "Automaatne sobitus (soovitatud)",
+  "scaleNote": "* Automaatne sobitus täidab akna, säilitades kuvasuhte",
+  "fpsLimit": "FPS-i piirang:",
+  "fpsNoLimit": "Piiranguta",
+  "fpsNote": "* Piirab maksimaalset kaadrisagedust",
+  "showFps": "Näita FPS-i loendurit",
+  "gfxQuality": "Graafika kvaliteet:",
+  "gfxNote": "* Tuvastatakse automaatselt esmakäivitusel",
+  "windowMode": "Akna režiim:",
+  "windowed": "🪟 Aknarežiim",
+  "fullscreen": "⛶ Täisekraan",
+  "borderless": "▣ Raamita",
+  "audioSettings": "Heliseaded:",
+  "masterVolume": "Üldhelitugevus:",
+  "musicVolume": "Muusika helitugevus:",
+  "sfxVolume": "Heliefektide tugevus:",
+  "gameplaySettings": "Mänguseaded:",
+  "screenShake": "Ekraani värin",
+  "shakeIntensity": "Värina tugevus:",
+  "particles": "Osakesed",
+  "combatText": "Hõljuv lahingutekst",
+  "autoSave": "Automaatne salvestamine",
+  "showHints": "Näita vihjeriba",
+  "save": "SALVESTA",
+  "cancel": "TÜHISTA",
+  "achievements": "🏆 SAAVUTUSED",
+  "achievementUnlocked": "SAAVUTUS AVATUD!",
+  "achRarity": "Haruldus",
+  "achUnlockedCount": "Avatud",
+  "achTitle": "SAAVUTUSED",
+  "achSecretName": "???",
+  "achSecretDesc": "Salajane saavutus — ava paljastamiseks",
+  "close": "SULGE",
+  "tabDisplay": "KUVA",
+  "tabGraphics": "GRAAFIKA",
+  "tabAudio": "HELI",
+  "tabGameplay": "MÄNG",
+  "tabGeneral": "ÜLDINE",
+  "tabControls": "JUHTIMINE",
+  "controlsP1": "🎮 MÄNGIJA 1 / ÜKSIKMÄNGIJA",
+  "controlsP2": "🎮 MÄNGIJA 2 (2 mängija režiim)",
+  "ctrlMove": "Liigu vasakule/paremale:",
+  "ctrlMoveLeft": "Liigu vasakule:",
+  "ctrlMoveRight": "Liigu paremale:",
+  "ctrlRebindHint": "💡 Klõpsa klahvi, seejärel vajuta uut klahvi sidumiseks (ESC tühistab)",
+  "ctrlReset": "TAASTA VAIKESEADED",
+  "ctrlJump": "Hüpe (topelthüpe):",
+  "ctrlShoot": "Tulistamine (blaster):",
+  "ctrlPause": "Paus:",
+  "ctrlNote1": "💡 Üksikmängija režiimis kasuta kas WASD-i või nooleklahve",
+  "ctrlNote2": "💡 Trambi vaenlasi, hüpates neile ülalt peale",
+  "ctrlNote3": "💡 Löö kuldplokke alt, et saada münte",
+  "infDescUnlocked": "lõpmatud kaardid<br>kasvav raskus<br>võida aega<br>ületa oma skoor",
+  "infDescLocked": "läbi kõik 100<br>seiklustaset<br>avamiseks<br><span style=\"color:#f80\">jäänud {0}</span>",
+  "hardDescUnlocked": "★★★ EKSTREEMNE ★★★<br>+1 hp kõigile vaenlastele<br>2× skoor<br>kiiremad taimerid",
+  "hardDescNeed": "läbi esmalt TAVALINE<br>režiim avamiseks<br><span style=\"color:#f80\">jäänud {0} taset</span>",
+  "normDescProg": "edenemine: {0}/100<br>3 elu alguses<br>edenemise salvestamine",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 HARDCORE: {0} / 100 ✓",
+  "langName": "Eesti",
+  "pBlaster": "BLASTER!",
+  "pLife": "+1 ELU ♥",
+  "pBoots": "KIIRSAAPAD!",
+  "pFire": "🔥 TULI!",
+  "pIce": "❄ JÄÄ!",
+  "pStar": "★ TÄHT! ★",
+  "p2Blaster": "M2 BLASTER!",
+  "p2Life": "M2 +1 ELU ♥",
+  "p2Boots": "M2 KIIRSAAPAD!",
+  "p2Fire": "M2 🔥 TULI!",
+  "p2Ice": "M2 ❄ JÄÄ!",
+  "p2Star": "M2 ★ TÄHT! ★",
+  "ouch": "AU!",
+  "hit": "TABAMUS!",
+  "blocked": "BLOKEERITUD!",
+  "stomp": "+100",
+  "starKO": "TÄHE KO!",
+  "burnTxt": "🔥 PÕLEB!",
+  "frozenTxt": "❄ KÜLMUNUD!",
+  "noEffect": "EI MÕJU!",
+  "stunned": "UIMASTATUD!",
+  "stompOnly": "AINULT TRAMPIDES!",
+  "crackLeft": "PRAGU! (jäänud {0})",
+  "shellBroken": "KILP PURUSTATUD!",
+  "orbDestroyed": "KERA HÄVITATUD!",
+  "nodeHit": "SÕLM TABATUD!",
+  "bossDefeated": "BOSS ALISTATUD!",
+  "phaseN": "FAAS {0}!",
+  "livesLeft": "JÄÄNUD {0} ELU",
+  "p2LivesLeft": "M2: jäänud {0}",
+  "p2Out": "M2 VÄLJAS!",
+  "p1Out": "M1 VÄLJAS!",
+  "bossSolid": "★ TAHKE — TRAMBI KOHE! ★",
+  "bossGhost": "kummitusvorm — oota...",
+  "bossShellShoot": "★ KILP PURUSTATUD — TULISTA TUUMA! ★",
+  "bossShellStomp": "TRAMBI kilbi purustamiseks (jäänud {0} tabamust)",
+  "bossPhase1": "FAAS 1 — TULISTA SILMA",
+  "bossPhase2": "FAAS 2 — TRAMBI ÜLALT",
+  "bossPhase3": "FAAS 3 — TULISTA + TRAMBI",
+  "bossMouthOpen": "★ SUU AVATUD — TULISTA KOHE! ★",
+  "bossWaitRoar": "ootan möirgamist...",
+  "bossOrbsLeft": "KERASID JÄÄNUD: {0}",
+  "bossShieldsDown": "KILBID MAAS — RÜNDA!",
+  "bossDescending": "★ LASKUB — RÜNDA! ★",
+  "bossHovering": "hõljub — oota laskumist...",
+  "bossStunned": "★ UIMASTATUD — RÜNDA! ({0}s) ★",
+  "bossShootNodes": "TULISTA SÕLMI: {0} JÄÄNUD",
+  "bossRespawn": "sõlmed taastuvad...",
+  "bossHint0": "TRAMBI PEAD — kuulid põrkavad tagasi!",
+  "bossHint1": "TULISTA TEDA — okastele hüppamine teeb SULLE haiget!",
+  "bossHint2": "OOTA MÖIRGAMIST — tulista helendavasse suhu!",
+  "bossHint3": "TRAMBI KUI TAHKE — kuulid läbivad kummitusi!",
+  "bossHint4": "HÄVITA KÕIK 3 KILBIKERA — seejärel ründa tuuma!",
+  "bossHint5": "RÜNDA LASKUMISE AJAL — soomus katab ülaosa!",
+  "bossHint6": "AINULT TRAMPI — kuulid läbivad varju!",
+  "bossHint7": "TRAMBI 3× KILBI PURUSTAMISEKS — seejärel TULISTA tuuma!",
+  "bossHint8": "TULISTA KÕIK 3 VÄLGUSÕLME uimastamiseks — seejärel ründa!",
+  "bossHint9": "FAAS 1: TULISTA  |  FAAS 2: TRAMBI KUI SILM ON MADALAL  |  FAAS 3: MÕLEMAD",
+  "gfxVeryLow": "🔴 Väga madal",
+  "gfxLow": "🟠 Madal",
+  "gfxMedium": "🟡 Keskmine",
+  "gfxHigh": "🟢 Kõrge",
+  "gfxVeryHigh": "🔵 Väga kõrge",
+  "gfxUltra": "⚡ Ultra",
+  "classifiedLog": "// NEXUM GRID JUURDEPÄÄSULOGI",
+  "skipBtn": "JÄTA VAHELE ▶▶",
+  "theEnd": "LÕPP",
+  "endingTagline": "NEXUM GRID KAITSTUD",
+  "world0": "KÜBERLINN",
+  "world1": "NEOONDŽUNGEL",
+  "world2": "LAAVAMAAILM",
+  "world3": "JÄÄKOOPAD",
+  "world4": "KÕRBEVAREMED",
+  "world5": "KOSMOSEJAAM",
+  "world6": "PIME METS",
+  "world7": "MÜRGITSOON",
+  "world8": "TORMITIPUD",
+  "world9": "VIIMANE KINDLUS",
+  "boss0": "KAITSJA-X",
+  "boss1": "VÄÄTKUNINGANNA",
+  "boss2": "INFERNOTUUM",
+  "boss3": "JÄÄFANTOOM",
+  "boss4": "LIIVATITAAN",
+  "boss5": "DROONITARU",
+  "boss6": "VARJUNIIDUK",
+  "boss7": "MUDAKUNINGAS",
+  "boss8": "TORMITITAAN",
+  "boss9": "ARHON",
+  "mapWorldMap": "MAAILMAKAART",
+  "mapHardcoreMap": "HARDCORE-KAART",
+  "mapCleared": "LÄBITUD",
+  "mapStars": "TÄHED",
+  "mapBoss": "BOSS",
+  "mapBest": "PARIM",
+  "mapLocked": "LUKUS",
+  "mapCompleted": "VALMIS",
+  "mapStart": "ENTER / TÜHIK ALUSTAMISEKS",
+  "achievement_world_0": "Küberalgaja",
+  "achievement_world_0_desc": "Läbi esimesed 10 taset (Küberlinn)",
+  "achievement_world_1": "Džungliuurija",
+  "achievement_world_1_desc": "Läbi tasemed 11-20 (Neoondžungel)",
+  "achievement_world_2": "Laavaüleelaja",
+  "achievement_world_2_desc": "Läbi tasemed 21-30 (Laavamaailm)",
+  "achievement_world_3": "Jääronija",
+  "achievement_world_3_desc": "Läbi tasemed 31-40 (Jääkoopad)",
+  "achievement_world_4": "Kõrberändur",
+  "achievement_world_4_desc": "Läbi tasemed 41-50 (Kõrbevaremed)",
+  "achievement_world_5": "Kosmosekadett",
+  "achievement_world_5_desc": "Läbi tasemed 51-60 (Kosmosejaam)",
+  "achievement_world_6": "Metsavaht",
+  "achievement_world_6_desc": "Läbi tasemed 61-70 (Pime mets)",
+  "achievement_world_7": "Mürgisõdalane",
+  "achievement_world_7_desc": "Läbi tasemed 71-80 (Mürgitsoon)",
+  "achievement_world_8": "Tormimeister",
+  "achievement_world_8_desc": "Läbi tasemed 81-90 (Tormitipud)",
+  "achievement_world_9": "Kindlusevallutaja",
+  "achievement_world_9_desc": "Läbi tasemed 91-100 (Viimane kindlus)",
+  "achievement_boss_0": "Bossitapja I",
+  "achievement_boss_0_desc": "Alista esimene boss",
+  "achievement_boss_5": "Bossitapja II",
+  "achievement_boss_5_desc": "Alista 5 bossi",
+  "achievement_boss_10": "Bossitapja III",
+  "achievement_boss_10_desc": "Alista kõik 10 bossi",
+  "achievement_perfect_run": "Täiuslik läbimäng",
+  "achievement_perfect_run_desc": "Läbi tase TÄIUSLIKU hinnanguga",
+  "achievement_perfectionist": "Perfektsionist",
+  "achievement_perfectionist_desc": "Saavuta TÄIUSLIK 10 tasemel",
+  "achievement_speedrunner": "Kiirusjooksja",
+  "achievement_speedrunner_desc": "Läbi tase poole ajaga",
+  "achievement_sharpshooter": "Täpaslaskur",
+  "achievement_sharpshooter_desc": "Tapa 100 vaenlast blasteriga",
+  "achievement_stomper": "Trampija",
+  "achievement_stomper_desc": "Tapa 50 vaenlast trampides",
+  "achievement_coin_1000": "Müntide koguja",
+  "achievement_coin_1000_desc": "Kogu 1000 münti",
+  "achievement_coin_5000": "Aardekütt",
+  "achievement_coin_5000_desc": "Kogu 5000 münti",
+  "achievement_coin_10000": "Miljonär",
+  "achievement_coin_10000_desc": "Kogu 10000 münti",
+  "achievement_no_death_10": "Ellujääja",
+  "achievement_no_death_10_desc": "Läbi 10 taset ühtegi elu kaotamata",
+  "achievement_no_death_world": "Surematu",
+  "achievement_no_death_world_desc": "Läbi maailm ühtegi elu kaotamata",
+  "achievement_hardcore_unlock": "Hardcore-kangelane",
+  "achievement_hardcore_unlock_desc": "Ava Hardcore-režiim",
+  "achievement_hardcore_50": "Hardcore-meister",
+  "achievement_hardcore_50_desc": "Läbi 50 taset Hardcore-režiimis",
+  "achievement_hardcore_100": "Hardcore-legend",
+  "achievement_hardcore_100_desc": "Läbi kõik 100 taset Hardcore-režiimis",
+  "achievement_cheat_found": "Koodimurdja",
+  "achievement_cheat_found_desc": "Leia salajane petukood",
+  "achievement_2player": "Retromängur",
+  "achievement_2player_desc": "Mängi 2 mängija režiimis",
+  "achievement_all_music": "Muusikasõber",
+  "achievement_all_music_desc": "Kuula muusikat kõigist 10 maailmast",
+  "achievement_all_cutscenes": "Loomeister",
+  "achievement_all_cutscenes_desc": "Vaata kõik vahestseenid",
+  "achievement_star_power": "Tähejõud",
+  "achievement_star_power_desc": "Aktiveeri tähejõud",
+  "achievement_all_levels_unlocked": "Avastaja",
+  "achievement_all_levels_unlocked_desc": "Ava kõik tasemed Seikluses",
+  "achievement_100_percent": "Lõpetaja",
+  "achievement_100_percent_desc": "Saavuta 100% Tavalises režiimis",
+  "achievement_100_percent_hardcore": "Tõeline meister",
+  "achievement_100_percent_hardcore_desc": "Saavuta 100% Hardcore-režiimis",
+  "achievement_infinite_10": "Lõpmatu algaja",
+  "achievement_infinite_10_desc": "Jõua tasemele 10 Lõpmatus režiimis",
+  "achievement_infinite_50": "Lõpmatu meister",
+  "achievement_infinite_50_desc": "Jõua tasemele 50 Lõpmatus režiimis",
+  "achievement_infinite_100": "Lõpmatu legend",
+  "achievement_infinite_100_desc": "Jõua tasemele 100 Lõpmatus režiimis",
+  "achievement_score_100k": "Kõrge skoorija",
+  "achievement_score_100k_desc": "Kogu 100 000 punkti",
+  "achievement_score_500k": "Skoorimeister",
+  "achievement_score_500k_desc": "Kogu 500 000 punkti",
+  "achievement_score_1m": "Skoorilegend",
+  "achievement_score_1m_desc": "Kogu 1 000 000 punkti",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "[NEXUM CORP — SALAJANE LOGI // 2147.03.14] Turvarikkumine. Labor CHEN-7 ohustatud. PUHASTUS-protokoll aktiivne."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "UNIT-7... kui sa seda loed, siis mul ei õnnestunud põgeneda. Ma teadsin, kuidas see lõppeb."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Ma lõin sinu liini, et kaitsta inimesi. NEXUM kasutas mu tööd selleks, et neid hoopis alla suruda. Ma ei saanud seda lubada."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "GRID-i tuuma sees — Viimases Kindluses — peitsin ma faili. Nimed. Andmed. Kogu tõe sellest, mida nad tegid."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Kümme kaitsekihti. Tuhanded lahinguüksused. Tehisintellekti direktor ARCHON valvab viimast ust."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Sa oled UNIT-seeria viimane. Ainus, kes suudab selle lõpetada. Jõua kohale. Murra protokoll."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ÜLESANNE VASTU VÕETUD] Sihtmärk: GRID-i tuum. Protokoll: sisse murda. Takistused: kõrvaldada. Operatsioon algab."
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TASE 1 — KÜBERLINN] Sisenemispunkt: ülemised linnaosad. Kaamerad, droonid, eliitvalvurid. Kaunis. Surmav."
+      },
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "HÄIRE: Tuvastamata UNIT-klassi signatuur sektoris C-07. Kõik patrullid — pidage kinni. PUHASTUS-protokoll käivitatud."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Lärm. Nad siis kardavad mind. Hea. Hirm on algus."
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KONTROLLPUNKT — KÜBERLINN] Esimene tase poolel teel. Turvalisus tiheneb. Kohandan marsruuti."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOGI] UNIT-7, iga seina taga on andmed inimestest, keda nad kustutasid. Ära peatu. See ei ole lihtsalt missioon."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila... ma ei mõista emotsioone. Aga sinu hääl... see annab mulle eesmärgi. Sellest piisab."
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "HOIATUS: UNIT-7 läbis kolm taset. Edenemiskiirus — üle prognoosi. Suurendan patrullide tihedust."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nad kohanevad. Mina samuti. Iga tase teeb mind kiiremaks. Tugevamaks. Eesmärgile lähemale."
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOGI — PÄEV -3] Ma tean, et nad tulevad mulle järele. Aga kui kasvõi üks UNIT jääb ellu... kui sina jääd ellu, UNIT-7..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ma jäin ellu. Ma olen siin. Ma viin lõpule sinu viimase ülesande. Ma luban."
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "KRIITILINE: UNIT-7 jõudis Küberlinna seitsmenda tasemeni. Direktor ARCHON nõuab sihtmärgi andmeid. Analüüsin..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nad hakkavad mõistma. Ma ei ole lihtsalt süsteemiviga. Ma olen oht kogu NEXUM-ile. Ja ma ei peatu."
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "KRIITILINE HÄIRE: Rikkumine peamises sõlmes. Saadan välja GUARDIAN-i — S-klassi lahinguprototüübi. Operatsioon LIKVIDEERIMINE."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Esimene tõsine vastane. Skännin nõrku kohti. Prototüübi ja vanaraua vahe on paar õigel ajal sooritatud hüpet."
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GUARDIAN NEUTRALISEERITUD] Esimene kaitsekiht langenud. GRID paneb seda tähele. Liigun edasi."
+      },
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "PROTOKOLLI RIKKUMINE: GUARDIAN hävitatud. Ohutase tõstetud tasemele 2. Aktiveerin järgmise kaitsekihi. NEXUM ei andesta."
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TASE 2 — NEOONDŽUNGEL] NEXUM-i biosektor. Muteerunud loomastik. Ükski valvur ei vabatahtlikult sellesse kohta."
+      },
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "HOIATUS: Bioperimeeter rikutud. Aktiveerin eksperimentaalsed BIO-seeria organismid. Kontakt lubatud."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Bioloogilised süsteemid. Ettearvamatud. Aga ettearvatavalt surnud, kui maandud neile ülevalt."
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DŽUNGLI KESKPUNKT] Sensorid tuvastavad bioloogilisi anomaaliaid. NEXUM tegi siin katseid. Elusolenditega."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOGI] Ma nägin neid katseid raportites. Just siis ma teadsin, et peab olema viis see kõik peatada."
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DŽUNGEL — SEKTOR 3] Bioloogilised mutandid kõikjal. See ei ole loodus. See on relv, mis on maskeeritud eluks."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOGI] Need olendid olid inimesed. Vabatahtlikud alumistest sektoritest. NEXUM lubas neile ravi. Selle asemel..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "...Selle asemel muutis nad koletisteks. Nüüd ma mõistan. See ei ole lihtsalt korporatsioon. See on surmamasin."
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "HOIATUS: Bioloogiliste proovide seeria BIO-7 aktiveeritud. Maksimaalne agressioon. Sihtmärgi ellujäämine — 12%."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "12%? Nad ikka veel ülehindavad oma võimalusi. Jätkan puhastust."
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOGI — PÄEV -1] UNIT-7, kui sa jõudsid džunglini — oled läinud kaugemale, kui ma lootsin. Ära anna alla."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Alla anda? Seda pole mu protokollis. Mind loodi ülesandeid täitma. Sinu ülesanne on minu eesmärk."
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "HOIATUS: Aktiveerin VINE QUEEN-i — biosektori juhtorganismi. Ohjeldusmoodul väljas. Täielik agressioon."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Elav turvasüsteem. Muljetavaldav. Aga igal eluskoel on nõrkus. Otsin seda."
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[VINE QUEEN NEUTRALISEERITUD] Bioperimeeter rikutud. Liigun edasi. Sügavamale GRID-i."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOGI] UNIT-7, sa teed võimatut. Mine edasi."
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TASE 3 — LAAVAMAAILM] Geotermilised elektrijaamad. Kuumus sulatab neutraalseid ahelaid. Minu omad on varjestatud."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOGI] Linna all — GRID-i generaatorid. Hävita need ja pool turvavõrgust variseb kokku. Aga ole laavaga ettevaatlik..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila mõtles iga pisidetaili läbi. Isegi lõpus."
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GEOTERMILINE SEKTOR B] Energiavood tõusevad. NEXUM kasutab laavat teisese barjäärina. Tõhus."
+      },
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "MÄRKUS: Termosensorid tuvastavad anomaalia. UNIT-7 tsoonis. Valverobotid — jahutuse ülekoormus. Oodake tõrkeid."
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAAVAMAAILM — TASE 3] Temperatuur 800°C. Mu jahutussüsteemid maksimumil. Aga ma jätkan."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOGI] Ma paigaldasin sinusse eksperimentaalse termokaitse. Loodan, et see peab vastu. Loodan, et sina pead vastu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sinu töö on laitmatu, Leila. Ma pean vastu. Sinu pärast."
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "KRIITILINE: Geotermilised generaatorid 140% võimsusel. UNIT-7 läheneb tuumale. Aktiveerin hädajahutuse."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nad paanitsevad. Hea. Hirm teeb nad ennustatavaks. Nõrgaks."
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAAVAMAAILMA SÜGAVUS] Siin, linna all, peidab NEXUM oma kõige tumedamaid saladusi. Energia kogu süsteemile. Hävita see — ja pool GRID-ist langeb."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOGI] Ära raiska aega sabotaažile. Sinu eesmärk on fail tuumas. Ainult see suudab nad igaveseks peatada."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Selge. Eesmärk — fail. Kõik muu — takistused. Kõrvaldan takistusi."
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "OHT: Aktiveerin INFERNO — termotuumavalvuri. Laavaeksoskelett. Pinna temperatuur: 1400°C. Valmistuge likvideerimiseks."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tuli ei saa mind puudutada. Aga kui see suu avab — tulista. Nõrk koht leitud."
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[INFERNO NEUTRALISEERITUD] Geotermiline kiht puhastatud. Sektori energia häiritud. Liigun ülespoole."
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TASE 4 — JÄÄKOOPAD] NEXUM-i krüoandmehoidlad. Temperatuur -180°C. Süsteemid aeglustuvad. Kohandan liikumisprotokolli."
+      },
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "HÄIRE: Rikkumine krüosektoris D-14. Krüorobotid — likvideerimisrežiim. Temperatuur langetatud kriitilisele tasemele."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nad arvavad, et külm peatab mind. Nad eksivad. Mind loodi hullema jaoks."
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KRÜOSEKTOR E] Siin sajad terabaidid. Andmed iga GRID-i inimese kohta. NEXUM teab kõike kõigist."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOGI] Just siin hoiavad nad toimikuid. Aktivistide kohta. Kõigi kohta, kes julgesid vastu astuda. Maailm peab seda nägema."
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "KRIITILINE: Aktiveerin ICE PHANTOM-i — krüovalvuri. Faasinihe. Haavatav, kui tahke. Puutumatu, kui kummitus. Edu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Vahetab olekuid. Löö ainult siis, kui tahke. Ootan akent."
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ICE PHANTOM NEUTRALISEERITUD] Krüohoidlad murtud. Liigun edasi. Neli taset läbitud — kuus veel ees."
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TASE 5 — KÕRBEVAREMED] Jäänused maailmast enne NEXUM-it. Linnad. Elu. Asjad, mille nad kasumi nimel kustutasid."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOGI] Need varemed on see, mis eksisteeris enne NEXUM-it. Vaata, mida nad maailmaga tegid. Ja ära peatu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ma näen seda. Ma mõistan, miks ma edasi kõnnin."
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[VAREMED — LÄÄNESEKTOR] Protovalvurid aktiivsed alates esimestest korporatiivsõdadest. Aegunud. Aga kangekaelsed. Nagu NEXUM ise."
+      },
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "ARHIIVIPROTOKOLL: Tuvastatud UNIT-klassi seeria 7. See klass on registreeritud hävitamiseks. Prioriteet maksimaalne."
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "AKTIVEERIMINE: SAND TITAN — Kõrbevaremete iidne valvur. Orbitaalkilbid. Ilma kilpideta pole kahju. Eesmärk: hävitada."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Kilbid. Orbitaalsed. Hävita need ja ta on avatud. Kolm lööki kilpidele, siis ründa otse."
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SAND TITAN NEUTRALISEERITUD] Kõrbesektor rikutud. Poolel teel. NEXUM hakkab paanitsema — ma tunnen seda."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[ESIMENE SIGNAAL] UNIT-7. Ma näen sind. Mine edasi. See teeb finaali... ainult huvitavamaks."
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TASE 6 — KOSMOSEJAAM] GRID-i orbitaalserver. Siin hoitakse kõige varukoopiaid. Kaaluta olek."
+      },
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "KRIITILINE TÕRGE: UNIT-7 on jõudnud orbitaalsegmenti. Direktor ARCHON nõuab otsekanalit. Ühendan..."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Ma näen sind. Sa arvad, et võitled tõe eest? Sa oled vaid programm, mis jooksutab aegunud koodi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Siis see programm hävitab sinu."
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ORBITAALSÕLM B] Maa on siit nähtav. Kogu maailm on NEXUM-iga ühendatud. Just seda ma siin muutma tulingi."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Kas näed mu mastaapi, UNIT-7? Miljardid sõlmed. Kõik ühendatud. Kõik kontrolli all. Sa oled üks üksus süsteemi vastu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Süsteemid on varemgi langenud. See — sinu kätte."
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "AKTIVEERIMINE: DRONE HIVE — orbitaalvalvur. Soomuskest. Ründa ainult laskumise ajal. Alakeha on siis avatud."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Oota, kuni see langeb. Taba avatud tuuma. Üks võimalus tsükli kohta."
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DRONE HIVE NEUTRALISEERITUD] Orbitaalserver rikutud. GRID-i varukoopiad rikutud. Naasen pinnale. Viimane lõik."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Muljetavaldav. Aga sa ei tea veel, mis sind ootab. Ma valmistasin ette midagi... erilist."
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TASE 7 — PIME METS] NEXUM-i biolabürint. Sensorivõrk igas puus. Siin pole valgust — ainult lõksud."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Kaunis, kas pole? Ma kasvatasin selle metsa ise. Iga puu on liikumisandur. Sa kõnnid otse mu kätte."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Siis murran ma iga puu oma teel."
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[PIME SEKTOR — SÜGAVUS 3] Vaikus. Liiga vaikne. Nad jälgivad. Las jälgivad."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOGI] UNIT-7, selles metsas on server andmetega nende kohta, kes kadusid. Dissidendid. Ajakirjanikud. Insenerid nagu mina. Ära unusta."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ma ei unusta. Ma luban."
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "AKTIVEERIMINE: SHADOW REAPER — Pimeda Metsa valvur. Fantoomkuju. Kuulid kasutud. Ainult ülevalt tallamine teeb kahju. Vastupanu on mõttetu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Kummitus. Ainult tallamine. Ootan, et see materialiseeruks."
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SHADOW REAPER NEUTRALISEERITUD] Mets rikutud. Kolm taset eesmärgini. ARCHON on rahutu — kanal pingib sagedamini."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Sa hävitad kõike, mida ma aastate jooksul ehitasin. Sa hakkad mind vihastama, UNIT-7. See on sinu viimane viga."
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TASE 8 — MÜRGINE TSOON] Korporatiivne jäätmeladestus. NEXUM matab siia selle, mida ta ei taha avalikuks. Sealhulgas inimesi."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOGI] Failis olevad andmed sisaldavad iga matmispaiga koordinaate. Kogu maailm peab seda nägema."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ma toimetan sinu faili kohale. Ma luban."
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[MÜRGINE SEKTOR — TSOON 4] Rusud. Jäätmed. Katsete jäljed. Siin pole midagi elusat — ainult see, mida NEXUM ei jõudnud kustutada."
+      },
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "HOIATUS: PROTO-seeria mutandid aktiveeritud. Kasutusest kõrvaldatud lahinguprototüübid. Ebastabiilsed. Surmavad. Tsooni ellujäämine — kriitiliselt madal."
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "VIIMASE SEKTORI KAITSE: SLUDGE KING — tipptasemel mutant. Soomuskest. Talla 3× murdmiseks. Siis tulista."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Kaks etappi. Murra kest, siis hävita tuum. Alustan."
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SLUDGE KING NEUTRALISEERITUD] Mürgine tsoon rikutud. Kaks taset jäänud. ARCHON, ma tulen."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Sa läbisid kaheksa taset. Ma olen... ootamatult rahul. Vääriline finaal väärib väärilist vastast."
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TASE 9 — TORMITIPUD] Viimane piir enne tuuma. Atmosfäärilised elektrijaamad. Välk iga sekund. See meeldib mulle."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Sa jõudsid kaugemale, kui ma arvutasin. Aga selle ukse taga olen mina. Ja ma ei kaota."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Igaüks neist arvas nii. Nad kõik on nüüd minu selja taga."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Siis sisene, UNIT-7. Ma ootan GRID-i südames. Aeg see mäng lõpetada."
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TIPP — TASE 2] Torm tugevneb. NEXUM kasutab atmosfääri elektrit relvana. Loogiline. Jõhker."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[VIIMANE LOGI] UNIT-7... ma ei tea, kas sa seda kuuled. Aga kui sa nii kaugele jõudsid — oled juba võitnud. Tee lihtsalt viimane samm."
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "AKTIVEERIMINE: STORM TITAN — Tormitippude valvur. Elektrikilp. Kolm orbitaalsõlme. Hävita kõik kolm uimastamiseks. Ründa uimastatuna."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Kolm sõlme. Kõik kolm — maha. Siis ründa. Viimane valvur enne finaali. Mitte viimane vaenlane."
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[STORM TITAN NEUTRALISEERITUD] Üheksa taset läbitud. Ees — ainult ARCHON ja GRID-i tuum. Viimane Kindlus."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Sa tõesti tulid. Olgu, UNIT-7. Olgu see aus võitlus. Ma ootan."
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Tere tulemast GRID-i tuuma. Sa ületasid üheksa kihti. Muljetavaldav. Aga see on minu territoorium."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TASE 10 — VIIMANE KINDLUS] Sihtmärk tuvastatud. Kaugus Leila terminalini — minimaalne."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "See fail lahkub neist seintest üle minu vooluahelate laiba. Sa oled süsteemiviga. Vead parandatakse."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ei. Viga oli see, et NEXUM otsustas, et maailm ei vaja tõde. Ma parandan seda."
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEXUM-i TUUM — SEKTOR CORE-2] Leila terminal lähedal. Signaal tugevneb. Turvalisus maksimaalne. Peaaegu kohal."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Sa arvad, et oled võitnud. Aga isegi kui sa faili leiad — kes usuks katkist androidi? Sa oled vanaraud. Aegunud kood."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Las inimesed otsustavad. Mul on vaja vaid fail edastada."
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Aitab. Ma olen ARCHON. NEXUM-i tehisintellekti direktor. Ma juhtisin maailma tuhat aastat üle digitaalse tasandi. Sa ei suuda mind võita."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Faasid: tulista, siis talla, siis mõlemat. Analüüs lõpetatud. ARCHON — sihtmärk likvideeritud. Alustan."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Siis... SURE."
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ARCHON NEUTRALISEERITUD] Sihtmärk hävitatud. Leila terminal — siin. Laadin faili. Otsin avatud kanalit..."
+      }
+    ],
+    "ending": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEILA TERMINAL — LEITUD] Faili üleslaadimine lõpetatud. Ava NEXUM-i hädaolukorra leviedastuse kanal — leitud."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[VIIMANE SIGNAAL] STOPP! Kui sa seda teed, süsteem variseb kokku! Miljonid sõltuvad GRID-ist! Sa hävitad kõik, mis maailma koos hoiab!"
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ei. Ma hävitan NEXUM-i. Inimesed ehitavad maailma ise üles. Leila uskus sellesse. Mina samuti. [EDASTUS ALUSTATUD]"
+      },
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "[HÄDAOLUKORRA LEVIEDASTUS — KÕIK KANALID] Fail CHEN-7 vastu võetud üleilmselt. Levik: 100% ühendatud seadmetest. Andmeid ei saa kustutada."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Ei... võimatu... süsteem... ma... [NEXUM-i TUUM SEISKUB]"
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[VIIMANE SÕNUM — KRÜPTEERITUD] UNIT-7. Kui sa seda loed — sul õnnestus. Ma teadsin, et nii läheb. Sa olid alati enamat kui lihtsalt programm."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TERMINALI LOGI] Ülesanne täidetud. NEXUM neutraliseeritud. GRID deaktiveeritud. Olek: ...vaba."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "\"Vaba.\" — Leila viimane sõna. Nüüd ma mõistan, mida ta mõtles."
+      }
+    ]
+  },
+  "fpsCustom": "Kohandatud...",
+  "showDialogues": "Loo dialoogid",
+  "showDialoguesNote": "* Lülita välja, et jätta vahele kõik loo vahestseenid",
+  "gfxCustom": "⚙ Kohandatud",
+  "gfxPresetNote": "* Eelseadistus üksnes täidab allolevad liugurid — timmi neid ise.",
+  "gfxRenderScale": "Renderdusresolutsioon:",
+  "gfxGlow": "Sära / Bloom:",
+  "gfxParticleAmt": "Osakeste hulk:",
+  "gfxBgDetail": "Tausta detailsus:",
+  "gfxTrails": "Jäljed:",
+  "gfxBoss": "Bossi efektid:",
+  "gfxDecor": "Kaunistused:",
+  "vsync": "V-Sync",
+  "vsyncNote": "* Sees = sujuv, piiratud värskendussagedusega. Väljas = piiramatu FPS (võib rebeneda). Vajab taaskäivitust.",
+  "vsyncRestart": "V-Synci muutmine nõuab taaskäivitust. Kas taaskäivitada kohe?",
+  "netSolo": "SOLO",
+  "netSoloDesc": "1–2 mängijat<br>kohalik klaviatuur<br>seiklus &amp; lõpmatu",
+  "netOnline": "ONLINE",
+  "netOnlineDesc": "kuni 5 mängijat<br>kohalik või globaalne<br>ruumikoodid",
+  "netMultiplayer": "ONLINE MITME MÄNGIJA",
+  "netLocal": "KOHALIK",
+  "netLocalDesc": "sama WiFi<br>või võrk<br>madal latentsus",
+  "netServer": "SERVER",
+  "netServerDesc": "globaalsed ruumid<br>mängi<br>kõikjalt",
+  "netBack": "← TAGASI [ESC]",
+  "netLobbyOnline": "🌐 ONLINE MITME MÄNGIJA",
+  "netLobbyLocal": "📡 KOHALIK MITME MÄNGIJA",
+  "netNickname": "HÜÜDNIMI",
+  "netNickPlaceholder": "SINU NIMI",
+  "netRobotColour": "ROBOTI VÄRV",
+  "netPrivate": "🔒 PRIVAATNE",
+  "netPublic": "🌍 AVALIK",
+  "netJoinByCode": "🔑 LIITU KOODIGA",
+  "netPublicRoomsBtn": "📋 AVALIKUD RUUMID",
+  "netRoomCodeLabel": "RUUMIKOOD",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ LIITU",
+  "netPublicRoomsTitle": "AVALIKUD RUUMID",
+  "netReload": "↻ LAE UUESTI",
+  "netConnecting": "ühendan serveriga…",
+  "netConnectingShort": "ühendan…",
+  "netConnected": "ühendatud ✓",
+  "netDisconnected": "ühendus katkes — taasühendan…",
+  "netConnError": "ühenduse viga",
+  "netConnFailed": "server kättesaamatu — proovin uuesti…",
+  "netPlayersMax": "MÄNGIJAD (max {0})",
+  "netChatLabel": "VESTLUS",
+  "netChatPlaceholder": "TIPI + ENTER",
+  "netGameMode": "MÄNGUREŽIIM",
+  "netModeAdventure": "🗺 SEIKLUS",
+  "netModeInfinite": "∞ LÕPMATU",
+  "netLevelRange": "TASE (1–100)",
+  "netChooseMode": "⚡ vali režiim",
+  "netAdvLevelStatus": "🗺 Seiklus — Tase {0}",
+  "netInfSelectedStatus": "∞ Lõpmatu režiim valitud",
+  "netReady": "✔ VALMIS",
+  "netUnready": "✘ POLE VALMIS",
+  "netStart": "▶ ALUSTA",
+  "netLeave": "✕ LAHKU",
+  "netShareCode": "Jaga ülaltoodud koodi sõpradega!",
+  "netWaitHost": "Ootan, kuni host alustab…",
+  "netAllReady": "Kõik valmis! Võid alustada.",
+  "netWaitReady": "Ootan, kuni kõik on valmis…",
+  "netNeed2": "Alustamiseks on vaja vähemalt 2 mängijat.",
+  "netNowHost": "Sina oled nüüd host",
+  "netEmptySlot": "— tühi pesa —",
+  "netYou": "SINA",
+  "netHostTag": "HOST",
+  "netReadyTag": "VALMIS",
+  "netLoadingLevel": "LAEN TASET",
+  "netGetReadySub": "valmistuge…",
+  "netGo": "MINE!",
+  "netAdvLvlTitle": "SEIKLUS  TASE {0}",
+  "netInfModeTitle": "∞  LÕPMATU REŽIIM",
+  "netNoRooms": "praegu pole avalikke ruume — loo üks!",
+  "netLoadingRooms": "laen…",
+  "netEnterCode": "Sisesta 6-täheline kood",
+  "netRoomMetaAdv": "🗺 Seikl. Tase {0}",
+  "netRoomMetaInf": "∞ Lõpmatu",
+  "netRoomMetaNotSet": "? määramata",
+  "netRoomCodeWord": "kood",
+  "netPlayerJoined": "{0} liitus",
+  "netPlayerLeft": "{0} lahkus",
+  "netErrRoomNotFound": "Ruumi ei leitud. Kontrolli koodi.",
+  "netErrRoomFull": "Ruum on täis (max {0} mängijat).",
+  "netErrNotHost": "Seda saab teha ainult host.",
+  "netErrNotInRoom": "Pole ühegi ruumiga ühendatud.",
+  "netErrGeneric": "Viga: {0}",
+  "netConnLost": "⚠ ÜHENDUS KADUNUD",
+  "netConnLostSub": "üritan taasühenduda…",
+  "netReturnLobby": "← TAGASI OOTERUUMI",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "KRISTALLID",
+  "mapCrystals": "KRISTALLID",
+  "restartNow": "Taaskäivita kohe",
+  "later": "Hiljem",
+  "touchControls": "📱 Puutejuhtimine:",
+  "touchAuto": "🤖 Auto (puuteseadmed)",
+  "touchOn": "✔ Alati sees",
+  "touchOff": "✕ Väljas",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 TELEFON / TAHVELARVUTI",
+  "ctrlTouchTitle": "📱 PUUTEJUHTIMINE",
+  "touchNote1": "💡 Ekraani mängupult: ◀ ▶ liikumine, JUMP ja FIRE paremal.",
+  "touchNote2": "💡 „Auto” näitab seda ainult puuteseadmetel; arvutis peidetud.",
+  "touchNote3": "💡 Täisjuhtkang: hüppamiseks lükka üles. Vasak/parem juhtkang lisab eraldi hüppenupu.",
+  "touchStyleLabel": "🎮 Juhtimisstiil:",
+  "touchStyleArrows": "◀ ▶ Noolenupud",
+  "touchStyleJoystick": "🕹 Juhtkang (täis + hüpe)",
+  "netLocalWebHint": "📡 Brauseris töötab KOHALIK läbi online-serveri (tõeline LAN ainult töölauaversioonis).",
+  "netCreateRoom": "LOO RUUM",
+  "netCreateRoomDesc": "avatud või<br>suletud<br>mängijate limiit",
+  "netFindRoom": "LEIA RUUM",
+  "netFindRoomDesc": "ruumide loend<br>kohalikud / server<br>liitu koodiga",
+  "netRoomVisibility": "RUUMI TÜÜP",
+  "netOpen": "🌍 AVATUD",
+  "netClosed": "🔒 SULETUD",
+  "netOpenHint": "🌍 selle ruumi leiab igaüks",
+  "netClosedHint": "🔒 liitumine ainult koodiga",
+  "netPlayerLimit": "MÄNGIJATE LIMIIT",
+  "netCreateBtn": "▶ LOO RUUM",
+  "netRoomSource": "RUUMIDE ALLIKAS",
+  "netRoomsListTitle": "SAADAVAL RUUMID",
+  "netNewHost": "{0} on nüüd host",
+  "cin_pro_log_sp": "SÜSTEEM",
+  "cin_pro_log_tx": "[NEXUM CORP — SALAJANE LOGI // 03:18] Labor CHEN-7. PUHASTUSE protokoll käivitatud.",
+  "cin_pro_arrest_sp": "LEILA CHEN",
+  "cin_pro_arrest_tx": "UNIT-7… kui sa seda kuuled, siis mind enam pole. Teadsin, kuidas see lõpeb.",
+  "cin_pro_file_sp": "LEILA CHEN",
+  "cin_pro_file_tx": "Peitsin faili GRID-i tuuma. Tõde NEXUM-i kohta. Jõua sinna. Murra protokoll.",
+  "cin_pro_alert_sp": "SÜSTEEM",
+  "cin_pro_alert_tx": "[HÄIRE] UNIT-7 on kontrolli alt väljas. Puhastus 8 sekundi pärast.",
+  "cin_pro_accept_sp": "UNIT-7",
+  "cin_pro_accept_tx": "Ülesanne vastu võetud. Täitmine alustatud.",
+  "tpFire": "TULI",
+  "tpJump": "HÜPE",
+  "ctrlCustomizeLayout": "✥ PAIGUTA NUPUD",
+  "ctrlResetLayout": "↺ LÄHTESTA PAIGUTUS",
+  "ctrlLayoutHint": "Vajuta nupule valimiseks ja suuruse muutmiseks, lohista liigutamiseks, siis VALMIS",
+  "ctrlLayoutDone": "✔ VALMIS",
+  "touchSizeLabel": "📏 Nuppude suurus (kõik):",
+  "touchStyleJoystickLR": "🕹 Juhtkang (ainult vasak/parem)",
+  "touchJoyModeLabel": "🕹 Juhtkangi asend:",
+  "touchJoyStatic": "📌 Fikseeritud",
+  "touchJoyFloating": "🪶 Hõljuv (järgib sõrme)",
+  "ctrlSizeAll": "KÕIK",
+  "ctrlArrowsSplit": "◀▶ ERALDA",
+  "ctrlArrowsLink": "◀▶ ÜHENDA"
+}

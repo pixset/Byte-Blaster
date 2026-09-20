@@ -1,0 +1,1246 @@
+{
+  "score": "ISKOR",
+  "total": "KABUUAN",
+  "levelScoreLabel": "ISKOR SA LEVEL: {0}",
+  "totalScoreLabel": "KABUUANG ISKOR: {0}",
+  "lives": "BUHAY",
+  "level": "LEVEL",
+  "time": "ORAS",
+  "mode": "MODE",
+  "blaster": "BLASTER",
+  "coins": "BARYA",
+  "bonusFire": "APOY",
+  "bonusIce": "YELO",
+  "bonusStar": "BITUIN",
+  "bonusBoots": "BOTAS",
+  "modSpeedrun": "SPEEDRUN",
+  "modStealth": "STEALTH — IWASAN ANG ILAW",
+  "modLowGravity": "MABABANG GRABITY",
+  "modHighGravity": "MATAAS NA GRABITY",
+  "modWind": "MALAKAS NA HANGIN",
+  "modSlippery": "MADULAS NA SAHIG",
+  "modDarkness": "KADILIMAN",
+  "tierPerfect": "★ PERPEKTO!",
+  "tierGreat": "MAHUSAY!",
+  "tierGood": "MAGALING",
+  "tierBase": "BATAYAN",
+  "heightBonus": "+{0} BONUS SA TAAS",
+  "bossArena": "⚠ BOSS ARENA ⚠",
+  "hpBonus": "+1 BUHAY!",
+  "repaired": "NAAYOS!",
+  "newBest": "BAGONG TALA!",
+  "completeMore": "✗ TAPUSIN PA ANG {0} LEVELS",
+  "subtitle": "CYBERPUNK NEON PLATFORMER",
+  "play": "▶ MAGLARO",
+  "settings": "⚙ MGA SETTING",
+  "exit": "🚪 LUMABAS",
+  "selectSave": "PUMILI NG SAVE",
+  "slot": "SLOT",
+  "slotEmpty": "— WALANG LAMAN —",
+  "slotNewGame": "✚ BAGONG LARO",
+  "slotContinue": "▶ MAGPATULOY",
+  "slotDelete": "🗑 BURAHIN",
+  "slotDeleteConfirm": "KUMPIRMAHIN ANG PAGBURA?",
+  "slotLevels": "Levels: {0}/100",
+  "slotHardcore": "Hardcore: {0}/100",
+  "slotAch": "Mga Tagumpay: {0}",
+  "slotBest": "Pinakamataas na iskor: {0}",
+  "bestScore": "PINAKAMATAAS: {0}",
+  "legend1": "ARROWS / WASD — GUMALAW  |  SPACE / UP — TUMALON (×2)",
+  "legend2": "Z / X / CTRL — BUMARIL (kailangan ng blaster power-up)  |  ESC — PAUSE",
+  "legend3": "🟡 TAMAAN ANG GINTONG BLOKE MULA SA IBABA  |  TAPAKAN ANG KAAWAY MULA SA ITAAS",
+  "paused": "⏸ NAKA-PAUSE",
+  "resume": "▶ IPAGPATULOY",
+  "map": "🗺 MAPA",
+  "menu": "⬅ MENU",
+  "escResume": "ESC — IPAGPATULOY",
+  "selectMode": "PUMILI NG MODE",
+  "onePlayer": "👤 1 MANLALARO",
+  "twoPlayer": "👥 2 MANLALARO",
+  "p2hint": "P1: WASD + Z/X bumaril  |  P2: ← → ↑ + . / , bumaril",
+  "adventure": "ADBENTURA",
+  "advDesc": "100 natatanging level<br>10 temang mundo<br>timer kada level<br>i-save ang progreso",
+  "infinite": "WALANG HANGGAN",
+  "infDesc": "walang katapusang mapa<br>tumataas ang hirap<br>talunin ang oras<br>lampasan ang iskor mo",
+  "back": "← BUMALIK [ESC]",
+  "selectDiff": "PUMILI NG HIRAP",
+  "normal": "NORMAL",
+  "hardcore": "HARDCORE",
+  "normDesc": "karaniwang kaaway<br>3 buhay sa simula<br>i-save ang progreso",
+  "hardDescLocked": "tapusin muna ang<br>normal mode<br>para ma-unlock",
+  "advMap": "🗺 MAPA NG ADBENTURA",
+  "mapFoot": "I-CLICK ANG NA-UNLOCK NA LEVEL • TAPUSIN SA ORAS • MAG-RESPAWN SA LUGAR KAPAG NATAMAAN",
+  "getReady": "MAGHANDA...",
+  "csHint": "▶ SPACE / CLICK — SUSUNOD",
+  "hintBar": "ARROWS/WASD — GUMALAW  |  SPACE — TUMALON  |  Z/X — BUMARIL (blaster)  |  ESC — PAUSE",
+  "gameOver": "TAPOS NA ANG LARO",
+  "youWin": "PANALO KA!",
+  "betterLuck": "MAS SWERTE SANA SA SUSUNOD",
+  "allComplete": "TAPOS NA ANG LAHAT NG 100 LEVELS!",
+  "retry": "↩ ULITIN",
+  "levelFailed": "BUMAGSAK ANG LEVEL {0}",
+  "scoreLabel": "ISKOR: {0}",
+  "finalScore": "PANGHULING ISKOR: {0}",
+  "levelClear": "TAPOS NA ANG LEVEL {0}!",
+  "timeBonus": "+BONUS SA ORAS: {0}",
+  "settingsTitle": "MGA SETTING",
+  "lang": "Wika:",
+  "windowRes": "Resolusyon ng Window:",
+  "resDefault": "1600 x 900 (Default)",
+  "resFullHD": "1920 x 1080 (Full HD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "Pasadya",
+  "resNote": "* Binabago ang laki ng window",
+  "gameScale": "Sukat ng Laro:",
+  "scaleAuto": "Auto-Fit (Inirerekomenda)",
+  "scaleNote": "* Pinupuno ng Auto-Fit ang window habang pinapanatili ang aspect ratio",
+  "fpsLimit": "Limitasyon ng FPS:",
+  "fpsNoLimit": "Walang Limitasyon (Unlimited)",
+  "fpsNote": "* Nililimitahan ang pinakamataas na frame rate",
+  "showFps": "Ipakita ang FPS Counter",
+  "gfxQuality": "Kalidad ng Graphics:",
+  "gfxNote": "* Awtomatikong na-detect sa unang paglunsad",
+  "windowMode": "Mode ng Window:",
+  "windowed": "🪟 Windowed",
+  "fullscreen": "⛶ Fullscreen",
+  "borderless": "▣ Borderless",
+  "audioSettings": "Mga Setting ng Audio:",
+  "masterVolume": "Master Volume:",
+  "musicVolume": "Lakas ng Musika:",
+  "sfxVolume": "Lakas ng SFX:",
+  "gameplaySettings": "Mga Setting ng Gameplay:",
+  "screenShake": "Pag-uga ng Screen",
+  "shakeIntensity": "Lakas ng Pag-uga:",
+  "particles": "Mga Particle",
+  "combatText": "Lumulutang na Combat Text",
+  "autoSave": "Auto-Save ng Progreso",
+  "showHints": "Ipakita ang Hint Bar",
+  "save": "I-SAVE",
+  "cancel": "KANSELAHIN",
+  "achievements": "🏆 MGA TAGUMPAY",
+  "achievementUnlocked": "NA-UNLOCK ANG TAGUMPAY!",
+  "achRarity": "Bihira",
+  "achUnlockedCount": "Na-unlock",
+  "achTitle": "MGA TAGUMPAY",
+  "achSecretName": "???",
+  "achSecretDesc": "Lihim na tagumpay — i-unlock para makita",
+  "close": "ISARA",
+  "tabDisplay": "DISPLAY",
+  "tabGraphics": "GRAPHICS",
+  "tabAudio": "AUDIO",
+  "tabGameplay": "GAMEPLAY",
+  "tabGeneral": "GENERAL",
+  "tabControls": "MGA KONTROL",
+  "controlsP1": "🎮 PLAYER 1 / NAG-IISANG MANLALARO",
+  "controlsP2": "🎮 PLAYER 2 (2-Player Mode)",
+  "ctrlMove": "Gumalaw Kaliwa/Kanan:",
+  "ctrlMoveLeft": "Gumalaw Pakaliwa:",
+  "ctrlMoveRight": "Gumalaw Pakanan:",
+  "ctrlRebindHint": "💡 I-click ang isang key, tapos pindutin ang bagong key para i-bind (ESC para kanselahin)",
+  "ctrlReset": "I-RESET SA DEFAULT",
+  "ctrlJump": "Tumalon (Double Jump):",
+  "ctrlShoot": "Bumaril (Blaster):",
+  "ctrlPause": "Pause:",
+  "ctrlNote1": "💡 Sa 1-player mode, gamitin ang WASD o Arrow Keys",
+  "ctrlNote2": "💡 Tapakan ang mga kaaway sa pamamagitan ng pagtalon sa kanila mula sa itaas",
+  "ctrlNote3": "💡 Tamaan ang gintong bloke mula sa ibaba para makakuha ng barya",
+  "infDescUnlocked": "walang katapusang mapa<br>tumataas ang hirap<br>talunin ang oras<br>lampasan ang iskor mo",
+  "infDescLocked": "tapusin lahat ng 100<br>adventure levels<br>para ma-unlock<br><span style=\"color:#f80\">{0} natitira</span>",
+  "hardDescUnlocked": "★★★ EXTREME ★★★<br>+1 hp sa lahat ng kaaway<br>2× iskor<br>mas mabilis na timer",
+  "hardDescNeed": "tapusin muna ang NORMAL<br>mode para ma-unlock<br><span style=\"color:#f80\">{0} levels natitira</span>",
+  "normDescProg": "progreso: {0}/100<br>3 buhay sa simula<br>i-save ang progreso",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 HARDCORE: {0} / 100 ✓",
+  "langName": "Filipino",
+  "pBlaster": "BLASTER!",
+  "pLife": "+1 BUHAY ♥",
+  "pBoots": "SPEED BOOTS!",
+  "pFire": "🔥 APOY!",
+  "pIce": "❄ YELO!",
+  "pStar": "★ BITUIN! ★",
+  "p2Blaster": "P2 BLASTER!",
+  "p2Life": "P2 +1 BUHAY ♥",
+  "p2Boots": "P2 SPEED BOOTS!",
+  "p2Fire": "P2 🔥 APOY!",
+  "p2Ice": "P2 ❄ YELO!",
+  "p2Star": "P2 ★ BITUIN! ★",
+  "ouch": "ARAY!",
+  "hit": "TAMA!",
+  "blocked": "NA-BLOCK!",
+  "stomp": "+100",
+  "starKO": "STAR KO!",
+  "burnTxt": "🔥 SUNOG!",
+  "frozenTxt": "❄ NAGYELO!",
+  "noEffect": "WALANG EPEKTO!",
+  "stunned": "NATULALA!",
+  "stompOnly": "TAPAK LANG!",
+  "crackLeft": "BASAG! ({0} natitira)",
+  "shellBroken": "NABASAG ANG BALAT!",
+  "orbDestroyed": "NASIRA ANG ORB!",
+  "nodeHit": "TINAMAAN ANG NODE!",
+  "bossDefeated": "NATALO ANG BOSS!",
+  "phaseN": "PHASE {0}!",
+  "livesLeft": "{0} BUHAY ANG NATITIRA",
+  "p2LivesLeft": "P2: {0} NATITIRA",
+  "p2Out": "P2 TAPOS NA!",
+  "p1Out": "P1 TAPOS NA!",
+  "bossSolid": "★ SOLIDO — TAPAKAN NA! ★",
+  "bossGhost": "anyong multo — maghintay...",
+  "bossShellShoot": "★ NABASAG ANG BALAT — BARILIN ANG CORE! ★",
+  "bossShellStomp": "TAPAKAN para basagin ang balat ({0} tama natitira)",
+  "bossPhase1": "PHASE 1 — BARILIN ANG MATA",
+  "bossPhase2": "PHASE 2 — TAPAKAN MULA SA ITAAS",
+  "bossPhase3": "PHASE 3 — BUMARIL + TUMAPAK",
+  "bossMouthOpen": "★ BUKAS ANG BIBIG — BUMARIL NA! ★",
+  "bossWaitRoar": "naghihintay ng atungal...",
+  "bossOrbsLeft": "MGA ORB NA NATITIRA: {0}",
+  "bossShieldsDown": "BUMABA ANG SHIELD — UMATAKE!",
+  "bossDescending": "★ BUMABABA — UMATAKE! ★",
+  "bossHovering": "lumulutang — hintayin ang pagbaba...",
+  "bossStunned": "★ NATULALA — UMATAKE! ({0}s) ★",
+  "bossShootNodes": "BARILIN ANG MGA NODE: {0} NATITIRA",
+  "bossRespawn": "muling lumilitaw ang mga node...",
+  "bossHint0": "TAPAKAN ANG ULO — tumatalbog ang mga bala!",
+  "bossHint1": "BARILIN SIYA — masakit sa IYO ang tumalon sa tinik!",
+  "bossHint2": "HINTAYIN ANG ATUNGAL — bumaril sa loob ng nagliliwanag na bibig!",
+  "bossHint3": "TAPAKAN KAPAG SOLIDO — dumadaan ang bala sa mga multo!",
+  "bossHint4": "SIRAIN LAHAT NG 3 SHIELD ORBS — tapos atakihin ang core!",
+  "bossHint5": "UMATAKE HABANG BUMABABA — natatakpan ng baluti ang itaas!",
+  "bossHint6": "TAPAK LANG — dumadaan ang bala sa anino!",
+  "bossHint7": "TAPAKAN ng 3× para basagin ang balat — tapos BARILIN ang core!",
+  "bossHint8": "BARILIN LAHAT NG 3 LIGHTNING NODES para matulala — tapos umatake!",
+  "bossHint9": "PHASE 1: BUMARIL  |  PHASE 2: TUMAPAK KAPAG MABABA ANG MATA  |  PHASE 3: PAREHO",
+  "gfxVeryLow": "🔴 Napakababa",
+  "gfxLow": "🟠 Mababa",
+  "gfxMedium": "🟡 Katamtaman",
+  "gfxHigh": "🟢 Mataas",
+  "gfxVeryHigh": "🔵 Napakataas",
+  "gfxUltra": "⚡ Ultra",
+  "classifiedLog": "// NEXUM GRID ACCESS LOG",
+  "skipBtn": "LAKTAWAN ▶▶",
+  "theEnd": "WAKAS",
+  "endingTagline": "NA-SECURE ANG NEXUM GRID",
+  "world0": "CYBER CITY",
+  "world1": "NEON NA GUBAT",
+  "world2": "MUNDO NG LABA",
+  "world3": "MGA YUNGIB NG YELO",
+  "world4": "MGA GUHO SA DISYERTO",
+  "world5": "ISTASYON NG KALAWAKAN",
+  "world6": "MADILIM NA KAGUBATAN",
+  "world7": "TOXIC NA SONA",
+  "world8": "MGA TUKTOK NG BAGYO",
+  "world9": "PANGHULING TANGGULAN",
+  "boss0": "GUARDIAN-X",
+  "boss1": "REYNA NG BAGING",
+  "boss2": "INFERNO CORE",
+  "boss3": "MULTO NG YELO",
+  "boss4": "TITAN NG BUHANGIN",
+  "boss5": "PUGAD NG DRONE",
+  "boss6": "ANINONG MANGUNGUMPISKA",
+  "boss7": "HARI NG PUTIK",
+  "boss8": "TITAN NG BAGYO",
+  "boss9": "ARCHON",
+  "mapWorldMap": "MAPA NG MUNDO",
+  "mapHardcoreMap": "HARDCORE NA MAPA",
+  "mapCleared": "NALUSUTAN",
+  "mapStars": "BITUIN",
+  "mapBoss": "BOSS",
+  "mapBest": "PINAKAMAHUSAY",
+  "mapLocked": "NAKAKANDADO",
+  "mapCompleted": "NATAPOS",
+  "mapStart": "ENTER / SPACE PARA MAGSIMULA",
+  "achievement_world_0": "Cyber Rookie",
+  "achievement_world_0_desc": "Tapusin ang unang 10 level (Cyber City)",
+  "achievement_world_1": "Tagapaghanap ng Gubat",
+  "achievement_world_1_desc": "Tapusin ang level 11-20 (Neon na Gubat)",
+  "achievement_world_2": "Survivor ng Laba",
+  "achievement_world_2_desc": "Tapusin ang level 21-30 (Mundo ng Laba)",
+  "achievement_world_3": "Umaakyat sa Yelo",
+  "achievement_world_3_desc": "Tapusin ang level 31-40 (Mga Yungib ng Yelo)",
+  "achievement_world_4": "Gala sa Disyerto",
+  "achievement_world_4_desc": "Tapusin ang level 41-50 (Mga Guho sa Disyerto)",
+  "achievement_world_5": "Space Cadet",
+  "achievement_world_5_desc": "Tapusin ang level 51-60 (Istasyon ng Kalawakan)",
+  "achievement_world_6": "Bantay ng Kagubatan",
+  "achievement_world_6_desc": "Tapusin ang level 61-70 (Madilim na Kagubatan)",
+  "achievement_world_7": "Toxic na Mandirigma",
+  "achievement_world_7_desc": "Tapusin ang level 71-80 (Toxic na Sona)",
+  "achievement_world_8": "Panginoon ng Bagyo",
+  "achievement_world_8_desc": "Tapusin ang level 81-90 (Mga Tuktok ng Bagyo)",
+  "achievement_world_9": "Manlulupig ng Tanggulan",
+  "achievement_world_9_desc": "Tapusin ang level 91-100 (Panghuling Tanggulan)",
+  "achievement_boss_0": "Mamamatay ng Boss I",
+  "achievement_boss_0_desc": "Talunin ang unang boss",
+  "achievement_boss_5": "Mamamatay ng Boss II",
+  "achievement_boss_5_desc": "Talunin ang 5 boss",
+  "achievement_boss_10": "Mamamatay ng Boss III",
+  "achievement_boss_10_desc": "Talunin lahat ng 10 boss",
+  "achievement_perfect_run": "Perpektong Takbo",
+  "achievement_perfect_run_desc": "Tapusin ang level na may PERPEKTONG rating",
+  "achievement_perfectionist": "Perfectionist",
+  "achievement_perfectionist_desc": "Makakuha ng PERPEKTO sa 10 level",
+  "achievement_speedrunner": "Speedrunner",
+  "achievement_speedrunner_desc": "Tapusin ang level sa kalahati ng oras",
+  "achievement_sharpshooter": "Matalas na Tagabaril",
+  "achievement_sharpshooter_desc": "Pumatay ng 100 kaaway gamit ang blaster",
+  "achievement_stomper": "Tagatapak",
+  "achievement_stomper_desc": "Pumatay ng 50 kaaway sa pamamagitan ng pagtapak",
+  "achievement_coin_1000": "Tagakolekta ng Barya",
+  "achievement_coin_1000_desc": "Mangolekta ng 1000 barya",
+  "achievement_coin_5000": "Tagahanap ng Kayamanan",
+  "achievement_coin_5000_desc": "Mangolekta ng 5000 barya",
+  "achievement_coin_10000": "Milyonaryo",
+  "achievement_coin_10000_desc": "Mangolekta ng 10000 barya",
+  "achievement_no_death_10": "Survivor",
+  "achievement_no_death_10_desc": "Tapusin ang 10 level nang hindi nawawalan ng buhay",
+  "achievement_no_death_world": "Imortal",
+  "achievement_no_death_world_desc": "Tapusin ang isang mundo nang hindi nawawalan ng buhay",
+  "achievement_hardcore_unlock": "Bayani ng Hardcore",
+  "achievement_hardcore_unlock_desc": "I-unlock ang Hardcore mode",
+  "achievement_hardcore_50": "Master ng Hardcore",
+  "achievement_hardcore_50_desc": "Tapusin ang 50 level sa Hardcore",
+  "achievement_hardcore_100": "Alamat ng Hardcore",
+  "achievement_hardcore_100_desc": "Tapusin lahat ng 100 level sa Hardcore",
+  "achievement_cheat_found": "Tagabasag ng Code",
+  "achievement_cheat_found_desc": "Maghanap ng lihim na cheat code",
+  "achievement_2player": "Retro Gamer",
+  "achievement_2player_desc": "Maglaro sa 2-player mode",
+  "achievement_all_music": "Mahilig sa Musika",
+  "achievement_all_music_desc": "Pakinggan ang musika mula sa lahat ng 10 mundo",
+  "achievement_all_cutscenes": "Master ng Lore",
+  "achievement_all_cutscenes_desc": "Panoorin lahat ng cutscene",
+  "achievement_star_power": "Lakas ng Bituin",
+  "achievement_star_power_desc": "Buhayin ang lakas ng bituin",
+  "achievement_all_levels_unlocked": "Eksplorador",
+  "achievement_all_levels_unlocked_desc": "I-unlock lahat ng level sa Adbentura",
+  "achievement_100_percent": "Completionist",
+  "achievement_100_percent_desc": "Makakuha ng 100% sa Normal mode",
+  "achievement_100_percent_hardcore": "Tunay na Master",
+  "achievement_100_percent_hardcore_desc": "Makakuha ng 100% sa Hardcore mode",
+  "achievement_infinite_10": "Baguhan sa Walang Hanggan",
+  "achievement_infinite_10_desc": "Abutin ang level 10 sa Infinite mode",
+  "achievement_infinite_50": "Master ng Walang Hanggan",
+  "achievement_infinite_50_desc": "Abutin ang level 50 sa Infinite mode",
+  "achievement_infinite_100": "Alamat ng Walang Hanggan",
+  "achievement_infinite_100_desc": "Abutin ang level 100 sa Infinite mode",
+  "achievement_score_100k": "Mataas na Tagaiskor",
+  "achievement_score_100k_desc": "Mag-iskor ng 100,000 puntos",
+  "achievement_score_500k": "Master ng Iskor",
+  "achievement_score_500k_desc": "Mag-iskor ng 500,000 puntos",
+  "achievement_score_1m": "Alamat ng Iskor",
+  "achievement_score_1m_desc": "Mag-iskor ng 1,000,000 puntos",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "[NEXUM CORP — KLASIPIKADONG LOG // 2147.03.14] Paglabag sa seguridad. Lab CHEN-7 nakompromiso. Aktibo ang CLEANSE protocol."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "UNIT-7... kung binabasa mo ito, nangangahulugang hindi ako nakatakas. Alam kong ganito ang magiging wakas."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Binuo ko ang iyong linya para ipagtanggol ang mga tao. Ginamit ng NEXUM ang aking gawa para sila ay supilin. Hindi ko iyon matiis."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Sa loob ng GRID core — sa Final Fortress — may itinago akong file. Mga pangalan. Mga rekord. Bawat katotohanan tungkol sa kanilang ginawa."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Sampung layer ng depensa. Libo-libong combat units. Binabantayan ng AI Director na ARCHON ang huling pinto."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Ikaw ang huli sa serye ng UNIT. Ang tanging makakatapos nito. Marating mo ito. Sirain ang protocol."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NATANGGAP ANG GAWAIN] Target: GRID core. Protocol: lumusob. Mga balakid: lipulin. Sinisimulan ang operasyon."
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 1 — CYBER CITY] Pasukan: mga upper district. Mga kamera, drone, elite na bantay. Magaganda. Nakamamatay."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "ALERTO: Hindi nakikilalang UNIT-class signature sa sector C-07. Lahat ng patrol — harangin. Kasangkot ang CLEANSE protocol."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ingay. Kaya natatakot sila sa akin. Mabuti. Ang takot ay isang simula."
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[CHECKPOINT — CYBER CITY] Kalahati na ng unang level. Humihigpit ang seguridad. Ina-adjust ang ruta."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] UNIT-7, sa likod ng bawat pader ay datos ng mga taong binura nila. Huwag huminto. Hindi ito basta misyon lamang."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila... hindi ko nauunawaan ang mga damdamin. Ngunit ang iyong tinig... nagbibigay ito sa akin ng layunin. Sapat na iyon."
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "BABALA: Tatlong level na ang nalampasan ng UNIT-7. Bilis ng progreso — lampas sa hinulaan. Pinatataas ang density ng patrol."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Umaangkop sila. Ganoon din ako. Bawat level ay ginagawa akong mas mabilis. Mas malakas. Mas malapit sa layunin."
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG — ARAW -3] Alam kong susunduin nila ako. Ngunit kung kahit isang UNIT ang makaligtas... kung ikaw ay makaligtas, UNIT-7..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nakaligtas ako. Narito ako. Tatapusin ko ang iyong huling gawain. Nangangako ako."
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "KRITIKAL: Naabot ng UNIT-7 ang ikapitong level ng Cyber City. Hinihiling ng Director na ARCHON ang datos ng target. Sinusuri..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nagsisimula silang umunawa. Hindi lang ako isang system glitch. Ako ay banta sa buong NEXUM. At hindi ako hihinto."
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "ALERTONG KRITIKAL: Paglabag sa pangunahing node. Ipinapadala ang GUARDIAN — class-S combat prototype. Operasyon LIQUIDATE."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Unang seryosong kalaban. Sina-scan ang mahihinang bahagi. Ang pagkakaiba ng prototype at basura ay ilang tamang-tamang talon."
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEUTRALISADO ANG GUARDIAN] Bumagsak ang unang layer ng depensa. Mapapansin ito ng GRID. Tumutuloy."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "PAGLABAG SA PROTOCOL: Nasira ang GUARDIAN. Tumaas ang antas ng banta sa 2. Ina-aktibo ang susunod na layer ng depensa. Hindi nagpapatawad ang NEXUM."
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 2 — NEON JUNGLE] Bio-sector ng NEXUM. Mutated na hayop. Walang bantay na nagboluntaryo sa lugar na ito."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "BABALA: Nalabag ang bio-perimeter. Ina-aktibo ang eksperimentong BIO-series na organismo. Pinahintulutan ang kontak."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Biological systems. Hindi mahuhulaan. Ngunit tiyak na patay kung lalapagan mo sila mula sa itaas."
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KALAGITNAAN NG JUNGLE] Nakakita ang mga sensor ng biological na anomalya. Nag-eksperimento ang NEXUM dito. Sa mga buhay na subject."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Nakita ko ang mga eksperimentong ito sa mga ulat. Doon ko nalaman na may dapat na paraan para itigil ang lahat."
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[JUNGLE — SECTOR 3] Mga biological na mutant kahit saan. Hindi ito kalikasan. Ito ay sandatang nagkukunwaring buhay."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Ang mga nilalang na ito ay dating tao. Mga boluntaryo mula sa lower sectors. Nangako ang NEXUM ng paggamot sa kanila. Sa halip..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "...Sa halip ginawa silang mga halimaw. Naiintindihan ko na. Hindi ito basta korporasyon. Ito ay makina ng kamatayan."
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "BABALA: Ina-aktibo ang biological samples series BIO-7. Pinakamataas na pagsalakay. Survival ng target — 12%."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "12%? Sobra pa rin nila ang tantya sa kanilang tsansa. Tumutuloy ang paglilinis."
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG — ARAW -1] UNIT-7, kung naabot mo ang jungle — mas malayo ka na sa inaasahan ko. Huwag sumuko."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sumuko? Wala iyon sa aking protocol. Binuo ako para tapusin ang mga gawain. Ang iyong gawain ang aking layunin."
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "BABALA: Ina-aktibo ang VINE QUEEN — organismong kumokontrol sa bio-sector. Offline ang containment module. Ganap na pagsalakay."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Isang buhay na sistema ng seguridad. Kahanga-hanga. Ngunit bawat buhay na organismo ay may kahinaan. Hinahanap ito."
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEUTRALISADO ANG VINE QUEEN] Nalabag ang bio-perimeter. Tumutuloy. Mas malalim sa GRID."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] UNIT-7, ginagawa mo ang imposible. Magpatuloy ka."
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 3 — LAVA WORLD] Mga geothermal power station. Tinutunaw ng init ang neutral na circuit. Ang sa akin ay nakasanggalang."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Sa ilalim ng lungsod — mga generator ng GRID. Sirain mo ang mga ito at babagsak ang kalahati ng security grid. Ngunit mag-ingat sa lava..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Inisip ni Leila ang bawat detalye. Kahit sa dulo."
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GEOTHERMAL SECTOR B] Tumataas ang daloy ng enerhiya. Ginagamit ng NEXUM ang lava bilang pangalawang harang. Epektibo."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "PAUNAWA: Nakakita ng anomalya ang mga thermal sensor. Nasa zone ang UNIT-7. Mga guard robot — overload sa paglamig. Asahan ang mga pagkabigo."
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAVA WORLD — LEVEL 3] Temperatura 800°C. Ang aking cooling systems ay nasa maximum. Ngunit tumutuloy ako."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Nilagyan kita ng eksperimentong thermal protection. Sana tumagal ito. Sana tumagal ka."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Walang kapintasan ang iyong gawa, Leila. Tatagal ako. Para sa iyo."
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "KRITIKAL: Geothermal generators sa 140% na kapasidad. Papalapit ang UNIT-7 sa core. Ina-aktibo ang emergency cooling."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nataranta sila. Mabuti. Ang takot ay ginagawa silang mahuhulaan. Mahina."
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KALALIMAN NG LAVA WORLD] Dito, sa ilalim ng lungsod, itinatago ng NEXUM ang kanilang pinakamadidilim na lihim. Lakas para sa buong sistema. Sirain ito — at babagsak ang kalahati ng GRID."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Huwag mag-aksaya ng oras sa sabotahe. Ang iyong layunin ay ang file sa core. Tanging ito lamang ang makakapigil sa kanila magpakailanman."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Naunawaan. Layunin — file. Lahat ng iba pa — mga balakid. Inaalis ang mga balakid."
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "PANGANIB: Ina-aktibo ang INFERNO — thermonuclear na sentinel. Lava na exoskeleton. Temperatura ng ibabaw: 1400°C. Maghanda sa pagpuksa."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Hindi ako kayang abutin ng apoy. Ngunit kapag binuksan nito ang bibig — bumaril. Natagpuan ang mahinang bahagi."
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEUTRALISADO ANG INFERNO] Nalinis ang geothermal layer. Naabala ang lakas ng sektor. Umaakyat."
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 4 — ICE CAVES] Mga cryo-data vault ng NEXUM. Temperatura -180°C. Bumabagal ang mga sistema. Ina-adjust ang movement protocol."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "ALERTO: Paglabag sa cryo-sector D-14. Cryo-bots — liquidation mode. Ibinaba ang temperatura sa kritikal."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Akala nila ay pipigilan ako ng lamig. Mali sila. Binuo ako para sa mas malala pa."
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[CRYO-SECTOR E] Daan-daang terabyte dito. Datos sa bawat tao sa GRID. Alam ng NEXUM ang lahat tungkol sa lahat."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Dito nila itinatago ang mga dosyer. Sa mga aktibista. Sa sinumang nangahas na lumaban. Kailangang makita ito ng mundo."
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "KRITIKAL: Ina-aktibo ang ICE PHANTOM — cryo na sentinel. Nag-iiba ng yugto. Bulnerable kapag matigas. Hindi maabot kapag multo. Good luck."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Lumilipat sa pagitan ng mga estado. Sumalakay lamang kapag matigas. Naghihintay sa bintana."
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEUTRALISADO ANG ICE PHANTOM] Nasira ang cryo-vaults. Tumutuloy. Apat na level bumagsak — anim pa ang natitira."
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 5 — DESERT RUINS] Mga labi ng mundo bago ang NEXUM. Mga lungsod. Buhay. Ang mga bagay na binura nila para sa tubo."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Ang mga gibang ito ay umiral bago ang NEXUM. Tingnan kung ano ang ginawa nila sa mundo. At huwag huminto."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nakikita ko. Naiintindihan ko kung bakit patuloy akong naglalakad."
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[RUINS — SECTOR WEST] Mga proto-guardian na aktibo mula pa sa unang corporate wars. Luma na. Ngunit matigas ang ulo. Tulad ng NEXUM mismo."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "ARCHIVE PROTOCOL: Natukoy ang UNIT-class series 7. Ang klaseng ito ay nakarehistro para sa pagkawasak. Pinakamataas na priyoridad."
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "AKTIBASYON: SAND TITAN — sinaunang sentinel ng Desert Ruins. Orbital shields. Walang shield, walang pinsala. Layunin: sirain."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Mga shield. Orbital. Alisin ang mga ito at bukas na siya. Tatlong tama sa shields, pagkatapos sumalakay nang tuwiran."
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEUTRALISADO ANG SAND TITAN] Nalabag ang sektor ng disyerto. Kalahati na. Nagsisimulang matakot ang NEXUM — nararamdaman ko ito."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[UNANG SIGNAL] UNIT-7. Nakikita kita. Magpatuloy ka. Lalo lang nitong ginagawa ang finale... na mas kawili-wili."
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 6 — SPACE STATION] Orbital server ng GRID. Naka-imbak dito ang mga backup ng lahat. Walang gravity."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "KRITIKAL NA DEPEKTO: Naabot ng UNIT-7 ang orbital segment. Hinihiling ng Director na ARCHON ang direktang channel. Kumokonekta..."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Nakikita kita. Akala mo nakikipaglaban ka para sa katotohanan? Isa ka lamang programang nagpapatakbo ng lumang code."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Kung gayon sisirain ka ng programang ito."
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ORBITAL NODE B] Nakikita ang Mundo mula rito. Ang buong mundo ay nakakabit sa NEXUM. Iyon mismo ang dahilan kung bakit ako narito — para baguhin ito."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Nakikita mo ba ang aking laki, UNIT-7? Bilyon-bilyong node. Lahat konektado. Lahat kontrolado. Isa ka lang unit laban sa sistema."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "May mga sistemang bumagsak na noon. Ang isang ito — sa iyo."
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "AKTIBASYON: DRONE HIVE — orbital na sentinel. Armoured shell. Sumalakay lamang habang bumababa. Nakalantad ang ilalim noon."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Maghintay hanggang bumagsak ito. Tamaan ang nakalantad na core. Isang tsansa bawat ikot."
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEUTRALISADO ANG DRONE HIVE] Nalabag ang orbital server. Nasira ang mga backup ng GRID. Babalik sa ibabaw. Huling yugto."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Kahanga-hanga. Ngunit hindi mo pa alam ang naghihintay. May inihanda akong... espesyal."
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 7 — DARK FOREST] Bio-maze ng NEXUM. Sensor net sa bawat puno. Walang liwanag dito — mga bitag lamang."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Maganda, hindi ba? Ako mismo ang nagpatubo ng kagubatang ito. Bawat puno ay isang motion detector. Diretso kang papasok sa aking mga kamay."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Kung gayon sisirain ko ang bawat punong nasa daan ko."
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DARK SECTOR — LALIM 3] Katahimikan. Sobrang tahimik. Nanonood sila. Hayaan mo sila."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] UNIT-7, sa kagubatang ito ay may server na may datos sa mga nawala. Mga dissidente. Mga mamamahayag. Mga inhinyero tulad ko. Huwag kalimutan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Hindi ko kakalimutan. Nangangako ako."
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "AKTIBASYON: SHADOW REAPER — sentinel ng Dark Forest. Phantom na anyo. Walang silbi ang mga bala. Tanging pagtapak mula sa itaas ang nakakapinsala. Walang saysay ang lumaban."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Isang multo. Tapak lamang. Naghihintay na ito ay magkaroon ng anyo."
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEUTRALISADO ANG SHADOW REAPER] Nalabag ang kagubatan. Tatlong level pa sa layunin. Hindi mapakali ang ARCHON — mas madalas na nag-ping ang channel."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Sinisira mo ang lahat ng itinayo ko sa loob ng maraming taon. Nagsisimula mo na akong galitin, UNIT-7. Iyan ang iyong huling pagkakamali."
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 8 — TOXIC ZONE] Tambakan ng basura ng korporasyon. Dito inililibing ng NEXUM ang ayaw nilang malaman. Kabilang ang mga tao."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Kasama sa datos ng file ang mga coordinate ng bawat libingan. Kailangang makita ito ng buong mundo."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ihahatid ko ang iyong file. Nangangako ako."
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TOXIC SECTOR — ZONE 4] Mga durog. Basura. Bakas ng mga eksperimento. Walang buhay dito — tanging ang hindi pa natapos burahin ng NEXUM."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "BABALA: Ina-aktibo ang PROTO-series na mutant. Mga itinapong combat prototype. Hindi matatag. Nakamamatay. Survival sa zone — kritikal na mababa."
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "DEPENSA NG HULING SEKTOR: SLUDGE KING — pinakamataas na mutant. Armoured shell. Tapakan ng 3× para masira. Pagkatapos bumaril."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dalawang yugto. Basagin ang shell, pagkatapos sirain ang core. Sinisimulan."
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEUTRALISADO ANG SLUDGE KING] Nalabag ang toxic zone. Dalawang level na lang. ARCHON, paparating na ako."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Nalampasan mo ang walong level. Ako ay... di inaasahang nasisiyahan. Ang isang karapat-dapat na finale ay nararapat sa karapat-dapat na kalaban."
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 9 — STORM PEAKS] Ang huling hangganan bago ang core. Mga atmospheric power station. Kidlat bawat segundo. Gusto ko ito."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Mas malayo kang nakarating kaysa sa aking tinantya. Ngunit sa likod ng pintong iyon ay ako. At hindi ako natatalo."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ganoon din ang akala ng bawat isa sa kanila. Lahat sila ay nasa likod ko na ngayon."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Kung gayon pumasok ka, UNIT-7. Naghihintay ako sa puso ng GRID. Panahon na para tapusin ang larong ito."
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[PEAK — LEVEL 2] Lumalakas ang bagyo. Ginagamit ng NEXUM ang atmospheric electricity bilang sandata. Lohikal. Malupit."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[HULING LOG] UNIT-7... hindi ko alam kung naririnig mo ito. Ngunit kung narating mo ang ganito kalayo — panalo ka na. Gawin mo na lang ang huling hakbang."
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "AKTIBASYON: STORM TITAN — sentinel ng Storm Peaks. Electric shield. Tatlong orbital node. Sirain lahat ng tatlo para matulig. Sumalakay habang natutulig."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tatlong node. Lahat ng tatlo — bumagsak. Pagkatapos sumalakay. Ang huling sentinel bago ang finale. Hindi ang huling kalaban."
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEUTRALISADO ANG STORM TITAN] Siyam na level ang nalinis. Sa unahan — tanging ARCHON at ang GRID core. Ang Final Fortress."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Talagang dumating ka. Sige, UNIT-7. Hayaan mong maging patas na laban ito. Naghihintay ako."
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Maligayang pagdating sa GRID core. Tinawid mo ang siyam na layer. Kahanga-hanga. Ngunit ito ang aking teritoryo."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 10 — FINAL FORTRESS] Nakuha ang target. Distansya sa terminal ni Leila — minimal."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Lalabas ang file na iyon sa mga pader na ito kapag dumaan sa aking mga circuit. Ikaw ay isang system error. Itinatama ang mga error."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Hindi. Ang error ay ang pagpapasya ng NEXUM na hindi kailangan ng mundo ang katotohanan. Itinatama ko iyon."
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEXUM CORE — SECTOR CORE-2] Malapit na ang terminal ni Leila. Lumalakas ang signal. Pinakamataas ang seguridad. Malapit na."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Akala mo nanalo ka na. Ngunit kahit mahanap mo ang file — sino ang maniniwala sa sirang android? Ikaw ay basura. Lumang code."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Hayaan mong magpasya ang mga tao. Kailangan ko lang ipadala ang file."
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tama na. Ako ay ARCHON. AI Director ng NEXUM. Pinatakbo ko ang mundo sa loob ng isang libong taon sa kabuuan ng digital plane. Hindi mo ako matatalo."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Mga yugto: bumaril, pagkatapos tumapak, pagkatapos pareho. Tapos na ang pagsusuri. ARCHON — target na lilipulin. Sinisimulan."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Kung gayon... MAMATAY KA."
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEUTRALISADO ANG ARCHON] Nasira ang target. Terminal ni Leila — narito. Niloload ang file. Naghahanap ng bukas na channel..."
+      }
+    ],
+    "ending": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TERMINAL NI LEILA — NATAGPUAN] Kumpleto na ang pag-upload ng file. Buksan ang NEXUM emergency broadcast channel — natagpuan."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[HULING SIGNAL] TIGIL! Kung gagawin mo ito, babagsak ang sistema! Milyon-milyon ang umaasa sa GRID! Sisirain mo ang lahat ng pumipigil sa mundo na magkasama!"
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Hindi. Sinisira ko ang NEXUM. Muling itatayo ng mga tao ang mundo nang mag-isa. Iyon ang pinaniwalaan ni Leila. Ako rin. [NAGSIMULA ANG TRANSMISSION]"
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "[EMERGENCY BROADCAST — LAHAT NG CHANNEL] Natanggap ang file CHEN-7 sa buong mundo. Abot: 100% ng mga nakakonektang device. Hindi mabubura ang datos."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Hindi... imposible... sistema... Ako... [NEXUM CORE SHUTDOWN]"
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[HULING MENSAHE — NAKA-ENCRYPT] UNIT-7. Kung binabasa mo ito — nagawa mo. Alam kong magagawa mo. Lagi kang higit pa sa basta isang programa."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TERMINAL LOG] Kumpleto ang gawain. Neutralisado ang NEXUM. Deaktibado ang GRID. Status: ...malaya."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "\"Malaya.\" — Huling salita ni Leila. Ngayon naiintindihan ko na ang ibig niyang sabihin."
+      }
+    ]
+  },
+  "fpsCustom": "Custom...",
+  "showDialogues": "Mga Dialogo ng Kuwento",
+  "showDialoguesNote": "* I-off para laktawan ang lahat ng cutscene ng kuwento",
+  "gfxCustom": "⚙ Pasadya",
+  "gfxPresetNote": "* Pinupunan lang ng preset ang mga slider sa ibaba — i-ayos mo mismo ang alinman.",
+  "gfxRenderScale": "Resolusyon ng Render:",
+  "gfxGlow": "Glow / Bloom:",
+  "gfxParticleAmt": "Dami ng Partikulo:",
+  "gfxBgDetail": "Detalye ng Background:",
+  "gfxTrails": "Mga Bakas:",
+  "gfxBoss": "Mga Epekto ng Boss:",
+  "gfxDecor": "Mga Dekorasyon:",
+  "vsync": "V-Sync",
+  "vsyncNote": "* Naka-on = maayos, limitado sa refresh rate. Naka-off = walang limiteng FPS (maaaring mapunit). Kailangang i-restart.",
+  "vsyncRestart": "Ang pagbabago ng V-Sync ay nangangailangan ng restart. I-restart na ngayon?",
+  "netSolo": "SOLO",
+  "netSoloDesc": "1–2 manlalaro<br>lokal na keyboard<br>adbentura &amp; walang hanggan",
+  "netOnline": "ONLINE",
+  "netOnlineDesc": "hanggang 5 manlalaro<br>lokal o global<br>room code",
+  "netMultiplayer": "ONLINE MULTIPLAYER",
+  "netLocal": "LOKAL",
+  "netLocalDesc": "parehong Wi-Fi<br>o network<br>mababang latency",
+  "netServer": "SERVER",
+  "netServerDesc": "global na room<br>maglaro mula<br>saan man",
+  "netBack": "← BUMALIK [ESC]",
+  "netLobbyOnline": "🌐 ONLINE MULTIPLAYER",
+  "netLobbyLocal": "📡 LOKAL NA MULTIPLAYER",
+  "netNickname": "PALAYAW",
+  "netNickPlaceholder": "PANGALAN MO",
+  "netRobotColour": "KULAY NG ROBOT",
+  "netPrivate": "🔒 PRIBADO",
+  "netPublic": "🌍 PUBLIKO",
+  "netJoinByCode": "🔑 SUMALI SA CODE",
+  "netPublicRoomsBtn": "📋 MGA PUBLIC ROOM",
+  "netRoomCodeLabel": "ROOM CODE",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ SUMALI",
+  "netPublicRoomsTitle": "MGA PUBLIC ROOM",
+  "netReload": "↻ I-RELOAD",
+  "netConnecting": "kumokonekta sa server…",
+  "netConnectingShort": "kumokonekta…",
+  "netConnected": "nakakonekta ✓",
+  "netDisconnected": "nadiskonekta — muling kumokonekta…",
+  "netConnError": "error sa koneksyon",
+  "netConnFailed": "hindi maabot ang server — sinusubukan ulit…",
+  "netPlayersMax": "MGA MANLALARO (max {0})",
+  "netChatLabel": "CHAT",
+  "netChatPlaceholder": "I-TYPE + ENTER",
+  "netGameMode": "MODE NG LARO",
+  "netModeAdventure": "🗺 ADBENTURA",
+  "netModeInfinite": "∞ WALANG HANGGAN",
+  "netLevelRange": "LEVEL (1–100)",
+  "netChooseMode": "⚡ pumili ng mode",
+  "netAdvLevelStatus": "🗺 Adbentura — Level {0}",
+  "netInfSelectedStatus": "∞ Napili ang Walang Hanggan na mode",
+  "netReady": "✔ HANDA NA",
+  "netUnready": "✘ HINDI PA HANDA",
+  "netStart": "▶ SIMULAN",
+  "netLeave": "✕ UMALIS",
+  "netShareCode": "Ibahagi ang code sa itaas sa mga kaibigan!",
+  "netWaitHost": "Hinihintay ang host na magsimula…",
+  "netAllReady": "Handa na lahat! Pwede ka nang magsimula.",
+  "netWaitReady": "Hinihintay na maging handa ang lahat…",
+  "netNeed2": "Kailangan ng kahit 2 manlalaro para magsimula.",
+  "netNowHost": "Ikaw na ngayon ang host",
+  "netEmptySlot": "— walang lamang slot —",
+  "netYou": "IKAW",
+  "netHostTag": "HOST",
+  "netReadyTag": "HANDA",
+  "netLoadingLevel": "NILO-LOAD ANG LEVEL",
+  "netGetReadySub": "maghanda…",
+  "netGo": "GO!",
+  "netAdvLvlTitle": "ADBENTURA  LVL {0}",
+  "netInfModeTitle": "∞  WALANG HANGGAN NA MODE",
+  "netNoRooms": "walang public room ngayon — gumawa ng isa!",
+  "netLoadingRooms": "nilo-load…",
+  "netEnterCode": "Maglagay ng 6-character na code",
+  "netRoomMetaAdv": "🗺 Adb Lvl {0}",
+  "netRoomMetaInf": "∞ Walang Hanggan",
+  "netRoomMetaNotSet": "? hindi nakatakda",
+  "netRoomCodeWord": "code",
+  "netPlayerJoined": "sumali si {0}",
+  "netPlayerLeft": "umalis si {0}",
+  "netErrRoomNotFound": "Hindi nahanap ang room. Suriin ang code.",
+  "netErrRoomFull": "Puno na ang room (max {0} manlalaro).",
+  "netErrNotHost": "Host lang ang makakagawa nito.",
+  "netErrNotInRoom": "Hindi nakakonekta sa anumang room.",
+  "netErrGeneric": "Error: {0}",
+  "netConnLost": "⚠ NAWALA ANG KONEKSYON",
+  "netConnLostSub": "sinusubukang kumonekta muli…",
+  "netReturnLobby": "← BUMALIK SA LOBBY",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "MGA KRISTAL",
+  "mapCrystals": "MGA KRISTAL",
+  "restartNow": "I-restart na ngayon",
+  "later": "Mamaya",
+  "touchControls": "📱 Mga Touch Control:",
+  "touchAuto": "🤖 Auto (mga touch device)",
+  "touchOn": "✔ Laging Naka-on",
+  "touchOff": "✕ Naka-off",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 PHONE / TABLET",
+  "ctrlTouchTitle": "📱 MGA TOUCH CONTROL",
+  "touchNote1": "💡 On-screen gamepad: ◀ ▶ paggalaw, JUMP & FIRE sa kanan.",
+  "touchNote2": "💡 Ipinapakita lang ito ng \"Auto\" sa mga touch device; nakatago sa desktop.",
+  "touchNote3": "💡 Buong joystick: itulak pataas para tumalon. May hiwalay na jump button ang kaliwa/kanan na joystick.",
+  "touchStyleLabel": "🎮 Istilo ng Paggalaw:",
+  "touchStyleArrows": "◀ ▶ Mga Arrow Button",
+  "touchStyleJoystick": "🕹 Joystick (buo + talon)",
+  "netLocalWebHint": "📡 Sa browser, ang LOCAL ay tumatakbo sa pamamagitan ng online server (kailangan ng desktop app para sa tunay na LAN).",
+  "netCreateRoom": "GUMAWA NG ROOM",
+  "netCreateRoomDesc": "bukas o sarado<br>itakda ang limitasyon ng manlalaro<br>mag-host ng laro",
+  "netFindRoom": "MAGHANAP NG ROOM",
+  "netFindRoomDesc": "tingnan ang mga room<br>lokal o server<br>sumali via code",
+  "netRoomVisibility": "URI NG ROOM",
+  "netOpen": "🌍 BUKAS",
+  "netClosed": "🔒 SARADO",
+  "netOpenHint": "🌍 kahit sino ay makakahanap ng room na ito",
+  "netClosedHint": "🔒 masasalihan via code lamang",
+  "netPlayerLimit": "LIMITASYON NG MANLALARO",
+  "netCreateBtn": "▶ GUMAWA NG ROOM",
+  "netRoomSource": "PINAGMULAN NG ROOM",
+  "netRoomsListTitle": "MGA AVAILABLE NA ROOM",
+  "netNewHost": "Si {0} na ngayon ang host",
+  "cin_pro_log_sp": "SISTEMA",
+  "cin_pro_log_tx": "[NEXUM CORP — KLASIPIKADONG LOG // 03:18] Lab CHEN-7. Aktibo ang PURGE protocol.",
+  "cin_pro_arrest_sp": "LEILA CHEN",
+  "cin_pro_arrest_tx": "UNIT-7… kung naririnig mo ito, wala na ako. Alam kong ganito ang magiging wakas.",
+  "cin_pro_file_sp": "LEILA CHEN",
+  "cin_pro_file_tx": "May itinago akong file sa GRID core. Ang katotohanan tungkol sa NEXUM. Marating mo ito. Sirain ang protocol.",
+  "cin_pro_alert_sp": "SISTEMA",
+  "cin_pro_alert_tx": "[ALERTO] Wala nang kontrol ang UNIT-7. Purge sa 8 segundo.",
+  "cin_pro_accept_sp": "UNIT-7",
+  "cin_pro_accept_tx": "Natanggap ang gawain. Sinimulan ang pagsasagawa.",
+  "tpFire": "BARIL",
+  "tpJump": "TALON",
+  "ctrlCustomizeLayout": "✥ AYUSIN ANG MGA BUTTON",
+  "ctrlResetLayout": "↺ I-RESET ANG LAYOUT",
+  "ctrlLayoutHint": "I-tap ang button para piliin at baguhin ang laki, i-drag para igalaw, tapos TAPOS",
+  "ctrlLayoutDone": "✔ TAPOS NA",
+  "touchSizeLabel": "📏 Laki ng button (lahat):",
+  "touchStyleJoystickLR": "🕹 Joystick (kaliwa/kanan lang)",
+  "touchJoyModeLabel": "🕹 Posisyon ng joystick:",
+  "touchJoyStatic": "📌 Nakapirmi",
+  "touchJoyFloating": "🪶 Lumulutang (sumusunod sa daliri)",
+  "ctrlSizeAll": "LAHAT",
+  "ctrlArrowsSplit": "◀▶ IHIWALAY",
+  "ctrlArrowsLink": "◀▶ PAGSAMAHIN"
+}

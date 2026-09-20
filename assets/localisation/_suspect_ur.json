@@ -1,0 +1,14 @@
+{
+  "suspects": {
+    "res2K": "2560 x 1440 (2K)",
+    "vsync": "V-Sync",
+    "mapProg": "{0} / 100 ✓",
+    "stomp": "+100"
+  },
+  "speakers": {
+    "system": "سسٹم",
+    "leila": "لیلا چن",
+    "unit7": "یونٹ-7",
+    "archon": "آرکن"
+  }
+}

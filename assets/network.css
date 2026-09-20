@@ -1,0 +1,154 @@
+/* ── Lobby overlay ────────────────────────────────────────────── */
+#netLobby{
+  position:fixed;inset:0;z-index:900;
+  background:#02020cef;
+  display:none;flex-direction:column;align-items:center;justify-content:center;
+  font-family:'Press Start 2P',monospace;
+  /* The inner box is transform-scaled by JS to always fit the screen, so we clip
+     (never scroll) — a scrollbar here would move the already-fitted content. */
+  overflow:hidden;box-sizing:border-box;
+}
+/* Inner box holds the title + panels and is scaled by JS (window._netFitLobby)
+   to fit the screen, so the whole lobby shrinks proportionally on a phone. */
+#netLobbyInner{
+  display:flex;flex-direction:column;align-items:center;gap:14px;
+  transform-origin:center center;
+  /* Размер интерфейса действует и здесь. Раньше лобби было из него исключено,
+     и настройка «размер интерфейса/текста» на онлайне не работала вовсе: панель
+     ужималась подгонкой ровно во столько же раз, во сколько её увеличивали. */
+  zoom:var(--bbUI, 1);
+}
+#netLobby h2{font-size:calc(12px * var(--bbText, 1));color:#0ff;text-shadow:0 0 14px #0ff;letter-spacing:3px;margin:0}
+.net-panel{
+  background:#070720;border:1px solid #0ff4;border-radius:8px;
+  padding:18px 24px;display:flex;flex-direction:column;gap:12px;
+  min-width:280px;max-width:360px;width:90%;
+}
+/* Колонки панели. На узком экране это обычные блоки в общем столбце — правило
+   ниже включает раскладку в две колонки только там, где для неё есть место. */
+.net-col{display:flex;flex-direction:column;gap:12px;min-width:0}
+.net-foot{display:flex;flex-direction:column;gap:8px;min-width:0}
+
+/* ── Горизонтальное лобби ──────────────────────────────────────────────────
+   Вертикальная простыня не помещалась по высоте, и подгонка ужимала её до
+   нечитаемого — из-за этого настройка размера на онлайне «не работала». В две
+   колонки лобби помещается целиком, подгонке нечего ужимать, и размер снова
+   решает игрок. Порог по ВЫСОТЕ тоже: на низком широком экране столбец не
+   влезает, а две колонки — да. */
+@media (min-width:760px){
+  .net-panel{
+    display:grid;
+    grid-template-columns:minmax(230px,1fr) minmax(300px,1.25fr);
+    gap:14px 24px;
+    max-width:760px;width:auto;align-items:start;
+  }
+  .net-foot{grid-column:1 / -1;flex-direction:row;align-items:center;
+    justify-content:space-between;gap:14px;flex-wrap:wrap}
+  .net-foot .net-status{flex:1 1 160px;min-height:0}
+  #netChat{max-height:180px}
+  #netPlayerList{max-height:180px;overflow-y:auto}
+}
+
+/* Друзья в комнате: строка «ник — позвать». */
+.net-friend{display:flex;align-items:center;gap:8px}
+.net-friend b{flex:1 1 auto;min-width:0;font-weight:normal;color:#fff;
+  font-size:calc(6px * var(--bbText, 1));letter-spacing:1px;overflow:hidden;
+  text-overflow:ellipsis;white-space:nowrap}
+.net-friend .net-btn{padding:6px 10px;font-size:calc(5px * var(--bbText, 1))}
+.net-label{font-size:calc(6px * var(--bbText, 1));color:#4af;letter-spacing:2px}
+.net-input{
+  background:#0a0a22;border:1px solid #0ff6;color:#fff;
+  font-family:'Press Start 2P',monospace;font-size:calc(7px * var(--bbText, 1));
+  padding:8px 10px;border-radius:4px;outline:none;width:100%;box-sizing:border-box;
+  text-transform:uppercase;letter-spacing:2px;
+}
+.net-input:focus{border-color:#0ff;box-shadow:0 0 8px #0ff4}
+.net-btn{
+  background:transparent;border:2px solid #0ff;color:#0ff;
+  font-family:'Press Start 2P',monospace;font-size:calc(7px * var(--bbText, 1));
+  padding:9px 14px;cursor:pointer;letter-spacing:2px;border-radius:4px;
+  text-shadow:0 0 6px #0ff;box-shadow:0 0 8px #0ff3;transition:all .15s;
+}
+.net-btn:hover{background:#0ff2;box-shadow:0 0 22px #0ff8}
+.net-btn.secondary{border-color:#4af6;color:#4af;text-shadow:none;box-shadow:none}
+.net-btn.secondary:hover{background:#4af2;border-color:#0ff;color:#fff}
+.net-btn.danger{border-color:#f446;color:#f44}
+.net-btn.danger:hover{background:#f442}
+.net-btn:disabled{opacity:.35;cursor:default}
+.net-code{
+  font-size:calc(18px * var(--bbText, 1));color:#ff0;text-shadow:0 0 14px #ff0,0 0 28px #ff08;
+  letter-spacing:6px;text-align:center;padding:10px 0;
+}
+.net-status{font-size:calc(6px * var(--bbText, 1));color:#4af9;letter-spacing:1px;min-height:14px}
+.net-error{color:#f44;text-shadow:0 0 8px #f44}
+/* Player slots */
+#netPlayerList{display:flex;flex-direction:column;gap:6px;width:100%}
+.net-player-row{
+  display:flex;align-items:center;gap:10px;
+  background:#0a0a1e;border:1px solid #0ff2;border-radius:6px;padding:7px 10px;
+}
+.net-player-avatar{width:28px;height:28px;image-rendering:pixelated;flex-shrink:0}
+.net-player-name{font-size:calc(6px * var(--bbText, 1));color:#fff;letter-spacing:1px;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.net-player-tag{font-size:calc(5px * var(--bbText, 1));padding:2px 5px;border-radius:3px;flex-shrink:0}
+.net-player-tag.host{background:#ff03;border:1px solid #ff0;color:#ff0}
+.net-player-tag.ready{background:#0f03;border:1px solid #0f0;color:#0f0}
+.net-player-tag.you{background:#0ff2;border:1px solid #0ff;color:#0ff}
+/* Colour picker */
+.net-color-ring{
+  display:flex;flex-wrap:wrap;gap:6px;justify-content:center;padding:6px 0;
+}
+.net-color-swatch{
+  width:24px;height:24px;border-radius:50%;cursor:pointer;
+  border:2px solid transparent;transition:all .12s;
+  box-shadow:0 0 0 0 transparent;
+}
+.net-color-swatch:hover{transform:scale(1.18)}
+.net-color-swatch.selected{border-color:#fff;box-shadow:0 0 10px #fff8}
+/* Public room row */
+.net-pub-room{
+  display:flex;align-items:center;gap:8px;
+  background:#0a0a1e;border:1px solid #0ff2;border-radius:6px;padding:7px 10px;cursor:pointer;
+  transition:all .12s;
+}
+.net-pub-room:hover{border-color:#f0f;background:#110a22}
+.net-pub-room-info{flex:1;display:flex;flex-direction:column;gap:3px}
+.net-pub-room-host{font-size:calc(6px * var(--bbText, 1));color:#ff0;letter-spacing:1px}
+.net-pub-room-meta{font-size:calc(5px * var(--bbText, 1));color:#4af8}
+.net-pub-room-count{font-size:calc(7px * var(--bbText, 1));color:#0f8;min-width:40px;text-align:right}
+/* Chat box */
+#netChat{
+  display:flex;flex-direction:column;gap:4px;
+  max-height:80px;min-height:28px;overflow-y:auto;width:100%;
+  background:#06061a;border:1px solid #0ff2;border-radius:6px;
+  padding:6px 8px;box-sizing:border-box;
+  scrollbar-width:thin;scrollbar-color:#0ff5 transparent;
+}
+#netChat::-webkit-scrollbar{width:5px}
+#netChat::-webkit-scrollbar-thumb{background:#0ff5;border-radius:3px}
+.net-chat-msg{font-size:calc(5px * var(--bbText, 1));color:#adf;line-height:1.6;word-break:break-word;animation:netChatIn .18s ease-out}
+@keyframes netChatIn{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+.net-chat-msg .who{color:#ff0}
+/* Ping indicator */
+#netPing{font-size:calc(5px * var(--bbText, 1));color:#4af8;letter-spacing:1px;display:flex;align-items:center;gap:4px;transition:color .3s}
+#netPing::before{content:'';width:6px;height:6px;border-radius:50%;background:currentColor;box-shadow:0 0 6px currentColor;animation:netPingPulse 1.6s ease-in-out infinite}
+@keyframes netPingPulse{0%,100%{opacity:.55}50%{opacity:1}}
+/* Lobby panel entrance */
+.net-panel{animation:netPanelIn .25s ease-out}
+@keyframes netPanelIn{from{opacity:0;transform:translateY(10px) scale(.98)}to{opacity:1;transform:none}}
+#netLobby h2{animation:netTitleIn .35s ease-out}
+@keyframes netTitleIn{from{opacity:0;transform:translateY(-8px)}to{opacity:1;transform:none}}
+/* Ready player highlight in the lobby list */
+.net-player-row{transition:border-color .2s,box-shadow .2s,background .2s}
+.net-player-row.is-ready{border-color:#0f06;box-shadow:0 0 10px #0f04;background:#0a160e}
+.net-player-avatar{transition:transform .15s}
+.net-player-row:hover .net-player-avatar{transform:scale(1.12)}
+/* Countdown number pop */
+@keyframes netCountPop{0%{transform:scale(.4);opacity:0}55%{transform:scale(1.18);opacity:1}100%{transform:scale(1);opacity:1}}
+/* Disabled start button reads clearly */
+#netStartBtn:disabled{opacity:.35;cursor:not-allowed;box-shadow:none}
+#netStartBtn:not(:disabled){animation:netStartReady 1.4s ease-in-out infinite}
+@keyframes netStartReady{0%,100%{box-shadow:0 0 8px #0ff3}50%{box-shadow:0 0 18px #0ff9}}
+
+/* ── Lobby toggle rows (room type / player limit / source) ───────────────── */
+.net-toggle-row{display:flex;gap:6px}
+.net-max-btn{font-size:calc(9px * var(--bbText, 1));padding:6px 0;letter-spacing:1px}

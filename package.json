@@ -1,0 +1,103 @@
+{
+  "name": "byte-blaster",
+  "version": "1.0.3",
+  "description": "Byte Blaster - Cyberpunk Neon Platformer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "npm run build:steam && npm run build:html && node clean-unpacked.js",
+    "build:steam": "node build-steam.js",
+    "build:html": "node build-html.js",
+    "gen:audio": "node tools/gen-audio.js",
+    "build:win": "electron-builder --win && node clean-unpacked.js",
+    "build:all": "electron-builder --win --mac --linux && node clean-unpacked.js",
+    "clean:unpacked": "node clean-unpacked.js",
+    "pack": "electron-packager . \"Byte Blaster\" --platform=win32 --arch=x64 --out=dist --overwrite --icon=icons/icon.ico",
+    "sync:www": "node sync-www.js",
+    "publish:web": "node publish-web.js"
+  },
+  "keywords": [
+    "game",
+    "platformer",
+    "cyberpunk",
+    "retro"
+  ],
+  "author": "Pixset Studio",
+  "license": "MIT",
+  "devDependencies": {
+    "@breezystack/lamejs": "^1.2.7",
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "electron": "^43.1.0",
+    "electron-builder": "^24.9.1",
+    "electron-packager": "^17.1.2",
+    "fs-extra": "^11.2.0"
+  },
+  "optionalDependencies": {
+    "greenworks": "^0.17.0"
+  },
+  "build": {
+    "appId": "com.pixsetstudio.byteblaster",
+    "productName": "Byte Blaster",
+    "directories": {
+      "output": "dist/Byte Blaster (Steam)"
+    },
+    "files": [
+      "**/*",
+      "!**/*.md",
+      "!dist",
+      "!node_modules",
+      "!_archive",
+      "!docs",
+      "!build",
+      "!_nettest",
+      "!_nettest/**/*",
+      "!android",
+      "!www",
+      "!.gradle",
+      "!Audio",
+      "!assets/audio/Music/chip"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "icons/icon.ico",
+      "sign": false,
+      "signingHashAlgorithms": [],
+      "artifactName": "ByteBlaster-Setup-${version}.${ext}"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowElevation": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": false,
+      "createStartMenuShortcut": false,
+      "shortcutName": "Byte Blaster",
+      "runAfterFinish": true,
+      "deleteAppDataOnUninstall": false,
+      "installerIcon": "icons/installer.ico",
+      "uninstallerIcon": "icons/installer.ico",
+      "installerHeaderIcon": "icons/installer.ico",
+      "artifactName": "ByteBlaster-Setup-${version}.${ext}",
+      "menuCategory": "Pixset Studio",
+      "multiLanguageInstaller": true,
+      "installerLanguages": [
+        "ru_RU",
+        "en_US"
+      ],
+      "displayLanguageSelector": true
+    }
+  },
+  "dependencies": {
+    "@capacitor/app": "^6.0.3",
+    "@capacitor/local-notifications": "^6.1.3"
+  }
+}

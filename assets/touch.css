@@ -1,0 +1,252 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   BYTE BLASTER — TOUCH CONTROLS (virtual gamepad) styles
+   Neon cyberpunk on-screen buttons. Shown only in-game on touch devices
+   (visibility is toggled by assets/touch.js via the .hidden class).
+   ══════════════════════════════════════════════════════════════════════════ */
+
+#touchPad {
+  position: fixed;
+  inset: 0;
+  z-index: 16;                 /* above canvas/HUD (10), below menu overlays (20) */
+  pointer-events: none;       /* container ignores touches; buttons opt back in  */
+  --tp-scale: 1;              /* button size multiplier (set by touch.js from settings) */
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+  touch-action: none;
+}
+#touchPad.hidden { display: none; }
+
+/* Base button — semi-transparent neon, large touch targets. */
+.tp-btn {
+  pointer-events: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Press Start 2P', monospace;
+  color: #0ff;
+  background: rgba(8, 12, 30, 0.42);
+  border: 2px solid rgba(0, 255, 255, 0.55);
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.35), inset 0 0 10px rgba(0, 255, 255, 0.18);
+  text-shadow: 0 0 8px rgba(0, 255, 255, 0.9);
+  -webkit-tap-highlight-color: transparent;
+  touch-action: none;
+  transition: transform .06s ease, background .06s ease, box-shadow .06s ease;
+  cursor: pointer;
+}
+.tp-btn:active,
+.tp-btn.is-down {
+  transform: scale(0.92);
+  background: rgba(0, 255, 255, 0.28);
+  box-shadow: 0 0 18px rgba(0, 255, 255, 0.7), inset 0 0 14px rgba(0, 255, 255, 0.4);
+}
+
+/* D-pad arrows — round, independently placeable, sized by --tp-scale.
+   Defaults: ◀ at the bottom-left, ▶ just to its right. */
+.tp-dpad {
+  position: absolute;
+  bottom: calc(14px + env(safe-area-inset-bottom, 0px));
+  width:  calc(min(20vmin, 86px) * var(--tp-scale));
+  height: calc(min(20vmin, 86px) * var(--tp-scale));
+  font-size: calc(min(7vmin, 30px) * var(--tp-scale));
+}
+.tp-arrow-l { left: calc(16px + env(safe-area-inset-left, 0px)); }
+.tp-arrow-r { left: calc(16px + env(safe-area-inset-left, 0px) + min(20vmin, 86px) * var(--tp-scale) + 16px); }
+
+/* ── Virtual joystick (alternative to the ◀ ▶ d-pad) ───────────────────────── */
+.tp-joy {
+  pointer-events: auto;
+  position: absolute;
+  left:   calc(16px + env(safe-area-inset-left, 0px));
+  bottom: calc(14px + env(safe-area-inset-bottom, 0px));
+  width:  calc(min(34vmin, 150px) * var(--tp-scale));
+  height: calc(min(34vmin, 150px) * var(--tp-scale));
+  border-radius: 50%;
+  background: rgba(8, 12, 30, 0.38);
+  border: 2px solid rgba(0, 255, 255, 0.45);
+  box-shadow: 0 0 14px rgba(0, 255, 255, 0.28), inset 0 0 18px rgba(0, 255, 255, 0.12);
+  touch-action: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.tp-joy.is-active {
+  border-color: rgba(0, 255, 255, 0.8);
+  box-shadow: 0 0 22px rgba(0, 255, 255, 0.5), inset 0 0 18px rgba(0, 255, 255, 0.2);
+}
+/* The draggable thumb, centered; JS sets translate() to follow the finger. */
+.tp-joy-thumb {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width:  46%;
+  height: 46%;
+  margin-left: -23%;
+  margin-top: -23%;
+  border-radius: 50%;
+  background: rgba(0, 255, 255, 0.28);
+  border: 2px solid rgba(0, 255, 255, 0.7);
+  box-shadow: 0 0 12px rgba(0, 255, 255, 0.5), inset 0 0 10px rgba(0, 255, 255, 0.3);
+  transition: transform .04s linear;
+  pointer-events: none;
+}
+.tp-joy.is-active .tp-joy-thumb {
+  background: rgba(0, 255, 255, 0.42);
+  box-shadow: 0 0 18px rgba(0, 255, 255, 0.8), inset 0 0 14px rgba(0, 255, 255, 0.45);
+}
+
+/* Action buttons — FIRE / JUMP, independently placed on the right. Each is its
+   own absolutely-positioned button so the layout editor can move them apart. */
+.tp-action {
+  pointer-events: auto;
+  position: absolute;
+  width:  calc(min(22vmin, 96px) * var(--tp-scale));
+  height: calc(min(22vmin, 96px) * var(--tp-scale));
+  font-size: calc(min(3.4vmin, 14px) * var(--tp-scale));
+  letter-spacing: 1px;
+  /* Translated labels (e.g. "ПРЫЖОК", "DISPARAR") can be longer than FIRE/JUMP —
+     keep them centred and inside the circle. */
+  text-align: center;
+  line-height: 1.05;
+  padding: 4px;
+  overflow: hidden;
+  word-break: break-word;
+}
+/* Default spots: JUMP at the bottom-right thumb rest, FIRE stacked just above it. */
+.tp-jump {
+  right:  calc(16px + env(safe-area-inset-right, 0px));
+  bottom: calc(14px + env(safe-area-inset-bottom, 0px));
+  color: #0f8;
+  border-color: rgba(0, 255, 136, 0.6);
+  box-shadow: 0 0 12px rgba(0, 255, 136, 0.4), inset 0 0 10px rgba(0, 255, 136, 0.2);
+  text-shadow: 0 0 8px rgba(0, 255, 136, 0.9);
+}
+.tp-jump:active,
+.tp-jump.is-down {
+  background: rgba(0, 255, 136, 0.3);
+  box-shadow: 0 0 20px rgba(0, 255, 136, 0.8), inset 0 0 14px rgba(0, 255, 136, 0.45);
+}
+.tp-fire {
+  right:  calc(16px + env(safe-area-inset-right, 0px));
+  bottom: calc(14px + env(safe-area-inset-bottom, 0px) + min(22vmin, 96px) * var(--tp-scale) + 14px);
+  color: #f4f;
+  border-color: rgba(255, 64, 255, 0.6);
+  box-shadow: 0 0 12px rgba(255, 64, 255, 0.4), inset 0 0 10px rgba(255, 64, 255, 0.2);
+  text-shadow: 0 0 8px rgba(255, 64, 255, 0.9);
+}
+.tp-fire:active,
+.tp-fire.is-down {
+  background: rgba(255, 64, 255, 0.3);
+  box-shadow: 0 0 20px rgba(255, 64, 255, 0.8), inset 0 0 14px rgba(255, 64, 255, 0.45);
+}
+@media (orientation: portrait) {
+  .tp-jump  { bottom: calc(22px + env(safe-area-inset-bottom, 0px)); }
+  .tp-fire  { bottom: calc(22px + env(safe-area-inset-bottom, 0px) + min(22vmin, 96px) * var(--tp-scale) + 14px); }
+  .tp-dpad  { bottom: calc(22px + env(safe-area-inset-bottom, 0px)); }
+  .tp-joy   { bottom: calc(22px + env(safe-area-inset-bottom, 0px)); }
+}
+
+/* Pause — small, top-right, clear of the HUD. */
+.tp-pause {
+  position: absolute;
+  top: calc(8px + env(safe-area-inset-top, 0px));
+  right: calc(12px + env(safe-area-inset-right, 0px));
+  width:  calc(44px * var(--tp-scale));
+  height: calc(44px * var(--tp-scale));
+  font-size: calc(16px * var(--tp-scale));
+  border-radius: 10px;
+  color: #4af;
+  border-color: rgba(68, 170, 255, 0.5);
+  box-shadow: 0 0 8px rgba(68, 170, 255, 0.3);
+}
+
+/* ── Layout edit mode (drag buttons to reposition) ─────────────────────────── */
+/* In edit mode the whole pad is interactive so every control is grabbable.
+   A dashed ring marks each movable unit. */
+#touchPad.tp-editing { pointer-events: auto; }
+#touchPad.tp-editing .tp-btn,
+#touchPad.tp-editing .tp-joy {
+  outline: 2px dashed rgba(0, 255, 255, 0.7);
+  outline-offset: 6px;
+  cursor: grab;
+  touch-action: none;
+}
+#touchPad.tp-editing .tp-dragging {
+  outline-color: #ff0;
+  filter: drop-shadow(0 0 12px #ff0);
+  cursor: grabbing;
+}
+/* The control currently targeted by the size stepper. */
+#touchPad.tp-editing .tp-selected {
+  outline-color: #0f8;
+  outline-style: solid;
+  filter: drop-shadow(0 0 10px #0f8);
+}
+/* Hint bar + DONE / RESET, shown above the gamepad while arranging. */
+#tpEditBar {
+  position: fixed;
+  top: calc(10px + env(safe-area-inset-top, 0px));
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 30;                 /* above the pad (16) */
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 18px;
+  background: rgba(4, 4, 18, 0.92);
+  border: 1px solid #0ff6;
+  border-radius: 8px;
+  box-shadow: 0 0 18px #0ff4;
+  font-family: 'Press Start 2P', monospace;
+  max-width: 92vw;
+}
+#tpEditHint {
+  font-size: calc(8px * var(--bbText, 1));
+  color: #0ff;
+  letter-spacing: 1px;
+  line-height: 1.6;
+  text-align: center;
+}
+#tpEditBtns { display: flex; gap: 10px; }
+/* Size stepper (− 100% +) in the edit bar. */
+#tpEditSize { display: flex; align-items: center; gap: 14px; }
+#tpSizeLbl {
+  font-family: 'Press Start 2P', monospace;
+  font-size: calc(10px * var(--bbText, 1));
+  color: #fff;
+  min-width: 52px;
+  text-align: center;
+}
+.tpSizeBtn {
+  font-family: 'Press Start 2P', monospace;
+  font-size: calc(14px * var(--bbText, 1));
+  width: 38px;
+  height: 38px;
+  border-radius: 6px;
+  cursor: pointer;
+  background: #0a0a20;
+  color: #0ff;
+  border: 2px solid #0ff;
+  line-height: 1;
+}
+#tpEditBar #tpEditBtns button {
+  font-family: 'Press Start 2P', monospace;
+  font-size: calc(9px * var(--bbText, 1));
+  padding: 9px 14px;
+  border-radius: 4px;
+  cursor: pointer;
+  background: #0a0a20;
+}
+#tpEditDone  { color: #0f8; border: 2px solid #0f8; }
+#tpEditReset { color: #f80; border: 2px solid #f80; }
+/* ◀▶ SPLIT / LINK arrows toggle in the edit bar. */
+#tpEditLink {
+  font-family: 'Press Start 2P', monospace;
+  font-size: calc(9px * var(--bbText, 1));
+  padding: 9px 14px;
+  border-radius: 4px;
+  cursor: pointer;
+  background: #0a0a20;
+  color: #4af;
+  border: 2px solid #4af;
+}

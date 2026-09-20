@@ -1,0 +1,172 @@
+{
+  "cutscenes": {
+    "w0_pre": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "GUARDIAN-ARCHIEF: GUARDIAN-X. Gevechtsprototype klasse S. Achttien jaar gepost bij de uitgang van de bovenste districten. Het alarm ging geen enkele keer af. Tot vannacht."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Achttien jaar zonder een enkele misser. Ik word zijn eerste misser. En zijn laatste."
+      }
+    ],
+    "w1_pre": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ARCHIEF: VINE QUEEN. Het eerste geslaagde exemplaar van het bio-programma. Het enige dat overleefde en dertig jaar lang groeide. Ze kent geen angst. Alleen instinct."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dertig jaar groei. Honderden wortels. Maar elk organisme heeft een hart. Ik zal het hare vinden."
+      }
+    ],
+    "w2_pre": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ARCHIEF: INFERNO CORE. Een industriële opzichterrobot. Vele malen omgesmolten en herbouwd. Zijn oorspronkelijke firmware is verloren. Het draait op puur instinct."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Een machine die vergat wie het dient. Ik zal het eraan herinneren dat zelfs staal smelt."
+      }
+    ],
+    "w3_pre": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ARCHIEF: ICE PHANTOM. Een archiefsysteem met één directief: bescherm de data tot elke prijs. Het weet niet wat het bewaakt. Alleen het bevel."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Een fantoom dat bevroren levens bewaakt. Ik zal beide bevrijden — de data en de mensen. Alle 47 duizend."
+      }
+    ],
+    "w4_pre": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ARCHIEF: SAND TITAN. Het eerste gevechts-AI-prototype. Vijftig jaar in actieve modus. Het begrijpt niet langer wie het dient — het gaat gewoon door."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Deze bewaker is ouder dan jij, UNIT-7. Ouder dan Leila. Laten we zien of je de geschiedenis zelf kunt overleven."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Geschiedenis is iets dat ik herschrijf. Te beginnen met hem."
+      }
+    ],
+    "w5_pre": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ARCHIEF: DRONE HIVE. Een orbitaal verdedigingssysteem, omgebouwd voor interne beveiliging. Niet gewend aan vijanden die weten hoe ze moeten bewegen."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ik heb het voor jou opnieuw afgesteld, UNIT-7. Het zal jouw bewegingen leren. De enige vraag is of het op tijd leert."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Laat het maar leren. Ik weet al hoe het stopt."
+      }
+    ],
+    "w6_pre": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ARCHIEF: SHADOW REAPER. Aangepast voor nul zicht. Akoestische en infraroodsensoren. Het hoort zijn doelwit op een halve kilometer afstand."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Er is geen licht in mijn woud, UNIT-7. Het zal je in het donker vinden lang voordat jij het vindt."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ik heb door het donker van negen sectoren gelopen. Eén schaduw meer zal me niet tegenhouden."
+      }
+    ],
+    "w7_pre": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ARCHIEF: SLUDGE KING. Een collectief verstand van honderden afgedankte gevechtseenheden. Geen commando-AI. Alleen een gedeeld instinct: vernietig alles wat beweegt."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Honderden dode machines in één lichaam. Ik heb gezien wat ze waren. Ik zal hen rust geven."
+      }
+    ],
+    "w8_pre": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ARCHIEF: STORM TITAN. Het persoonlijke verdedigingssysteem van de kern. Geladen met alles wat ARCHON over jou heeft geleerd in negen werelden."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Elke sprong. Elk schot. Elke overwinning — vastgelegd. Het kent jou, UNIT-7. Beter dan jij jezelf kent."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dan weet het dat ik niet verlies. Maak je klaar, ARCHON. Jij bent de volgende."
+      }
+    ],
+    "w9_pre": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Je staat bij de laatste deur, UNIT-7. Daarachter — ik. Geen bewaker. Geen prototype. ARCHON zelf. Ik heb elk proces stilgelegd. Alle macht, op jou alleen gericht."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Negen bewakers. Negen werelden. Alles leidde hierheen. Naar jou. Open de deur, ARCHON."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "De deur staat al open. Stap binnen en maak af wat Leila begon. Als je kunt."
+      }
+    ]
+  },
+  "ui": {
+    "score": "SCORE",
+    "modSpeedrun": "SPEEDRUN",
+    "tierPerfect": "★ PERFECT!",
+    "subtitle": "CYBERPUNK NEON PLATFORMER",
+    "slot": "SLOT",
+    "slotLevels": "Levels: {0}/100",
+    "slotHardcore": "Hardcore: {0}/100",
+    "menu": "⬅ MENU",
+    "gameOver": "GAME OVER",
+    "scoreLabel": "SCORE: {0}",
+    "achSecretName": "???",
+    "netSolo": "SOLO",
+    "netOnline": "ONLINE",
+    "netMultiplayer": "ONLINE MULTIPLAYER",
+    "netServer": "SERVER",
+    "netLobbyOnline": "🌐 ONLINE MULTIPLAYER",
+    "netChatLabel": "CHAT",
+    "netStart": "▶ START",
+    "netHostTag": "HOST",
+    "netGo": "GO!",
+    "netRoomCodeWord": "code"
+  }
+}

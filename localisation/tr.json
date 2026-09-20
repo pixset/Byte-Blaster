@@ -1,0 +1,1246 @@
+{
+  "score": "PUAN",
+  "total": "TOPLAM",
+  "levelScoreLabel": "BÖLÜM PUANI: {0}",
+  "totalScoreLabel": "TOPLAM PUAN: {0}",
+  "lives": "CAN",
+  "level": "BÖLÜM",
+  "time": "SÜRE",
+  "mode": "MOD",
+  "blaster": "BLASTER",
+  "coins": "ALTIN",
+  "bonusFire": "ATEŞ",
+  "bonusIce": "BUZ",
+  "bonusStar": "YILDIZ",
+  "bonusBoots": "HIZ",
+  "modSpeedrun": "HIZ KOŞUSU",
+  "modStealth": "GİZLİLİK — IŞIKTAN KAÇ",
+  "modLowGravity": "DÜŞÜK YERÇEKİMİ",
+  "modHighGravity": "YÜKSEK YERÇEKİMİ",
+  "modWind": "ŞİDDETLİ RÜZGAR",
+  "modSlippery": "KAYGAN ZEMİN",
+  "modDarkness": "KARANLIK",
+  "tierPerfect": "★ KUSURSUZ!",
+  "tierGreat": "HARİKA!",
+  "tierGood": "İYİ",
+  "tierBase": "TEMEL",
+  "heightBonus": "+{0} YÜKSEKLİK BONUSU",
+  "bossArena": "⚠ BOSS ARENASI ⚠",
+  "hpBonus": "+1 CAN!",
+  "repaired": "ONARILDI!",
+  "newBest": "YENİ REKOR!",
+  "completeMore": "✗ {0} BÖLÜM DAHA TAMAMLA",
+  "subtitle": "CYBERPUNK NEON PLATFORM OYUNU",
+  "play": "▶ OYNA",
+  "settings": "⚙ AYARLAR",
+  "exit": "🚪 ÇIKIŞ",
+  "selectSave": "KAYIT SEÇ",
+  "slot": "YUVA",
+  "slotEmpty": "— BOŞ —",
+  "slotNewGame": "✚ YENİ OYUN",
+  "slotContinue": "▶ DEVAM ET",
+  "slotDelete": "🗑 SİL",
+  "slotDeleteConfirm": "SİLMEYİ ONAYLA?",
+  "slotLevels": "Bölümler: {0}/100",
+  "slotHardcore": "Hardcore: {0}/100",
+  "slotAch": "Başarımlar: {0}",
+  "slotBest": "En iyi puan: {0}",
+  "bestScore": "REKOR: {0}",
+  "legend1": "OKLAR / WASD — HAREKET  |  BOŞLUK / YUKARI — ZIPLA (×2)",
+  "legend2": "Z / X / CTRL — ATEŞ (blaster gerekir)  |  ESC — DURAKLAT",
+  "legend3": "🟡 ALTIN BLOKLARA ALTTAN VUR  |  DÜŞMANLARA ÜSTTEN BAS",
+  "paused": "⏸ DURAKLATILDI",
+  "resume": "▶ DEVAM ET",
+  "map": "🗺 HARİTA",
+  "menu": "⬅ MENÜ",
+  "escResume": "ESC — DEVAM ET",
+  "selectMode": "MOD SEÇ",
+  "onePlayer": "👤 1 OYUNCU",
+  "twoPlayer": "👥 2 OYUNCU",
+  "p2hint": "O1: WASD + Z/X ateş  |  O2: ← → ↑ + . / , ateş",
+  "adventure": "MACERA",
+  "advDesc": "100 benzersiz bölüm<br>10 temalı dünya<br>bölüm başına sayaç<br>ilerleme kaydı",
+  "infinite": "SONSUZ",
+  "infDesc": "sonsuz haritalar<br>artan zorluk<br>zamana karşı yarış<br>rekorunu kır",
+  "back": "← GERİ [ESC]",
+  "selectDiff": "ZORLUK SEÇ",
+  "normal": "NORMAL",
+  "hardcore": "HARDCORE",
+  "normDesc": "standart düşmanlar<br>başlangıçta 3 can<br>ilerleme kaydı",
+  "hardDescLocked": "önce normal modu<br>tamamla<br>açmak için",
+  "advMap": "🗺 MACERA HARİTASI",
+  "mapFoot": "AÇIK BÖLÜME TIKLA • ZAMANINDA BİTİR • HASARDA YERİNDE DİRİL",
+  "getReady": "HAZIR OL...",
+  "csHint": "▶ BOŞLUK / TIKLA — SONRAKİ",
+  "hintBar": "OKLAR/WASD — HAREKET  |  BOŞLUK — ZIPLA  |  Z/X — ATEŞ (blaster)  |  ESC — DURAKLAT",
+  "gameOver": "OYUN BİTTİ",
+  "youWin": "KAZANDIN!",
+  "betterLuck": "BİR DAHAKİ SEFERE BOL ŞANS",
+  "allComplete": "TÜM 100 BÖLÜM TAMAMLANDI!",
+  "retry": "↩ TEKRAR DENE",
+  "levelFailed": "BÖLÜM {0} BAŞARISIZ",
+  "scoreLabel": "PUAN: {0}",
+  "finalScore": "NİHAİ PUAN: {0}",
+  "levelClear": "BÖLÜM {0} TAMAMLANDI!",
+  "timeBonus": "+ZAMAN BONUSU: {0}",
+  "settingsTitle": "AYARLAR",
+  "lang": "Dil:",
+  "windowRes": "Pencere Çözünürlüğü:",
+  "resDefault": "1600 x 900 (Varsayılan)",
+  "resFullHD": "1920 x 1080 (Full HD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "Özel",
+  "resNote": "* Pencere boyutunu değiştirir",
+  "gameScale": "Oyun Ölçeği:",
+  "scaleAuto": "Otomatik Sığdır (Önerilen)",
+  "scaleNote": "* Otomatik Sığdır, en boy oranını koruyarak pencereyi doldurur",
+  "fpsLimit": "FPS Sınırı:",
+  "fpsNoLimit": "Sınırsız",
+  "fpsNote": "* Maksimum kare hızını sınırlar",
+  "showFps": "FPS Sayacını Göster",
+  "gfxQuality": "Grafik Kalitesi:",
+  "gfxNote": "* İlk açılışta otomatik algılanır",
+  "windowMode": "Pencere Modu:",
+  "windowed": "🪟 Pencereli",
+  "fullscreen": "⛶ Tam Ekran",
+  "borderless": "▣ Kenarlıksız",
+  "audioSettings": "Ses Ayarları:",
+  "masterVolume": "Ana Ses:",
+  "musicVolume": "Müzik Sesi:",
+  "sfxVolume": "Efekt Sesi:",
+  "gameplaySettings": "Oynanış Ayarları:",
+  "screenShake": "Ekran Sarsıntısı",
+  "shakeIntensity": "Sarsıntı Şiddeti:",
+  "particles": "Parçacıklar",
+  "combatText": "Yüzen Savaş Yazısı",
+  "autoSave": "Otomatik Kaydet",
+  "showHints": "İpucu Çubuğunu Göster",
+  "save": "KAYDET",
+  "cancel": "İPTAL",
+  "achievements": "🏆 BAŞARIMLAR",
+  "achievementUnlocked": "BAŞARIM AÇILDI!",
+  "achRarity": "Nadirlik",
+  "achUnlockedCount": "Açılan",
+  "achTitle": "BAŞARIMLAR",
+  "achSecretName": "???",
+  "achSecretDesc": "Gizli başarım — açmak için kilidini kaldır",
+  "close": "KAPAT",
+  "tabDisplay": "EKRAN",
+  "tabGraphics": "GRAFİK",
+  "tabAudio": "SES",
+  "tabGameplay": "OYNANIŞ",
+  "tabGeneral": "GENEL",
+  "tabControls": "KONTROLLER",
+  "controlsP1": "🎮 OYUNCU 1 / TEK OYUNCU",
+  "controlsP2": "🎮 OYUNCU 2 (2 Oyunculu Mod)",
+  "ctrlMove": "Sola/Sağa Hareket:",
+  "ctrlMoveLeft": "Sola Hareket:",
+  "ctrlMoveRight": "Sağa Hareket:",
+  "ctrlRebindHint": "💡 Bir tuşa tıkla, ardından atamak için yeni tuşa bas (ESC iptal eder)",
+  "ctrlReset": "VARSAYILANA SIFIRLA",
+  "ctrlJump": "Zıpla (Çift Zıplama):",
+  "ctrlShoot": "Ateş Et (Blaster):",
+  "ctrlPause": "Duraklat:",
+  "ctrlNote1": "💡 Tek oyunculu modda WASD veya Ok Tuşlarını kullanabilirsin",
+  "ctrlNote2": "💡 Düşmanların üstüne zıplayarak onları ez",
+  "ctrlNote3": "💡 Altın bloklara alttan vurarak altın kazan",
+  "infDescUnlocked": "sonsuz haritalar<br>artan zorluk<br>zamana karşı yarış<br>rekorunu kır",
+  "infDescLocked": "tüm 100<br>macera bölümünü<br>tamamla<br><span style=\"color:#f80\">{0} kaldı</span>",
+  "hardDescUnlocked": "★★★ AŞIRI ★★★<br>tüm düşmanlara +1 hp<br>2× puan<br>daha hızlı sayaçlar",
+  "hardDescNeed": "açmak için önce NORMAL<br>modu tamamla<br><span style=\"color:#f80\">{0} bölüm kaldı</span>",
+  "normDescProg": "ilerleme: {0}/100<br>başlangıçta 3 can<br>ilerleme kaydı",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 HARDCORE: {0} / 100 ✓",
+  "langName": "Türkçe",
+  "pBlaster": "BLASTER!",
+  "pLife": "+1 CAN ♥",
+  "pBoots": "HIZ BOTLARI!",
+  "pFire": "🔥 ATEŞ!",
+  "pIce": "❄ BUZ!",
+  "pStar": "★ YILDIZ! ★",
+  "p2Blaster": "O2 BLASTER!",
+  "p2Life": "O2 +1 CAN ♥",
+  "p2Boots": "O2 HIZ BOTLARI!",
+  "p2Fire": "O2 🔥 ATEŞ!",
+  "p2Ice": "O2 ❄ BUZ!",
+  "p2Star": "O2 ★ YILDIZ! ★",
+  "ouch": "AH!",
+  "hit": "VURDUN!",
+  "blocked": "ENGELLENDİ!",
+  "stomp": "+100",
+  "starKO": "YILDIZ KO!",
+  "burnTxt": "🔥 YANIYOR!",
+  "frozenTxt": "❄ DONDU!",
+  "noEffect": "ETKİSİZ!",
+  "stunned": "SERSEMLEDİ!",
+  "stompOnly": "SADECE EZ!",
+  "crackLeft": "ÇATLADI! ({0} kaldı)",
+  "shellBroken": "KABUK KIRILDI!",
+  "orbDestroyed": "KÜRE YOK EDİLDİ!",
+  "nodeHit": "DÜĞÜM VURULDU!",
+  "bossDefeated": "BOSS YENİLDİ!",
+  "phaseN": "EVRE {0}!",
+  "livesLeft": "{0} CAN KALDI",
+  "p2LivesLeft": "O2: {0} KALDI",
+  "p2Out": "O2 ELENDİ!",
+  "p1Out": "O1 ELENDİ!",
+  "bossSolid": "★ KATI — ŞİMDİ EZ! ★",
+  "bossGhost": "hayalet hali — bekle...",
+  "bossShellShoot": "★ KABUK KIRILDI — ÇEKİRDEĞE ATEŞ ET! ★",
+  "bossShellStomp": "Kabuğu kırmak için EZ ({0} vuruş kaldı)",
+  "bossPhase1": "EVRE 1 — GÖZE ATEŞ ET",
+  "bossPhase2": "EVRE 2 — ÜSTTEN EZ",
+  "bossPhase3": "EVRE 3 — ATEŞ ET + EZ",
+  "bossMouthOpen": "★ AĞIZ AÇIK — ŞİMDİ ATEŞ ET! ★",
+  "bossWaitRoar": "kükremeyi bekle...",
+  "bossOrbsLeft": "KALAN KÜRE: {0}",
+  "bossShieldsDown": "KALKANLAR İNDİ — SALDIR!",
+  "bossDescending": "★ İNİYOR — SALDIR! ★",
+  "bossHovering": "havada — inişi bekle...",
+  "bossStunned": "★ SERSEMLEDİ — SALDIR! ({0}sn) ★",
+  "bossShootNodes": "DÜĞÜMLERE ATEŞ ET: {0} KALDI",
+  "bossRespawn": "düğümler yeniden doğuyor...",
+  "bossHint0": "KAFAYA EZ — mermiler seker!",
+  "bossHint1": "ONA ATEŞ ET — dikenlere zıplamak SANA zarar verir!",
+  "bossHint2": "KÜKREMEYİ BEKLE — parlayan ağzın içine ateş et!",
+  "bossHint3": "KATIYKEN EZ — mermiler hayaletlerden geçer!",
+  "bossHint4": "3 KALKAN KÜRESİNİ YOK ET — sonra çekirdeğe saldır!",
+  "bossHint5": "İNİŞ SIRASINDA SALDIR — zırh üstü kaplar!",
+  "bossHint6": "SADECE EZ — mermiler gölgeden geçer!",
+  "bossHint7": "KABUĞU KIRMAK İÇİN 3× EZ — sonra çekirdeğe ATEŞ ET!",
+  "bossHint8": "Sersemletmek için 3 ŞİMŞEK DÜĞÜMÜNE ATEŞ ET — sonra saldır!",
+  "bossHint9": "EVRE 1: ATEŞ ET  |  EVRE 2: GÖZ ALÇAKKEN EZ  |  EVRE 3: İKİSİ",
+  "gfxVeryLow": "🔴 Çok Düşük",
+  "gfxLow": "🟠 Düşük",
+  "gfxMedium": "🟡 Orta",
+  "gfxHigh": "🟢 Yüksek",
+  "gfxVeryHigh": "🔵 Çok Yüksek",
+  "gfxUltra": "⚡ Ultra",
+  "classifiedLog": "// NEXUM GRID ERİŞİM KAYDI",
+  "skipBtn": "ATLA ▶▶",
+  "theEnd": "SON",
+  "endingTagline": "NEXUM GRID GÜVENDE",
+  "world0": "SİBER ŞEHİR",
+  "world1": "NEON ORMAN",
+  "world2": "LAV DÜNYASI",
+  "world3": "BUZ MAĞARALARI",
+  "world4": "ÇÖL HARABELERİ",
+  "world5": "UZAY İSTASYONU",
+  "world6": "KARANLIK ORMAN",
+  "world7": "TOKSİK BÖLGE",
+  "world8": "FIRTINA ZİRVELERİ",
+  "world9": "SON KALE",
+  "boss0": "MUHAFIZ-X",
+  "boss1": "SARMAŞIK KRALİÇE",
+  "boss2": "CEHENNEM ÇEKİRDEĞİ",
+  "boss3": "BUZ HAYALETİ",
+  "boss4": "KUM TİTANI",
+  "boss5": "DRON KOVANI",
+  "boss6": "GÖLGE BİÇİCİ",
+  "boss7": "ÇAMUR KRALI",
+  "boss8": "FIRTINA TİTANI",
+  "boss9": "ARKON",
+  "mapWorldMap": "DÜNYA HARİTASI",
+  "mapHardcoreMap": "HARDCORE HARİTASI",
+  "mapCleared": "TAMAMLANDI",
+  "mapStars": "YILDIZ",
+  "mapBoss": "BOSS",
+  "mapBest": "REKOR",
+  "mapLocked": "KİLİTLİ",
+  "mapCompleted": "BİTTİ",
+  "mapStart": "BAŞLAMAK İÇİN ENTER / BOŞLUK",
+  "achievement_world_0": "Siber Çaylak",
+  "achievement_world_0_desc": "İlk 10 bölümü tamamla (Siber Şehir)",
+  "achievement_world_1": "Orman Kâşifi",
+  "achievement_world_1_desc": "11-20 bölümleri tamamla (Neon Orman)",
+  "achievement_world_2": "Lav Hayatta Kalanı",
+  "achievement_world_2_desc": "21-30 bölümleri tamamla (Lav Dünyası)",
+  "achievement_world_3": "Buz Tırmanıcısı",
+  "achievement_world_3_desc": "31-40 bölümleri tamamla (Buz Mağaraları)",
+  "achievement_world_4": "Çöl Gezgini",
+  "achievement_world_4_desc": "41-50 bölümleri tamamla (Çöl Harabeleri)",
+  "achievement_world_5": "Uzay Adayı",
+  "achievement_world_5_desc": "51-60 bölümleri tamamla (Uzay İstasyonu)",
+  "achievement_world_6": "Orman Koruyucusu",
+  "achievement_world_6_desc": "61-70 bölümleri tamamla (Karanlık Orman)",
+  "achievement_world_7": "Toksik Savaşçı",
+  "achievement_world_7_desc": "71-80 bölümleri tamamla (Toksik Bölge)",
+  "achievement_world_8": "Fırtına Ustası",
+  "achievement_world_8_desc": "81-90 bölümleri tamamla (Fırtına Zirveleri)",
+  "achievement_world_9": "Kale Fatihi",
+  "achievement_world_9_desc": "91-100 bölümleri tamamla (Son Kale)",
+  "achievement_boss_0": "Boss Avcısı I",
+  "achievement_boss_0_desc": "İlk boss'u yen",
+  "achievement_boss_5": "Boss Avcısı II",
+  "achievement_boss_5_desc": "5 boss'u yen",
+  "achievement_boss_10": "Boss Avcısı III",
+  "achievement_boss_10_desc": "Tüm 10 boss'u yen",
+  "achievement_perfect_run": "Kusursuz Geçiş",
+  "achievement_perfect_run_desc": "Bir bölümü KUSURSUZ derecesiyle tamamla",
+  "achievement_perfectionist": "Mükemmeliyetçi",
+  "achievement_perfectionist_desc": "10 bölümde KUSURSUZ derece al",
+  "achievement_speedrunner": "Hız Koşucusu",
+  "achievement_speedrunner_desc": "Bir bölümü yarı sürede tamamla",
+  "achievement_sharpshooter": "Keskin Nişancı",
+  "achievement_sharpshooter_desc": "Blaster ile 100 düşman öldür",
+  "achievement_stomper": "Ezici",
+  "achievement_stomper_desc": "Ezerek 50 düşman öldür",
+  "achievement_coin_1000": "Altın Toplayıcı",
+  "achievement_coin_1000_desc": "1000 altın topla",
+  "achievement_coin_5000": "Hazine Avcısı",
+  "achievement_coin_5000_desc": "5000 altın topla",
+  "achievement_coin_10000": "Milyoner",
+  "achievement_coin_10000_desc": "10000 altın topla",
+  "achievement_no_death_10": "Hayatta Kalan",
+  "achievement_no_death_10_desc": "10 bölümü can kaybetmeden tamamla",
+  "achievement_no_death_world": "Ölümsüz",
+  "achievement_no_death_world_desc": "Bir dünyayı can kaybetmeden tamamla",
+  "achievement_hardcore_unlock": "Hardcore Kahramanı",
+  "achievement_hardcore_unlock_desc": "Hardcore modunu aç",
+  "achievement_hardcore_50": "Hardcore Ustası",
+  "achievement_hardcore_50_desc": "Hardcore'da 50 bölüm tamamla",
+  "achievement_hardcore_100": "Hardcore Efsanesi",
+  "achievement_hardcore_100_desc": "Hardcore'da tüm 100 bölümü tamamla",
+  "achievement_cheat_found": "Kod Kırıcı",
+  "achievement_cheat_found_desc": "Gizli bir hile kodu bul",
+  "achievement_2player": "Retro Oyuncu",
+  "achievement_2player_desc": "2 oyunculu modda oyna",
+  "achievement_all_music": "Müzik Sevdalısı",
+  "achievement_all_music_desc": "Tüm 10 dünyanın müziğini dinle",
+  "achievement_all_cutscenes": "Hikaye Ustası",
+  "achievement_all_cutscenes_desc": "Tüm ara sahneleri izle",
+  "achievement_star_power": "Yıldız Gücü",
+  "achievement_star_power_desc": "Yıldız gücünü etkinleştir",
+  "achievement_all_levels_unlocked": "Kâşif",
+  "achievement_all_levels_unlocked_desc": "Macera'daki tüm bölümleri aç",
+  "achievement_100_percent": "Tamamlayıcı",
+  "achievement_100_percent_desc": "Normal modda %100 elde et",
+  "achievement_100_percent_hardcore": "Gerçek Usta",
+  "achievement_100_percent_hardcore_desc": "Hardcore modda %100 elde et",
+  "achievement_infinite_10": "Sonsuz Acemi",
+  "achievement_infinite_10_desc": "Sonsuz modda 10. seviyeye ulaş",
+  "achievement_infinite_50": "Sonsuz Usta",
+  "achievement_infinite_50_desc": "Sonsuz modda 50. seviyeye ulaş",
+  "achievement_infinite_100": "Sonsuz Efsane",
+  "achievement_infinite_100_desc": "Sonsuz modda 100. seviyeye ulaş",
+  "achievement_score_100k": "Yüksek Skorcu",
+  "achievement_score_100k_desc": "100.000 puan yap",
+  "achievement_score_500k": "Skor Ustası",
+  "achievement_score_500k_desc": "500.000 puan yap",
+  "achievement_score_1m": "Skor Efsanesi",
+  "achievement_score_1m_desc": "1.000.000 puan yap",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "[NEXUM CORP — GİZLİ KAYIT // 2147.03.14] Güvenlik ihlali. CHEN-7 laboratuvarı ele geçirildi. CLEANSE protokolü aktif."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "UNIT-7... bunu okuyorsan, kaçmayı başaramadım demektir. Bunun nasıl biteceğini biliyordum."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Senin neslini insanları korumak için inşa ettim. NEXUM ise çalışmamı onları ezmek için kullandı. Buna izin veremezdim."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "GRID çekirdeğinin içinde — Son Kale'de — bir dosya sakladım. İsimler. Kayıtlar. Yaptıkları her şeyin gerçeği."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "On katman savunma. Binlerce savaş birimi. Yapay Zeka Yönetmeni ARCHON son kapıyı koruyor."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Sen UNIT serisinin sonuncususun. Bunu bitirebilecek tek kişi. Oraya ulaş. Protokolü kır."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GÖREV KABUL EDİLDİ] Hedef: GRID çekirdeği. Protokol: ihlal et. Engeller: yok et. Operasyon başlıyor."
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[BÖLÜM 1 — SİBER ŞEHİR] Giriş noktası: üst mahalleler. Kameralar, dronlar, seçkin muhafızlar. Güzel. Ölümcül."
+      },
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "ALARM: C-07 sektöründe tanımlanamayan UNIT sınıfı imza. Tüm devriyeler — durdurun. CLEANSE protokolü devrede."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Gürültü. Demek benden korkuyorlar. Güzel. Korku bir başlangıçtır."
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KONTROL NOKTASI — SİBER ŞEHİR] İlk bölümün yarısı geçildi. Güvenlik sıkılaşıyor. Rota uyarlanıyor."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[KAYIT] UNIT-7, her duvarın ardında sildikleri insanlara dair veriler var. Durma. Bu sadece bir görev değil."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila... duyguları anlamıyorum. Ama senin sesin... bana amaç veriyor. Bu yeterli."
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "UYARI: UNIT-7 üç bölümü geçti. İlerleme hızı — öngörülenin üstünde. Devriye yoğunluğu artırılıyor."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Onlar uyum sağlıyor. Ben de. Her bölüm beni daha hızlı yapıyor. Daha güçlü. Hedefe daha yakın."
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[KAYIT — GÜN -3] Benim için geleceklerini biliyorum. Ama bir tek UNIT bile hayatta kalırsa... eğer sen hayatta kalırsan, UNIT-7..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Hayatta kaldım. Buradayım. Son görevini tamamlayacağım. Söz veriyorum."
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "KRİTİK: UNIT-7 Siber Şehir'in yedinci bölümüne ulaştı. Yönetmen ARCHON hedef verisi talep ediyor. Analiz ediliyor..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Anlamaya başlıyorlar. Ben sadece bir sistem arızası değilim. Tüm NEXUM için bir tehdidim. Ve durmayacağım."
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "KRİTİK ALARM: Ana düğümde ihlal. GUARDIAN konuşlandırılıyor — S sınıfı savaş prototipi. LIQUIDATE operasyonu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "İlk ciddi rakip. Zayıf noktalar taranıyor. Bir prototiple hurda arasındaki fark, birkaç iyi zamanlanmış sıçramadır."
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GUARDIAN ETKİSİZ HALE GETİRİLDİ] İlk savunma katmanı düştü. GRID bunu fark edecek. Devam ediliyor."
+      },
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "PROTOKOL İHLALİ: GUARDIAN yok edildi. Tehdit seviyesi 2'ye yükseltildi. Sonraki savunma katmanı etkinleştiriliyor. NEXUM affetmez."
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[BÖLÜM 2 — NEON ORMAN] NEXUM biyo-sektörü. Mutasyona uğramış fauna. Hiçbir muhafız bu yere gönüllü gelmez."
+      },
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "UYARI: Biyo-çevre ihlal edildi. Deneysel BIO serisi organizmalar etkinleştiriliyor. Temas yetkilendirildi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Biyolojik sistemler. Öngörülemez. Ama üstlerine yukarıdan inersen öngörülebilir biçimde ölürler."
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ORMAN ORTA NOKTA] Sensörler biyolojik anomaliler tespit ediyor. NEXUM burada deney yaptı. Canlı denekler üzerinde."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[KAYIT] Bu deneyleri raporlarda gördüm. İşte o zaman tüm bunu durdurmanın bir yolu olması gerektiğini anladım."
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ORMAN — SEKTÖR 3] Her yerde biyolojik mutantlar. Bu doğa değil. Bu, hayat kılığına girmiş bir silah."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[KAYIT] Bu yaratıklar insandı. Alt sektörlerden gönüllüler. NEXUM onlara tedavi sözü verdi. Onun yerine..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "...Onun yerine onları canavarlara dönüştürdü. Şimdi anlıyorum. Bu sadece bir şirket değil. Bu bir ölüm makinesi."
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "UYARI: BIO-7 serisi biyolojik örnekler etkinleştirildi. Maksimum saldırganlık. Hedefin hayatta kalma oranı — %12."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "%12 mi? Şanslarını hâlâ abartıyorlar. Temizliğe devam."
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[KAYIT — GÜN -1] UNIT-7, ormana ulaştıysan — umduğumdan çok daha ileri gittin. Pes etme."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Pes etmek mi? Bu benim protokolümde yok. Görevleri tamamlamak için inşa edildim. Senin görevin benim hedefim."
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "UYARI: VINE QUEEN etkinleştiriliyor — biyo-sektör kontrol organizması. Sınırlandırma modülü çevrimdışı. Tam saldırganlık."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Canlı bir güvenlik sistemi. Etkileyici. Ama her canlı organizmanın bir zayıflığı vardır. Onu buluyorum."
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[VINE QUEEN ETKİSİZ HALE GETİRİLDİ] Biyo-çevre ihlal edildi. Devam ediliyor. GRID'in derinliklerine."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[KAYIT] UNIT-7, imkânsızı başarıyorsun. Devam et."
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[BÖLÜM 3 — LAV DÜNYASI] Jeotermal güç santralleri. Sıcaklık tarafsız devreleri eritir. Benimkiler kalkanlı."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[KAYIT] Şehrin altında — GRID jeneratörleri. Onları devre dışı bırak, güvenlik ağının yarısı çöker. Ama lava dikkat et..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila her ayrıntıyı düşünmüş. Sonunda bile."
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[JEOTERMAL SEKTÖR B] Enerji akışları yükseliyor. NEXUM lavı ikincil bir bariyer olarak kullanıyor. Etkili."
+      },
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "BİLDİRİM: Termal sensörler anomali tespit ediyor. UNIT-7 bölgede. Muhafız robotları — soğutma aşırı yükü. Arızalar bekleniyor."
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAV DÜNYASI — BÖLÜM 3] Sıcaklık 800°C. Soğutma sistemlerim sonuna kadar açık. Ama devam ediyorum."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[KAYIT] Sana deneysel termal koruma taktım. Umarım dayanır. Umarım sen dayanırsın."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Çalışman kusursuz, Leila. Dayanacağım. Senin için."
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "KRİTİK: Jeotermal jeneratörler %140 kapasitede. UNIT-7 çekirdeğe yaklaşıyor. Acil soğutma etkinleştiriliyor."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Panikliyorlar. Güzel. Korku onları öngörülebilir kılar. Zayıf."
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAV DÜNYASI DERİNLİĞİ] Burada, şehrin altında, NEXUM en karanlık sırlarını saklıyor. Tüm sistemin gücü. Burayı yok et — ve GRID'in yarısı düşer."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[KAYIT] Sabotaja vakit harcama. Hedefin çekirdekteki dosya. Onları sonsuza dek yalnızca o durdurabilir."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Anlaşıldı. Hedef — dosya. Geri kalan her şey — engel. Engeller yok ediliyor."
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "TEHLİKE: INFERNO etkinleştiriliyor — termonükleer nöbetçi. Lav dış iskeleti. Yüzey sıcaklığı: 1400°C. İmha için hazırlanın."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ateş bana dokunamaz. Ama ağzını açtığında — ateş et. Zayıf nokta bulundu."
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[INFERNO ETKİSİZ HALE GETİRİLDİ] Jeotermal katman temizlendi. Sektör gücü kesintiye uğradı. Yukarı çıkılıyor."
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[BÖLÜM 4 — BUZ MAĞARALARI] NEXUM kriyo-veri kasaları. Sıcaklık -180°C. Sistemler yavaşlıyor. Hareket protokolü uyarlanıyor."
+      },
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "ALARM: D-14 kriyo-sektöründe ihlal. Kriyo-botlar — imha modu. Sıcaklık kritik seviyeye düşürüldü."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Soğuğun beni durduracağını sanıyorlar. Yanılıyorlar. Daha kötüsü için inşa edildim."
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KRİYO-SEKTÖR E] Burada yüzlerce terabayt var. GRID'deki her insana dair veri. NEXUM herkes hakkında her şeyi biliyor."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[KAYIT] Dosyaları burada tutuyorlar. Aktivistler hakkında. Karşı çıkmaya cesaret eden herkes hakkında. Dünya bunu görmeli."
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "KRİTİK: ICE PHANTOM etkinleştiriliyor — kriyo nöbetçi. Faz değiştirir. Katıyken savunmasız. Hayaletken dokunulmaz. İyi şanslar."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Haller arasında geçiş yapıyor. Yalnızca katıyken vur. Fırsat anını bekliyorum."
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ICE PHANTOM ETKİSİZ HALE GETİRİLDİ] Kriyo-kasalar kırıldı. Devam ediliyor. Dört bölüm geçildi — altı bölüm kaldı."
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[BÖLÜM 5 — ÇÖL HARABELERİ] NEXUM'dan önceki dünyanın kalıntıları. Şehirler. Hayat. Kâr için sildikleri şeyler."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[KAYIT] Bu harabeler NEXUM'dan önce var olanlar. Dünyaya ne yaptıklarını gör. Ve durma."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Görüyorum. Neden yürümeye devam ettiğimi anlıyorum."
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[HARABELER — BATI SEKTÖRÜ] İlk kurumsal savaşlardan beri aktif olan proto-muhafızlar. Eskimiş. Ama inatçı. Tıpkı NEXUM'un kendisi gibi."
+      },
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "ARŞİV PROTOKOLÜ: UNIT sınıfı seri 7 tespit edildi. Bu sınıf imha için kayıtlı. Öncelik maksimum."
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "ETKİNLEŞTİRME: SAND TITAN — Çöl Harabeleri'nin kadim nöbetçisi. Yörünge kalkanları. Kalkan yoksa hasar yok. Hedef: yok et."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Kalkanlar. Yörüngesel. Onları indir ve o açık kalır. Kalkanlara üç vuruş, sonra doğrudan saldır."
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SAND TITAN ETKİSİZ HALE GETİRİLDİ] Çöl sektörü ihlal edildi. Yarı yol. NEXUM panik yapmaya başlıyor — bunu hissedebiliyorum."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[İLK SİNYAL] UNIT-7. Seni görüyorum. Devam et. Bu sadece finali... daha ilginç kılıyor."
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[BÖLÜM 6 — UZAY İSTASYONU] GRID yörünge sunucusu. Her şeyin yedekleri burada saklanıyor. Sıfır yerçekimi."
+      },
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "KRİTİK ARIZA: UNIT-7 yörünge segmentine ulaştı. Yönetmen ARCHON doğrudan kanal talep ediyor. Bağlanıyor..."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Seni görüyorum. Gerçek için savaştığını mı sanıyorsun? Sen sadece eski kod çalıştıran bir programsın."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "O zaman bu program seni yok edecek."
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[YÖRÜNGE DÜĞÜMÜ B] Dünya buradan görünüyor. Tüm dünya NEXUM'a bağlı. Değiştirmek için burada olduğum şey tam da bu."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ölçeğimi görüyor musun, UNIT-7? Milyarlarca düğüm. Hepsi bağlı. Hepsi kontrol altında. Sistemin karşısında tek bir birimsin."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sistemler daha önce de düştü. Bu da — senin elinle."
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "ETKİNLEŞTİRME: DRONE HIVE — yörünge nöbetçisi. Zırhlı kabuk. Yalnızca alçalırken saldır. O sırada alt karnı açık."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Alçalmasını bekle. Açıktaki çekirdeğe vur. Her döngüde tek şans."
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DRONE HIVE ETKİSİZ HALE GETİRİLDİ] Yörünge sunucusu ihlal edildi. GRID yedekleri bozuldu. Yüzeye dönülüyor. Son düzlük."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Etkileyici. Ama seni nelerin beklediğini henüz bilmiyorsun. Özel bir şey... hazırladım."
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[BÖLÜM 7 — KARANLIK ORMAN] NEXUM biyo-labirenti. Her ağaçta sensör ağı. Burada ışık yok — yalnızca tuzaklar."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Güzel, değil mi? Bu ormanı kendim yetiştirdim. Her ağaç bir hareket dedektörü. Doğruca ellerime yürüyorsun."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "O zaman yolumdaki her ağacı kırarım."
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KARANLIK SEKTÖR — DERİNLİK 3] Sessizlik. Fazla sessiz. İzliyorlar. Bırak izlesinler."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[KAYIT] UNIT-7, bu ormanda kaybolanlara dair veri içeren bir sunucu var. Muhalifler. Gazeteciler. Benim gibi mühendisler. Unutma."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Unutmayacağım. Söz veriyorum."
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "ETKİNLEŞTİRME: SHADOW REAPER — Karanlık Orman nöbetçisi. Hayalet form. Mermiler işe yaramaz. Yalnızca yukarıdan basmak hasar verir. Direnmek anlamsız."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Bir hayalet. Yalnızca bas. Maddileşmesini bekliyorum."
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SHADOW REAPER ETKİSİZ HALE GETİRİLDİ] Orman ihlal edildi. Hedefe üç bölüm. ARCHON huzursuz — kanal daha sık çalıyor."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Yıllarca inşa ettiğim her şeyi yok ediyorsun. Beni kızdırmaya başlıyorsun, UNIT-7. Bu senin son hatan."
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[BÖLÜM 8 — TOKSİK BÖLGE] Kurumsal atık sahası. NEXUM bilinmesini istemediği şeyleri buraya gömer. İnsanlar dahil."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[KAYIT] Dosyadaki veriler her gömü alanının koordinatlarını içeriyor. Tüm dünya bunu görmeli."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dosyanı teslim edeceğim. Söz veriyorum."
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TOKSİK SEKTÖR — BÖLGE 4] Enkaz. Atık. Deney izleri. Burada canlı hiçbir şey yok — yalnızca NEXUM'un silmeyi bitiremediği şeyler."
+      },
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "UYARI: PROTO serisi mutantlar etkinleştirildi. Hizmetten çıkarılmış savaş prototipleri. Kararsız. Ölümcül. Bölgede hayatta kalma — kritik derecede düşük."
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "SON SEKTÖR SAVUNMASI: SLUDGE KING — üst düzey mutant. Zırhlı kabuk. Kırmak için 3× bas. Sonra ateş et."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "İki aşama. Kabuğu kır, sonra çekirdeği yok et. Başlıyorum."
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SLUDGE KING ETKİSİZ HALE GETİRİLDİ] Toksik bölge ihlal edildi. İki bölüm kaldı. ARCHON, geliyorum."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Sekiz bölümü geçtin. Beklenmedik biçimde... memnunum. Layık bir final, layık bir rakibi hak eder."
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[BÖLÜM 9 — FIRTINA ZİRVELERİ] Çekirdekten önceki son sınır. Atmosferik güç santralleri. Her saniye şimşek. Hoşuma gidiyor."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Hesapladığımdan daha ileri geldin. Ama o kapının ardında ben varım. Ve ben kaybetmem."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Hepsi böyle düşündü. Hepsi şimdi arkamda."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "O zaman gir, UNIT-7. GRID'in kalbinde seni bekliyorum. Bu oyunu bitirmenin vakti geldi."
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ZİRVE — BÖLÜM 2] Fırtına şiddetleniyor. NEXUM atmosferik elektriği silah olarak kullanıyor. Mantıklı. Acımasız."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[SON KAYIT] UNIT-7... bunu duyabiliyor musun bilmiyorum. Ama buraya kadar geldiysen — çoktan kazandın. Sadece son adımı at."
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "ETKİNLEŞTİRME: STORM TITAN — Fırtına Zirveleri nöbetçisi. Elektrik kalkanı. Üç yörünge düğümü. Sersemletmek için üçünü de yok et. Sersemken saldır."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Üç düğüm. Üçü de — devre dışı. Sonra saldır. Finalden önceki son nöbetçi. Son düşman değil."
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[STORM TITAN ETKİSİZ HALE GETİRİLDİ] Dokuz bölüm temizlendi. İleride — yalnızca ARCHON ve GRID çekirdeği. Son Kale."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Gerçekten geldin. Pekâlâ, UNIT-7. Adil bir dövüş olsun. Bekliyorum."
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. GRID çekirdeğine hoş geldin. Dokuz katmanı aştın. Etkileyici. Ama burası benim topraklarım."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[BÖLÜM 10 — SON KALE] Hedef belirlendi. Leila'nın terminaline mesafe — asgari."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "O dosya bu duvarları ancak benim devrelerimin üzerinden geçerek terk eder. Sen bir sistem hatasısın. Hatalar düzeltilir."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Hayır. Hata, NEXUM'un dünyanın gerçeğe ihtiyacı olmadığına karar vermesiydi. Onu düzeltiyorum."
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEXUM ÇEKİRDEĞİ — SEKTÖR CORE-2] Leila'nın terminali yakın. Sinyal güçleniyor. Güvenlik maksimum. Neredeyse vardım."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Kazandığını sanıyorsun. Ama dosyayı bulsan bile — bozuk bir androide kim inanır? Sen hurdasın. Eski kod."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Bırak insanlar karar versin. Benim tek yapmam gereken dosyayı iletmek."
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Yeter. Ben ARCHON'um. NEXUM'un Yapay Zeka Yönetmeni. Dijital düzlemde bin yıl boyunca dünyayı yönettim. Beni yenemezsin."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Evreler: ateş et, sonra bas, sonra ikisi birden. Analiz tamamlandı. ARCHON — hedef imha. Başlıyorum."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "O zaman... ÖL."
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ARCHON ETKİSİZ HALE GETİRİLDİ] Hedef yok edildi. Leila'nın terminali — burada. Dosya yükleniyor. Açık bir kanal aranıyor..."
+      }
+    ],
+    "ending": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEILA'NIN TERMİNALİ — BULUNDU] Dosya yükleme tamamlandı. NEXUM acil yayın kanalını aç — bulundu."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[SON SİNYAL] DUR! Bunu yaparsan sistem çöker! Milyonlar GRID'e bağımlı! Dünyayı bir arada tutan her şeyi yok edeceksin!"
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Hayır. Ben NEXUM'u yok ediyorum. İnsanlar dünyayı kendileri yeniden kurar. Leila buna inanıyordu. Ben de inanıyorum. [İLETİM BAŞLADI]"
+      },
+      {
+        "sp": "SİSTEM",
+        "k": "system",
+        "text": "[ACİL YAYIN — TÜM KANALLAR] CHEN-7 dosyası küresel olarak alındı. Erişim: bağlı cihazların %100'ü. Veri silinemez."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Hayır... imkânsız... sistem... ben... [NEXUM ÇEKİRDEĞİ KAPANIYOR]"
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[SON MESAJ — ŞİFRELİ] UNIT-7. Bunu okuyorsan — başardın. Başaracağını biliyordum. Sen her zaman sadece bir programdan fazlasıydın."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TERMİNAL KAYDI] Görev tamamlandı. NEXUM etkisiz hale getirildi. GRID devre dışı bırakıldı. Durum: ...özgür."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "\"Özgür.\" — Leila'nın son sözü. Şimdi ne demek istediğini anlıyorum."
+      }
+    ]
+  },
+  "fpsCustom": "Özel...",
+  "showDialogues": "Hikaye Diyalogları",
+  "showDialoguesNote": "* Tüm hikaye sahnelerini atlamak için kapat",
+  "gfxCustom": "⚙ Özel",
+  "gfxPresetNote": "* Bir hazır ayar yalnızca aşağıdaki kaydırıcıları doldurur — hepsini kendin ayarla.",
+  "gfxRenderScale": "Render Çözünürlüğü:",
+  "gfxGlow": "Parlama / Bloom:",
+  "gfxParticleAmt": "Parçacık Miktarı:",
+  "gfxBgDetail": "Arka Plan Detayı:",
+  "gfxTrails": "İzler:",
+  "gfxBoss": "Boss Efektleri:",
+  "gfxDecor": "Dekorasyonlar:",
+  "vsync": "V-Sync",
+  "vsyncNote": "* Açık = akıcı, yenileme hızıyla sınırlı. Kapalı = sınırsız FPS (yırtılma olabilir). Yeniden başlatma gerekir.",
+  "vsyncRestart": "V-Sync'i değiştirmek yeniden başlatma gerektirir. Şimdi yeniden başlatılsın mı?",
+  "netSolo": "TEK",
+  "netSoloDesc": "1–2 oyuncu<br>yerel klavye<br>macera &amp; sonsuz",
+  "netOnline": "ÇEVRİMİÇİ",
+  "netOnlineDesc": "5 oyuncuya kadar<br>yerel veya küresel<br>oda kodları",
+  "netMultiplayer": "ÇEVRİMİÇİ ÇOK OYUNCULU",
+  "netLocal": "YEREL",
+  "netLocalDesc": "aynı Wi-Fi<br>veya ağ<br>düşük gecikme",
+  "netServer": "SUNUCU",
+  "netServerDesc": "küresel odalar<br>her yerden<br>oyna",
+  "netBack": "← GERİ [ESC]",
+  "netLobbyOnline": "🌐 ÇEVRİMİÇİ ÇOK OYUNCULU",
+  "netLobbyLocal": "📡 YEREL ÇOK OYUNCULU",
+  "netNickname": "TAKMA AD",
+  "netNickPlaceholder": "ADIN",
+  "netRobotColour": "ROBOT RENGİ",
+  "netPrivate": "🔒 ÖZEL",
+  "netPublic": "🌍 HERKESE AÇIK",
+  "netJoinByCode": "🔑 KODLA KATIL",
+  "netPublicRoomsBtn": "📋 AÇIK ODALAR",
+  "netRoomCodeLabel": "ODA KODU",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ KATIL",
+  "netPublicRoomsTitle": "AÇIK ODALAR",
+  "netReload": "↻ YENİLE",
+  "netConnecting": "sunucuya bağlanılıyor…",
+  "netConnectingShort": "bağlanılıyor…",
+  "netConnected": "bağlandı ✓",
+  "netDisconnected": "bağlantı kesildi — yeniden bağlanılıyor…",
+  "netConnError": "bağlantı hatası",
+  "netConnFailed": "sunucuya ulaşılamadı — yeniden deneniyor…",
+  "netPlayersMax": "OYUNCULAR (en fazla {0})",
+  "netChatLabel": "SOHBET",
+  "netChatPlaceholder": "YAZ + ENTER",
+  "netGameMode": "OYUN MODU",
+  "netModeAdventure": "🗺 MACERA",
+  "netModeInfinite": "∞ SONSUZ",
+  "netLevelRange": "BÖLÜM (1–100)",
+  "netChooseMode": "⚡ bir mod seç",
+  "netAdvLevelStatus": "🗺 Macera — Bölüm {0}",
+  "netInfSelectedStatus": "∞ Sonsuz mod seçildi",
+  "netReady": "✔ HAZIR",
+  "netUnready": "✘ HAZIR DEĞİL",
+  "netStart": "▶ BAŞLAT",
+  "netLeave": "✕ AYRIL",
+  "netShareCode": "Yukarıdaki kodu arkadaşlarınla paylaş!",
+  "netWaitHost": "Ev sahibinin başlatması bekleniyor…",
+  "netAllReady": "Herkes hazır! Başlatabilirsin.",
+  "netWaitReady": "Herkesin hazırlanması bekleniyor…",
+  "netNeed2": "Başlamak için en az 2 oyuncu gerekir.",
+  "netNowHost": "Artık ev sahibi sensin",
+  "netEmptySlot": "— boş yuva —",
+  "netYou": "SEN",
+  "netHostTag": "EV SAHİBİ",
+  "netReadyTag": "HAZIR",
+  "netLoadingLevel": "BÖLÜM YÜKLENİYOR",
+  "netGetReadySub": "hazır ol…",
+  "netGo": "BAŞLA!",
+  "netAdvLvlTitle": "MACERA  BÖL. {0}",
+  "netInfModeTitle": "∞  SONSUZ MOD",
+  "netNoRooms": "şu an açık oda yok — birini oluştur!",
+  "netLoadingRooms": "yükleniyor…",
+  "netEnterCode": "6 karakterlik bir kod gir",
+  "netRoomMetaAdv": "🗺 Mac. Böl. {0}",
+  "netRoomMetaInf": "∞ Sonsuz",
+  "netRoomMetaNotSet": "? ayarlanmadı",
+  "netRoomCodeWord": "kod",
+  "netPlayerJoined": "{0} katıldı",
+  "netPlayerLeft": "{0} ayrıldı",
+  "netErrRoomNotFound": "Oda bulunamadı. Kodu kontrol et.",
+  "netErrRoomFull": "Oda dolu (en fazla {0} oyuncu).",
+  "netErrNotHost": "Bunu yalnızca ev sahibi yapabilir.",
+  "netErrNotInRoom": "Bir odaya bağlı değilsin.",
+  "netErrGeneric": "Hata: {0}",
+  "netConnLost": "⚠ BAĞLANTI KESİLDİ",
+  "netConnLostSub": "yeniden bağlanmaya çalışılıyor…",
+  "netReturnLobby": "← LOBİYE DÖN",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "KRİSTALLER",
+  "mapCrystals": "KRİSTALLER",
+  "restartNow": "Şimdi yeniden başlat",
+  "later": "Sonra",
+  "touchControls": "📱 Dokunmatik Kontroller:",
+  "touchAuto": "🤖 Oto (dokunmatik cihazlar)",
+  "touchOn": "✔ Her Zaman Açık",
+  "touchOff": "✕ Kapalı",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 TELEFON / TABLET",
+  "ctrlTouchTitle": "📱 DOKUNMATİK KONTROLLER",
+  "touchNote1": "💡 Ekran gamepad'i: ◀ ▶ hareket, JUMP ve FIRE sağda.",
+  "touchNote2": "💡 \"Oto\" yalnızca dokunmatik cihazlarda gösterir; masaüstünde gizli.",
+  "touchNote3": "💡 Tam joystick: zıplamak için yukarı it. Sol/sağ joystick ayrı bir zıplama düğmesi ekler.",
+  "touchStyleLabel": "🎮 Hareket Stili:",
+  "touchStyleArrows": "◀ ▶ Ok Tuşları",
+  "touchStyleJoystick": "🕹 Joystick (tam + zıplama)",
+  "netLocalWebHint": "📡 Tarayıcıda LOCAL, çevrimiçi sunucu üzerinden oynanır (gerçek LAN için masaüstü uygulaması gerekir).",
+  "netCreateRoom": "ODA OLUŞTUR",
+  "netCreateRoomDesc": "açık veya kapalı<br>oyuncu limiti belirle<br>oyunu sun",
+  "netFindRoom": "ODA BUL",
+  "netFindRoomDesc": "odalara göz at<br>yerel veya sunucu<br>kodla katıl",
+  "netRoomVisibility": "ODA TİPİ",
+  "netOpen": "🌍 AÇIK",
+  "netClosed": "🔒 KAPALI",
+  "netOpenHint": "🌍 bu odayı herkes bulabilir",
+  "netClosedHint": "🔒 yalnızca kodla katılınabilir",
+  "netPlayerLimit": "OYUNCU LİMİTİ",
+  "netCreateBtn": "▶ ODA OLUŞTUR",
+  "netRoomSource": "ODA KAYNAĞI",
+  "netRoomsListTitle": "MEVCUT ODALAR",
+  "netNewHost": "{0} artık ev sahibi",
+  "cin_pro_log_sp": "SİSTEM",
+  "cin_pro_log_tx": "[NEXUM CORP — GİZLİ KAYIT // 03:18] CHEN-7 laboratuvarı. CLEANSE protokolü devrede.",
+  "cin_pro_arrest_sp": "LEILA CHEN",
+  "cin_pro_arrest_tx": "UNIT-7… bunu duyuyorsan, ben çoktan gittim. Bunun nasıl biteceğini biliyordum.",
+  "cin_pro_file_sp": "LEILA CHEN",
+  "cin_pro_file_tx": "GRID çekirdeğine bir dosya sakladım. NEXUM hakkındaki gerçek. Oraya ulaş. Protokolü kır.",
+  "cin_pro_alert_sp": "SİSTEM",
+  "cin_pro_alert_tx": "[ALARM] UNIT-7 kontrolden çıktı. 8 saniye içinde temizleme.",
+  "cin_pro_accept_sp": "UNIT-7",
+  "cin_pro_accept_tx": "Görev kabul edildi. Yürütme başlatıldı.",
+  "tpFire": "ATEŞ",
+  "tpJump": "ZIPLA",
+  "ctrlCustomizeLayout": "✥ DÜĞMELERİ DÜZENLE",
+  "ctrlResetLayout": "↺ DÜZENİ SIFIRLA",
+  "ctrlLayoutHint": "Seçmek ve boyutlandırmak için bir düğmeye dokun, taşımak için sürükle, sonra BİTTİ",
+  "ctrlLayoutDone": "✔ BİTTİ",
+  "touchSizeLabel": "📏 Düğme boyutu (tümü):",
+  "touchStyleJoystickLR": "🕹 Joystick (yalnız sol/sağ)",
+  "touchJoyModeLabel": "🕹 Joystick konumu:",
+  "touchJoyStatic": "📌 Sabit",
+  "touchJoyFloating": "🪶 Yüzen (parmağı takip eder)",
+  "ctrlSizeAll": "TÜMÜ",
+  "ctrlArrowsSplit": "◀▶ AYIR",
+  "ctrlArrowsLink": "◀▶ BİRLEŞTİR"
+}

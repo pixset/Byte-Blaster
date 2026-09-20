@@ -1,0 +1,147 @@
+{
+  "w0_pre": [
+    {
+      "sp": "SYSTEM",
+      "k": "system",
+      "text": "GUARDIAN ARCHIVE: GUARDIAN-X. Class-S combat prototype. Eighteen years posted at the exit of the upper districts. The alarm never once triggered. Until tonight."
+    },
+    {
+      "sp": "UNIT-7",
+      "k": "unit7",
+      "text": "Eighteen years without a single miss. I will be its first miss. And its last."
+    }
+  ],
+  "w1_pre": [
+    {
+      "sp": "SYSTEM",
+      "k": "system",
+      "text": "ARCHIVE: VINE QUEEN. The first successful specimen of the bio-program. The only one that survived and grew for thirty years. It knows no fear. Only instinct."
+    },
+    {
+      "sp": "UNIT-7",
+      "k": "unit7",
+      "text": "Thirty years of growth. Hundreds of roots. But every organism has a heart. I will find hers."
+    }
+  ],
+  "w2_pre": [
+    {
+      "sp": "SYSTEM",
+      "k": "system",
+      "text": "ARCHIVE: INFERNO CORE. An industrial overseer robot. Melted down and rebuilt many times. Its original firmware is lost. It runs on pure instinct."
+    },
+    {
+      "sp": "UNIT-7",
+      "k": "unit7",
+      "text": "A machine that forgot who it serves. I will remind it that even steel melts."
+    }
+  ],
+  "w3_pre": [
+    {
+      "sp": "SYSTEM",
+      "k": "system",
+      "text": "ARCHIVE: ICE PHANTOM. An archival system with one directive: protect the data at any cost. It does not know what it guards. Only the order."
+    },
+    {
+      "sp": "UNIT-7",
+      "k": "unit7",
+      "text": "A phantom guarding frozen lives. I will free both the data and the people. All 47 thousand."
+    }
+  ],
+  "w4_pre": [
+    {
+      "sp": "SYSTEM",
+      "k": "system",
+      "text": "ARCHIVE: SAND TITAN. The first combat-AI prototype. Fifty years in active mode. It no longer understands who it serves — it simply continues."
+    },
+    {
+      "sp": "ARCHON",
+      "k": "archon",
+      "text": "This guardian is older than you, UNIT-7. Older than Leila. Let us see if you can outlast history itself."
+    },
+    {
+      "sp": "UNIT-7",
+      "k": "unit7",
+      "text": "History is something I rewrite. Starting with it."
+    }
+  ],
+  "w5_pre": [
+    {
+      "sp": "SYSTEM",
+      "k": "system",
+      "text": "ARCHIVE: DRONE HIVE. An orbital defence system repurposed for interior security. Unaccustomed to enemies that know how to move."
+    },
+    {
+      "sp": "ARCHON",
+      "k": "archon",
+      "text": "I retuned it for you, UNIT-7. It will learn your movements. The only question is whether it learns in time."
+    },
+    {
+      "sp": "UNIT-7",
+      "k": "unit7",
+      "text": "Let it learn. I already know how it stops."
+    }
+  ],
+  "w6_pre": [
+    {
+      "sp": "SYSTEM",
+      "k": "system",
+      "text": "ARCHIVE: SHADOW REAPER. Adapted for zero visibility. Acoustic and infrared sensors. It hears its target from half a kilometre away."
+    },
+    {
+      "sp": "ARCHON",
+      "k": "archon",
+      "text": "There is no light in my forest, UNIT-7. It will find you in the dark long before you find it."
+    },
+    {
+      "sp": "UNIT-7",
+      "k": "unit7",
+      "text": "I have walked through the dark of nine sectors. One more shadow will not stop me."
+    }
+  ],
+  "w7_pre": [
+    {
+      "sp": "SYSTEM",
+      "k": "system",
+      "text": "ARCHIVE: SLUDGE KING. A collective mind of hundreds of decommissioned combat units. No command AI. Only a shared instinct: destroy everything that moves."
+    },
+    {
+      "sp": "UNIT-7",
+      "k": "unit7",
+      "text": "Hundreds of dead machines in one body. I have seen what they were. I will give them rest."
+    }
+  ],
+  "w8_pre": [
+    {
+      "sp": "SYSTEM",
+      "k": "system",
+      "text": "ARCHIVE: STORM TITAN. The core's personal defence system. Loaded with everything ARCHON has learned about you across nine worlds."
+    },
+    {
+      "sp": "ARCHON",
+      "k": "archon",
+      "text": "Every jump. Every shot. Every victory — recorded. It knows you, UNIT-7. Better than you know yourself."
+    },
+    {
+      "sp": "UNIT-7",
+      "k": "unit7",
+      "text": "Then it knows I do not lose. Get ready, ARCHON. You are next."
+    }
+  ],
+  "w9_pre": [
+    {
+      "sp": "ARCHON",
+      "k": "archon",
+      "text": "You stand at the last door, UNIT-7. Behind it — me. No guardian. No prototype. ARCHON itself. I have halted every process. All power, on you alone."
+    },
+    {
+      "sp": "UNIT-7",
+      "k": "unit7",
+      "text": "Nine guardians. Nine worlds. All of it led here. To you. Open the door, ARCHON."
+    },
+    {
+      "sp": "ARCHON",
+      "k": "archon",
+      "text": "The door is already open. Step in and finish what Leila began. If you can."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "suspects": {
+    "resFullHD": "1920 x 1080 (Full HD)",
+    "res2K": "2560 x 1440 (2K)",
+    "vsync": "V-Sync",
+    "achSecretName": "???",
+    "mapProg": "{0} / 100 ✓",
+    "stomp": "+100"
+  },
+  "speakers": {
+    "system": "ՀԱՄԱԿԱՐԳ",
+    "leila": "ԼԵՅԼԱ ՉԵՆ",
+    "unit7": "ՅՈՒՆԻԹ-7",
+    "archon": "ԱՐԽՈՆ"
+  }
+}

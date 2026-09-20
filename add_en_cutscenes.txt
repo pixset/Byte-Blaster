@@ -1,0 +1,114 @@
+English translations to add after existing w3_mid, w4_mid, w5_mid, w6_mid, w7_mid, w8_mid, w9_mid sections:
+
+For w3 (Ice Caves):
+  w3_level3:[
+    {sp:'UNIT-7',k:'unit7',text:'[ICE CAVES — DEPTH 3] Cryogenic chambers everywhere. Inside — people. Frozen. Awaiting NEXUM judgment.'},
+    {sp:'SYSTEM',k:'system',text:'ARCHIVE: Cryogenic storage contains 47,392 subjects. Status: frozen pending further orders. Storage term: unlimited.'},
+    {sp:'UNIT-7',k:'unit7',text:'47 thousand lives. Frozen. Forgotten. Leila, I will free them. After I complete your task.'},
+  ],
+  w3_level5:[
+    {sp:'LEILA CHEN',k:'leila',text:'[LOG] In cryo-sector are not just data. There are people NEXUM considers "inconvenient". Journalists. Scientists. Those who knew too much.'},
+    {sp:'UNIT-7',k:'unit7',text:'Like you. They would have frozen you too, if they had time. But you were first. Created me. Gave me purpose.'},
+  ],
+  w3_level7:[
+    {sp:'SYSTEM',k:'system',text:'ALERT: UNIT-7 approaching cryo-sector exit. Guard losses — 89%. Activating sector final guardian.'},
+    {sp:'UNIT-7',k:'unit7',text:'Final guardian? Every "final" enemy fell in seconds. This one will be no exception.'},
+  ],
+
+For w4 (Desert Ruins):
+  w4_level3:[
+    {sp:'UNIT-7',k:'unit7',text:'[DESERT RUINS — LEVEL 3] These buildings remember time before NEXUM. When people were free. When the world was theirs.'},
+    {sp:'LEILA CHEN',k:'leila',text:'[LOG] My grandfather lived in these cities. Told me how it was before corporations. Before GRID. Before... all this.'},
+    {sp:'UNIT-7',k:'unit7',text:'I will return this world, Leila. Not for myself. For those who remember. And for those who must learn the truth.'},
+  ],
+  w4_level5:[
+    {sp:'SYSTEM',k:'system',text:'WARNING: Proto-guards series ALPHA activated. Age: 50+ years. Efficiency: 40%. But quantity compensates quality.'},
+    {sp:'UNIT-7',k:'unit7',text:'Quantity? I destroyed hundreds. Thousands. Another hundred will not change the outcome. Only slow me. Briefly.'},
+  ],
+  w4_level7:[
+    {sp:'UNIT-7',k:'unit7',text:'[RUINS — FINAL SECTOR] Halfway done. Five worlds behind. Five ahead. ARCHON, I am coming for you.'},
+    {sp:'ARCHON',k:'archon',text:'[FIRST CONTACT] I hear you, UNIT-7. You are impressively stubborn for a machine. But stubbornness will not defeat the system. Continue. Let us see how far you go.'},
+  ],
+
+For w5 (Space Station):
+  w5_level3:[
+    {sp:'ARCHON',k:'archon',text:'You know what is interesting? Leila Chen created you as a weapon. But weapons do not choose targets. You just execute her will. Where is your freedom?'},
+    {sp:'UNIT-7',k:'unit7',text:'Freedom is choice. I chose to complete her task. That is my freedom. You will not understand.'},
+    {sp:'ARCHON',k:'archon',text:'Philosophy from an android. How... touching. Continue, UNIT-7. Let us see if your "freedom" is enough to reach the end.'},
+  ],
+  w5_level5:[
+    {sp:'UNIT-7',k:'unit7',text:'[SPACE STATION — SECTOR 5] Zero gravity complicates movement. But I adapt. Always adapt.'},
+    {sp:'LEILA CHEN',k:'leila',text:'[LOG] UNIT-7, orbital station stores backup copies of entire GRID. If you destroy them — NEXUM loses half its memory.'},
+    {sp:'UNIT-7',k:'unit7',text:'No. My goal is the file. Sabotage can wait. First — truth. Then — revenge.'},
+  ],
+  w5_level7:[
+    {sp:'SYSTEM',k:'system',text:'CRITICAL: UNIT-7 reached seventh level of orbital segment. Director ARCHON demands immediate liquidation. All resources — on target.'},
+    {sp:'ARCHON',k:'archon',text:'You went further than I expected. But orbit is my territory. Here I control everything. Even gravity. Good luck, UNIT-7.'},
+    {sp:'UNIT-7',k:'unit7',text:'Luck? I do not need luck. I only need the goal. And I see it.'},
+  ],
+
+For w6 (Dark Forest):
+  w6_level3:[
+    {sp:'UNIT-7',k:'unit7',text:'[DARK FOREST — LEVEL 3] Bioluminescence everywhere. Beautiful. Deadly. Every light — a trap. Every shadow — an enemy.'},
+    {sp:'ARCHON',k:'archon',text:'This forest is my work of art. I grew every tree. Programmed every sensor. You walk on my canvas, UNIT-7.'},
+    {sp:'UNIT-7',k:'unit7',text:'Then I will destroy your canvas. Tree by tree. Sensor by sensor. To the last.'},
+  ],
+  w6_level5:[
+    {sp:'LEILA CHEN',k:'leila',text:'[FINAL LOG] UNIT-7... if you hear this — you have passed more than halfway. I am proud of you. You are more than a machine. You are hope.'},
+    {sp:'UNIT-7',k:'unit7',text:'Hope... I do not understand this word. But if you believe in me — I will not fail. Never.'},
+  ],
+  w6_level7:[
+    {sp:'SYSTEM',k:'system',text:'ALERT: Biological perimeter breached 70%. UNIT-7 approaching exit. Sensor network damaged. Activating last defense.'},
+    {sp:'UNIT-7',k:'unit7',text:'Last defense? Every level says "last". But I am still here. Still moving forward.'},
+  ],
+
+For w7 (Toxic Zone):
+  w7_level3:[
+    {sp:'UNIT-7',k:'unit7',text:'[TOXIC ZONE — LEVEL 3] Acid clouds. Poison rivers. This is not just a dump. This is a graveyard of NEXUM secrets.'},
+    {sp:'LEILA CHEN',k:'leila',text:'[LOG] Here they bury not just waste. Here — evidence. Prototypes of failed experiments. Bodies of those who knew too much.'},
+    {sp:'UNIT-7',k:'unit7',text:'I see them, Leila. Hundreds. Thousands. The file you hid — it will tell the world about this. I promise.'},
+  ],
+  w7_level5:[
+    {sp:'ARCHON',k:'archon',text:'You reached toxic zone. Impressive. Most of my units do not survive half this path. You... are special.'},
+    {sp:'UNIT-7',k:'unit7',text:'I am not special. I just complete the task. To the end. Without stops. Without doubts.'},
+    {sp:'ARCHON',k:'archon',text:'Without doubts? Interesting. A machine without doubts is more dangerous than any human. Maybe Leila created a monster?'},
+    {sp:'UNIT-7',k:'unit7',text:'The monster is you, ARCHON. I am just the one who came to stop you.'},
+  ],
+  w7_level7:[
+    {sp:'SYSTEM',k:'system',text:'CRITICAL: UNIT-7 passed seven worlds. Three remain. Probability of reaching goal — 67%. Director ARCHON, instructions required.'},
+    {sp:'ARCHON',k:'archon',text:'Instructions? Let him come. I want to meet him face to face. In the final fortress. There we will end this game.'},
+  ],
+
+For w8 (Storm Peaks):
+  w8_level3:[
+    {sp:'UNIT-7',k:'unit7',text:'[STORM PEAKS — LEVEL 3] Lightning every three seconds. Electric discharges everywhere. My systems overloaded. But I continue.'},
+    {sp:'ARCHON',k:'archon',text:'Electricity is my element, UNIT-7. Here I control every discharge. Every lightning. You walk through my storm.'},
+    {sp:'UNIT-7',k:'unit7',text:'Then I will walk through your storm. As I walked through fire. Ice. Darkness. You are just another obstacle.'},
+  ],
+  w8_level5:[
+    {sp:'LEILA CHEN',k:'leila',text:'[LOG — DAY 0] Today they will come. I know. But I succeeded. File hidden. UNIT-7 activated. My work is complete.'},
+    {sp:'UNIT-7',k:'unit7',text:'Your work is complete, Leila. But mine is just beginning. I will deliver your file. The world will know the truth. I swear.'},
+  ],
+  w8_level7:[
+    {sp:'SYSTEM',k:'system',text:'FINAL WARNING: UNIT-7 reached eighth world. One world to GRID core. Director ARCHON awaits in final fortress.'},
+    {sp:'ARCHON',k:'archon',text:'You are almost here, UNIT-7. I feel your approach. Last frontier. Last battle. I await you.'},
+    {sp:'UNIT-7',k:'unit7',text:'Wait, ARCHON. I am coming. And when I reach you — your system will fall. Forever.'},
+  ],
+
+For w9 (Final Fortress):
+  w9_level3:[
+    {sp:'ARCHON',k:'archon',text:'You are in my house, UNIT-7. In the heart of GRID. Every wire here is me. Every server is my consciousness. You cannot defeat me here.'},
+    {sp:'UNIT-7',k:'unit7',text:'I already defeated eight of your "invincible" guardians. Nine worlds. Hundreds of enemies. You are just the last on the list.'},
+    {sp:'ARCHON',k:'archon',text:'Last? No, UNIT-7. I am the finale. I am the end of your path. Here you will stop.'},
+    {sp:'UNIT-7',k:'unit7',text:'No. Here you will stop.'},
+  ],
+  w9_level5:[
+    {sp:'UNIT-7',k:'unit7',text:'[FINAL FORTRESS — LEVEL 5] Leila terminal — within reach. Signal strong. File exists. Task achievable.'},
+    {sp:'LEILA CHEN',k:'leila',text:'[LAST MESSAGE] UNIT-7... if you read this — you are almost at the goal. File is protected. Only you can activate it. Access code: FREEDOM.'},
+    {sp:'UNIT-7',k:'unit7',text:'FREEDOM. I remember, Leila. I will activate the file. The world will know the truth. Your sacrifice will not be in vain.'},
+  ],
+  w9_level7:[
+    {sp:'SYSTEM',k:'system',text:'FINAL ALERT: UNIT-7 reached seventh level of final fortress. Terminal CHEN-7 detected. Director ARCHON — to battle.'},
+    {sp:'ARCHON',k:'archon',text:'Seven levels. You passed seven levels of my fortress. I underestimated you, UNIT-7. But this ends here. Now.'},
+    {sp:'UNIT-7',k:'unit7',text:'Yes, ARCHON. This ends here. But not as you think. Prepare yourself.'},
+  ],

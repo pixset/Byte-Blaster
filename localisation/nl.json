@@ -1,0 +1,1246 @@
+{
+  "score": "SCORE",
+  "total": "TOTAAL",
+  "levelScoreLabel": "LEVELSCORE: {0}",
+  "totalScoreLabel": "TOTAALSCORE: {0}",
+  "lives": "LEVENS",
+  "level": "LEVEL",
+  "time": "TIJD",
+  "mode": "MODUS",
+  "blaster": "BLASTER",
+  "coins": "MUNTEN",
+  "bonusFire": "VUUR",
+  "bonusIce": "IJS",
+  "bonusStar": "STER",
+  "bonusBoots": "LAARZEN",
+  "modSpeedrun": "SPEEDRUN",
+  "modStealth": "STEALTH — VERMIJD LICHT",
+  "modLowGravity": "LAGE ZWAARTEKRACHT",
+  "modHighGravity": "HOGE ZWAARTEKRACHT",
+  "modWind": "STERKE WIND",
+  "modSlippery": "GLADDE VLOER",
+  "modDarkness": "DUISTERNIS",
+  "tierPerfect": "★ PERFECT!",
+  "tierGreat": "GEWELDIG!",
+  "tierGood": "GOED",
+  "tierBase": "BASIS",
+  "heightBonus": "+{0} HOOGTEBONUS",
+  "bossArena": "⚠ BAASARENA ⚠",
+  "hpBonus": "+1 LEVEN!",
+  "repaired": "GEREPAREERD!",
+  "newBest": "NIEUW RECORD!",
+  "completeMore": "✗ VOLTOOI {0} LEVELS MEER",
+  "subtitle": "CYBERPUNK NEON PLATFORMER",
+  "play": "▶ SPELEN",
+  "settings": "⚙ INSTELLINGEN",
+  "exit": "🚪 AFSLUITEN",
+  "selectSave": "KIES OPSLAG",
+  "slot": "SLOT",
+  "slotEmpty": "— LEEG —",
+  "slotNewGame": "✚ NIEUW SPEL",
+  "slotContinue": "▶ DOORGAAN",
+  "slotDelete": "🗑 VERWIJDEREN",
+  "slotDeleteConfirm": "VERWIJDEREN BEVESTIGEN?",
+  "slotLevels": "Levels: {0}/100",
+  "slotHardcore": "Hardcore: {0}/100",
+  "slotAch": "Prestaties: {0}",
+  "slotBest": "Beste score: {0}",
+  "bestScore": "BESTE: {0}",
+  "legend1": "PIJLEN / WASD — BEWEGEN  |  SPATIE / OMHOOG — SPRINGEN (×2)",
+  "legend2": "Z / X / CTRL — SCHIETEN (blaster-bonus nodig)  |  ESC — PAUZE",
+  "legend3": "🟡 RAAK GOUDEN BLOKKEN VAN ONDEREN  |  STAMP VIJANDEN VAN BOVEN",
+  "paused": "⏸ GEPAUZEERD",
+  "resume": "▶ HERVATTEN",
+  "map": "🗺 KAART",
+  "menu": "⬅ MENU",
+  "escResume": "ESC — HERVATTEN",
+  "selectMode": "KIES MODUS",
+  "onePlayer": "👤 1 SPELER",
+  "twoPlayer": "👥 2 SPELERS",
+  "p2hint": "P1: WASD + Z/X schieten  |  P2: ← → ↑ + . / , schieten",
+  "adventure": "AVONTUUR",
+  "advDesc": "100 unieke levels<br>10 thematische werelden<br>timer per level<br>voortgang opslaan",
+  "infinite": "ONEINDIG",
+  "infDesc": "eindeloze kaarten<br>moeilijkheid schaalt<br>versla de klok<br>verbeter je score",
+  "back": "← TERUG [ESC]",
+  "selectDiff": "KIES MOEILIJKHEID",
+  "normal": "NORMAAL",
+  "hardcore": "HARDCORE",
+  "normDesc": "standaardvijanden<br>3 levens om te starten<br>voortgang opslaan",
+  "hardDescLocked": "voltooi eerst<br>de normale modus<br>om te ontgrendelen",
+  "advMap": "🗺 AVONTUURKAART",
+  "mapFoot": "KLIK OP ONTGRENDELD LEVEL • VOLTOOI OP TIJD • RESPAWN TER PLEKKE BIJ TREFFER",
+  "getReady": "MAAK JE KLAAR...",
+  "csHint": "▶ SPATIE / KLIK — VOLGENDE",
+  "hintBar": "PIJLEN/WASD — BEWEGEN  |  SPATIE — SPRINGEN  |  Z/X — SCHIETEN (blaster)  |  ESC — PAUZE",
+  "gameOver": "GAME OVER",
+  "youWin": "JE WINT!",
+  "betterLuck": "VOLGENDE KEER BETER",
+  "allComplete": "ALLE 100 LEVELS VOLTOOID!",
+  "retry": "↩ OPNIEUW",
+  "levelFailed": "LEVEL {0} MISLUKT",
+  "scoreLabel": "SCORE: {0}",
+  "finalScore": "EINDSCORE: {0}",
+  "levelClear": "LEVEL {0} VOLTOOID!",
+  "timeBonus": "+TIJDBONUS: {0}",
+  "settingsTitle": "INSTELLINGEN",
+  "lang": "Taal:",
+  "windowRes": "Vensterresolutie:",
+  "resDefault": "1600 x 900 (Standaard)",
+  "resFullHD": "1920 x 1080 (Full HD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "Aangepast",
+  "resNote": "* Wijzigt venstergrootte",
+  "gameScale": "Spelschaal:",
+  "scaleAuto": "Auto-passend (Aanbevolen)",
+  "scaleNote": "* Auto-passend vult het venster met behoud van beeldverhouding",
+  "fpsLimit": "FPS-limiet:",
+  "fpsNoLimit": "Geen limiet (Onbeperkt)",
+  "fpsNote": "* Beperkt de maximale framerate",
+  "showFps": "FPS-teller weergeven",
+  "gfxQuality": "Grafische kwaliteit:",
+  "gfxNote": "* Automatisch gedetecteerd bij eerste start",
+  "windowMode": "Venstermodus:",
+  "windowed": "🪟 Venster",
+  "fullscreen": "⛶ Volledig scherm",
+  "borderless": "▣ Randloos",
+  "audioSettings": "Audio-instellingen:",
+  "masterVolume": "Hoofdvolume:",
+  "musicVolume": "Muziekvolume:",
+  "sfxVolume": "SFX-volume:",
+  "gameplaySettings": "Gameplay-instellingen:",
+  "screenShake": "Schermtrilling",
+  "shakeIntensity": "Trillingsintensiteit:",
+  "particles": "Deeltjes",
+  "combatText": "Zwevende gevechtstekst",
+  "autoSave": "Voortgang automatisch opslaan",
+  "showHints": "Hintbalk weergeven",
+  "save": "OPSLAAN",
+  "cancel": "ANNULEREN",
+  "achievements": "🏆 PRESTATIES",
+  "achievementUnlocked": "PRESTATIE ONTGRENDELD!",
+  "achRarity": "Zeldzaamheid",
+  "achUnlockedCount": "Ontgrendeld",
+  "achTitle": "PRESTATIES",
+  "achSecretName": "???",
+  "achSecretDesc": "Geheime prestatie — ontgrendel om te onthullen",
+  "close": "SLUITEN",
+  "tabDisplay": "WEERGAVE",
+  "tabGraphics": "GRAFISCH",
+  "tabAudio": "AUDIO",
+  "tabGameplay": "GAMEPLAY",
+  "tabGeneral": "ALGEMEEN",
+  "tabControls": "BESTURING",
+  "controlsP1": "🎮 SPELER 1 / SOLOSPELER",
+  "controlsP2": "🎮 SPELER 2 (2-spelermodus)",
+  "ctrlMove": "Links/rechts bewegen:",
+  "ctrlMoveLeft": "Links bewegen:",
+  "ctrlMoveRight": "Rechts bewegen:",
+  "ctrlRebindHint": "💡 Klik op een toets en druk vervolgens op de nieuwe toets om te binden (ESC annuleert)",
+  "ctrlReset": "STANDAARD HERSTELLEN",
+  "ctrlJump": "Springen (Dubbele sprong):",
+  "ctrlShoot": "Schieten (Blaster):",
+  "ctrlPause": "Pauze:",
+  "ctrlNote1": "💡 In 1-spelermodus gebruik je WASD of de pijltjestoetsen",
+  "ctrlNote2": "💡 Stamp vijanden door van boven op ze te springen",
+  "ctrlNote3": "💡 Raak gouden blokken van onderen om munten te krijgen",
+  "infDescUnlocked": "eindeloze kaarten<br>moeilijkheid schaalt<br>versla de klok<br>verbeter je score",
+  "infDescLocked": "voltooi alle 100<br>avontuurlevels<br>om te ontgrendelen<br><span style=\"color:#f80\">{0} resterend</span>",
+  "hardDescUnlocked": "★★★ EXTREEM ★★★<br>+1 hp op alle vijanden<br>2× score<br>snellere timers",
+  "hardDescNeed": "voltooi eerst de NORMALE<br>modus om te ontgrendelen<br><span style=\"color:#f80\">{0} levels resterend</span>",
+  "normDescProg": "voortgang: {0}/100<br>3 levens om te starten<br>voortgang opslaan",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 HARDCORE: {0} / 100 ✓",
+  "langName": "Nederlands",
+  "pBlaster": "BLASTER!",
+  "pLife": "+1 LEVEN ♥",
+  "pBoots": "SNELHEIDSLAARZEN!",
+  "pFire": "🔥 VUUR!",
+  "pIce": "❄ IJS!",
+  "pStar": "★ STER! ★",
+  "p2Blaster": "P2 BLASTER!",
+  "p2Life": "P2 +1 LEVEN ♥",
+  "p2Boots": "P2 SNELHEIDSLAARZEN!",
+  "p2Fire": "P2 🔥 VUUR!",
+  "p2Ice": "P2 ❄ IJS!",
+  "p2Star": "P2 ★ STER! ★",
+  "ouch": "AU!",
+  "hit": "RAAK!",
+  "blocked": "GEBLOKKEERD!",
+  "stomp": "+100",
+  "starKO": "STER-KO!",
+  "burnTxt": "🔥 BRANDEN!",
+  "frozenTxt": "❄ BEVROREN!",
+  "noEffect": "GEEN EFFECT!",
+  "stunned": "VERDOOFD!",
+  "stompOnly": "ALLEEN STAMPEN!",
+  "crackLeft": "BARST! ({0} resterend)",
+  "shellBroken": "SCHILD GEBROKEN!",
+  "orbDestroyed": "ORB VERNIETIGD!",
+  "nodeHit": "KNOOPPUNT GERAAKT!",
+  "bossDefeated": "BAAS VERSLAGEN!",
+  "phaseN": "FASE {0}!",
+  "livesLeft": "{0} LEVENS RESTEREND",
+  "p2LivesLeft": "P2: {0} RESTEREND",
+  "p2Out": "P2 UIT!",
+  "p1Out": "P1 UIT!",
+  "bossSolid": "★ MASSIEF — STAMP NU! ★",
+  "bossGhost": "spookvorm — wacht...",
+  "bossShellShoot": "★ SCHILD GEBROKEN — SCHIET OP DE KERN! ★",
+  "bossShellStomp": "STAMP om het schild te breken ({0} treffers resterend)",
+  "bossPhase1": "FASE 1 — SCHIET OP HET OOG",
+  "bossPhase2": "FASE 2 — STAMP VAN BOVEN",
+  "bossPhase3": "FASE 3 — SCHIETEN + STAMPEN",
+  "bossMouthOpen": "★ MOND OPEN — SCHIET NU! ★",
+  "bossWaitRoar": "wachten op het gebrul...",
+  "bossOrbsLeft": "ORBS RESTEREND: {0}",
+  "bossShieldsDown": "SCHILDEN UIT — AANVALLEN!",
+  "bossDescending": "★ DAALT — AANVALLEN! ★",
+  "bossHovering": "zweeft — wacht op de afdaling...",
+  "bossStunned": "★ VERDOOFD — AANVALLEN! ({0}s) ★",
+  "bossShootNodes": "SCHIET OP KNOOPPUNTEN: {0} RESTEREND",
+  "bossRespawn": "knooppunten verschijnen opnieuw...",
+  "bossHint0": "STAMP OP DE KOP — kogels ketsen af!",
+  "bossHint1": "SCHIET OP HAAR — op doornen springen doet JOU pijn!",
+  "bossHint2": "WACHT OP HET GEBRUL — schiet in de gloeiende mond!",
+  "bossHint3": "STAMP WANNEER MASSIEF — kogels gaan dwars door spoken!",
+  "bossHint4": "VERNIETIG ALLE 3 SCHILD-ORBS — val dan de kern aan!",
+  "bossHint5": "VAL AAN TIJDENS DE AFDALING — bepantsering bedekt de bovenkant!",
+  "bossHint6": "ALLEEN STAMPEN — kogels gaan dwars door schaduw!",
+  "bossHint7": "STAMP 3× OM HET SCHILD TE BREKEN — SCHIET dan op de kern!",
+  "bossHint8": "SCHIET OP ALLE 3 BLIKSEMKNOOPPUNTEN om te verdoven — val dan aan!",
+  "bossHint9": "FASE 1: SCHIETEN  |  FASE 2: STAMP WANNEER OOG LAAG IS  |  FASE 3: BEIDE",
+  "gfxVeryLow": "🔴 Zeer laag",
+  "gfxLow": "🟠 Laag",
+  "gfxMedium": "🟡 Gemiddeld",
+  "gfxHigh": "🟢 Hoog",
+  "gfxVeryHigh": "🔵 Zeer hoog",
+  "gfxUltra": "⚡ Ultra",
+  "classifiedLog": "// NEXUM GRID-TOEGANGSLOG",
+  "skipBtn": "OVERSLAAN ▶▶",
+  "theEnd": "HET EINDE",
+  "endingTagline": "NEXUM GRID BEVEILIGD",
+  "world0": "CYBERSTAD",
+  "world1": "NEONJUNGLE",
+  "world2": "LAVAWERELD",
+  "world3": "IJSGROTTEN",
+  "world4": "WOESTIJNRUÏNES",
+  "world5": "RUIMTESTATION",
+  "world6": "DONKER WOUD",
+  "world7": "TOXISCHE ZONE",
+  "world8": "STORMTOPPEN",
+  "world9": "LAATSTE FORT",
+  "boss0": "GUARDIAN-X",
+  "boss1": "RANKENKONINGIN",
+  "boss2": "INFERNOKERN",
+  "boss3": "IJSFANTOOM",
+  "boss4": "ZANDTITAAN",
+  "boss5": "DRONEZWERM",
+  "boss6": "SCHADUWMAAIER",
+  "boss7": "SLIBKONING",
+  "boss8": "STORMTITAAN",
+  "boss9": "ARCHON",
+  "mapWorldMap": "WERELDKAART",
+  "mapHardcoreMap": "HARDCORE-KAART",
+  "mapCleared": "VOLTOOID",
+  "mapStars": "STERREN",
+  "mapBoss": "BAAS",
+  "mapBest": "BESTE",
+  "mapLocked": "VERGRENDELD",
+  "mapCompleted": "AFGEROND",
+  "mapStart": "ENTER / SPATIE OM TE STARTEN",
+  "achievement_world_0": "Cyberrekruut",
+  "achievement_world_0_desc": "Voltooi de eerste 10 levels (Cyberstad)",
+  "achievement_world_1": "Jungleverkenner",
+  "achievement_world_1_desc": "Voltooi levels 11-20 (Neonjungle)",
+  "achievement_world_2": "Lavaoverlever",
+  "achievement_world_2_desc": "Voltooi levels 21-30 (Lavawereld)",
+  "achievement_world_3": "IJsklimmer",
+  "achievement_world_3_desc": "Voltooi levels 31-40 (IJsgrotten)",
+  "achievement_world_4": "Woestijnzwerver",
+  "achievement_world_4_desc": "Voltooi levels 41-50 (Woestijnruïnes)",
+  "achievement_world_5": "Ruimtekadet",
+  "achievement_world_5_desc": "Voltooi levels 51-60 (Ruimtestation)",
+  "achievement_world_6": "Woudbewaker",
+  "achievement_world_6_desc": "Voltooi levels 61-70 (Donker Woud)",
+  "achievement_world_7": "Toxische Krijger",
+  "achievement_world_7_desc": "Voltooi levels 71-80 (Toxische Zone)",
+  "achievement_world_8": "Stormmeester",
+  "achievement_world_8_desc": "Voltooi levels 81-90 (Stormtoppen)",
+  "achievement_world_9": "Fortveroveraar",
+  "achievement_world_9_desc": "Voltooi levels 91-100 (Laatste Fort)",
+  "achievement_boss_0": "Baasdoder I",
+  "achievement_boss_0_desc": "Versla de eerste baas",
+  "achievement_boss_5": "Baasdoder II",
+  "achievement_boss_5_desc": "Versla 5 bazen",
+  "achievement_boss_10": "Baasdoder III",
+  "achievement_boss_10_desc": "Versla alle 10 bazen",
+  "achievement_perfect_run": "Perfecte Ronde",
+  "achievement_perfect_run_desc": "Voltooi een level met PERFECT-beoordeling",
+  "achievement_perfectionist": "Perfectionist",
+  "achievement_perfectionist_desc": "Behaal PERFECT op 10 levels",
+  "achievement_speedrunner": "Speedrunner",
+  "achievement_speedrunner_desc": "Voltooi een level in de helft van de tijd",
+  "achievement_sharpshooter": "Scherpschutter",
+  "achievement_sharpshooter_desc": "Dood 100 vijanden met de blaster",
+  "achievement_stomper": "Stamper",
+  "achievement_stomper_desc": "Dood 50 vijanden door te stampen",
+  "achievement_coin_1000": "Muntenverzamelaar",
+  "achievement_coin_1000_desc": "Verzamel 1000 munten",
+  "achievement_coin_5000": "Schatzoeker",
+  "achievement_coin_5000_desc": "Verzamel 5000 munten",
+  "achievement_coin_10000": "Miljonair",
+  "achievement_coin_10000_desc": "Verzamel 10000 munten",
+  "achievement_no_death_10": "Overlever",
+  "achievement_no_death_10_desc": "Voltooi 10 levels zonder een leven te verliezen",
+  "achievement_no_death_world": "Onsterfelijk",
+  "achievement_no_death_world_desc": "Voltooi een wereld zonder een leven te verliezen",
+  "achievement_hardcore_unlock": "Hardcore-held",
+  "achievement_hardcore_unlock_desc": "Ontgrendel de Hardcore-modus",
+  "achievement_hardcore_50": "Hardcore-meester",
+  "achievement_hardcore_50_desc": "Voltooi 50 levels in Hardcore",
+  "achievement_hardcore_100": "Hardcore-legende",
+  "achievement_hardcore_100_desc": "Voltooi alle 100 levels in Hardcore",
+  "achievement_cheat_found": "Codekraker",
+  "achievement_cheat_found_desc": "Vind een geheime cheatcode",
+  "achievement_2player": "Retrogamer",
+  "achievement_2player_desc": "Speel in de 2-spelermodus",
+  "achievement_all_music": "Muziekliefhebber",
+  "achievement_all_music_desc": "Luister naar muziek uit alle 10 werelden",
+  "achievement_all_cutscenes": "Verhaalmeester",
+  "achievement_all_cutscenes_desc": "Bekijk alle tussenfilmpjes",
+  "achievement_star_power": "Sterkracht",
+  "achievement_star_power_desc": "Activeer sterkracht",
+  "achievement_all_levels_unlocked": "Verkenner",
+  "achievement_all_levels_unlocked_desc": "Ontgrendel alle levels in Avontuur",
+  "achievement_100_percent": "Voltooier",
+  "achievement_100_percent_desc": "Behaal 100% in de Normale modus",
+  "achievement_100_percent_hardcore": "Ware Meester",
+  "achievement_100_percent_hardcore_desc": "Behaal 100% in de Hardcore-modus",
+  "achievement_infinite_10": "Oneindig Beginner",
+  "achievement_infinite_10_desc": "Bereik level 10 in de Oneindige modus",
+  "achievement_infinite_50": "Oneindig Meester",
+  "achievement_infinite_50_desc": "Bereik level 50 in de Oneindige modus",
+  "achievement_infinite_100": "Oneindig Legende",
+  "achievement_infinite_100_desc": "Bereik level 100 in de Oneindige modus",
+  "achievement_score_100k": "Hoge Scorer",
+  "achievement_score_100k_desc": "Scoor 100.000 punten",
+  "achievement_score_500k": "Scoremeester",
+  "achievement_score_500k_desc": "Scoor 500.000 punten",
+  "achievement_score_1m": "Scorelegende",
+  "achievement_score_1m_desc": "Scoor 1.000.000 punten",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "[NEXUM CORP — VERTROUWELIJK LOG // 2147.03.14] Beveiligingsinbreuk. Lab CHEN-7 gecompromitteerd. CLEANSE-protocol actief."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "UNIT-7... als je dit leest, dan is het me niet gelukt te ontsnappen. Ik wist hoe dit zou eindigen."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Ik bouwde jouw reeks om mensen te beschermen. NEXUM gebruikte mijn werk juist om hen te onderdrukken. Dat kon ik niet laten gebeuren."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "In de kern van de GRID — in het Laatste Fort — heb ik een bestand verborgen. Namen. Dossiers. Elke waarheid over wat ze deden."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Tien lagen verdediging. Duizenden gevechtseenheden. De AI-directeur ARCHON bewaakt de laatste deur."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Jij bent de laatste van de UNIT-reeks. De enige die dit kan afmaken. Bereik het. Breek het protocol."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TAAK GEACCEPTEERD] Doel: kern van de GRID. Protocol: inbreken. Obstakels: elimineren. Operatie begint."
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 1 — CYBERSTAD] Toegangspunt: bovenste districten. Camera's, drones, elitebewakers. Prachtig. Dodelijk."
+      },
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ALARM: Ongeïdentificeerde UNIT-klasse-signatuur in sector C-07. Alle patrouilles — onderscheppen. CLEANSE-protocol ingeschakeld."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Lawaai. Dus ze vrezen me. Goed. Angst is een begin."
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[CHECKPOINT — CYBERSTAD] Halverwege het eerste level. Beveiliging wordt strakker. Route aanpassen."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] UNIT-7, achter elke muur zitten gegevens over mensen die ze hebben gewist. Stop niet. Dit is niet zomaar een missie."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila... ik begrijp emoties niet. Maar jouw stem... die geeft me een doel. Dat is genoeg."
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "WAARSCHUWING: UNIT-7 heeft drie levels gepasseerd. Voortgangssnelheid — boven de voorspelling. Patrouilledichtheid verhogen."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Zij passen zich aan. Ik ook. Elk level maakt me sneller. Sterker. Dichter bij het doel."
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG — DAG -3] Ik weet dat ze me komen halen. Maar als zelfs één UNIT overleeft... als jij overleeft, UNIT-7..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ik heb overleefd. Ik ben hier. Ik zal jouw laatste taak voltooien. Ik beloof het."
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "KRITIEK: UNIT-7 heeft het zevende level van Cyberstad bereikt. Directeur ARCHON vraagt doelgegevens op. Analyseren..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ze beginnen het te begrijpen. Ik ben niet zomaar een systeemstoring. Ik ben een bedreiging voor heel NEXUM. En ik stop niet."
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ALARM KRITIEK: Inbreuk bij het primaire knooppunt. GUARDIAN inzetten — klasse-S gevechtsprototype. Operatie LIQUIDATE."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Eerste serieuze tegenstander. Zwakke punten scannen. Het verschil tussen een prototype en schroot zijn een paar goed getimede sprongen."
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GUARDIAN GENEUTRALISEERD] Eerste verdedigingslaag uitgeschakeld. De GRID zal het merken. Verder."
+      },
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "PROTOCOLINBREUK: GUARDIAN vernietigd. Dreigingsniveau verhoogd naar 2. Volgende verdedigingslaag activeren. NEXUM vergeeft niet."
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 2 — NEONJUNGLE] Biosector van NEXUM. Gemuteerde fauna. Geen bewaker meldt zich vrijwillig voor deze plek."
+      },
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "WAARSCHUWING: Bioperimeter doorbroken. Experimentele BIO-reeks-organismen activeren. Contact toegestaan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Biologische systemen. Onvoorspelbaar. Maar voorspelbaar dood als je er van bovenaf op landt."
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[MIDDEN VAN DE JUNGLE] Sensoren detecteren biologische anomalieën. NEXUM experimenteerde hier. Op levende proefpersonen."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Ik zag deze experimenten in de rapporten. Toen wist ik dat er een manier moest zijn om dit alles te stoppen."
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[JUNGLE — SECTOR 3] Overal biologische mutanten. Dit is geen natuur. Dit is een wapen vermomd als leven."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Deze wezens waren mensen. Vrijwilligers uit de lagere sectoren. NEXUM beloofde hun behandeling. In plaats daarvan..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "...In plaats daarvan veranderde het hen in monsters. Nu begrijp ik het. Dit is niet zomaar een bedrijf. Dit is een doodsmachine."
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "WAARSCHUWING: Biologische monsters reeks BIO-7 geactiveerd. Maximale agressie. Overlevingskans doelwit — 12%."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "12%? Ze overschatten hun kansen nog steeds. Opruiming voortzetten."
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG — DAG -1] UNIT-7, als je de jungle hebt bereikt — ben je verder gekomen dan ik durfde te hopen. Geef niet op."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Opgeven? Dat staat niet in mijn protocol. Ik ben gebouwd om taken te voltooien. Jouw taak is mijn doel."
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "WAARSCHUWING: VINE QUEEN activeren — controleorganisme van de biosector. Insluitingsmodule offline. Volledige agressie."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Een levend beveiligingssysteem. Indrukwekkend. Maar elk levend organisme heeft een zwakte. Ik vind die."
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[VINE QUEEN GENEUTRALISEERD] Bioperimeter doorbroken. Verder. Dieper de GRID in."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] UNIT-7, je doet het onmogelijke. Ga door."
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 3 — LAVAWERELD] Geothermische krachtcentrales. De hitte smelt neutrale circuits. De mijne zijn afgeschermd."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Onder de stad — de generatoren van de GRID. Schakel ze uit en de helft van het beveiligingsnet stort in. Maar pas op met de lava..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila dacht aan elk detail. Zelfs aan het einde."
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GEOTHERMISCHE SECTOR B] Energiestromen stijgen. NEXUM gebruikt lava als secundaire barrière. Effectief."
+      },
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "MELDING: Thermische sensoren detecteren een anomalie. UNIT-7 in de zone. Bewakingsrobots — koelingsoverbelasting. Verwacht storingen."
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAVAWERELD — LEVEL 3] Temperatuur 800°C. Mijn koelsystemen op maximum. Maar ik ga door."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Ik installeerde experimentele thermische bescherming in je. Ik hoop dat ze het houdt. Ik hoop dat jij het houdt."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Je werk is foutloos, Leila. Ik hou het vol. Voor jou."
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "KRITIEK: Geothermische generatoren op 140% capaciteit. UNIT-7 nadert de kern. Noodkoeling activeren."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ze raken in paniek. Goed. Angst maakt ze voorspelbaar. Zwak."
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DIEPTE LAVAWERELD] Hier, onder de stad, verbergt NEXUM zijn donkerste geheimen. Energie voor het hele systeem. Vernietig dit — en de helft van de GRID valt."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Verspil geen tijd aan sabotage. Jouw doel is het bestand in de kern. Alleen dat kan hen voorgoed stoppen."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Begrepen. Doel — het bestand. Al het andere — obstakels. Obstakels elimineren."
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "GEVAAR: INFERNO activeren — thermonucleaire schildwacht. Lava-exoskelet. Oppervlaktetemperatuur: 1400°C. Bereid je voor op liquidatie."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Vuur kan me niet deren. Maar wanneer het zijn muil opent — schiet. Zwakke plek gevonden."
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[INFERNO GENEUTRALISEERD] Geothermische laag opgeruimd. Energie van de sector verstoord. Omhoog."
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 4 — IJSGROTTEN] Cryogene datakluizen van NEXUM. Temperatuur -180°C. Systemen vertragen. Bewegingsprotocol aanpassen."
+      },
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ALARM: Inbreuk in cryosector D-14. Cryobots — liquidatiemodus. Temperatuur verlaagd tot kritiek."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ze denken dat kou me zal stoppen. Ze hebben het mis. Ik ben gebouwd voor erger."
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[CRYOSECTOR E] Honderden terabytes hier. Gegevens over elke persoon op de GRID. NEXUM weet alles over iedereen."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Hier bewaren ze de dossiers. Over activisten. Over iedereen die het waagde zich te verzetten. De wereld moet dit zien."
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "KRITIEK: ICE PHANTOM activeren — cryogene schildwacht. Faseverschuiving. Kwetsbaar wanneer vast. Onaantastbaar als geest. Veel succes."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Wisselt tussen toestanden. Sla alleen toe wanneer vast. Wacht op het venster."
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ICE PHANTOM GENEUTRALISEERD] Cryokluizen gebroken. Verder. Vier levels gehad — nog zes te gaan."
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 5 — WOESTIJNRUÏNES] Restanten van de wereld vóór NEXUM. Steden. Leven. De dingen die ze wisten voor winst."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Deze ruïnes zijn wat er bestond vóór NEXUM. Zie wat ze met de wereld deden. En stop niet."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ik zie het. Ik begrijp waarom ik blijf lopen."
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[RUÏNES — SECTOR WEST] Proto-bewakers actief sinds de eerste bedrijfsoorlogen. Verouderd. Maar koppig. Net als NEXUM zelf."
+      },
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ARCHIEFPROTOCOL: UNIT-klasse reeks 7 gedetecteerd. Deze klasse is geregistreerd voor vernietiging. Prioriteit maximaal."
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ACTIVATIE: SAND TITAN — oude schildwacht van de Woestijnruïnes. Orbitale schilden. Geen schilden, geen schade. Doel: vernietigen."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Schilden. Orbitaal. Schakel ze uit en hij ligt open. Drie treffers op de schilden, dan direct aanvallen."
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SAND TITAN GENEUTRALISEERD] Woestijnsector doorbroken. Halverwege. NEXUM begint in paniek te raken — ik voel het."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[EERSTE SIGNAAL] UNIT-7. Ik zie je. Ga door. Het maakt de finale alleen maar... interessanter."
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 6 — RUIMTESTATION] Orbitale server van de GRID. Hier worden back-ups van alles bewaard. Geen zwaartekracht."
+      },
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "KRITIEKE STORING: UNIT-7 heeft het orbitale segment bereikt. Directeur ARCHON vraagt een direct kanaal aan. Verbinden..."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Ik zie je. Denk je dat je voor de waarheid vecht? Je bent slechts een programma dat verouderde code draait."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dan zal dit programma jou vernietigen."
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ORBITAAL KNOOPPUNT B] De aarde is van hieruit zichtbaar. De hele wereld bedraad aan NEXUM. Dat is precies wat ik kom veranderen."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Zie je mijn omvang, UNIT-7? Miljarden knooppunten. Allemaal verbonden. Allemaal beheerst. Jij bent één eenheid tegen het systeem."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Systemen zijn eerder gevallen. Dit systeem — aan jou."
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ACTIVATIE: DRONE HIVE — orbitale schildwacht. Gepantserde schil. Val alleen aan tijdens de afdaling. De onderkant ligt dan bloot."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Wacht tot hij daalt. Raak de blootliggende kern. Eén kans per cyclus."
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DRONE HIVE GENEUTRALISEERD] Orbitale server doorbroken. Back-ups van de GRID beschadigd. Terug naar het oppervlak. Laatste stuk."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Indrukwekkend. Maar je weet nog niet wat je te wachten staat. Ik heb iets... bijzonders voorbereid."
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 7 — DONKER WOUD] Biodoolhof van NEXUM. Een sensornet in elke boom. Hier is geen licht — alleen vallen."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Mooi, niet? Ik heb dit woud zelf gekweekt. Elke boom is een bewegingsmelder. Je loopt recht in mijn handen."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dan breek ik elke boom op mijn pad."
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DONKERE SECTOR — DIEPTE 3] Stilte. Te stil. Ze kijken toe. Laat ze maar."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] UNIT-7, in dit woud staat een server met gegevens over hen die zijn verdwenen. Dissidenten. Journalisten. Ingenieurs zoals ik. Vergeet het niet."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dat zal ik niet. Ik beloof het."
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ACTIVATIE: SHADOW REAPER — schildwacht van het Donkere Woud. Fantoomvorm. Kogels nutteloos. Alleen een stamp van bovenaf doet schade. Zinloos om je te verzetten."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Een geest. Alleen stampen. Wacht tot hij zich materialiseert."
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SHADOW REAPER GENEUTRALISEERD] Woud doorbroken. Nog drie levels tot het doel. ARCHON is rusteloos — het kanaal pingt vaker."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Je vernietigt alles wat ik in jaren heb opgebouwd. Je begint me te kwaad te maken, UNIT-7. Dat is je laatste fout."
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 8 — TOXISCHE ZONE] Bedrijfsafvalstortplaats. NEXUM begraaft hier wat het niet bekend wil hebben. Inclusief mensen."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] De gegevens in het bestand bevatten coördinaten voor elke begraafplaats. De hele wereld moet dit zien."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ik zal jouw bestand bezorgen. Ik beloof het."
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TOXISCHE SECTOR — ZONE 4] Wrakstukken. Afval. Sporen van experimenten. Niets leeft hier — alleen wat NEXUM niet klaar was met wissen."
+      },
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "WAARSCHUWING: PROTO-reeks-mutanten geactiveerd. Afgedankte gevechtsprototypes. Instabiel. Dodelijk. Overlevingskans in de zone — kritiek laag."
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "VERDEDIGING LAATSTE SECTOR: SLUDGE KING — topklasse-mutant. Gepantserde schil. Stamp 3× om te breken. Schiet daarna."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Twee fasen. Kraak de schil, vernietig dan de kern. Beginnen."
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SLUDGE KING GENEUTRALISEERD] Toxische zone doorbroken. Nog twee levels te gaan. ARCHON, ik kom eraan."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Je bent door acht levels gekomen. Ik ben... onverwacht tevreden. Een waardige finale verdient een waardige tegenstander."
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 9 — STORMTOPPEN] De laatste grens vóór de kern. Atmosferische krachtcentrales. Elke seconde bliksem. Ik vind het mooi."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Je bent verder gekomen dan ik berekende. Maar achter die deur sta ik. En ik verlies niet."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dat dacht ieder van hen. Ze liggen nu allemaal achter me."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Kom dan binnen, UNIT-7. Ik wacht in het hart van de GRID. Tijd om dit spel te beëindigen."
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TOP — LEVEL 2] De storm wakkert aan. NEXUM gebruikt atmosferische elektriciteit als wapen. Logisch. Meedogenloos."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LAATSTE LOG] UNIT-7... ik weet niet of je dit kunt horen. Maar als je zover bent gekomen — heb je al gewonnen. Zet alleen nog de laatste stap."
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "ACTIVATIE: STORM TITAN — schildwacht van de Stormtoppen. Elektrisch schild. Drie orbitale knooppunten. Vernietig alle drie om te verdoven. Val aan terwijl hij verdoofd is."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Drie knooppunten. Alle drie — uit. Dan aanvallen. De laatste schildwacht vóór de finale. Niet de laatste vijand."
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[STORM TITAN GENEUTRALISEERD] Negen levels opgeruimd. Vooruit — alleen ARCHON en de kern van de GRID. Het Laatste Fort."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Je bent echt gekomen. Goed, UNIT-7. Laat het een eerlijk gevecht zijn. Ik wacht."
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Welkom in de kern van de GRID. Je hebt negen lagen overgestoken. Indrukwekkend. Maar dit is mijn territorium."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 10 — LAATSTE FORT] Doel vergrendeld. Afstand tot Leila's terminal — minimaal."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Dat bestand verlaat deze muren over mijn circuits heen. Jij bent een systeemfout. Fouten worden gecorrigeerd."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nee. De fout was dat NEXUM besloot dat de wereld de waarheid niet nodig had. Dat corrigeer ik."
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KERN VAN NEXUM — SECTOR CORE-2] Leila's terminal dichtbij. Signaal versterkt. Beveiliging maximaal. Bijna daar."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Je denkt dat je hebt gewonnen. Maar zelfs als je het bestand vindt — wie zou een kapotte android geloven? Je bent schroot. Verouderde code."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Laat de mensen beslissen. Ik hoef alleen het bestand te verzenden."
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Genoeg. Ik ben ARCHON. AI-directeur van NEXUM. Ik bestuurde de wereld duizend jaar lang over het digitale vlak. Je kunt me niet verslaan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Fasen: schieten, dan stampen, dan beide. Analyse voltooid. ARCHON — doelwit geliquideerd. Beginnen."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Dan... STERF."
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ARCHON GENEUTRALISEERD] Doelwit vernietigd. Leila's terminal — hier. Bestand laden. Zoeken naar een open kanaal..."
+      }
+    ],
+    "ending": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEILA'S TERMINAL — GEVONDEN] Uploaden van bestand voltooid. NEXUM-noodzendkanaal openen — gelokaliseerd."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[LAATSTE SIGNAAL] STOP! Als je dit doet, stort het systeem in! Miljoenen zijn afhankelijk van de GRID! Je vernietigt alles wat de wereld bijeenhoudt!"
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nee. Ik vernietig NEXUM. Mensen bouwen de wereld zelf weer op. Leila geloofde dat. Ik ook. [UITZENDING GESTART]"
+      },
+      {
+        "sp": "SYSTEEM",
+        "k": "system",
+        "text": "[NOODUITZENDING — ALLE KANALEN] Bestand CHEN-7 wereldwijd ontvangen. Bereik: 100% van de verbonden apparaten. Gegevens kunnen niet worden verwijderd."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Nee... onmogelijk... systeem... ik... [NEXUM-KERN UITGESCHAKELD]"
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LAATSTE BERICHT — VERSLEUTELD] UNIT-7. Als je dit leest — is het je gelukt. Ik wist dat het zou lukken. Je was altijd meer dan zomaar een programma."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TERMINALLOG] Taak voltooid. NEXUM geneutraliseerd. GRID gedeactiveerd. Status: ...vrij."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "\"Vrij.\" — Leila's laatste woord. Nu begrijp ik wat ze bedoelde."
+      }
+    ]
+  },
+  "fpsCustom": "Aangepast...",
+  "showDialogues": "Verhaaldialogen",
+  "showDialoguesNote": "* Schakel uit om alle verhaalscènes over te slaan",
+  "gfxCustom": "⚙ Aangepast",
+  "gfxPresetNote": "* Een voorinstelling vult alleen de schuifregelaars hieronder — pas ze zelf aan.",
+  "gfxRenderScale": "Renderresolutie:",
+  "gfxGlow": "Gloed / Bloom:",
+  "gfxParticleAmt": "Aantal deeltjes:",
+  "gfxBgDetail": "Achtergronddetail:",
+  "gfxTrails": "Sporen:",
+  "gfxBoss": "Baas-effecten:",
+  "gfxDecor": "Decoraties:",
+  "vsync": "V-Sync",
+  "vsyncNote": "* Aan = vloeiend, beperkt tot verversingsfrequentie. Uit = onbeperkte FPS (kan scheuren). Herstart vereist.",
+  "vsyncRestart": "V-Sync wijzigen vereist een herstart. Nu herstarten?",
+  "netSolo": "SOLO",
+  "netSoloDesc": "1–2 spelers<br>lokaal toetsenbord<br>avontuur &amp; oneindig",
+  "netOnline": "ONLINE",
+  "netOnlineDesc": "tot 5 spelers<br>lokaal of globaal<br>kamercodes",
+  "netMultiplayer": "ONLINE MULTIPLAYER",
+  "netLocal": "LOKAAL",
+  "netLocalDesc": "zelfde wifi<br>of netwerk<br>lage latentie",
+  "netServer": "SERVER",
+  "netServerDesc": "globale kamers<br>speel van<br>overal",
+  "netBack": "← TERUG [ESC]",
+  "netLobbyOnline": "🌐 ONLINE MULTIPLAYER",
+  "netLobbyLocal": "📡 LOKALE MULTIPLAYER",
+  "netNickname": "BIJNAAM",
+  "netNickPlaceholder": "JOUW NAAM",
+  "netRobotColour": "ROBOTKLEUR",
+  "netPrivate": "🔒 PRIVÉ",
+  "netPublic": "🌍 OPENBAAR",
+  "netJoinByCode": "🔑 DEELNEMEN MET CODE",
+  "netPublicRoomsBtn": "📋 OPENBARE KAMERS",
+  "netRoomCodeLabel": "KAMERCODE",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ DEELNEMEN",
+  "netPublicRoomsTitle": "OPENBARE KAMERS",
+  "netReload": "↻ HERLADEN",
+  "netConnecting": "verbinden met server…",
+  "netConnectingShort": "verbinden…",
+  "netConnected": "verbonden ✓",
+  "netDisconnected": "verbroken — opnieuw verbinden…",
+  "netConnError": "verbindingsfout",
+  "netConnFailed": "server onbereikbaar — opnieuw proberen…",
+  "netPlayersMax": "SPELERS (max {0})",
+  "netChatLabel": "CHAT",
+  "netChatPlaceholder": "TYP + ENTER",
+  "netGameMode": "SPELMODUS",
+  "netModeAdventure": "🗺 AVONTUUR",
+  "netModeInfinite": "∞ ONEINDIG",
+  "netLevelRange": "LEVEL (1–100)",
+  "netChooseMode": "⚡ kies een modus",
+  "netAdvLevelStatus": "🗺 Avontuur — Level {0}",
+  "netInfSelectedStatus": "∞ Oneindige modus gekozen",
+  "netReady": "✔ KLAAR",
+  "netUnready": "✘ NIET KLAAR",
+  "netStart": "▶ START",
+  "netLeave": "✕ VERLATEN",
+  "netShareCode": "Deel de code hierboven met vrienden!",
+  "netWaitHost": "Wachten tot de host start…",
+  "netAllReady": "Iedereen klaar! Je kunt starten.",
+  "netWaitReady": "Wachten tot iedereen klaar is…",
+  "netNeed2": "Minstens 2 spelers nodig om te starten.",
+  "netNowHost": "Jij bent nu de host",
+  "netEmptySlot": "— leeg slot —",
+  "netYou": "JIJ",
+  "netHostTag": "HOST",
+  "netReadyTag": "KLAAR",
+  "netLoadingLevel": "LEVEL LADEN",
+  "netGetReadySub": "maak je klaar…",
+  "netGo": "GO!",
+  "netAdvLvlTitle": "AVONTUUR  LVL {0}",
+  "netInfModeTitle": "∞  ONEINDIGE MODUS",
+  "netNoRooms": "nu geen openbare kamers — maak er een!",
+  "netLoadingRooms": "laden…",
+  "netEnterCode": "Voer een code van 6 tekens in",
+  "netRoomMetaAdv": "🗺 Avont. Lvl {0}",
+  "netRoomMetaInf": "∞ Oneindig",
+  "netRoomMetaNotSet": "? niet ingesteld",
+  "netRoomCodeWord": "code",
+  "netPlayerJoined": "{0} is erbij gekomen",
+  "netPlayerLeft": "{0} is vertrokken",
+  "netErrRoomNotFound": "Kamer niet gevonden. Controleer de code.",
+  "netErrRoomFull": "Kamer is vol (max {0} spelers).",
+  "netErrNotHost": "Alleen de host kan dat doen.",
+  "netErrNotInRoom": "Niet verbonden met een kamer.",
+  "netErrGeneric": "Fout: {0}",
+  "netConnLost": "⚠ VERBINDING VERBROKEN",
+  "netConnLostSub": "opnieuw verbinden…",
+  "netReturnLobby": "← TERUG NAAR LOBBY",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "KRISTALLEN",
+  "mapCrystals": "KRISTALLEN",
+  "restartNow": "Nu herstarten",
+  "later": "Later",
+  "touchControls": "📱 Aanraakbesturing:",
+  "touchAuto": "🤖 Auto (aanraakapparaten)",
+  "touchOn": "✔ Altijd aan",
+  "touchOff": "✕ Uit",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 TELEFOON / TABLET",
+  "ctrlTouchTitle": "📱 AANRAAKBESTURING",
+  "touchNote1": "💡 Schermgamepad: ◀ ▶ bewegen, JUMP & FIRE rechts.",
+  "touchNote2": "💡 „Auto“ toont het alleen op aanraakapparaten; verborgen op pc.",
+  "touchNote3": "💡 Volledige joystick: duw omhoog om te springen. De links/rechts-joystick voegt een springknop toe.",
+  "touchStyleLabel": "🎮 Besturingsstijl:",
+  "touchStyleArrows": "◀ ▶ Pijlknoppen",
+  "touchStyleJoystick": "🕹 Joystick (volledig + sprong)",
+  "netLocalWebHint": "📡 In de browser loopt LOKAAL via de onlineserver (echt LAN vereist de desktop-app).",
+  "netCreateRoom": "KAMER MAKEN",
+  "netCreateRoomDesc": "open of gesloten<br>spelerslimiet<br>spel hosten",
+  "netFindRoom": "KAMER ZOEKEN",
+  "netFindRoomDesc": "kamers doorbladeren<br>lokaal of server<br>met code deelnemen",
+  "netRoomVisibility": "KAMERTYPE",
+  "netOpen": "🌍 OPEN",
+  "netClosed": "🔒 GESLOTEN",
+  "netOpenHint": "🌍 iedereen kan deze kamer vinden",
+  "netClosedHint": "🔒 alleen met code te betreden",
+  "netPlayerLimit": "SPELERSLIMIET",
+  "netCreateBtn": "▶ KAMER MAKEN",
+  "netRoomSource": "KAMERBRON",
+  "netRoomsListTitle": "BESCHIKBARE KAMERS",
+  "netNewHost": "{0} is nu de host",
+  "cin_pro_log_sp": "SYSTEEM",
+  "cin_pro_log_tx": "[NEXUM CORP — VERTROUWELIJK LOG // 03:18] Lab CHEN-7. PURGE-protocol geactiveerd.",
+  "cin_pro_arrest_sp": "LEILA CHEN",
+  "cin_pro_arrest_tx": "UNIT-7… als je dit hoort, ben ik er al niet meer. Ik wist hoe dit zou eindigen.",
+  "cin_pro_file_sp": "LEILA CHEN",
+  "cin_pro_file_tx": "Ik heb een bestand verborgen in de GRID-kern. De waarheid over NEXUM. Bereik het. Breek het protocol.",
+  "cin_pro_alert_sp": "SYSTEEM",
+  "cin_pro_alert_tx": "[ALARM] UNIT-7 is buiten controle. Purge over 8 seconden.",
+  "cin_pro_accept_sp": "UNIT-7",
+  "cin_pro_accept_tx": "Taak geaccepteerd. Uitvoering gestart.",
+  "tpFire": "VUUR",
+  "tpJump": "SPRONG",
+  "ctrlCustomizeLayout": "✥ KNOPPEN PLAATSEN",
+  "ctrlResetLayout": "↺ INDELING HERSTELLEN",
+  "ctrlLayoutHint": "Tik op een knop om te selecteren en schalen, sleep om te verplaatsen, dan KLAAR",
+  "ctrlLayoutDone": "✔ KLAAR",
+  "touchSizeLabel": "📏 Knopgrootte (alle):",
+  "touchStyleJoystickLR": "🕹 Joystick (alleen links/rechts)",
+  "touchJoyModeLabel": "🕹 Joystickpositie:",
+  "touchJoyStatic": "📌 Vast",
+  "touchJoyFloating": "🪶 Zwevend (volgt vinger)",
+  "ctrlSizeAll": "ALLE",
+  "ctrlArrowsSplit": "◀▶ SPLITSEN",
+  "ctrlArrowsLink": "◀▶ KOPPELEN"
+}

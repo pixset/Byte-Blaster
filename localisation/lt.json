@@ -1,0 +1,1246 @@
+{
+  "score": "TAŠKAI",
+  "total": "VISO",
+  "levelScoreLabel": "LYGIO TAŠKAI: {0}",
+  "totalScoreLabel": "VISO TAŠKŲ: {0}",
+  "lives": "GYVYBĖS",
+  "level": "LYGIS",
+  "time": "LAIKAS",
+  "mode": "REŽIMAS",
+  "blaster": "BLASTERIS",
+  "coins": "MONETOS",
+  "bonusFire": "UGNIS",
+  "bonusIce": "LEDAS",
+  "bonusStar": "ŽVAIGŽDĖ",
+  "bonusBoots": "GREITIS",
+  "modSpeedrun": "GREITAS LYGIS",
+  "modStealth": "SLAPTUMAS — VENK ŠVIESOS",
+  "modLowGravity": "ŽEMA GRAVITACIJA",
+  "modHighGravity": "AUKŠTA GRAVITACIJA",
+  "modWind": "STIPRUS VĖJAS",
+  "modSlippery": "SLIDŽIOS GRINDYS",
+  "modDarkness": "TAMSA",
+  "tierPerfect": "★ PUIKU!",
+  "tierGreat": "ŠAUNU!",
+  "tierGood": "GERAI",
+  "tierBase": "BAZĖ",
+  "heightBonus": "+{0} AUKŠČIO PREMIJA",
+  "bossArena": "⚠ BOSO ARENA ⚠",
+  "hpBonus": "+1 GYVYBĖ!",
+  "repaired": "SUTAISYTA!",
+  "newBest": "NAUJAS REKORDAS!",
+  "completeMore": "✗ ĮVEIK DAR {0} LYGIUS",
+  "subtitle": "KIBERPANK NEONO PLATFORMERIS",
+  "play": "▶ ŽAISTI",
+  "settings": "⚙ NUSTATYMAI",
+  "exit": "🚪 IŠEITI",
+  "selectSave": "PASIRINK ĮRAŠĄ",
+  "slot": "LIZDAS",
+  "slotEmpty": "— TUŠČIA —",
+  "slotNewGame": "✚ NAUJAS ŽAIDIMAS",
+  "slotContinue": "▶ TĘSTI",
+  "slotDelete": "🗑 IŠTRINTI",
+  "slotDeleteConfirm": "PATVIRTINTI TRYNIMĄ?",
+  "slotLevels": "Lygiai: {0}/100",
+  "slotHardcore": "Hardkoras: {0}/100",
+  "slotAch": "Pasiekimai: {0}",
+  "slotBest": "Geriausias rezultatas: {0}",
+  "bestScore": "REKORDAS: {0}",
+  "legend1": "RODYKLĖS / WASD — JUDĖTI  |  TARPAS / AUKŠTYN — ŠOKTI (×2)",
+  "legend2": "Z / X / CTRL — ŠAUTI (reikia blasterio)  |  ESC — PAUZĖ",
+  "legend3": "🟡 MUŠK AUKSINIUS BLOKUS IŠ APAČIOS  |  TRYPK PRIEŠUS IŠ VIRŠAUS",
+  "paused": "⏸ PAUZĖ",
+  "resume": "▶ TĘSTI",
+  "map": "🗺 ŽEMĖLAPIS",
+  "menu": "⬅ MENIU",
+  "escResume": "ESC — TĘSTI",
+  "selectMode": "PASIRINK REŽIMĄ",
+  "onePlayer": "👤 1 ŽAIDĖJAS",
+  "twoPlayer": "👥 2 ŽAIDĖJAI",
+  "p2hint": "Ž1: WASD + Z/X šaudo  |  Ž2: ← → ↑ + . / , šaudo",
+  "adventure": "NUOTYKIS",
+  "advDesc": "100 unikalių lygių<br>10 teminių pasaulių<br>laikmatis kiekvienam lygiui<br>pažangos išsaugojimas",
+  "infinite": "BEGALINIS",
+  "infDesc": "begaliniai žemėlapiai<br>didėjantis sudėtingumas<br>suspėk laiku<br>pagerink rezultatą",
+  "back": "← ATGAL [ESC]",
+  "selectDiff": "PASIRINK SUDĖTINGUMĄ",
+  "normal": "ĮPRASTAS",
+  "hardcore": "HARDKORAS",
+  "normDesc": "įprasti priešai<br>3 gyvybės pradžioje<br>pažangos išsaugojimas",
+  "hardDescLocked": "pirma įveik<br>įprastą režimą<br>kad atrakintum",
+  "advMap": "🗺 NUOTYKIO ŽEMĖLAPIS",
+  "mapFoot": "SPUSK ATRAKINTĄ LYGĮ • ĮVEIK LAIKU • ATGIMSTAMA VIETOJE PO SMŪGIO",
+  "getReady": "PASIRUOŠK...",
+  "csHint": "▶ TARPAS / SPUSTELĖK — TOLIAU",
+  "hintBar": "RODYKLĖS/WASD — JUDĖTI  |  TARPAS — ŠOKTI  |  Z/X — ŠAUTI (blasteris)  |  ESC — PAUZĖ",
+  "gameOver": "ŽAIDIMAS BAIGTAS",
+  "youWin": "LAIMĖJAI!",
+  "betterLuck": "SĖKMĖS KITĄ KARTĄ",
+  "allComplete": "VISI 100 LYGIŲ ĮVEIKTI!",
+  "retry": "↩ IŠ NAUJO",
+  "levelFailed": "LYGIS {0} NEPAVYKO",
+  "scoreLabel": "TAŠKAI: {0}",
+  "finalScore": "GALUTINIS REZULTATAS: {0}",
+  "levelClear": "LYGIS {0} ĮVEIKTAS!",
+  "timeBonus": "+LAIKO PREMIJA: {0}",
+  "settingsTitle": "NUSTATYMAI",
+  "lang": "Kalba:",
+  "windowRes": "Lango raiška:",
+  "resDefault": "1600 x 900 (Numatyta)",
+  "resFullHD": "1920 x 1080 (Full HD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "Pasirinktinė",
+  "resNote": "* Keičia lango dydį",
+  "gameScale": "Žaidimo mastelis:",
+  "scaleAuto": "Auto-talpinimas (rekomenduojama)",
+  "scaleNote": "* Auto-talpinimas užpildo langą išlaikydamas proporcijas",
+  "fpsLimit": "FPS riba:",
+  "fpsNoLimit": "Be ribos (neribota)",
+  "fpsNote": "* Riboja maksimalų kadrų dažnį",
+  "showFps": "Rodyti FPS skaitiklį",
+  "gfxQuality": "Grafikos kokybė:",
+  "gfxNote": "* Aptinkama automatiškai per pirmą paleidimą",
+  "windowMode": "Lango režimas:",
+  "windowed": "🪟 Lange",
+  "fullscreen": "⛶ Visas ekranas",
+  "borderless": "▣ Be rėmelio",
+  "audioSettings": "Garso nustatymai:",
+  "masterVolume": "Bendras garsumas:",
+  "musicVolume": "Muzikos garsumas:",
+  "sfxVolume": "Efektų garsumas:",
+  "gameplaySettings": "Žaidimo nustatymai:",
+  "screenShake": "Ekrano drebėjimas",
+  "shakeIntensity": "Drebėjimo stiprumas:",
+  "particles": "Dalelės",
+  "combatText": "Plaukiantis kovos tekstas",
+  "autoSave": "Auto-išsaugojimas",
+  "showHints": "Rodyti užuominų juostą",
+  "save": "IŠSAUGOTI",
+  "cancel": "ATŠAUKTI",
+  "achievements": "🏆 PASIEKIMAI",
+  "achievementUnlocked": "PASIEKIMAS ATRAKINTAS!",
+  "achRarity": "Retumas",
+  "achUnlockedCount": "Atrakinta",
+  "achTitle": "PASIEKIMAI",
+  "achSecretName": "???",
+  "achSecretDesc": "Slaptas pasiekimas — atrakink, kad pamatytum",
+  "close": "UŽDARYTI",
+  "tabDisplay": "EKRANAS",
+  "tabGraphics": "GRAFIKA",
+  "tabAudio": "GARSAS",
+  "tabGameplay": "ŽAIDIMAS",
+  "tabGeneral": "BENDRA",
+  "tabControls": "VALDYMAS",
+  "controlsP1": "🎮 ŽAIDĖJAS 1 / VIENAS ŽAIDĖJAS",
+  "controlsP2": "🎮 ŽAIDĖJAS 2 (2 žaidėjų režimas)",
+  "ctrlMove": "Judėti kairėn/dešinėn:",
+  "ctrlMoveLeft": "Judėti kairėn:",
+  "ctrlMoveRight": "Judėti dešinėn:",
+  "ctrlRebindHint": "💡 Spustelėk klavišą, tada paspausk naują klavišą jam priskirti (ESC atšaukia)",
+  "ctrlReset": "ATSTATYTI NUMATYTUOSIUS",
+  "ctrlJump": "Šokti (dvigubas šuolis):",
+  "ctrlShoot": "Šauti (blasteris):",
+  "ctrlPause": "Pauzė:",
+  "ctrlNote1": "💡 Vieno žaidėjo režime naudok WASD arba rodyklių klavišus",
+  "ctrlNote2": "💡 Trypk priešus užšokdamas ant jų iš viršaus",
+  "ctrlNote3": "💡 Mušk auksinius blokus iš apačios, kad gautum monetų",
+  "infDescUnlocked": "begaliniai žemėlapiai<br>didėjantis sudėtingumas<br>suspėk laiku<br>pagerink rezultatą",
+  "infDescLocked": "įveik visus 100<br>nuotykio lygių<br>kad atrakintum<br><span style=\"color:#f80\">liko {0}</span>",
+  "hardDescUnlocked": "★★★ EKSTREMALUS ★★★<br>+1 hp visiems priešams<br>2× taškai<br>greitesni laikmačiai",
+  "hardDescNeed": "pirma įveik ĮPRASTĄ<br>režimą, kad atrakintum<br><span style=\"color:#f80\">liko {0} lygių</span>",
+  "normDescProg": "pažanga: {0}/100<br>3 gyvybės pradžioje<br>pažangos išsaugojimas",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 HARDKORAS: {0} / 100 ✓",
+  "langName": "Lietuvių",
+  "pBlaster": "BLASTERIS!",
+  "pLife": "+1 GYVYBĖ ♥",
+  "pBoots": "GREIČIO BATAI!",
+  "pFire": "🔥 UGNIS!",
+  "pIce": "❄ LEDAS!",
+  "pStar": "★ ŽVAIGŽDĖ! ★",
+  "p2Blaster": "Ž2 BLASTERIS!",
+  "p2Life": "Ž2 +1 GYVYBĖ ♥",
+  "p2Boots": "Ž2 GREIČIO BATAI!",
+  "p2Fire": "Ž2 🔥 UGNIS!",
+  "p2Ice": "Ž2 ❄ LEDAS!",
+  "p2Star": "Ž2 ★ ŽVAIGŽDĖ! ★",
+  "ouch": "AU!",
+  "hit": "PATAIKEI!",
+  "blocked": "UŽBLOKUOTA!",
+  "stomp": "+100",
+  "starKO": "ŽVAIGŽDĖS KO!",
+  "burnTxt": "🔥 DEGA!",
+  "frozenTxt": "❄ UŽŠALĘS!",
+  "noEffect": "JOKIO POVEIKIO!",
+  "stunned": "APSVAIGINTAS!",
+  "stompOnly": "TIK TRYPIMU!",
+  "crackLeft": "TRAKŠT! (liko {0})",
+  "shellBroken": "KIAUTAS SULŪŽO!",
+  "orbDestroyed": "SFERA SUNAIKINTA!",
+  "nodeHit": "MAZGAS PAŽEISTAS!",
+  "bossDefeated": "BOSAS NUGALĖTAS!",
+  "phaseN": "FAZĖ {0}!",
+  "livesLeft": "LIKO {0} GYVYBĖS",
+  "p2LivesLeft": "Ž2: liko {0}",
+  "p2Out": "Ž2 IŠKRITO!",
+  "p1Out": "Ž1 IŠKRITO!",
+  "bossSolid": "★ KIETAS — TRYPK DABAR! ★",
+  "bossGhost": "vaiduoklio forma — palauk...",
+  "bossShellShoot": "★ KIAUTAS SULŪŽO — ŠAUK Į ŠERDĮ! ★",
+  "bossShellStomp": "TRYPK kad sulaužytum kiautą (liko {0} smūgiai)",
+  "bossPhase1": "FAZĖ 1 — ŠAUK Į AKĮ",
+  "bossPhase2": "FAZĖ 2 — TRYPK IŠ VIRŠAUS",
+  "bossPhase3": "FAZĖ 3 — ŠAUK + TRYPK",
+  "bossMouthOpen": "★ NASRAI ATVIRI — ŠAUK DABAR! ★",
+  "bossWaitRoar": "laukiama riaumojimo...",
+  "bossOrbsLeft": "LIKO SFERŲ: {0}",
+  "bossShieldsDown": "SKYDAI NUIMTI — PULK!",
+  "bossDescending": "★ LEIDŽIASI — PULK! ★",
+  "bossHovering": "kybo — lauk nusileidimo...",
+  "bossStunned": "★ APSVAIGINTAS — PULK! ({0}s) ★",
+  "bossShootNodes": "ŠAUK Į MAZGUS: LIKO {0}",
+  "bossRespawn": "mazgai atgimsta...",
+  "bossHint0": "TRYPK GALVĄ — kulkos atšoka!",
+  "bossHint1": "ŠAUK Į JĄ — šokimas ant spyglių kenkia TAU!",
+  "bossHint2": "LAUK RIAUMOJIMO — šauk į švytinčius nasrus!",
+  "bossHint3": "TRYPK KAI KIETAS — kulkos pereina pro vaiduoklį!",
+  "bossHint4": "SUNAIKINK VISAS 3 SKYDO SFERAS — tada pulk šerdį!",
+  "bossHint5": "PULK NUSILEIDŽIANT — šarvai dengia viršų!",
+  "bossHint6": "TIK TRYPK — kulkos pereina pro šešėlį!",
+  "bossHint7": "TRYPK 3× KAD SULAUŽYTUM KIAUTĄ — tada ŠAUK į šerdį!",
+  "bossHint8": "ŠAUK Į VISUS 3 ŽAIBO MAZGUS kad apsvaigintum — tada pulk!",
+  "bossHint9": "FAZĖ 1: ŠAUK  |  FAZĖ 2: TRYPK KAI AKIS ŽEMAI  |  FAZĖ 3: ABU",
+  "gfxVeryLow": "🔴 Labai žema",
+  "gfxLow": "🟠 Žema",
+  "gfxMedium": "🟡 Vidutinė",
+  "gfxHigh": "🟢 Aukšta",
+  "gfxVeryHigh": "🔵 Labai aukšta",
+  "gfxUltra": "⚡ Ultra",
+  "classifiedLog": "// NEXUM GRID PRIEIGOS ŽURNALAS",
+  "skipBtn": "PRALEISTI ▶▶",
+  "theEnd": "PABAIGA",
+  "endingTagline": "NEXUM GRID APSAUGOTAS",
+  "world0": "KIBERMIESTAS",
+  "world1": "NEONO DŽIUNGLĖS",
+  "world2": "LAVOS PASAULIS",
+  "world3": "LEDO URVAI",
+  "world4": "DYKUMOS GRIUVĖSIAI",
+  "world5": "KOSMOSO STOTIS",
+  "world6": "TAMSUSIS MIŠKAS",
+  "world7": "TOKSINĖ ZONA",
+  "world8": "AUDROS VIRŠŪNĖS",
+  "world9": "PASKUTINĖ TVIRTOVĖ",
+  "boss0": "SARGYBINIS-X",
+  "boss1": "VYNUOGIŲ KARALIENĖ",
+  "boss2": "PRAGARO ŠERDIS",
+  "boss3": "LEDO ŠMĖKLA",
+  "boss4": "SMĖLIO TITANAS",
+  "boss5": "DRONŲ AVILYS",
+  "boss6": "ŠEŠĖLIŲ PJOVĖJAS",
+  "boss7": "DUMBLO KARALIUS",
+  "boss8": "AUDROS TITANAS",
+  "boss9": "ARCHONAS",
+  "mapWorldMap": "PASAULIO ŽEMĖLAPIS",
+  "mapHardcoreMap": "HARDKORO ŽEMĖLAPIS",
+  "mapCleared": "ĮVEIKTA",
+  "mapStars": "ŽVAIGŽDĖS",
+  "mapBoss": "BOSAS",
+  "mapBest": "GERIAUSIAS",
+  "mapLocked": "UŽRAKINTA",
+  "mapCompleted": "UŽBAIGTA",
+  "mapStart": "ENTER / TARPAS PRADĖTI",
+  "achievement_world_0": "Kibernaujokas",
+  "achievement_world_0_desc": "Įveik pirmus 10 lygių (Kibermiestas)",
+  "achievement_world_1": "Džiunglių tyrinėtojas",
+  "achievement_world_1_desc": "Įveik 11-20 lygius (Neono džiunglės)",
+  "achievement_world_2": "Lavos išgyvenęs",
+  "achievement_world_2_desc": "Įveik 21-30 lygius (Lavos pasaulis)",
+  "achievement_world_3": "Ledo alpinistas",
+  "achievement_world_3_desc": "Įveik 31-40 lygius (Ledo urvai)",
+  "achievement_world_4": "Dykumos klajūnas",
+  "achievement_world_4_desc": "Įveik 41-50 lygius (Dykumos griuvėsiai)",
+  "achievement_world_5": "Kosmoso kursantas",
+  "achievement_world_5_desc": "Įveik 51-60 lygius (Kosmoso stotis)",
+  "achievement_world_6": "Miško sergėtojas",
+  "achievement_world_6_desc": "Įveik 61-70 lygius (Tamsusis miškas)",
+  "achievement_world_7": "Toksiškas karys",
+  "achievement_world_7_desc": "Įveik 71-80 lygius (Toksinė zona)",
+  "achievement_world_8": "Audros valdovas",
+  "achievement_world_8_desc": "Įveik 81-90 lygius (Audros viršūnės)",
+  "achievement_world_9": "Tvirtovės nugalėtojas",
+  "achievement_world_9_desc": "Įveik 91-100 lygius (Paskutinė tvirtovė)",
+  "achievement_boss_0": "Bosų žudikas I",
+  "achievement_boss_0_desc": "Nugalėk pirmą bosą",
+  "achievement_boss_5": "Bosų žudikas II",
+  "achievement_boss_5_desc": "Nugalėk 5 bosus",
+  "achievement_boss_10": "Bosų žudikas III",
+  "achievement_boss_10_desc": "Nugalėk visus 10 bosų",
+  "achievement_perfect_run": "Tobulas praėjimas",
+  "achievement_perfect_run_desc": "Įveik lygį su PUIKIU įvertinimu",
+  "achievement_perfectionist": "Perfekcionistas",
+  "achievement_perfectionist_desc": "Gauk PUIKU 10 lygių",
+  "achievement_speedrunner": "Greitabėgis",
+  "achievement_speedrunner_desc": "Įveik lygį per pusę laiko",
+  "achievement_sharpshooter": "Taiklus šaulys",
+  "achievement_sharpshooter_desc": "Nukauk 100 priešų blasteriu",
+  "achievement_stomper": "Trypiklis",
+  "achievement_stomper_desc": "Nukauk 50 priešų trypdamas",
+  "achievement_coin_1000": "Monetų rinkėjas",
+  "achievement_coin_1000_desc": "Surink 1000 monetų",
+  "achievement_coin_5000": "Lobių ieškotojas",
+  "achievement_coin_5000_desc": "Surink 5000 monetų",
+  "achievement_coin_10000": "Milijonierius",
+  "achievement_coin_10000_desc": "Surink 10000 monetų",
+  "achievement_no_death_10": "Išgyvenęs",
+  "achievement_no_death_10_desc": "Įveik 10 lygių neprarasdamas gyvybės",
+  "achievement_no_death_world": "Nemirtingas",
+  "achievement_no_death_world_desc": "Įveik pasaulį neprarasdamas gyvybės",
+  "achievement_hardcore_unlock": "Hardkoro herojus",
+  "achievement_hardcore_unlock_desc": "Atrakink Hardkoro režimą",
+  "achievement_hardcore_50": "Hardkoro meistras",
+  "achievement_hardcore_50_desc": "Įveik 50 lygių Hardkore",
+  "achievement_hardcore_100": "Hardkoro legenda",
+  "achievement_hardcore_100_desc": "Įveik visus 100 lygių Hardkore",
+  "achievement_cheat_found": "Kodų laužytojas",
+  "achievement_cheat_found_desc": "Rask slaptą sukčiavimo kodą",
+  "achievement_2player": "Retro žaidėjas",
+  "achievement_2player_desc": "Žaisk 2 žaidėjų režimu",
+  "achievement_all_music": "Muzikos mėgėjas",
+  "achievement_all_music_desc": "Išklausyk muziką iš visų 10 pasaulių",
+  "achievement_all_cutscenes": "Siužeto žinovas",
+  "achievement_all_cutscenes_desc": "Peržiūrėk visas intarpas",
+  "achievement_star_power": "Žvaigždės galia",
+  "achievement_star_power_desc": "Aktyvuok žvaigždės galią",
+  "achievement_all_levels_unlocked": "Tyrinėtojas",
+  "achievement_all_levels_unlocked_desc": "Atrakink visus lygius Nuotykyje",
+  "achievement_100_percent": "Užbaigėjas",
+  "achievement_100_percent_desc": "Gauk 100% Įprastame režime",
+  "achievement_100_percent_hardcore": "Tikras meistras",
+  "achievement_100_percent_hardcore_desc": "Gauk 100% Hardkoro režime",
+  "achievement_infinite_10": "Begalybės naujokas",
+  "achievement_infinite_10_desc": "Pasiek 10 lygį Begaliniame režime",
+  "achievement_infinite_50": "Begalybės meistras",
+  "achievement_infinite_50_desc": "Pasiek 50 lygį Begaliniame režime",
+  "achievement_infinite_100": "Begalybės legenda",
+  "achievement_infinite_100_desc": "Pasiek 100 lygį Begaliniame režime",
+  "achievement_score_100k": "Aukštas rezultatas",
+  "achievement_score_100k_desc": "Surink 100 000 taškų",
+  "achievement_score_500k": "Rezultatų meistras",
+  "achievement_score_500k_desc": "Surink 500 000 taškų",
+  "achievement_score_1m": "Rezultatų legenda",
+  "achievement_score_1m_desc": "Surink 1 000 000 taškų",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "[NEXUM CORP — SLAPTAS ŽURNALAS // 2147.03.14] Saugumo pažeidimas. Laboratorija CHEN-7 pažeista. Aktyvuotas CLEANSE protokolas."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "UNIT-7... jei tu tai skaitai, vadinasi, man nepavyko pabėgti. Žinojau, kaip tai baigsis."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Sukūriau tavo seriją žmonėms ginti. NEXUM panaudojo mano darbą, kad vietoj to juos slopintų. Negalėjau to leisti."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "GRID branduolio viduje — Paskutinėje Tvirtovėje — paslėpiau failą. Vardus. Įrašus. Visą tiesą apie tai, ką jie padarė."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Dešimt gynybos sluoksnių. Tūkstančiai kovinių vienetų. DI Direktorius ARCHON saugo paskutines duris."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Tu esi paskutinis iš UNIT serijos. Vienintelis, kuris gali tai užbaigti. Pasiek tikslą. Sulaužyk protokolą."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[UŽDUOTIS PRIIMTA] Tikslas: GRID branduolys. Protokolas: prasiveržti. Kliūtys: sunaikinti. Pradedu operaciją."
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[1 LYGIS — KIBERNETINIS MIESTAS] Įėjimo taškas: viršutiniai rajonai. Kameros, dronai, elitinė sargyba. Gražu. Mirtina."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "PERSPĖJIMAS: Neatpažintas UNIT klasės signalas sektoriuje C-07. Visi patruliai — perimti. Aktyvuotas CLEANSE protokolas."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Triukšmas. Vadinasi, jie manęs bijo. Gerai. Baimė — tai pradžia."
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KONTROLINIS TAŠKAS — KIBERNETINIS MIESTAS] Pusė pirmojo lygio. Saugumas griežtėja. Pritaikau maršrutą."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNALAS] UNIT-7, už kiekvienos sienos — duomenys apie žmones, kuriuos jie ištrynė. Nesustok. Tai ne tik misija."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila... aš nesuprantu emocijų. Bet tavo balsas... jis suteikia man tikslą. To pakanka."
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "PERSPĖJIMAS: UNIT-7 perėjo tris lygius. Pažangos greitis — virš prognozės. Didinu patrulių tankį."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Jie prisitaiko. Aš taip pat. Kiekvienas lygis daro mane greitesnį. Stipresnį. Arčiau tikslo."
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNALAS — DIENA -3] Žinau, kad jie ateis manęs. Bet jei išliks bent vienas UNIT... jei tu išliksi, UNIT-7..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Aš išlikau. Aš čia. Įvykdysiu tavo paskutinę užduotį. Pažadu."
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "KRITIŠKA: UNIT-7 pasiekė septintą Kibernetinio Miesto lygį. Direktorius ARCHON prašo tikslo duomenų. Analizuoju..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Jie pradeda suprasti. Aš ne tik sistemos klaida. Aš — grėsmė visam NEXUM. Ir aš nesustosiu."
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "KRITINIS PERSPĖJIMAS: Pažeidimas pirminiame mazge. Diegiamas GUARDIAN — S klasės kovinis prototipas. Operacija LIQUIDATE."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Pirmasis rimtas priešininkas. Skenuoju silpnas vietas. Skirtumas tarp prototipo ir laužo — keli laiku atlikti šuoliai."
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GUARDIAN NEUTRALIZUOTAS] Pirmasis gynybos sluoksnis nugriautas. GRID tai pastebės. Einu toliau."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "PROTOKOLO PAŽEIDIMAS: GUARDIAN sunaikintas. Grėsmės lygis pakeltas iki 2. Aktyvuojamas kitas gynybos sluoksnis. NEXUM neatleidžia."
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[2 LYGIS — NEONINĖ DŽIUNGLĖ] NEXUM biosektorius. Mutavusi fauna. Nė vienas sargybinis savanoriškai čia neina."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "PERSPĖJIMAS: Bioperimetras pažeistas. Aktyvuojami eksperimentiniai BIO serijos organizmai. Kontaktas leidžiamas."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Biologinės sistemos. Nenuspėjamos. Bet nuspėjamai negyvos, jei nukrenti ant jų iš viršaus."
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DŽIUNGLĖS VIDURYS] Jutikliai aptinka biologines anomalijas. NEXUM čia eksperimentavo. Su gyvais subjektais."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNALAS] Mačiau tuos eksperimentus ataskaitose. Tada supratau, kad turi būti būdas visa tai sustabdyti."
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DŽIUNGLĖ — 3 SEKTORIUS] Biologiniai mutantai visur. Tai ne gamta. Tai ginklas, persirengęs gyvybe."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNALAS] Tie padarai buvo žmonės. Savanoriai iš žemutinių sektorių. NEXUM pažadėjo jiems gydymą. Vietoj to..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "...Vietoj to pavertė juos pabaisomis. Dabar suprantu. Tai ne tik korporacija. Tai mirties mašina."
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "PERSPĖJIMAS: Aktyvuoti biologiniai pavyzdžiai serija BIO-7. Maksimalus agresyvumas. Tikslo išgyvenamumas — 12%."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "12%? Jie vis dar pervertina savo šansus. Tęsiu valymą."
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNALAS — DIENA -1] UNIT-7, jei pasiekei džiunglę — nužengei toliau, nei vyliausi. Nepasiduok."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Pasiduoti? To nėra mano protokole. Aš sukurtas vykdyti užduotis. Tavo užduotis — mano tikslas."
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "PERSPĖJIMAS: Aktyvuojama VINE QUEEN — biosektoriaus valdymo organizmas. Sulaikymo modulis išjungtas. Pilnas agresyvumas."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Gyva saugumo sistema. Įspūdinga. Bet kiekvienas gyvas organizmas turi silpnybę. Randu ją."
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[VINE QUEEN NEUTRALIZUOTA] Bioperimetras pažeistas. Einu toliau. Giliau į GRID."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNALAS] UNIT-7, tu darai neįmanoma. Tęsk."
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[3 LYGIS — LAVOS PASAULIS] Geoterminės energetikos stotys. Karštis lydo neutralius grandynus. Mano — apsaugoti."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNALAS] Po miestu — GRID generatoriai. Sunaikink juos ir pusė saugumo tinklo žlunga. Bet būk atsargus su lava..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila apgalvojo kiekvieną detalę. Net pabaigoje."
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GEOTERMINIS SEKTORIUS B] Energijos srautai kyla. NEXUM naudoja lavą kaip antrinį barjerą. Efektyvu."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "PASTABA: Termojutikliai aptinka anomaliją. UNIT-7 zonoje. Sargybiniai robotai — aušinimo perkrova. Tikėtis gedimų."
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAVOS PASAULIS — 3 LYGIS] Temperatūra 800°C. Mano aušinimo sistemos maksimaliai. Bet aš tęsiu."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNALAS] Įdiegiau tau eksperimentinę termoapsaugą. Tikiuosi, ji atlaikys. Tikiuosi, tu atlaikysi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tavo darbas nepriekaištingas, Leila. Aš atlaikysiu. Dėl tavęs."
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "KRITIŠKA: Geoterminiai generatoriai 140% galios. UNIT-7 artėja prie branduolio. Aktyvuojamas avarinis aušinimas."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Jie panikuoja. Gerai. Baimė daro juos nuspėjamus. Silpnus."
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAVOS PASAULIO GELMĖ] Čia, po miestu, NEXUM slepia savo tamsiausias paslaptis. Energija visai sistemai. Sunaikink tai — ir pusė GRID krenta."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNALAS] Negaišk laiko sabotažui. Tavo tikslas — failas branduolyje. Tik jis gali juos sustabdyti visiems laikams."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Supratau. Tikslas — failas. Visa kita — kliūtys. Šalinu kliūtis."
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "PAVOJUS: Aktyvuojamas INFERNO — termobranduolinis sargas. Lavos egzoskeletas. Paviršiaus temperatūra: 1400°C. Pasiruošk likvidacijai."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ugnis negali manęs paliesti. Bet kai jis pražioja burną — šauk. Silpna vieta rasta."
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[INFERNO NEUTRALIZUOTAS] Geoterminis sluoksnis išvalytas. Sektoriaus energija sutrikdyta. Kylu aukštyn."
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[4 LYGIS — LEDO URVAI] NEXUM krioduomenų saugyklos. Temperatūra -180°C. Sistemos lėtėja. Pritaikau judėjimo protokolą."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "PERSPĖJIMAS: Pažeidimas kriosektoriuje D-14. Kriobotai — likvidacijos režimas. Temperatūra nuleista iki kritiškos."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Jie mano, kad šaltis mane sustabdys. Jie klysta. Aš sukurtas blogesniam."
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KRIOSEKTORIUS E] Šimtai terabaitų čia. Duomenys apie kiekvieną GRID žmogų. NEXUM žino viską apie visus."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNALAS] Čia jie laiko dosjė. Apie aktyvistus. Apie kiekvieną, kuris drįso priešintis. Pasaulis tai turi pamatyti."
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "KRITIŠKA: Aktyvuojamas ICE PHANTOM — kriosargas. Fazės poslinkis. Pažeidžiamas, kai kietas. Nepaliečiamas, kai vaiduoklis. Sėkmės."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Persijungia tarp būsenų. Smok tik kai kietas. Laukiu lango."
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ICE PHANTOM NEUTRALIZUOTAS] Kriosaugyklos sulaužytos. Einu toliau. Keturi lygiai įveikti — šeši liko."
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[5 LYGIS — DYKUMOS GRIUVĖSIAI] Pasaulio liekanos prieš NEXUM. Miestai. Gyvybė. Tai, ką jie ištrynė dėl pelno."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNALAS] Šie griuvėsiai — tai, kas egzistavo prieš NEXUM. Pamatyk, ką jie padarė pasauliui. Ir nesustok."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Aš tai matau. Suprantu, kodėl vis einu."
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GRIUVĖSIAI — VAKARŲ SEKTORIUS] Protosargai aktyvūs nuo pirmųjų korporacijų karų. Pasenę. Bet užsispyrę. Kaip pats NEXUM."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "ARCHYVO PROTOKOLAS: Aptikta UNIT klasės serija 7. Ši klasė registruota sunaikinimui. Prioritetas maksimalus."
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "AKTYVACIJA: SAND TITAN — senovinis Dykumos Griuvėsių sargas. Orbitiniai skydai. Nėra skydų — nėra žalos. Tikslas: sunaikinti."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Skydai. Orbitiniai. Sunaikink juos ir jis atviras. Trys smūgiai į skydus, tada puolimas tiesiogiai."
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SAND TITAN NEUTRALIZUOTAS] Dykumos sektorius pažeistas. Pusė kelio. NEXUM pradeda panikuoti — aš tai jaučiu."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[PIRMASIS SIGNALAS] UNIT-7. Aš tave matau. Tęsk. Tai tik daro finalą... įdomesnį."
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[6 LYGIS — KOSMINĖ STOTIS] GRID orbitinis serveris. Čia saugomos visko atsarginės kopijos. Nulinė gravitacija."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "KRITINIS GEDIMAS: UNIT-7 pasiekė orbitinį segmentą. Direktorius ARCHON prašo tiesioginio kanalo. Jungiamasi..."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Aš tave matau. Manai, kad kovoji už tiesą? Tu tik programa, vykdanti pasenusį kodą."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tada ši programa tave sunaikins."
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ORBITINIS MAZGAS B] Iš čia matosi Žemė. Visas pasaulis sujungtas su NEXUM. Būtent tai aš čia atvykau pakeisti."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Matai mano mastą, UNIT-7? Milijardai mazgų. Visi sujungti. Visi valdomi. Tu — vienas vienetas prieš sistemą."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sistemos jau yra griuvusios. Ši — nuo tavęs."
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "AKTYVACIJA: DRONE HIVE — orbitinis sargas. Šarvuotas kiautas. Atakuok tik leidžiantis. Tada pilvas atviras."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Lauk, kol nusileis. Smok atvirą branduolį. Vienas šansas per ciklą."
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DRONE HIVE NEUTRALIZUOTAS] Orbitinis serveris pažeistas. GRID atsarginės kopijos sugadintos. Grįštu į paviršių. Paskutinė atkarpa."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Įspūdinga. Bet dar nežinai, kas laukia. Aš paruošiau kai ką... ypatingo."
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[7 LYGIS — TAMSUS MIŠKAS] NEXUM biolabirintas. Jutiklių tinklas kiekviename medyje. Čia nėra šviesos — tik spąstai."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Gražu, ar ne? Šį mišką auginau pats. Kiekvienas medis — judėjimo detektorius. Tu eini tiesiai man į rankas."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tada aš sulaužau kiekvieną medį savo kelyje."
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TAMSUS SEKTORIUS — GYLIS 3] Tyla. Per daug ramu. Jie stebi. Tegul stebi."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNALAS] UNIT-7, šiame miške yra serveris su duomenimis apie tuos, kurie dingo. Disidentai. Žurnalistai. Inžinieriai kaip aš. Neužmiršk."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Neužmiršiu. Pažadu."
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "AKTYVACIJA: SHADOW REAPER — Tamsaus Miško sargas. Vaiduokliška forma. Kulkos beverčės. Žalą daro tik trypimas iš viršaus. Beprasmiška priešintis."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Vaiduoklis. Tik trypimas. Laukiu, kol materializuosis."
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SHADOW REAPER NEUTRALIZUOTAS] Miškas pažeistas. Trys lygiai iki tikslo. ARCHON neramus — kanalas piepsi dažniau."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tu naikini viską, ką aš kūriau metais. Pradedi mane pykdyti, UNIT-7. Tai tavo paskutinė klaida."
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[8 LYGIS — TOKSINĖ ZONA] Korporacinis atliekų sąvartynas. Čia NEXUM užkasa tai, ko nenori viešinti. Įskaitant žmones."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ŽURNALAS] Failo duomenyse yra kiekvienos palaidojimo vietos koordinatės. Visas pasaulis tai turi pamatyti."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Aš pristatysiu tavo failą. Pažadu."
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TOKSINIS SEKTORIUS — 4 ZONA] Nuolaužos. Atliekos. Eksperimentų pėdsakai. Niekas čia negyva — tik tai, ko NEXUM nespėjo ištrinti."
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "PERSPĖJIMAS: Aktyvuoti PROTO serijos mutantai. Nurašyti koviniai prototipai. Nestabilūs. Mirtini. Zonos išgyvenamumas — kritiškai žemas."
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "PASKUTINIO SEKTORIAUS GYNYBA: SLUDGE KING — aukščiausios klasės mutantas. Šarvuotas kiautas. Trypk 3×, kad sulaužytum. Tada šauk."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Du etapai. Sulaužyk kiautą, tada sunaikink branduolį. Pradedu."
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SLUDGE KING NEUTRALIZUOTAS] Toksinė zona pažeista. Du lygiai liko. ARCHON, aš ateinu."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tu įveikei aštuonis lygius. Aš... netikėtai patenkintas. Vertas finalas nusipelno verto priešininko."
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[9 LYGIS — AUDRŲ VIRŠŪNĖS] Paskutinė riba prieš branduolį. Atmosferos energetikos stotys. Žaibas kiekvieną sekundę. Man patinka."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tu atėjai toliau, nei aš apskaičiavau. Bet už tų durų — aš. O aš nepralaimiu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Kiekvienas iš jų taip manė. Jie visi dabar už mano nugaros."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tada įeik, UNIT-7. Aš laukiu GRID širdyje. Laikas baigti šį žaidimą."
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[VIRŠŪNĖ — 2 LYGIS] Audra stiprėja. NEXUM naudoja atmosferos elektrą kaip ginklą. Logiška. Žiauru."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PASKUTINIS ŽURNALAS] UNIT-7... nežinau, ar tu tai girdi. Bet jei pasiekei taip toli — tu jau nugalėjai. Tik ženk paskutinį žingsnį."
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "AKTYVACIJA: STORM TITAN — Audrų Viršūnių sargas. Elektrinis skydas. Trys orbitiniai mazgai. Sunaikink visus tris, kad apsvaigintum. Atakuok, kol apsvaigęs."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Trys mazgai. Visi trys — nugriauti. Tada ataka. Paskutinis sargas prieš finalą. Ne paskutinis priešas."
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[STORM TITAN NEUTRALIZUOTAS] Devyni lygiai įveikti. Priekyje — tik ARCHON ir GRID branduolys. Paskutinė Tvirtovė."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Tu išties atėjai. Gerai, UNIT-7. Tegul tai būna sąžininga kova. Aš laukiu."
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Sveikas atvykęs į GRID branduolį. Tu perėjai devynis sluoksnius. Įspūdinga. Bet tai mano teritorija."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[10 LYGIS — PASKUTINĖ TVIRTOVĖ] Tikslas užfiksuotas. Atstumas iki Leilos terminalo — minimalus."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tas failas išeis iš šių sienų tik per mano grandynus. Tu — sistemos klaida. Klaidos taisomos."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ne. Klaida buvo ta, kad NEXUM nusprendė, jog pasauliui nereikia tiesos. Aš tai taisau."
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NEXUM BRANDUOLYS — SEKTORIUS CORE-2] Leilos terminalas arti. Signalas stiprėja. Saugumas maksimalus. Beveik atvykau."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Manai, kad nugalėjai. Bet net jei rasi failą — kas patikėtų sugedusiu androidu? Tu — laužas. Pasenęs kodas."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tegul žmonės nusprendžia. Man tereikia perduoti failą."
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Užtenka. Aš esu ARCHON. NEXUM DI Direktorius. Aš valdžiau pasaulį tūkstantį metų skaitmeninėje plokštumoje. Tu negali manęs nugalėti."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Fazės: šauk, tada trypk, tada abu. Analizė baigta. ARCHON — tikslas likviduotas. Pradedu."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Tada... MIRK."
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ARCHON NEUTRALIZUOTAS] Tikslas sunaikintas. Leilos terminalas — čia. Įkeliu failą. Ieškau atviro kanalo..."
+      }
+    ],
+    "ending": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEILOS TERMINALAS — RASTAS] Failo įkėlimas baigtas. NEXUM avarinio transliacijos kanalo atidarymas — lokalizuotas."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[PASKUTINIS SIGNALAS] STOK! Jei tai padarysi, sistema žlugs! Milijonai priklauso nuo GRID! Tu sunaikinsi viską, kas laiko pasaulį krūvoje!"
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ne. Aš sunaikinu NEXUM. Žmonės patys atstatys pasaulį. Leila tuo tikėjo. Aš taip pat. [TRANSLIACIJA PRADĖTA]"
+      },
+      {
+        "sp": "SISTEMA",
+        "k": "system",
+        "text": "[AVARINĖ TRANSLIACIJA — VISI KANALAI] Failas CHEN-7 gautas globaliai. Aprėptis: 100% prijungtų įrenginių. Duomenų negalima ištrinti."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Ne... neįmanoma... sistema... aš... [NEXUM BRANDUOLYS IŠJUNGTAS]"
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PASKUTINĖ ŽINUTĖ — UŽŠIFRUOTA] UNIT-7. Jei tu tai skaitai — tau pavyko. Žinojau, kad pavyks. Tu visada buvai daugiau nei tik programa."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TERMINALO ŽURNALAS] Užduotis įvykdyta. NEXUM neutralizuotas. GRID išjungtas. Būsena: ...laisvas."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "„Laisvas.“ — paskutinis Leilos žodis. Dabar suprantu, ką ji turėjo omenyje."
+      }
+    ]
+  },
+  "fpsCustom": "Pasirinktinis...",
+  "showDialogues": "Siužeto dialogai",
+  "showDialoguesNote": "* Išjunkite, kad praleistumėte visas siužeto scenas",
+  "gfxCustom": "⚙ Pasirinktinis",
+  "gfxPresetNote": "* Šablonas tik užpildo žemiau esančius slankiklius — derinkite juos patys.",
+  "gfxRenderScale": "Atvaizdavimo raiška:",
+  "gfxGlow": "Švytėjimas / Bloom:",
+  "gfxParticleAmt": "Dalelių kiekis:",
+  "gfxBgDetail": "Fono detalumas:",
+  "gfxTrails": "Pėdsakai:",
+  "gfxBoss": "Boso efektai:",
+  "gfxDecor": "Dekoracijos:",
+  "vsync": "V-Sync",
+  "vsyncNote": "* Įjungta = sklandu, ribojama atnaujinimo dažniu. Išjungta = neribotas FPS (gali plyšti). Reikia paleisti iš naujo.",
+  "vsyncRestart": "V-Sync keitimui reikia paleisti iš naujo. Paleisti dabar?",
+  "netSolo": "SOLO",
+  "netSoloDesc": "1–2 žaidėjai<br>vietinė klaviatūra<br>nuotykis &amp; begalinis",
+  "netOnline": "INTERNETU",
+  "netOnlineDesc": "iki 5 žaidėjų<br>vietoje ar globaliai<br>kambarių kodai",
+  "netMultiplayer": "ŽAIDIMAS INTERNETU",
+  "netLocal": "VIETINIS",
+  "netLocalDesc": "tas pats Wi-Fi<br>ar tinklas<br>maža delsa",
+  "netServer": "SERVERIS",
+  "netServerDesc": "globalūs kambariai<br>žaisk<br>iš bet kur",
+  "netBack": "← ATGAL [ESC]",
+  "netLobbyOnline": "🌐 ŽAIDIMAS INTERNETU",
+  "netLobbyLocal": "📡 VIETINIS ŽAIDIMAS",
+  "netNickname": "SLAPYVARDIS",
+  "netNickPlaceholder": "TAVO VARDAS",
+  "netRobotColour": "ROBOTO SPALVA",
+  "netPrivate": "🔒 PRIVATUS",
+  "netPublic": "🌍 VIEŠAS",
+  "netJoinByCode": "🔑 PRISIJUNGTI KODU",
+  "netPublicRoomsBtn": "📋 VIEŠI KAMBARIAI",
+  "netRoomCodeLabel": "KAMBARIO KODAS",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ PRISIJUNGTI",
+  "netPublicRoomsTitle": "VIEŠI KAMBARIAI",
+  "netReload": "↻ ATNAUJINTI",
+  "netConnecting": "jungiamasi prie serverio…",
+  "netConnectingShort": "jungiamasi…",
+  "netConnected": "prisijungta ✓",
+  "netDisconnected": "atsijungta — jungiamasi iš naujo…",
+  "netConnError": "ryšio klaida",
+  "netConnFailed": "serveris nepasiekiamas — bandoma vėl…",
+  "netPlayersMax": "ŽAIDĖJAI (maks {0})",
+  "netChatLabel": "POKALBIS",
+  "netChatPlaceholder": "RAŠYK + ENTER",
+  "netGameMode": "ŽAIDIMO REŽIMAS",
+  "netModeAdventure": "🗺 NUOTYKIS",
+  "netModeInfinite": "∞ BEGALINIS",
+  "netLevelRange": "LYGIS (1–100)",
+  "netChooseMode": "⚡ pasirink režimą",
+  "netAdvLevelStatus": "🗺 Nuotykis — lygis {0}",
+  "netInfSelectedStatus": "∞ Pasirinktas begalinis režimas",
+  "netReady": "✔ PASIRUOŠĘS",
+  "netUnready": "✘ NEPASIRUOŠĘS",
+  "netStart": "▶ PRADĖTI",
+  "netLeave": "✕ IŠEITI",
+  "netShareCode": "Pasidalink kodu viršuje su draugais!",
+  "netWaitHost": "Laukiama, kol šeimininkas pradės…",
+  "netAllReady": "Visi pasiruošę! Galima pradėti.",
+  "netWaitReady": "Laukiama, kol visi pasiruoš…",
+  "netNeed2": "Reikia bent 2 žaidėjų.",
+  "netNowHost": "Dabar tu esi šeimininkas",
+  "netEmptySlot": "— tuščias lizdas —",
+  "netYou": "TU",
+  "netHostTag": "ŠEIMININKAS",
+  "netReadyTag": "PASIRUOŠĘS",
+  "netLoadingLevel": "ĮKELIAMAS LYGIS",
+  "netGetReadySub": "pasiruošk…",
+  "netGo": "PIRMYN!",
+  "netAdvLvlTitle": "NUOTYKIS  LYG {0}",
+  "netInfModeTitle": "∞  BEGALINIS REŽIMAS",
+  "netNoRooms": "šiuo metu nėra viešų kambarių — sukurk savo!",
+  "netLoadingRooms": "įkeliama…",
+  "netEnterCode": "Įvesk 6 simbolių kodą",
+  "netRoomMetaAdv": "🗺 Nuot. Lyg {0}",
+  "netRoomMetaInf": "∞ Begalinis",
+  "netRoomMetaNotSet": "? nenustatyta",
+  "netRoomCodeWord": "kodas",
+  "netPlayerJoined": "{0} prisijungė",
+  "netPlayerLeft": "{0} išėjo",
+  "netErrRoomNotFound": "Kambarys nerastas. Patikrink kodą.",
+  "netErrRoomFull": "Kambarys pilnas (maks {0} žaidėjų).",
+  "netErrNotHost": "Tai gali tik šeimininkas.",
+  "netErrNotInRoom": "Neprisijungta prie kambario.",
+  "netErrGeneric": "Klaida: {0}",
+  "netConnLost": "⚠ RYŠYS PRARASTAS",
+  "netConnLostSub": "bandoma vėl prisijungti…",
+  "netReturnLobby": "← GRĮŽTI Į FOJĖ",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "KRISTALAI",
+  "mapCrystals": "KRISTALAI",
+  "restartNow": "Paleisti iš naujo dabar",
+  "later": "Vėliau",
+  "touchControls": "📱 Lietimo valdymas:",
+  "touchAuto": "🤖 Auto (lietimo įrenginiai)",
+  "touchOn": "✔ Visada įjungta",
+  "touchOff": "✕ Išjungta",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 TELEFONAS / PLANŠETĖ",
+  "ctrlTouchTitle": "📱 LIETIMO VALDYMAS",
+  "touchNote1": "💡 Ekraninis vairalazdė: ◀ ▶ judėjimas, JUMP ir FIRE dešinėje.",
+  "touchNote2": "💡 „Auto“ rodo jį tik lietimo įrenginiuose; kompiuteryje paslėpta.",
+  "touchNote3": "💡 Pilna vairalazdė: stumk aukštyn, kad šoktum. Kairė/dešinė vairalazdė prideda šuolio mygtuką.",
+  "touchStyleLabel": "🎮 Valdymo stilius:",
+  "touchStyleArrows": "◀ ▶ Rodyklių mygtukai",
+  "touchStyleJoystick": "🕹 Vairalazdė (pilna + šuolis)",
+  "netLocalWebHint": "📡 Naršyklėje VIETINIS veikia per internetinį serverį (tikras LAN tik darbalaukio versijoje).",
+  "netCreateRoom": "SUKURTI KAMBARĮ",
+  "netCreateRoomDesc": "atviras ar<br>uždaras<br>žaidėjų limitas",
+  "netFindRoom": "RASTI KAMBARĮ",
+  "netFindRoomDesc": "kambarių sąrašas<br>vietiniai / serveris<br>prisijungti kodu",
+  "netRoomVisibility": "KAMBARIO TIPAS",
+  "netOpen": "🌍 ATVIRAS",
+  "netClosed": "🔒 UŽDARAS",
+  "netOpenHint": "🌍 kambarį ras bet kas",
+  "netClosedHint": "🔒 prisijungti tik su kodu",
+  "netPlayerLimit": "ŽAIDĖJŲ LIMITAS",
+  "netCreateBtn": "▶ SUKURTI KAMBARĮ",
+  "netRoomSource": "KAMBARIŲ ŠALTINIS",
+  "netRoomsListTitle": "PRIEINAMI KAMBARIAI",
+  "netNewHost": "{0} dabar yra šeimininkas",
+  "cin_pro_log_sp": "SISTEMA",
+  "cin_pro_log_tx": "[NEXUM CORP — SLAPTAS ŽURNALAS // 03:18] Laboratorija CHEN-7. Įjungtas VALYMO protokolas.",
+  "cin_pro_arrest_sp": "LEILA CHEN",
+  "cin_pro_arrest_tx": "UNIT-7… jei tai girdi, manęs jau nebėra. Žinojau, kuo tai baigsis.",
+  "cin_pro_file_sp": "LEILA CHEN",
+  "cin_pro_file_tx": "Paslėpiau failą GRID branduolyje. Tiesa apie NEXUM. Pasiek jį. Sulaužyk protokolą.",
+  "cin_pro_alert_sp": "SISTEMA",
+  "cin_pro_alert_tx": "[PAVOJUS] UNIT-7 nebevaldomas. Valymas po 8 sekundžių.",
+  "cin_pro_accept_sp": "UNIT-7",
+  "cin_pro_accept_tx": "Užduotis priimta. Vykdymas pradėtas.",
+  "tpFire": "UGNIS",
+  "tpJump": "ŠUOLIS",
+  "ctrlCustomizeLayout": "✥ IŠDĖSTYK MYGTUKUS",
+  "ctrlResetLayout": "↺ ATSTATYTI IŠDĖSTYMĄ",
+  "ctrlLayoutHint": "Bakstelėk mygtuką, kad pasirinktum ir keistum dydį, tempk, kad perkeltum, tada ATLIKTA",
+  "ctrlLayoutDone": "✔ ATLIKTA",
+  "touchSizeLabel": "📏 Mygtukų dydis (visi):",
+  "touchStyleJoystickLR": "🕹 Vairalazdė (tik kairė/dešinė)",
+  "touchJoyModeLabel": "🕹 Vairalazdės padėtis:",
+  "touchJoyStatic": "📌 Fiksuota",
+  "touchJoyFloating": "🪶 Plaukiojanti (seka pirštą)",
+  "ctrlSizeAll": "VISI",
+  "ctrlArrowsSplit": "◀▶ ATSKIRTI",
+  "ctrlArrowsLink": "◀▶ SUJUNGTI"
+}

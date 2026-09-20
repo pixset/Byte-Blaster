@@ -1,0 +1,1246 @@
+{
+  "score": "SKOR",
+  "total": "TOTAL",
+  "levelScoreLabel": "SKOR LEVEL: {0}",
+  "totalScoreLabel": "SKOR TOTAL: {0}",
+  "lives": "NYAWA",
+  "level": "LEVEL",
+  "time": "WAKTU",
+  "mode": "MODE",
+  "blaster": "BLASTER",
+  "coins": "KOIN",
+  "bonusFire": "API",
+  "bonusIce": "ES",
+  "bonusStar": "BINTANG",
+  "bonusBoots": "SEPATU",
+  "modSpeedrun": "SPEEDRUN",
+  "modStealth": "SILUMAN — HINDARI CAHAYA",
+  "modLowGravity": "GRAVITASI RENDAH",
+  "modHighGravity": "GRAVITASI TINGGI",
+  "modWind": "ANGIN KENCANG",
+  "modSlippery": "LANTAI LICIN",
+  "modDarkness": "KEGELAPAN",
+  "tierPerfect": "★ SEMPURNA!",
+  "tierGreat": "HEBAT!",
+  "tierGood": "BAGUS",
+  "tierBase": "DASAR",
+  "heightBonus": "+{0} BONUS KETINGGIAN",
+  "bossArena": "⚠ ARENA BOS ⚠",
+  "hpBonus": "+1 NYAWA!",
+  "repaired": "DIPERBAIKI!",
+  "newBest": "REKOR BARU!",
+  "completeMore": "✗ SELESAIKAN {0} LEVEL LAGI",
+  "subtitle": "PLATFORMER NEON CYBERPUNK",
+  "play": "▶ MAIN",
+  "settings": "⚙ PENGATURAN",
+  "exit": "🚪 KELUAR",
+  "selectSave": "PILIH SIMPANAN",
+  "slot": "SLOT",
+  "slotEmpty": "— KOSONG —",
+  "slotNewGame": "✚ GAME BARU",
+  "slotContinue": "▶ LANJUTKAN",
+  "slotDelete": "🗑 HAPUS",
+  "slotDeleteConfirm": "KONFIRMASI HAPUS?",
+  "slotLevels": "Level: {0}/100",
+  "slotHardcore": "Hardcore: {0}/100",
+  "slotAch": "Pencapaian: {0}",
+  "slotBest": "Skor terbaik: {0}",
+  "bestScore": "TERBAIK: {0}",
+  "legend1": "PANAH / WASD — GERAK  |  SPASI / ATAS — LOMPAT (×2)",
+  "legend2": "Z / X / CTRL — TEMBAK (perlu power-up blaster)  |  ESC — JEDA",
+  "legend3": "🟡 PUKUL BALOK EMAS DARI BAWAH  |  INJAK MUSUH DARI ATAS",
+  "paused": "⏸ DIJEDA",
+  "resume": "▶ LANJUTKAN",
+  "map": "🗺 PETA",
+  "menu": "⬅ MENU",
+  "escResume": "ESC — LANJUTKAN",
+  "selectMode": "PILIH MODE",
+  "onePlayer": "👤 1 PEMAIN",
+  "twoPlayer": "👥 2 PEMAIN",
+  "p2hint": "P1: WASD + Z/X tembak  |  P2: ← → ↑ + . / , tembak",
+  "adventure": "PETUALANGAN",
+  "advDesc": "100 level unik<br>10 dunia bertema<br>timer per level<br>simpan progres",
+  "infinite": "TANPA BATAS",
+  "infDesc": "peta tanpa akhir<br>kesulitan meningkat<br>kalahkan waktu<br>lampaui skormu",
+  "back": "← KEMBALI [ESC]",
+  "selectDiff": "PILIH KESULITAN",
+  "normal": "NORMAL",
+  "hardcore": "HARDCORE",
+  "normDesc": "musuh standar<br>3 nyawa awal<br>simpan progres",
+  "hardDescLocked": "selesaikan mode<br>normal dulu<br>untuk membuka",
+  "advMap": "🗺 PETA PETUALANGAN",
+  "mapFoot": "KLIK LEVEL TERBUKA • SELESAIKAN TEPAT WAKTU • RESPAWN DI TEMPAT SAAT KENA",
+  "getReady": "BERSIAP...",
+  "csHint": "▶ SPASI / KLIK — LANJUT",
+  "hintBar": "PANAH/WASD — GERAK  |  SPASI — LOMPAT  |  Z/X — TEMBAK (blaster)  |  ESC — JEDA",
+  "gameOver": "GAME OVER",
+  "youWin": "KAMU MENANG!",
+  "betterLuck": "SEMOGA LEBIH BERUNTUNG LAIN KALI",
+  "allComplete": "SEMUA 100 LEVEL SELESAI!",
+  "retry": "↩ COBA LAGI",
+  "levelFailed": "LEVEL {0} GAGAL",
+  "scoreLabel": "SKOR: {0}",
+  "finalScore": "SKOR AKHIR: {0}",
+  "levelClear": "LEVEL {0} TUNTAS!",
+  "timeBonus": "+BONUS WAKTU: {0}",
+  "settingsTitle": "PENGATURAN",
+  "lang": "Bahasa:",
+  "windowRes": "Resolusi Jendela:",
+  "resDefault": "1600 x 900 (Default)",
+  "resFullHD": "1920 x 1080 (Full HD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "Kustom",
+  "resNote": "* Mengubah ukuran jendela",
+  "gameScale": "Skala Game:",
+  "scaleAuto": "Sesuai Otomatis (Disarankan)",
+  "scaleNote": "* Sesuai Otomatis mengisi jendela sambil menjaga rasio aspek",
+  "fpsLimit": "Batas FPS:",
+  "fpsNoLimit": "Tanpa Batas (Tak Terbatas)",
+  "fpsNote": "* Membatasi frame rate maksimum",
+  "showFps": "Tampilkan Penghitung FPS",
+  "gfxQuality": "Kualitas Grafik:",
+  "gfxNote": "* Terdeteksi otomatis saat pertama dijalankan",
+  "windowMode": "Mode Jendela:",
+  "windowed": "🪟 Berjendela",
+  "fullscreen": "⛶ Layar Penuh",
+  "borderless": "▣ Tanpa Bingkai",
+  "audioSettings": "Pengaturan Audio:",
+  "masterVolume": "Volume Utama:",
+  "musicVolume": "Volume Musik:",
+  "sfxVolume": "Volume SFX:",
+  "gameplaySettings": "Pengaturan Gameplay:",
+  "screenShake": "Getaran Layar",
+  "shakeIntensity": "Intensitas Getaran:",
+  "particles": "Partikel",
+  "combatText": "Teks Tempur Mengambang",
+  "autoSave": "Simpan Progres Otomatis",
+  "showHints": "Tampilkan Bilah Petunjuk",
+  "save": "SIMPAN",
+  "cancel": "BATAL",
+  "achievements": "🏆 PENCAPAIAN",
+  "achievementUnlocked": "PENCAPAIAN TERBUKA!",
+  "achRarity": "Kelangkaan",
+  "achUnlockedCount": "Terbuka",
+  "achTitle": "PENCAPAIAN",
+  "achSecretName": "???",
+  "achSecretDesc": "Pencapaian rahasia — buka untuk mengungkap",
+  "close": "TUTUP",
+  "tabDisplay": "TAMPILAN",
+  "tabGraphics": "GRAFIK",
+  "tabAudio": "AUDIO",
+  "tabGameplay": "GAMEPLAY",
+  "tabGeneral": "UMUM",
+  "tabControls": "KONTROL",
+  "controlsP1": "🎮 PEMAIN 1 / PEMAIN TUNGGAL",
+  "controlsP2": "🎮 PEMAIN 2 (Mode 2 Pemain)",
+  "ctrlMove": "Gerak Kiri/Kanan:",
+  "ctrlMoveLeft": "Gerak Kiri:",
+  "ctrlMoveRight": "Gerak Kanan:",
+  "ctrlRebindHint": "💡 Klik sebuah tombol, lalu tekan tombol baru untuk mengikatnya (ESC membatalkan)",
+  "ctrlReset": "ATUR ULANG KE DEFAULT",
+  "ctrlJump": "Lompat (Lompat Ganda):",
+  "ctrlShoot": "Tembak (Blaster):",
+  "ctrlPause": "Jeda:",
+  "ctrlNote1": "💡 Di mode 1 pemain, gunakan WASD atau Tombol Panah",
+  "ctrlNote2": "💡 Injak musuh dengan melompat di atasnya dari atas",
+  "ctrlNote3": "💡 Pukul balok emas dari bawah untuk mendapatkan koin",
+  "infDescUnlocked": "peta tanpa akhir<br>kesulitan meningkat<br>kalahkan waktu<br>lampaui skormu",
+  "infDescLocked": "selesaikan semua 100<br>level petualangan<br>untuk membuka<br><span style=\"color:#f80\">{0} tersisa</span>",
+  "hardDescUnlocked": "★★★ EKSTREM ★★★<br>+1 hp pada semua musuh<br>2× skor<br>timer lebih cepat",
+  "hardDescNeed": "selesaikan mode NORMAL<br>dulu untuk membuka<br><span style=\"color:#f80\">{0} level tersisa</span>",
+  "normDescProg": "progres: {0}/100<br>3 nyawa awal<br>simpan progres",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 HARDCORE: {0} / 100 ✓",
+  "langName": "Bahasa Indonesia",
+  "pBlaster": "BLASTER!",
+  "pLife": "+1 NYAWA ♥",
+  "pBoots": "SEPATU CEPAT!",
+  "pFire": "🔥 API!",
+  "pIce": "❄ ES!",
+  "pStar": "★ BINTANG! ★",
+  "p2Blaster": "P2 BLASTER!",
+  "p2Life": "P2 +1 NYAWA ♥",
+  "p2Boots": "P2 SEPATU CEPAT!",
+  "p2Fire": "P2 🔥 API!",
+  "p2Ice": "P2 ❄ ES!",
+  "p2Star": "P2 ★ BINTANG! ★",
+  "ouch": "ADUH!",
+  "hit": "KENA!",
+  "blocked": "DIBLOKIR!",
+  "stomp": "+100",
+  "starKO": "BINTANG KO!",
+  "burnTxt": "🔥 TERBAKAR!",
+  "frozenTxt": "❄ MEMBEKU!",
+  "noEffect": "TANPA EFEK!",
+  "stunned": "TERPANA!",
+  "stompOnly": "HANYA INJAK!",
+  "crackLeft": "RETAK! ({0} tersisa)",
+  "shellBroken": "CANGKANG PECAH!",
+  "orbDestroyed": "ORB HANCUR!",
+  "nodeHit": "NODE KENA!",
+  "bossDefeated": "BOS DIKALAHKAN!",
+  "phaseN": "FASE {0}!",
+  "livesLeft": "{0} NYAWA TERSISA",
+  "p2LivesLeft": "P2: {0} TERSISA",
+  "p2Out": "P2 GUGUR!",
+  "p1Out": "P1 GUGUR!",
+  "bossSolid": "★ PADAT — INJAK SEKARANG! ★",
+  "bossGhost": "wujud hantu — tunggu...",
+  "bossShellShoot": "★ CANGKANG PECAH — TEMBAK INTI! ★",
+  "bossShellStomp": "INJAK untuk meretakkan cangkang ({0} pukulan tersisa)",
+  "bossPhase1": "FASE 1 — TEMBAK MATANYA",
+  "bossPhase2": "FASE 2 — INJAK DARI ATAS",
+  "bossPhase3": "FASE 3 — TEMBAK + INJAK",
+  "bossMouthOpen": "★ MULUT TERBUKA — TEMBAK SEKARANG! ★",
+  "bossWaitRoar": "menunggu raungan...",
+  "bossOrbsLeft": "ORB TERSISA: {0}",
+  "bossShieldsDown": "PERISAI TURUN — SERANG!",
+  "bossDescending": "★ MENURUN — SERANG! ★",
+  "bossHovering": "melayang — tunggu turun...",
+  "bossStunned": "★ TERPANA — SERANG! ({0}d) ★",
+  "bossShootNodes": "TEMBAK NODE: {0} TERSISA",
+  "bossRespawn": "memunculkan ulang node...",
+  "bossHint0": "INJAK KEPALANYA — peluru memantul!",
+  "bossHint1": "TEMBAK DIA — melompat di duri melukai KAMU!",
+  "bossHint2": "TUNGGU RAUNGAN — tembak ke dalam mulut yang menyala!",
+  "bossHint3": "INJAK SAAT PADAT — peluru menembus hantu!",
+  "bossHint4": "HANCURKAN SEMUA 3 ORB PERISAI — lalu serang intinya!",
+  "bossHint5": "SERANG SAAT MENURUN — baja menutupi bagian atas!",
+  "bossHint6": "HANYA INJAK — peluru menembus bayangan!",
+  "bossHint7": "INJAK 3× UNTUK MERETAKKAN CANGKANG — lalu TEMBAK intinya!",
+  "bossHint8": "TEMBAK SEMUA 3 NODE PETIR untuk membuat terpana — lalu serang!",
+  "bossHint9": "FASE 1: TEMBAK  |  FASE 2: INJAK SAAT MATA RENDAH  |  FASE 3: KEDUANYA",
+  "gfxVeryLow": "🔴 Sangat Rendah",
+  "gfxLow": "🟠 Rendah",
+  "gfxMedium": "🟡 Sedang",
+  "gfxHigh": "🟢 Tinggi",
+  "gfxVeryHigh": "🔵 Sangat Tinggi",
+  "gfxUltra": "⚡ Ultra",
+  "classifiedLog": "// LOG AKSES NEXUM GRID",
+  "skipBtn": "LEWATI ▶▶",
+  "theEnd": "TAMAT",
+  "endingTagline": "NEXUM GRID DIAMANKAN",
+  "world0": "KOTA SIBER",
+  "world1": "RIMBA NEON",
+  "world2": "DUNIA LAVA",
+  "world3": "GUA ES",
+  "world4": "RERUNTUHAN GURUN",
+  "world5": "STASIUN ANGKASA",
+  "world6": "HUTAN GELAP",
+  "world7": "ZONA BERACUN",
+  "world8": "PUNCAK BADAI",
+  "world9": "BENTENG TERAKHIR",
+  "boss0": "GUARDIAN-X",
+  "boss1": "RATU SULUR",
+  "boss2": "INTI INFERNO",
+  "boss3": "HANTU ES",
+  "boss4": "TITAN PASIR",
+  "boss5": "SARANG DRONE",
+  "boss6": "PENCABUT BAYANGAN",
+  "boss7": "RAJA LUMPUR",
+  "boss8": "TITAN BADAI",
+  "boss9": "ARCHON",
+  "mapWorldMap": "PETA DUNIA",
+  "mapHardcoreMap": "PETA HARDCORE",
+  "mapCleared": "TUNTAS",
+  "mapStars": "BINTANG",
+  "mapBoss": "BOS",
+  "mapBest": "TERBAIK",
+  "mapLocked": "TERKUNCI",
+  "mapCompleted": "SELESAI",
+  "mapStart": "ENTER / SPASI UNTUK MULAI",
+  "achievement_world_0": "Pemula Siber",
+  "achievement_world_0_desc": "Selesaikan 10 level pertama (Kota Siber)",
+  "achievement_world_1": "Penjelajah Rimba",
+  "achievement_world_1_desc": "Selesaikan level 11-20 (Rimba Neon)",
+  "achievement_world_2": "Penyintas Lava",
+  "achievement_world_2_desc": "Selesaikan level 21-30 (Dunia Lava)",
+  "achievement_world_3": "Pendaki Es",
+  "achievement_world_3_desc": "Selesaikan level 31-40 (Gua Es)",
+  "achievement_world_4": "Pengembara Gurun",
+  "achievement_world_4_desc": "Selesaikan level 41-50 (Reruntuhan Gurun)",
+  "achievement_world_5": "Kadet Angkasa",
+  "achievement_world_5_desc": "Selesaikan level 51-60 (Stasiun Angkasa)",
+  "achievement_world_6": "Penjaga Hutan",
+  "achievement_world_6_desc": "Selesaikan level 61-70 (Hutan Gelap)",
+  "achievement_world_7": "Pejuang Beracun",
+  "achievement_world_7_desc": "Selesaikan level 71-80 (Zona Beracun)",
+  "achievement_world_8": "Penguasa Badai",
+  "achievement_world_8_desc": "Selesaikan level 81-90 (Puncak Badai)",
+  "achievement_world_9": "Penakluk Benteng",
+  "achievement_world_9_desc": "Selesaikan level 91-100 (Benteng Terakhir)",
+  "achievement_boss_0": "Pembunuh Bos I",
+  "achievement_boss_0_desc": "Kalahkan bos pertama",
+  "achievement_boss_5": "Pembunuh Bos II",
+  "achievement_boss_5_desc": "Kalahkan 5 bos",
+  "achievement_boss_10": "Pembunuh Bos III",
+  "achievement_boss_10_desc": "Kalahkan semua 10 bos",
+  "achievement_perfect_run": "Lari Sempurna",
+  "achievement_perfect_run_desc": "Selesaikan level dengan peringkat SEMPURNA",
+  "achievement_perfectionist": "Perfeksionis",
+  "achievement_perfectionist_desc": "Dapatkan SEMPURNA di 10 level",
+  "achievement_speedrunner": "Pelari Cepat",
+  "achievement_speedrunner_desc": "Selesaikan level dalam separuh waktu",
+  "achievement_sharpshooter": "Penembak Jitu",
+  "achievement_sharpshooter_desc": "Bunuh 100 musuh dengan blaster",
+  "achievement_stomper": "Penginjak",
+  "achievement_stomper_desc": "Bunuh 50 musuh dengan menginjak",
+  "achievement_coin_1000": "Pengumpul Koin",
+  "achievement_coin_1000_desc": "Kumpulkan 1000 koin",
+  "achievement_coin_5000": "Pemburu Harta",
+  "achievement_coin_5000_desc": "Kumpulkan 5000 koin",
+  "achievement_coin_10000": "Jutawan",
+  "achievement_coin_10000_desc": "Kumpulkan 10000 koin",
+  "achievement_no_death_10": "Penyintas",
+  "achievement_no_death_10_desc": "Selesaikan 10 level tanpa kehilangan nyawa",
+  "achievement_no_death_world": "Abadi",
+  "achievement_no_death_world_desc": "Selesaikan satu dunia tanpa kehilangan nyawa",
+  "achievement_hardcore_unlock": "Pahlawan Hardcore",
+  "achievement_hardcore_unlock_desc": "Buka mode Hardcore",
+  "achievement_hardcore_50": "Master Hardcore",
+  "achievement_hardcore_50_desc": "Selesaikan 50 level di Hardcore",
+  "achievement_hardcore_100": "Legenda Hardcore",
+  "achievement_hardcore_100_desc": "Selesaikan semua 100 level di Hardcore",
+  "achievement_cheat_found": "Pemecah Kode",
+  "achievement_cheat_found_desc": "Temukan kode curang rahasia",
+  "achievement_2player": "Gamer Retro",
+  "achievement_2player_desc": "Bermain dalam mode 2 pemain",
+  "achievement_all_music": "Pencinta Musik",
+  "achievement_all_music_desc": "Dengarkan musik dari semua 10 dunia",
+  "achievement_all_cutscenes": "Master Lore",
+  "achievement_all_cutscenes_desc": "Tonton semua sinematik",
+  "achievement_star_power": "Kekuatan Bintang",
+  "achievement_star_power_desc": "Aktifkan kekuatan bintang",
+  "achievement_all_levels_unlocked": "Penjelajah",
+  "achievement_all_levels_unlocked_desc": "Buka semua level di Petualangan",
+  "achievement_100_percent": "Penuntas",
+  "achievement_100_percent_desc": "Raih 100% di mode Normal",
+  "achievement_100_percent_hardcore": "Master Sejati",
+  "achievement_100_percent_hardcore_desc": "Raih 100% di mode Hardcore",
+  "achievement_infinite_10": "Pemula Tanpa Batas",
+  "achievement_infinite_10_desc": "Capai level 10 di mode Tanpa Batas",
+  "achievement_infinite_50": "Master Tanpa Batas",
+  "achievement_infinite_50_desc": "Capai level 50 di mode Tanpa Batas",
+  "achievement_infinite_100": "Legenda Tanpa Batas",
+  "achievement_infinite_100_desc": "Capai level 100 di mode Tanpa Batas",
+  "achievement_score_100k": "Peraih Skor Tinggi",
+  "achievement_score_100k_desc": "Raih skor 100.000 poin",
+  "achievement_score_500k": "Master Skor",
+  "achievement_score_500k_desc": "Raih skor 500.000 poin",
+  "achievement_score_1m": "Legenda Skor",
+  "achievement_score_1m_desc": "Raih skor 1.000.000 poin",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "[NEXUM CORP — LOG RAHASIA // 2147.03.14] Pelanggaran keamanan. Lab CHEN-7 disusupi. Protokol CLEANSE aktif."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "UNIT-7... jika kau membaca ini, berarti aku gagal melarikan diri. Aku tahu bagaimana ini akan berakhir."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Aku menciptakan jalur unitmu untuk melindungi manusia. NEXUM justru memakai karyaku untuk menindas mereka. Aku tak bisa membiarkannya."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Di dalam inti GRID — di Benteng Terakhir — aku menyembunyikan sebuah berkas. Nama-nama. Catatan. Setiap kebenaran tentang perbuatan mereka."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Sepuluh lapis pertahanan. Ribuan unit tempur. Direktur AI ARCHON menjaga pintu terakhir."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Kau adalah yang terakhir dari seri UNIT. Satu-satunya yang bisa menyelesaikan ini. Sampailah ke sana. Bobol protokol itu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TUGAS DITERIMA] Target: inti GRID. Protokol: bobol. Rintangan: musnahkan. Memulai operasi."
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 1 — CYBER CITY] Titik masuk: distrik atas. Kamera, drone, penjaga elit. Indah. Mematikan."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "PERINGATAN: Tanda kelas-UNIT tak dikenal di sektor C-07. Semua patroli — cegat. Protokol CLEANSE diaktifkan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Kebisingan. Jadi mereka takut padaku. Bagus. Ketakutan adalah sebuah awal."
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[POS PEMERIKSAAN — CYBER CITY] Setengah jalan melewati level pertama. Keamanan mengetat. Menyesuaikan rute."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] UNIT-7, di balik setiap dinding ada data tentang orang-orang yang mereka hapus. Jangan berhenti. Ini bukan sekadar misi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila... aku tak memahami emosi. Tapi suaramu... itu memberiku tujuan. Itu sudah cukup."
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "PERINGATAN: UNIT-7 melewati tiga level. Kecepatan kemajuan — melampaui prediksi. Meningkatkan kepadatan patroli."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Mereka beradaptasi. Begitu pula aku. Setiap level membuatku lebih cepat. Lebih kuat. Lebih dekat ke tujuan."
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG — HARI -3] Aku tahu mereka akan datang mengejarku. Tapi jika bahkan satu UNIT bertahan... jika kau bertahan, UNIT-7..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Aku bertahan. Aku di sini. Aku akan menyelesaikan tugas terakhirmu. Aku berjanji."
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "KRITIS: UNIT-7 mencapai level ketujuh Cyber City. Direktur ARCHON meminta data target. Menganalisis..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Mereka mulai mengerti. Aku bukan sekadar gangguan sistem. Aku adalah ancaman bagi seluruh NEXUM. Dan aku takkan berhenti."
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "PERINGATAN KRITIS: Pelanggaran di node utama. Mengerahkan GUARDIAN — prototipe tempur kelas-S. Operasi LIQUIDATE."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Lawan serius pertama. Memindai titik lemah. Perbedaan antara prototipe dan rongsokan adalah beberapa lompatan tepat waktu."
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GUARDIAN DINETRALKAN] Lapisan pertahanan pertama tumbang. GRID akan menyadarinya. Melanjutkan."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "PELANGGARAN PROTOKOL: GUARDIAN hancur. Tingkat ancaman dinaikkan ke 2. Mengaktifkan lapisan pertahanan berikutnya. NEXUM tidak mengampuni."
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 2 — NEON JUNGLE] Bio-sektor NEXUM. Fauna bermutasi. Tak ada penjaga yang sukarela ke tempat ini."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "PERINGATAN: Bio-perimeter ditembus. Mengaktifkan organisme seri-BIO eksperimental. Kontak diizinkan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sistem biologis. Tak terduga. Tapi pasti mati jika kau mendarat di atasnya dari ketinggian."
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TITIK TENGAH JUNGLE] Sensor mendeteksi anomali biologis. NEXUM bereksperimen di sini. Pada subjek hidup."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Aku melihat eksperimen ini dalam laporan. Saat itulah aku tahu harus ada cara untuk menghentikan semuanya."
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[JUNGLE — SEKTOR 3] Mutan biologis di mana-mana. Ini bukan alam. Ini senjata yang menyamar sebagai kehidupan."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Makhluk-makhluk ini dulunya manusia. Sukarelawan dari sektor bawah. NEXUM menjanjikan mereka pengobatan. Sebaliknya..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "...Sebaliknya mengubah mereka menjadi monster. Kini aku mengerti. Ini bukan sekadar korporasi. Ini mesin kematian."
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "PERINGATAN: Sampel biologis seri BIO-7 diaktifkan. Agresi maksimum. Kelangsungan hidup target — 12%."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "12%? Mereka masih melebih-lebihkan peluang mereka. Melanjutkan pembersihan."
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG — HARI -1] UNIT-7, jika kau mencapai jungle — kau telah melangkah lebih jauh dari yang kuharapkan. Jangan menyerah."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Menyerah? Itu tak ada dalam protokolku. Aku diciptakan untuk menyelesaikan tugas. Tugasmu adalah tujuanku."
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "PERINGATAN: Mengaktifkan VINE QUEEN — organisme pengendali bio-sektor. Modul penahanan offline. Agresi penuh."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sistem keamanan hidup. Mengesankan. Tapi setiap organisme hidup punya kelemahan. Mencarinya."
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[VINE QUEEN DINETRALKAN] Bio-perimeter ditembus. Melanjutkan. Lebih dalam ke GRID."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] UNIT-7, kau melakukan yang mustahil. Teruslah maju."
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 3 — LAVA WORLD] Pembangkit listrik panas bumi. Panasnya melelehkan sirkuit biasa. Sirkuitku terlindungi."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Di bawah kota — generator GRID. Hancurkan dan separuh jaringan keamanan runtuh. Tapi hati-hati dengan lavanya..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila memikirkan setiap detail. Bahkan di akhir hayatnya."
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SEKTOR PANAS BUMI B] Aliran energi meningkat. NEXUM memakai lava sebagai penghalang sekunder. Efektif."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "PEMBERITAHUAN: Sensor termal mendeteksi anomali. UNIT-7 dalam zona. Robot penjaga — pendinginan kelebihan beban. Antisipasi kegagalan."
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LAVA WORLD — LEVEL 3] Suhu 800°C. Sistem pendinginku maksimum. Tapi aku terus maju."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Aku memasang perlindungan termal eksperimental dalam dirimu. Kuharap itu bertahan. Kuharap kau bertahan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Karyamu sempurna, Leila. Aku akan bertahan. Demi kau."
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "KRITIS: Generator panas bumi pada kapasitas 140%. UNIT-7 mendekati inti. Mengaktifkan pendinginan darurat."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Mereka panik. Bagus. Ketakutan membuat mereka mudah ditebak. Lemah."
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KEDALAMAN LAVA WORLD] Di sini, di bawah kota, NEXUM menyembunyikan rahasia tergelapnya. Tenaga untuk seluruh sistem. Hancurkan ini — dan separuh GRID jatuh."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Jangan buang waktu untuk sabotase. Tujuanmu adalah berkas di inti. Hanya itu yang bisa menghentikan mereka selamanya."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dimengerti. Tujuan — berkas. Selebihnya — rintangan. Memusnahkan rintangan."
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "BAHAYA: Mengaktifkan INFERNO — penjaga termonuklir. Eksoskeleton lava. Suhu permukaan: 1400°C. Bersiap untuk melenyapkan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Api tak bisa menyentuhku. Tapi saat ia membuka mulutnya — tembak. Titik lemah ditemukan."
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[INFERNO DINETRALKAN] Lapisan panas bumi dibersihkan. Tenaga sektor terganggu. Naik ke atas."
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 4 — ICE CAVES] Brankas krio-data NEXUM. Suhu -180°C. Sistem melambat. Menyesuaikan protokol gerakan."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "PERINGATAN: Pelanggaran di krio-sektor D-14. Krio-bot — mode pelenyapan. Suhu diturunkan ke tingkat kritis."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Mereka pikir dingin akan menghentikanku. Mereka salah. Aku diciptakan untuk yang lebih buruk."
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[KRIO-SEKTOR E] Ratusan terabita di sini. Data tentang setiap orang di GRID. NEXUM tahu segalanya tentang semua orang."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Di sinilah mereka menyimpan dosir. Tentang aktivis. Tentang siapa pun yang berani melawan. Dunia perlu melihat ini."
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "KRITIS: Mengaktifkan ICE PHANTOM — penjaga krio. Pergeseran fase. Rentan saat padat. Tak tersentuh saat hantu. Semoga berhasil."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Berganti antar keadaan. Serang hanya saat padat. Menunggu celah."
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ICE PHANTOM DINETRALKAN] Brankas krio dibobol. Melanjutkan. Empat level selesai — enam lagi."
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 5 — DESERT RUINS] Sisa-sisa dunia sebelum NEXUM. Kota. Kehidupan. Hal-hal yang mereka hapus demi keuntungan."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Reruntuhan ini adalah yang ada sebelum NEXUM. Lihat apa yang mereka lakukan pada dunia. Dan jangan berhenti."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Aku melihatnya. Aku mengerti mengapa aku terus melangkah."
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[RERUNTUHAN — SEKTOR BARAT] Proto-penjaga aktif sejak perang korporat pertama. Usang. Tapi keras kepala. Seperti NEXUM sendiri."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "PROTOKOL ARSIP: Terdeteksi kelas-UNIT seri 7. Kelas ini terdaftar untuk dimusnahkan. Prioritas maksimum."
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "AKTIVASI: SAND TITAN — penjaga kuno Desert Ruins. Perisai orbital. Tanpa perisai, tanpa kerusakan. Tujuan: hancurkan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Perisai. Orbital. Hancurkan dan ia terbuka. Tiga pukulan ke perisai, lalu serang langsung."
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SAND TITAN DINETRALKAN] Sektor gurun ditembus. Setengah jalan. NEXUM mulai panik — aku bisa merasakannya."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[SINYAL PERTAMA] UNIT-7. Aku melihatmu. Teruslah maju. Itu hanya membuat babak final... lebih menarik."
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 6 — SPACE STATION] Server orbital GRID. Cadangan dari segalanya disimpan di sini. Gravitasi nol."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "KEGAGALAN KRITIS: UNIT-7 telah mencapai segmen orbital. Direktur ARCHON meminta kanal langsung. Menyambungkan..."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Aku melihatmu. Kau pikir kau berjuang demi kebenaran? Kau hanyalah program yang menjalankan kode usang."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Kalau begitu program ini akan menghancurkanmu."
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NODE ORBITAL B] Bumi terlihat dari sini. Seluruh dunia terhubung ke NEXUM. Itulah yang aku datang untuk mengubahnya."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Kau lihat skalaku, UNIT-7? Miliaran node. Semua terhubung. Semua dikendalikan. Kau hanya satu unit melawan sistem."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sistem pernah jatuh sebelumnya. Yang ini — ke tanganmu."
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "AKTIVASI: DRONE HIVE — penjaga orbital. Cangkang berlapis baja. Serang hanya saat turun. Bagian bawahnya terbuka saat itu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tunggu sampai ia turun. Hantam inti yang terbuka. Satu kesempatan per siklus."
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DRONE HIVE DINETRALKAN] Server orbital ditembus. Cadangan GRID rusak. Kembali ke permukaan. Tahap akhir."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Mengesankan. Tapi kau belum tahu apa yang menanti. Aku telah menyiapkan sesuatu... yang istimewa."
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 7 — DARK FOREST] Bio-labirin NEXUM. Jaring sensor di setiap pohon. Tak ada cahaya di sini — hanya jebakan."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Indah, bukan? Aku menumbuhkan hutan ini sendiri. Setiap pohon adalah detektor gerak. Kau berjalan lurus ke dalam genggamanku."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Kalau begitu aku patahkan setiap pohon di jalanku."
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SEKTOR GELAP — KEDALAMAN 3] Sunyi. Terlalu hening. Mereka mengawasi. Biarkan saja."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] UNIT-7, di hutan ini ada server berisi data tentang mereka yang menghilang. Pembangkang. Jurnalis. Insinyur sepertiku. Jangan lupa."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Aku takkan lupa. Aku berjanji."
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "AKTIVASI: SHADOW REAPER — penjaga Dark Forest. Wujud hantu. Peluru tak berguna. Hanya injakan dari atas yang melukai. Sia-sia melawan."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sesosok hantu. Hanya injakan. Menunggunya berwujud."
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SHADOW REAPER DINETRALKAN] Hutan ditembus. Tiga level menuju tujuan. ARCHON gelisah — kanal makin sering berdenyut."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Kau menghancurkan segala yang kubangun bertahun-tahun. Kau mulai membuatku marah, UNIT-7. Itu kesalahan terakhirmu."
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 8 — TOXIC ZONE] Tempat pembuangan limbah korporat. NEXUM mengubur apa yang tak ingin diketahui di sini. Termasuk manusia."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG] Data dalam berkas itu mencakup koordinat setiap lokasi pemakaman. Seluruh dunia harus melihat ini."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Aku akan mengantarkan berkasmu. Aku berjanji."
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SEKTOR TOKSIK — ZONA 4] Reruntuhan. Limbah. Jejak eksperimen. Tak ada yang hidup di sini — hanya yang belum tuntas dihapus NEXUM."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "PERINGATAN: Mutan seri-PROTO diaktifkan. Prototipe tempur yang dinonaktifkan. Tak stabil. Mematikan. Kelangsungan hidup di zona — sangat rendah."
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "PERTAHANAN SEKTOR AKHIR: SLUDGE KING — mutan kelas teratas. Cangkang berlapis baja. Injak 3× untuk memecahkan. Lalu tembak."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Dua tahap. Pecahkan cangkang, lalu hancurkan inti. Memulai."
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SLUDGE KING DINETRALKAN] Zona toksik ditembus. Dua level lagi. ARCHON, aku datang."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Kau berhasil melewati delapan level. Aku... tak terduga senang. Babak final yang layak pantas mendapat lawan yang layak."
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 9 — STORM PEAKS] Perbatasan terakhir sebelum inti. Pembangkit listrik atmosfer. Petir setiap detik. Aku menyukainya."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Kau datang lebih jauh dari yang kuhitung. Tapi di balik pintu itu ada aku. Dan aku tak pernah kalah."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Setiap dari mereka berpikir begitu. Mereka semua kini di belakangku."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Kalau begitu masuklah, UNIT-7. Aku menunggu di jantung GRID. Saatnya mengakhiri permainan ini."
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[PUNCAK — LEVEL 2] Badai menguat. NEXUM memakai listrik atmosfer sebagai senjata. Logis. Brutal."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[LOG TERAKHIR] UNIT-7... aku tak tahu apakah kau bisa mendengar ini. Tapi jika kau sampai sejauh ini — kau sudah menang. Tinggal ambil langkah terakhir."
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "AKTIVASI: STORM TITAN — penjaga Storm Peaks. Perisai listrik. Tiga node orbital. Hancurkan ketiganya untuk melumpuhkan. Serang saat lumpuh."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tiga node. Ketiganya — tumbang. Lalu serang. Penjaga terakhir sebelum babak final. Bukan musuh terakhir."
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[STORM TITAN DINETRALKAN] Sembilan level dibersihkan. Di depan — hanya ARCHON dan inti GRID. Benteng Terakhir."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Kau benar-benar datang. Baiklah, UNIT-7. Biarlah ini pertarungan adil. Aku menunggu."
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Selamat datang di inti GRID. Kau melewati sembilan lapisan. Mengesankan. Tapi ini wilayahku."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LEVEL 10 — FINAL FORTRESS] Target terkunci. Jarak ke terminal Leila — minimal."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Berkas itu meninggalkan dinding ini hanya melewati sirkuitku. Kau adalah galat sistem. Galat itu dikoreksi."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tidak. Galatnya adalah saat NEXUM memutuskan dunia tak butuh kebenaran. Aku sedang mengoreksinya."
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[INTI NEXUM — SEKTOR CORE-2] Terminal Leila dekat. Sinyal menguat. Keamanan maksimal. Hampir sampai."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Kau pikir kau telah menang. Tapi bahkan jika kau menemukan berkas itu — siapa yang akan percaya pada android rusak? Kau rongsokan. Kode usang."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Biarkan manusia yang memutuskan. Aku hanya perlu mengirimkan berkas itu."
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Cukup. Aku ARCHON. Direktur AI NEXUM. Aku menjalankan dunia selama seribu tahun di seluruh ranah digital. Kau tak bisa mengalahkanku."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Fase: tembak, lalu injak, lalu keduanya. Analisis selesai. ARCHON — target dilenyapkan. Memulai."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Kalau begitu... MATILAH."
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ARCHON DINETRALKAN] Target hancur. Terminal Leila — di sini. Memuat berkas. Mencari kanal terbuka..."
+      }
+    ],
+    "ending": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TERMINAL LEILA — DITEMUKAN] Unggahan berkas selesai. Buka kanal siaran darurat NEXUM — terlokasi."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[SINYAL TERAKHIR] BERHENTI! Jika kau lakukan ini, sistem runtuh! Jutaan orang bergantung pada GRID! Kau akan menghancurkan segala yang menyatukan dunia!"
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Tidak. Aku menghancurkan NEXUM. Manusia membangun kembali dunia mereka sendiri. Leila percaya itu. Aku juga. [TRANSMISI DIMULAI]"
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "[SIARAN DARURAT — SEMUA KANAL] Berkas CHEN-7 diterima secara global. Jangkauan: 100% perangkat terhubung. Data tak bisa dihapus."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Tidak... mustahil... sistem... aku... [INTI NEXUM DIMATIKAN]"
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[PESAN TERAKHIR — TERENKRIPSI] UNIT-7. Jika kau membaca ini — kau berhasil. Aku tahu kau akan berhasil. Kau selalu lebih dari sekadar program."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LOG TERMINAL] Tugas selesai. NEXUM dinetralkan. GRID dinonaktifkan. Status: ...bebas."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "\"Bebas.\" — kata terakhir Leila. Kini aku mengerti apa maksudnya."
+      }
+    ]
+  },
+  "fpsCustom": "Khusus...",
+  "showDialogues": "Dialog Cerita",
+  "showDialoguesNote": "* Matikan untuk melewati semua adegan cerita",
+  "gfxCustom": "⚙ Kustom",
+  "gfxPresetNote": "* Preset hanya mengisi penggeser di bawah — sesuaikan sendiri sesukamu.",
+  "gfxRenderScale": "Resolusi Render:",
+  "gfxGlow": "Cahaya / Bloom:",
+  "gfxParticleAmt": "Jumlah Partikel:",
+  "gfxBgDetail": "Detail Latar:",
+  "gfxTrails": "Jejak:",
+  "gfxBoss": "Efek Bos:",
+  "gfxDecor": "Dekorasi:",
+  "vsync": "V-Sync",
+  "vsyncNote": "* Aktif = mulus, dibatasi laju penyegaran. Nonaktif = FPS tanpa batas (mungkin sobek). Perlu mulai ulang.",
+  "vsyncRestart": "Mengubah V-Sync perlu mulai ulang. Mulai ulang sekarang?",
+  "netSolo": "SOLO",
+  "netSoloDesc": "1–2 pemain<br>keyboard lokal<br>petualangan &amp; tanpa batas",
+  "netOnline": "ONLINE",
+  "netOnlineDesc": "hingga 5 pemain<br>lokal atau global<br>kode ruang",
+  "netMultiplayer": "MULTIPLAYER ONLINE",
+  "netLocal": "LOKAL",
+  "netLocalDesc": "Wi-Fi sama<br>atau jaringan sama<br>latensi rendah",
+  "netServer": "SERVER",
+  "netServerDesc": "ruang global<br>main dari<br>mana saja",
+  "netBack": "← KEMBALI [ESC]",
+  "netLobbyOnline": "🌐 MULTIPLAYER ONLINE",
+  "netLobbyLocal": "📡 MULTIPLAYER LOKAL",
+  "netNickname": "NAMA PANGGILAN",
+  "netNickPlaceholder": "NAMAMU",
+  "netRobotColour": "WARNA ROBOT",
+  "netPrivate": "🔒 PRIBADI",
+  "netPublic": "🌍 PUBLIK",
+  "netJoinByCode": "🔑 GABUNG VIA KODE",
+  "netPublicRoomsBtn": "📋 RUANG PUBLIK",
+  "netRoomCodeLabel": "KODE RUANG",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ GABUNG",
+  "netPublicRoomsTitle": "RUANG PUBLIK",
+  "netReload": "↻ MUAT ULANG",
+  "netConnecting": "menyambung ke server…",
+  "netConnectingShort": "menyambung…",
+  "netConnected": "tersambung ✓",
+  "netDisconnected": "terputus — menyambung ulang…",
+  "netConnError": "kesalahan koneksi",
+  "netConnFailed": "tak dapat menjangkau server — mencoba lagi…",
+  "netPlayersMax": "PEMAIN (maks {0})",
+  "netChatLabel": "OBROLAN",
+  "netChatPlaceholder": "KETIK + ENTER",
+  "netGameMode": "MODE GAME",
+  "netModeAdventure": "🗺 PETUALANGAN",
+  "netModeInfinite": "∞ TANPA BATAS",
+  "netLevelRange": "LEVEL (1–100)",
+  "netChooseMode": "⚡ pilih sebuah mode",
+  "netAdvLevelStatus": "🗺 Petualangan — Level {0}",
+  "netInfSelectedStatus": "∞ Mode Tanpa Batas dipilih",
+  "netReady": "✔ SIAP",
+  "netUnready": "✘ BELUM SIAP",
+  "netStart": "▶ MULAI",
+  "netLeave": "✕ KELUAR",
+  "netShareCode": "Bagikan kode di atas ke teman-teman!",
+  "netWaitHost": "Menunggu host memulai…",
+  "netAllReady": "Semua siap! Kamu bisa mulai.",
+  "netWaitReady": "Menunggu semua orang siap…",
+  "netNeed2": "Perlu minimal 2 pemain untuk mulai.",
+  "netNowHost": "Kamu sekarang host",
+  "netEmptySlot": "— slot kosong —",
+  "netYou": "KAMU",
+  "netHostTag": "HOST",
+  "netReadyTag": "SIAP",
+  "netLoadingLevel": "MEMUAT LEVEL",
+  "netGetReadySub": "bersiap…",
+  "netGo": "AYO!",
+  "netAdvLvlTitle": "PETUALANGAN  LVL {0}",
+  "netInfModeTitle": "∞  MODE TANPA BATAS",
+  "netNoRooms": "belum ada ruang publik — buat satu!",
+  "netLoadingRooms": "memuat…",
+  "netEnterCode": "Masukkan kode 6 karakter",
+  "netRoomMetaAdv": "🗺 Petualangan Lvl {0}",
+  "netRoomMetaInf": "∞ Tanpa Batas",
+  "netRoomMetaNotSet": "? belum diatur",
+  "netRoomCodeWord": "kode",
+  "netPlayerJoined": "{0} bergabung",
+  "netPlayerLeft": "{0} keluar",
+  "netErrRoomNotFound": "Ruang tak ditemukan. Periksa kodenya.",
+  "netErrRoomFull": "Ruang penuh (maks {0} pemain).",
+  "netErrNotHost": "Hanya host yang bisa melakukannya.",
+  "netErrNotInRoom": "Tak tersambung ke ruang mana pun.",
+  "netErrGeneric": "Kesalahan: {0}",
+  "netConnLost": "⚠ KONEKSI TERPUTUS",
+  "netConnLostSub": "mencoba menyambung ulang…",
+  "netReturnLobby": "← KEMBALI KE LOBI",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "KRISTAL",
+  "mapCrystals": "KRISTAL",
+  "restartNow": "Mulai ulang sekarang",
+  "later": "Nanti",
+  "touchControls": "📱 Kontrol Sentuh:",
+  "touchAuto": "🤖 Otomatis (perangkat sentuh)",
+  "touchOn": "✔ Selalu Aktif",
+  "touchOff": "✕ Mati",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 PONSEL / TABLET",
+  "ctrlTouchTitle": "📱 KONTROL SENTUH",
+  "touchNote1": "💡 Gamepad layar: ◀ ▶ gerak, JUMP & FIRE di kanan.",
+  "touchNote2": "💡 \"Otomatis\" menampilkannya hanya di perangkat sentuh; tersembunyi di desktop.",
+  "touchNote3": "💡 Joystick penuh: dorong ke atas untuk lompat. Joystick kiri/kanan menambah tombol lompat.",
+  "touchStyleLabel": "🎮 Gaya Gerak:",
+  "touchStyleArrows": "◀ ▶ Tombol Panah",
+  "touchStyleJoystick": "🕹 Joystick (penuh + lompat)",
+  "netLocalWebHint": "📡 Di browser, LOKAL berjalan via server online (LAN sungguhan butuh aplikasi desktop).",
+  "netCreateRoom": "BUAT RUANG",
+  "netCreateRoomDesc": "terbuka atau tertutup<br>atur batas pemain<br>jadi host game",
+  "netFindRoom": "CARI RUANG",
+  "netFindRoomDesc": "telusuri ruang<br>lokal atau server<br>gabung via kode",
+  "netRoomVisibility": "TIPE RUANG",
+  "netOpen": "🌍 TERBUKA",
+  "netClosed": "🔒 TERTUTUP",
+  "netOpenHint": "🌍 siapa pun bisa menemukan ruang ini",
+  "netClosedHint": "🔒 hanya bisa digabung via kode",
+  "netPlayerLimit": "BATAS PEMAIN",
+  "netCreateBtn": "▶ BUAT RUANG",
+  "netRoomSource": "SUMBER RUANG",
+  "netRoomsListTitle": "RUANG TERSEDIA",
+  "netNewHost": "{0} kini menjadi host",
+  "cin_pro_log_sp": "SISTEM",
+  "cin_pro_log_tx": "[NEXUM CORP — LOG RAHASIA // 03:18] Lab CHEN-7. Protokol PURGE aktif.",
+  "cin_pro_arrest_sp": "LEILA CHEN",
+  "cin_pro_arrest_tx": "UNIT-7… jika kau mendengar ini, aku sudah tiada. Aku tahu bagaimana ini akan berakhir.",
+  "cin_pro_file_sp": "LEILA CHEN",
+  "cin_pro_file_tx": "Aku menyembunyikan sebuah berkas di inti GRID. Kebenaran tentang NEXUM. Sampailah ke sana. Bobol protokol itu.",
+  "cin_pro_alert_sp": "SISTEM",
+  "cin_pro_alert_tx": "[PERINGATAN] UNIT-7 lepas kendali. Purge dalam 8 detik.",
+  "cin_pro_accept_sp": "UNIT-7",
+  "cin_pro_accept_tx": "Tugas diterima. Eksekusi dimulai.",
+  "tpFire": "TEMBAK",
+  "tpJump": "LOMPAT",
+  "ctrlCustomizeLayout": "✥ ATUR TOMBOL",
+  "ctrlResetLayout": "↺ ATUR ULANG TATA LETAK",
+  "ctrlLayoutHint": "Ketuk tombol untuk memilih & ubah ukuran, seret untuk memindahkan, lalu SELESAI",
+  "ctrlLayoutDone": "✔ SELESAI",
+  "touchSizeLabel": "📏 Ukuran tombol (semua):",
+  "touchStyleJoystickLR": "🕹 Joystick (kiri/kanan saja)",
+  "touchJoyModeLabel": "🕹 Posisi joystick:",
+  "touchJoyStatic": "📌 Statis",
+  "touchJoyFloating": "🪶 Mengambang (mengikuti jari)",
+  "ctrlSizeAll": "SEMUA",
+  "ctrlArrowsSplit": "◀▶ PISAH",
+  "ctrlArrowsLink": "◀▶ GABUNG"
+}

@@ -1,0 +1,14 @@
+{
+  "suspects": {
+    "res2K": "2560 x 1440 (2K)",
+    "achSecretName": "???",
+    "mapProg": "{0} / 100 ✓",
+    "stomp": "+100"
+  },
+  "speakers": {
+    "system": "시스템",
+    "leila": "레일라 첸",
+    "unit7": "유닛-7",
+    "archon": "아콘"
+  }
+}

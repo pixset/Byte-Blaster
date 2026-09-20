@@ -1,0 +1,1246 @@
+{
+  "score": "スコア",
+  "total": "合計",
+  "levelScoreLabel": "レベルスコア: {0}",
+  "totalScoreLabel": "合計スコア: {0}",
+  "lives": "残機",
+  "level": "レベル",
+  "time": "タイム",
+  "mode": "モード",
+  "blaster": "ブラスター",
+  "coins": "コイン",
+  "bonusFire": "ファイア",
+  "bonusIce": "アイス",
+  "bonusStar": "スター",
+  "bonusBoots": "ブーツ",
+  "modSpeedrun": "スピードラン",
+  "modStealth": "ステルス — 光を避けろ",
+  "modLowGravity": "低重力",
+  "modHighGravity": "高重力",
+  "modWind": "強風",
+  "modSlippery": "滑る床",
+  "modDarkness": "暗闇",
+  "tierPerfect": "★ パーフェクト!",
+  "tierGreat": "グレート!",
+  "tierGood": "グッド",
+  "tierBase": "ベース",
+  "heightBonus": "+{0} 高さボーナス",
+  "bossArena": "⚠ ボスアリーナ ⚠",
+  "hpBonus": "+1 残機!",
+  "repaired": "修復!",
+  "newBest": "新記録!",
+  "completeMore": "✗ あと {0} レベルクリア",
+  "subtitle": "サイバーパンク ネオン プラットフォーマー",
+  "play": "▶ プレイ",
+  "settings": "⚙ 設定",
+  "exit": "🚪 終了",
+  "selectSave": "セーブを選択",
+  "slot": "スロット",
+  "slotEmpty": "— 空き —",
+  "slotNewGame": "✚ ニューゲーム",
+  "slotContinue": "▶ つづきから",
+  "slotDelete": "🗑 削除",
+  "slotDeleteConfirm": "削除しますか?",
+  "slotLevels": "レベル: {0}/100",
+  "slotHardcore": "ハードコア: {0}/100",
+  "slotAch": "実績: {0}",
+  "slotBest": "ベストスコア: {0}",
+  "bestScore": "ベスト: {0}",
+  "legend1": "矢印 / WASD — 移動  |  スペース / 上 — ジャンプ (×2)",
+  "legend2": "Z / X / CTRL — 射撃 (ブラスターが必要)  |  ESC — ポーズ",
+  "legend3": "🟡 金ブロックを下から叩け  |  敵を上から踏みつけろ",
+  "paused": "⏸ ポーズ",
+  "resume": "▶ 再開",
+  "map": "🗺 マップ",
+  "menu": "⬅ メニュー",
+  "escResume": "ESC — 再開",
+  "selectMode": "モード選択",
+  "onePlayer": "👤 1人プレイ",
+  "twoPlayer": "👥 2人プレイ",
+  "p2hint": "P1: WASD + Z/X 射撃  |  P2: ← → ↑ + . / , 射撃",
+  "adventure": "アドベンチャー",
+  "advDesc": "100の個性的なレベル<br>10のテーマワールド<br>レベルごとのタイマー<br>進行状況を保存",
+  "infinite": "エンドレス",
+  "infDesc": "無限マップ<br>難易度上昇<br>時間との勝負<br>自己ベスト更新",
+  "back": "← もどる [ESC]",
+  "selectDiff": "難易度選択",
+  "normal": "ノーマル",
+  "hardcore": "ハードコア",
+  "normDesc": "標準の敵<br>残機3でスタート<br>進行状況を保存",
+  "hardDescLocked": "まずノーマル<br>モードをクリアして<br>アンロック",
+  "advMap": "🗺 アドベンチャーマップ",
+  "mapFoot": "解放済みレベルをクリック • 時間内にクリア • 被弾時はその場で復活",
+  "getReady": "準備して...",
+  "csHint": "▶ スペース / クリック — 次へ",
+  "hintBar": "矢印/WASD — 移動  |  スペース — ジャンプ  |  Z/X — 射撃 (ブラスター)  |  ESC — ポーズ",
+  "gameOver": "ゲームオーバー",
+  "youWin": "勝利!",
+  "betterLuck": "次回がんばろう",
+  "allComplete": "全100レベルクリア!",
+  "retry": "↩ リトライ",
+  "levelFailed": "レベル {0} 失敗",
+  "scoreLabel": "スコア: {0}",
+  "finalScore": "最終スコア: {0}",
+  "levelClear": "レベル {0} クリア!",
+  "timeBonus": "+タイムボーナス: {0}",
+  "settingsTitle": "設定",
+  "lang": "言語:",
+  "windowRes": "ウィンドウ解像度:",
+  "resDefault": "1600 x 900 (デフォルト)",
+  "resFullHD": "1920 x 1080 (フルHD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "カスタム",
+  "resNote": "* ウィンドウサイズを変更します",
+  "gameScale": "ゲームスケール:",
+  "scaleAuto": "自動フィット (推奨)",
+  "scaleNote": "* 自動フィットはアスペクト比を保ちつつウィンドウを埋めます",
+  "fpsLimit": "FPS制限:",
+  "fpsNoLimit": "制限なし",
+  "fpsNote": "* 最大フレームレートを制限します",
+  "showFps": "FPSカウンターを表示",
+  "gfxQuality": "グラフィック品質:",
+  "gfxNote": "* 初回起動時に自動検出されます",
+  "windowMode": "ウィンドウモード:",
+  "windowed": "🪟 ウィンドウ",
+  "fullscreen": "⛶ フルスクリーン",
+  "borderless": "▣ ボーダーレス",
+  "audioSettings": "オーディオ設定:",
+  "masterVolume": "マスター音量:",
+  "musicVolume": "音楽音量:",
+  "sfxVolume": "効果音音量:",
+  "gameplaySettings": "ゲームプレイ設定:",
+  "screenShake": "画面シェイク",
+  "shakeIntensity": "シェイク強度:",
+  "particles": "パーティクル",
+  "combatText": "フローティングコンバットテキスト",
+  "autoSave": "自動セーブ",
+  "showHints": "ヒントバーを表示",
+  "save": "保存",
+  "cancel": "キャンセル",
+  "achievements": "🏆 実績",
+  "achievementUnlocked": "実績解除!",
+  "achRarity": "レア度",
+  "achUnlockedCount": "解除済み",
+  "achTitle": "実績",
+  "achSecretName": "???",
+  "achSecretDesc": "シークレット実績 — 解除して内容を表示",
+  "close": "閉じる",
+  "tabDisplay": "ディスプレイ",
+  "tabGraphics": "グラフィック",
+  "tabAudio": "オーディオ",
+  "tabGameplay": "ゲームプレイ",
+  "tabGeneral": "一般",
+  "tabControls": "操作",
+  "controlsP1": "🎮 プレイヤー1 / 1人プレイ",
+  "controlsP2": "🎮 プレイヤー2 (2人プレイモード)",
+  "ctrlMove": "左右移動:",
+  "ctrlMoveLeft": "左移動:",
+  "ctrlMoveRight": "右移動:",
+  "ctrlRebindHint": "💡 キーをクリックし、新しいキーを押して割り当て (ESCでキャンセル)",
+  "ctrlReset": "デフォルトに戻す",
+  "ctrlJump": "ジャンプ (2段ジャンプ):",
+  "ctrlShoot": "射撃 (ブラスター):",
+  "ctrlPause": "ポーズ:",
+  "ctrlNote1": "💡 1人プレイではWASDまたは矢印キーが使えます",
+  "ctrlNote2": "💡 敵の上に飛び乗って踏みつけよう",
+  "ctrlNote3": "💡 金ブロックを下から叩いてコインを獲得",
+  "infDescUnlocked": "無限マップ<br>難易度上昇<br>時間との勝負<br>自己ベスト更新",
+  "infDescLocked": "全100の<br>アドベンチャーレベルを<br>クリアでアンロック<br><span style=\"color:#f80\">残り {0}</span>",
+  "hardDescUnlocked": "★★★ エクストリーム ★★★<br>全敵に+1 hp<br>2× スコア<br>タイマー短縮",
+  "hardDescNeed": "まずノーマル<br>モードをクリアでアンロック<br><span style=\"color:#f80\">残り {0} レベル</span>",
+  "normDescProg": "進行状況: {0}/100<br>残機3でスタート<br>進行状況を保存",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 ハードコア: {0} / 100 ✓",
+  "langName": "日本語",
+  "pBlaster": "ブラスター!",
+  "pLife": "+1 残機 ♥",
+  "pBoots": "スピードブーツ!",
+  "pFire": "🔥 ファイア!",
+  "pIce": "❄ アイス!",
+  "pStar": "★ スター! ★",
+  "p2Blaster": "P2 ブラスター!",
+  "p2Life": "P2 +1 残機 ♥",
+  "p2Boots": "P2 スピードブーツ!",
+  "p2Fire": "P2 🔥 ファイア!",
+  "p2Ice": "P2 ❄ アイス!",
+  "p2Star": "P2 ★ スター! ★",
+  "ouch": "いてっ!",
+  "hit": "ヒット!",
+  "blocked": "ブロック!",
+  "stomp": "+100",
+  "starKO": "スターKO!",
+  "burnTxt": "🔥 炎上!",
+  "frozenTxt": "❄ 凍結!",
+  "noEffect": "効果なし!",
+  "stunned": "スタン!",
+  "stompOnly": "踏みつけのみ!",
+  "crackLeft": "ヒビ! (残り {0})",
+  "shellBroken": "殻が割れた!",
+  "orbDestroyed": "オーブ破壊!",
+  "nodeHit": "ノードにヒット!",
+  "bossDefeated": "ボス撃破!",
+  "phaseN": "フェーズ {0}!",
+  "livesLeft": "残機 {0}",
+  "p2LivesLeft": "P2: 残り {0}",
+  "p2Out": "P2 脱落!",
+  "p1Out": "P1 脱落!",
+  "bossSolid": "★ 実体化 — 今すぐ踏みつけ! ★",
+  "bossGhost": "ゴースト形態 — 待て...",
+  "bossShellShoot": "★ 殻が割れた — コアを撃て! ★",
+  "bossShellStomp": "踏みつけて殻を割れ (残り {0} 回)",
+  "bossPhase1": "フェーズ1 — 目を撃て",
+  "bossPhase2": "フェーズ2 — 上から踏みつけ",
+  "bossPhase3": "フェーズ3 — 射撃 + 踏みつけ",
+  "bossMouthOpen": "★ 口が開いた — 今すぐ撃て! ★",
+  "bossWaitRoar": "咆哮を待つ...",
+  "bossOrbsLeft": "残りオーブ: {0}",
+  "bossShieldsDown": "シールド解除 — 攻撃!",
+  "bossDescending": "★ 降下中 — 攻撃! ★",
+  "bossHovering": "浮遊中 — 降下を待て...",
+  "bossStunned": "★ スタン — 攻撃! ({0}秒) ★",
+  "bossShootNodes": "ノードを撃て: 残り {0}",
+  "bossRespawn": "ノードが再生中...",
+  "bossHint0": "頭を踏みつけろ — 弾は跳ね返る!",
+  "bossHint1": "彼女を撃て — トゲに飛び乗ると自分が痛い!",
+  "bossHint2": "咆哮を待て — 光る口の中を撃て!",
+  "bossHint3": "実体化したら踏みつけろ — 弾はゴーストをすり抜ける!",
+  "bossHint4": "3つのシールドオーブを全て破壊 — そしてコアを攻撃!",
+  "bossHint5": "降下中に攻撃しろ — 上部は装甲で覆われている!",
+  "bossHint6": "踏みつけのみ — 弾は影をすり抜ける!",
+  "bossHint7": "3回踏みつけて殻を割れ — そしてコアを撃て!",
+  "bossHint8": "3つの雷ノードを全て撃ってスタンさせろ — そして攻撃!",
+  "bossHint9": "フェーズ1: 射撃  |  フェーズ2: 目が低い時に踏みつけ  |  フェーズ3: 両方",
+  "gfxVeryLow": "🔴 最低",
+  "gfxLow": "🟠 低",
+  "gfxMedium": "🟡 中",
+  "gfxHigh": "🟢 高",
+  "gfxVeryHigh": "🔵 最高",
+  "gfxUltra": "⚡ ウルトラ",
+  "classifiedLog": "// NEXUM GRID アクセスログ",
+  "skipBtn": "スキップ ▶▶",
+  "theEnd": "おわり",
+  "endingTagline": "NEXUM GRID 確保完了",
+  "world0": "サイバーシティ",
+  "world1": "ネオンジャングル",
+  "world2": "溶岩の世界",
+  "world3": "氷の洞窟",
+  "world4": "砂漠の遺跡",
+  "world5": "宇宙ステーション",
+  "world6": "暗黒の森",
+  "world7": "汚染地帯",
+  "world8": "嵐の山頂",
+  "world9": "最終要塞",
+  "boss0": "ガーディアン-X",
+  "boss1": "ヴァインクイーン",
+  "boss2": "インフェルノコア",
+  "boss3": "アイスファントム",
+  "boss4": "サンドタイタン",
+  "boss5": "ドローンハイヴ",
+  "boss6": "シャドウリーパー",
+  "boss7": "スラッジキング",
+  "boss8": "ストームタイタン",
+  "boss9": "アルコン",
+  "mapWorldMap": "ワールドマップ",
+  "mapHardcoreMap": "ハードコアマップ",
+  "mapCleared": "クリア済み",
+  "mapStars": "スター",
+  "mapBoss": "ボス",
+  "mapBest": "ベスト",
+  "mapLocked": "ロック中",
+  "mapCompleted": "完了",
+  "mapStart": "ENTER / スペースでスタート",
+  "achievement_world_0": "サイバールーキー",
+  "achievement_world_0_desc": "最初の10レベルをクリア (サイバーシティ)",
+  "achievement_world_1": "ジャングル探検家",
+  "achievement_world_1_desc": "レベル11-20をクリア (ネオンジャングル)",
+  "achievement_world_2": "溶岩のサバイバー",
+  "achievement_world_2_desc": "レベル21-30をクリア (溶岩の世界)",
+  "achievement_world_3": "氷の登攀者",
+  "achievement_world_3_desc": "レベル31-40をクリア (氷の洞窟)",
+  "achievement_world_4": "砂漠の放浪者",
+  "achievement_world_4_desc": "レベル41-50をクリア (砂漠の遺跡)",
+  "achievement_world_5": "宇宙の候補生",
+  "achievement_world_5_desc": "レベル51-60をクリア (宇宙ステーション)",
+  "achievement_world_6": "森の守護者",
+  "achievement_world_6_desc": "レベル61-70をクリア (暗黒の森)",
+  "achievement_world_7": "汚染の戦士",
+  "achievement_world_7_desc": "レベル71-80をクリア (汚染地帯)",
+  "achievement_world_8": "嵐のマスター",
+  "achievement_world_8_desc": "レベル81-90をクリア (嵐の山頂)",
+  "achievement_world_9": "要塞の征服者",
+  "achievement_world_9_desc": "レベル91-100をクリア (最終要塞)",
+  "achievement_boss_0": "ボススレイヤー I",
+  "achievement_boss_0_desc": "最初のボスを撃破",
+  "achievement_boss_5": "ボススレイヤー II",
+  "achievement_boss_5_desc": "5体のボスを撃破",
+  "achievement_boss_10": "ボススレイヤー III",
+  "achievement_boss_10_desc": "全10体のボスを撃破",
+  "achievement_perfect_run": "パーフェクトラン",
+  "achievement_perfect_run_desc": "パーフェクト評価でレベルをクリア",
+  "achievement_perfectionist": "完璧主義者",
+  "achievement_perfectionist_desc": "10レベルでパーフェクトを獲得",
+  "achievement_speedrunner": "スピードランナー",
+  "achievement_speedrunner_desc": "半分の時間でレベルをクリア",
+  "achievement_sharpshooter": "シャープシューター",
+  "achievement_sharpshooter_desc": "ブラスターで敵を100体撃破",
+  "achievement_stomper": "ストンパー",
+  "achievement_stomper_desc": "踏みつけで敵を50体撃破",
+  "achievement_coin_1000": "コインコレクター",
+  "achievement_coin_1000_desc": "1000コインを集める",
+  "achievement_coin_5000": "トレジャーハンター",
+  "achievement_coin_5000_desc": "5000コインを集める",
+  "achievement_coin_10000": "ミリオネア",
+  "achievement_coin_10000_desc": "10000コインを集める",
+  "achievement_no_death_10": "サバイバー",
+  "achievement_no_death_10_desc": "ノーミスで10レベルをクリア",
+  "achievement_no_death_world": "不死身",
+  "achievement_no_death_world_desc": "ノーミスでワールドをクリア",
+  "achievement_hardcore_unlock": "ハードコアヒーロー",
+  "achievement_hardcore_unlock_desc": "ハードコアモードをアンロック",
+  "achievement_hardcore_50": "ハードコアマスター",
+  "achievement_hardcore_50_desc": "ハードコアで50レベルをクリア",
+  "achievement_hardcore_100": "ハードコアレジェンド",
+  "achievement_hardcore_100_desc": "ハードコアで全100レベルをクリア",
+  "achievement_cheat_found": "コードブレイカー",
+  "achievement_cheat_found_desc": "秘密のチートコードを発見",
+  "achievement_2player": "レトロゲーマー",
+  "achievement_2player_desc": "2人プレイモードでプレイ",
+  "achievement_all_music": "音楽愛好家",
+  "achievement_all_music_desc": "全10ワールドの音楽を聴く",
+  "achievement_all_cutscenes": "ロアマスター",
+  "achievement_all_cutscenes_desc": "全カットシーンを視聴",
+  "achievement_star_power": "スターパワー",
+  "achievement_star_power_desc": "スターパワーを発動",
+  "achievement_all_levels_unlocked": "探検家",
+  "achievement_all_levels_unlocked_desc": "アドベンチャーの全レベルをアンロック",
+  "achievement_100_percent": "コンプリート",
+  "achievement_100_percent_desc": "ノーマルモードで100%達成",
+  "achievement_100_percent_hardcore": "真のマスター",
+  "achievement_100_percent_hardcore_desc": "ハードコアモードで100%達成",
+  "achievement_infinite_10": "エンドレス初心者",
+  "achievement_infinite_10_desc": "エンドレスモードでレベル10に到達",
+  "achievement_infinite_50": "エンドレスマスター",
+  "achievement_infinite_50_desc": "エンドレスモードでレベル50に到達",
+  "achievement_infinite_100": "エンドレスレジェンド",
+  "achievement_infinite_100_desc": "エンドレスモードでレベル100に到達",
+  "achievement_score_100k": "ハイスコアラー",
+  "achievement_score_100k_desc": "100,000点を獲得",
+  "achievement_score_500k": "スコアマスター",
+  "achievement_score_500k_desc": "500,000点を獲得",
+  "achievement_score_1m": "スコアレジェンド",
+  "achievement_score_1m_desc": "1,000,000点を獲得",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "[NEXUM CORP — 機密ログ // 2147.03.14] セキュリティ侵害。研究施設 CHEN-7 が制圧された。CLEANSEプロトコル始動。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "ユニット-7…もしこれを読んでいるなら、私は脱出に失敗したということ。こうなることは分かっていた。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "私はあなたたちの系列を人々を守るために造った。だがNEXUMは私の研究を、人々を抑圧するために使った。それを見過ごすことはできなかった。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "GRIDコアの奥——最終要塞の中に、私はファイルを隠した。名前。記録。彼らがしたことの真実すべてを。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "十層の防御。数千もの戦闘ユニット。AIディレクター・アルコンが最後の扉を守っている。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "あなたはUNITシリーズ最後の一体。これを成し遂げられる唯一の存在。たどり着いて。プロトコルを破って。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[任務受諾] 目標：GRIDコア。プロトコル：突破。障害物：排除。作戦を開始する。"
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[レベル1 — サイバーシティ] 進入地点：上層地区。カメラ、ドローン、エリート警備兵。美しい。そして致命的だ。"
+      },
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "警報：セクターC-07に未確認のUNITクラスシグネチャ。全パトロール、迎撃せよ。CLEANSEプロトコル発動。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "騒がしいな。つまり奴らは私を恐れている。よし。恐怖は始まりだ。"
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[チェックポイント — サイバーシティ] 第一レベルの半ば。警備が厳しくなっている。ルートを適応中。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[ログ] ユニット-7、すべての壁の向こうには、彼らが消し去った人々のデータがある。止まらないで。これはただの任務ではない。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "レイラ…私は感情を理解できない。だがあなたの声は…私に目的を与える。それで十分だ。"
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "警告：ユニット-7が三レベルを突破。進行速度——予測を上回る。パトロール密度を増加させる。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "奴らは適応する。私もだ。レベルを越えるごとに私は速く、強くなる。目標に近づく。"
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[ログ — 第-3日] 彼らが私を狙いに来るのは分かっている。でも、たとえ一体でもUNITが生き延びれば…あなたが生き延びれば、ユニット-7…"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "私は生き延びた。私はここにいる。あなたの最後の任務を完遂する。約束する。"
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "重大：ユニット-7がサイバーシティの第七レベルに到達。ディレクター・アルコンが目標データを要求。解析中…"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "奴らは理解し始めている。私は単なるシステムの不具合ではない。私はNEXUM全体への脅威だ。そして私は止まらない。"
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "重大警報：主要ノードで侵害発生。GUARDIANを投入——Sクラス戦闘プロトタイプ。作戦：抹消。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "初の本格的な相手。弱点をスキャンする。プロトタイプとスクラップの差は、的確なタイミングのジャンプ数発だ。"
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[GUARDIAN無力化] 第一防御層、突破。GRIDが気づくだろう。先へ進む。"
+      },
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "プロトコル侵害：GUARDIAN破壊。脅威レベルを2に引き上げ。次の防御層を起動。NEXUMは決して許さない。"
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[レベル2 — ネオンジャングル] NEXUMのバイオセクター。変異した生物。この場所に志願する警備兵はいない。"
+      },
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "警告：バイオ境界が突破された。実験的BIOシリーズ生物を起動。接触を許可。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "生物システム。予測不能。だが上から踏みつければ、予測通りに死ぬ。"
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[ジャングル中間地点] センサーが生物学的異常を検知。NEXUMはここで実験をした。生きた被験者で。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[ログ] 報告書でこれらの実験を見た。あの時、すべてを止める方法があるはずだと確信したの。"
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[ジャングル — セクター3] 生物学的変異体だらけだ。これは自然ではない。生命を装った兵器だ。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[ログ] これらの生き物は人間だった。下層セクターからの志願者。NEXUMは治療を約束した。だが代わりに…"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "…代わりに彼らを怪物に変えた。今、理解した。これはただの企業ではない。死の機械だ。"
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "警告：生物標本シリーズBIO-7を起動。最大攻撃性。目標の生存率——12％。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "12％？まだ自分たちの勝算を過大評価している。掃討を続行する。"
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[ログ — 第-1日] ユニット-7、もしジャングルにたどり着いたなら——あなたは私が望んだ以上に進んだ。諦めないで。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "諦める？それは私のプロトコルにはない。私は任務を完遂するために造られた。あなたの任務が私の目標だ。"
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "警告：VINE QUEENを起動——バイオセクター制御生物。封じ込めモジュール停止中。完全攻撃性。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "生きたセキュリティシステムか。見事だ。だがあらゆる生物には弱点がある。それを見つける。"
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[VINE QUEEN無力化] バイオ境界、突破。先へ進む。GRIDの奥深くへ。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[ログ] ユニット-7、あなたは不可能を成し遂げている。進み続けて。"
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[レベル3 — 溶岩世界] 地熱発電所。熱が無防備な回路を溶かす。私のは遮蔽されている。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[ログ] 都市の下に——GRIDの発電機がある。それを破壊すれば、セキュリティ網の半分が崩れる。でも溶岩には気をつけて…"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "レイラはあらゆる細部まで考えていた。最期の時でさえも。"
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[地熱セクターB] エネルギー流が上昇している。NEXUMは溶岩を二次障壁として使っている。効果的だ。"
+      },
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "通知：熱センサーが異常を検知。ユニット-7がゾーン内にいる。警備ロボット——冷却過負荷。故障を予期せよ。"
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[溶岩世界 — レベル3] 温度800℃。冷却システムは最大稼働。だが私は進む。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[ログ] あなたに実験的な耐熱装甲を組み込んだ。持ちこたえてほしい。あなたが持ちこたえてほしい。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "あなたの仕事は完璧だ、レイラ。私は持ちこたえる。あなたのために。"
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "重大：地熱発電機が出力140％。ユニット-7がコアに接近中。緊急冷却を起動。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "奴らはうろたえている。よし。恐怖が奴らを予測可能にする。脆弱にする。"
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[溶岩世界 深部] ここ、都市の下で、NEXUMは最も暗い秘密を隠している。システム全体への電力。これを破壊すれば——GRIDの半分が落ちる。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[ログ] 破壊工作に時間を費やさないで。あなたの目標はコアにあるファイル。それだけが彼らを永遠に止められる。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "了解。目標——ファイル。それ以外はすべて——障害物。障害物を排除する。"
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "危険：INFERNOを起動——熱核セントリー。溶岩外骨格。表面温度：1400℃。抹消の準備をせよ。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "炎は私に触れられない。だが奴が口を開いたら——撃て。弱点を発見した。"
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[INFERNO無力化] 地熱層を制圧。セクターの電力を寸断。上昇する。"
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[レベル4 — 氷の洞窟] NEXUMの冷凍データ保管庫。温度-180℃。システムが鈍化する。移動プロトコルを適応中。"
+      },
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "警報：冷凍セクターD-14で侵害。冷凍ボット——抹消モード。温度を限界まで低下。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "奴らは寒さが私を止めると思っている。間違いだ。私はもっと過酷な環境のために造られた。"
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[冷凍セクターE] ここには数百テラバイト。GRID上のすべての人間のデータ。NEXUMは誰もかもすべてを知っている。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[ログ] ここに彼らは個人ファイルを保管している。活動家のもの。逆らおうとした者すべてのもの。世界はこれを見る必要がある。"
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "重大：ICE PHANTOMを起動——冷凍セントリー。相転移する。固体時は脆弱。幽体時は触れられない。幸運を。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "状態を切り替える。固体の時だけ攻撃する。その瞬間を待つ。"
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[ICE PHANTOM無力化] 冷凍保管庫を破壊。先へ進む。四レベル踏破——残り六。"
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[レベル5 — 砂漠の廃墟] NEXUM以前の世界の残骸。都市。生命。彼らが利益のために消し去ったものたち。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[ログ] これらの廃墟はNEXUM以前に存在していたもの。彼らが世界に何をしたか見て。そして止まらないで。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "見ている。なぜ私が歩み続けるのか、理解した。"
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[廃墟 — 西部セクター] 最初の企業戦争以来稼働しているプロトガーディアン。旧式。だが頑固だ。NEXUMそのもののように。"
+      },
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "アーカイブプロトコル：UNITクラス・シリーズ7を検出。このクラスは破壊対象として登録されている。優先度最大。"
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "起動：SAND TITAN——砂漠の廃墟の古代セントリー。軌道シールド。シールドなくして、ダメージなし。目標：破壊。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "シールド。軌道型。それを破壊すれば奴は無防備になる。シールドに三発、それから直接攻撃する。"
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[SAND TITAN無力化] 砂漠セクター、突破。折り返し地点。NEXUMはうろたえ始めている——それを感じる。"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "[最初のシグナル] ユニット-7。見えているぞ。進み続けろ。その方がフィナーレが…より面白くなる。"
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[レベル6 — 宇宙ステーション] GRIDの軌道サーバー。すべてのバックアップがここに保管されている。無重力。"
+      },
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "重大障害：ユニット-7が軌道区画に到達。ディレクター・アルコンが直接チャンネルを要求。接続中…"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "ユニット-7。見えているぞ。真実のために戦っているつもりか？お前は旧式コードで動くただのプログラムだ。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "ならばこのプログラムがお前を破壊する。"
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[軌道ノードB] ここから地球が見える。世界全体がNEXUMに繋がれている。それこそ私が変えるために来たものだ。"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "我が規模が見えるか、ユニット-7？数十億のノード。すべて繋がり、すべて支配されている。お前はシステムに対するたった一体のユニットだ。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "システムはこれまでも崩れてきた。今度のは——お前のだ。"
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "起動：DRONE HIVE——軌道セントリー。装甲殻。降下中のみ攻撃せよ。その時に下腹部が露出する。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "降下するまで待つ。露出したコアを撃つ。サイクルごとに一度の好機。"
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[DRONE HIVE無力化] 軌道サーバー、突破。GRIDのバックアップを破損させた。地表に帰還する。最終局面だ。"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "見事だ。だがお前はまだ何が待っているか知らない。私は何か…特別なものを用意した。"
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[レベル7 — 闇の森] NEXUMのバイオ迷路。一本一本の木にセンサー網。ここに光はない——あるのは罠だけだ。"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "美しいだろう？この森は私自身が育てた。すべての木が動体検知器だ。お前はまっすぐ私の手の中へ歩いている。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "ならば、行く手のすべての木を叩き折る。"
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[闇のセクター — 深度3] 静寂。静かすぎる。奴らは見ている。見させておけ。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[ログ] ユニット-7、この森の中に、消えた者たちのデータが入ったサーバーがある。反体制派。ジャーナリスト。私のような技術者。忘れないで。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "忘れない。約束する。"
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "起動：SHADOW REAPER——闇の森のセントリー。幻影形態。銃弾は無効。上からの踏みつけのみがダメージを与える。抵抗は無意味。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "幽霊か。踏みつけのみ。実体化するのを待つ。"
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[SHADOW REAPER無力化] 森を突破。目標まで三レベル。アルコンは落ち着かない——チャンネルへの呼び出しが頻繁になっている。"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "お前は私が何年もかけて築いたものすべてを破壊している。私を怒らせ始めたな、ユニット-7。それがお前の最後の過ちだ。"
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[レベル8 — 汚染地帯] 企業廃棄物処分場。NEXUMは知られたくないものをここに埋める。人間も含めて。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[ログ] ファイルのデータには、すべての埋葬地の座標が含まれている。世界全体がこれを見なければならない。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "あなたのファイルを届ける。約束する。"
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[汚染セクター — ゾーン4] 残骸。廃棄物。実験の痕跡。ここに生きているものはない——あるのはNEXUMが消し切れなかったものだけだ。"
+      },
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "警告：PROTOシリーズの変異体を起動。廃棄された戦闘プロトタイプ。不安定。致命的。ゾーン生存率——危機的に低い。"
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "最終セクター防衛：SLUDGE KING——最上位の変異体。装甲殻。3回踏みつけて破壊せよ。それから撃て。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "二段階。殻を割り、それからコアを破壊する。開始する。"
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[SLUDGE KING無力化] 汚染地帯、突破。残り二レベル。アルコン、私は行くぞ。"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "八レベルを突破したか。私は…予想外に満足している。価値あるフィナーレには、価値ある相手がふさわしい。"
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[レベル9 — 嵐の峰] コア前の最後の防衛線。大気発電所。毎秒の落雷。気に入った。"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "計算していた以上に進んできたな。だがあの扉の向こうにいるのは私だ。そして私は負けない。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "奴らは皆そう思っていた。今や全員、私の後ろだ。"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "ならば入れ、ユニット-7。私はGRIDの中心で待っている。このゲームを終わらせる時だ。"
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[峰 — レベル2] 嵐が激化している。NEXUMは大気電気を兵器として使う。論理的。残虐だ。"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[最終ログ] ユニット-7…これが聞こえているか分からない。でも、ここまで来たなら——あなたはもう勝っている。あとは最後の一歩を踏み出すだけ。"
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "起動：STORM TITAN——嵐の峰のセントリー。電気シールド。三つの軌道ノード。三つすべてを破壊して気絶させよ。気絶中に攻撃せよ。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "三つのノード。三つとも——破壊。それから攻撃。フィナーレ前の最後のセントリー。最後の敵ではない。"
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[STORM TITAN無力化] 九レベル制覇。この先は——アルコンとGRIDコアのみ。最終要塞。"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "…本当に来たか。いいだろう、ユニット-7。正々堂々と戦おう。待っている。"
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "ユニット-7。GRIDコアへようこそ。九つの層を越えてきたか。見事だ。だがここは私の領域だ。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[レベル10 — 最終要塞] 目標を捕捉。レイラの端末までの距離——わずか。"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "あのファイルがこの壁を出るには、私の回路を越えねばならない。お前はシステムエラーだ。エラーは修正される。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "違う。エラーは、NEXUMが世界に真実は不要だと決めたことだ。私はそれを修正している。"
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[NEXUMコア — セクターCORE-2] レイラの端末が近い。信号が強まっている。セキュリティは最大。もうすぐだ。"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "勝ったつもりか。だがたとえファイルを見つけても——壊れたアンドロイドの言うことを誰が信じる？お前はスクラップだ。旧式コードだ。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "人々に決めさせる。私はただファイルを送信すればいい。"
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "もう十分だ。私はアルコン。NEXUMのAIディレクター。千年もの間、デジタル領域全体にわたって世界を統治してきた。お前に私は倒せない。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "フェーズ：撃つ、それから踏む、それから両方。解析完了。アルコン——目標を抹消する。開始する。"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "ならば…死ね。"
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[アルコン無力化] 目標破壊。レイラの端末——ここだ。ファイルを読み込む。開いたチャンネルを探索中…"
+      }
+    ],
+    "ending": [
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[レイラの端末 — 発見] ファイルのアップロード完了。NEXUM緊急放送チャンネルを開く——発見した。"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "[最後のシグナル] やめろ！それをすればシステムが崩壊する！何百万もの人間がGRIDに依存している！世界を繋ぎ止めているものすべてを破壊することになるぞ！"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "違う。私が破壊するのはNEXUMだ。人々は自分たちで世界を再建する。レイラはそう信じていた。私もだ。[送信開始]"
+      },
+      {
+        "sp": "システム",
+        "k": "system",
+        "text": "[緊急放送 — 全チャンネル] ファイル CHEN-7 を全世界で受信。到達範囲：接続デバイスの100％。データは削除不能。"
+      },
+      {
+        "sp": "アルコン",
+        "k": "archon",
+        "text": "…まさか…ありえない…システムが…私が…[NEXUMコア停止]"
+      },
+      {
+        "sp": "レイラ・チェン",
+        "k": "leila",
+        "text": "[最後のメッセージ — 暗号化] ユニット-7。これを読んでいるなら——あなたはやり遂げた。そうすると分かっていた。あなたはいつだって、ただのプログラム以上の存在だった。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "[端末ログ] 任務完了。NEXUM無力化。GRID停止。ステータス：…自由。"
+      },
+      {
+        "sp": "ユニット-7",
+        "k": "unit7",
+        "text": "「自由」——レイラの最後の言葉。今、彼女が何を意味していたのか理解した。"
+      }
+    ]
+  },
+  "fpsCustom": "カスタム...",
+  "showDialogues": "ストーリー会話",
+  "showDialoguesNote": "* オフにするとすべてのストーリー演出をスキップします",
+  "gfxCustom": "⚙ カスタム",
+  "gfxPresetNote": "* プリセットは下のスライダーを埋めるだけ — 各自で調整してください。",
+  "gfxRenderScale": "レンダー解像度:",
+  "gfxGlow": "グロー / ブルーム:",
+  "gfxParticleAmt": "パーティクル量:",
+  "gfxBgDetail": "背景の詳細:",
+  "gfxTrails": "軌跡:",
+  "gfxBoss": "ボス演出:",
+  "gfxDecor": "装飾:",
+  "vsync": "V-Sync（垂直同期）",
+  "vsyncNote": "* オン = 滑らか、リフレッシュレートに制限。オフ = FPS無制限（ティアリングの可能性）。再起動が必要です。",
+  "vsyncRestart": "V-Syncの変更には再起動が必要です。今すぐ再起動しますか？",
+  "netSolo": "ソロ",
+  "netSoloDesc": "1〜2人<br>ローカルキーボード<br>アドベンチャー &amp; エンドレス",
+  "netOnline": "オンライン",
+  "netOnlineDesc": "最大5人<br>ローカルまたは全世界<br>ルームコード",
+  "netMultiplayer": "オンラインマルチプレイ",
+  "netLocal": "ローカル",
+  "netLocalDesc": "同じWi-Fi<br>またはネットワーク<br>低遅延",
+  "netServer": "サーバー",
+  "netServerDesc": "全世界のルーム<br>どこからでも<br>プレイ",
+  "netBack": "← もどる [ESC]",
+  "netLobbyOnline": "🌐 オンラインマルチプレイ",
+  "netLobbyLocal": "📡 ローカルマルチプレイ",
+  "netNickname": "ニックネーム",
+  "netNickPlaceholder": "あなたの名前",
+  "netRobotColour": "ロボットの色",
+  "netPrivate": "🔒 プライベート",
+  "netPublic": "🌍 パブリック",
+  "netJoinByCode": "🔑 コードで参加",
+  "netPublicRoomsBtn": "📋 公開ルーム",
+  "netRoomCodeLabel": "ルームコード",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ 参加",
+  "netPublicRoomsTitle": "公開ルーム",
+  "netReload": "↻ 更新",
+  "netConnecting": "サーバーに接続中…",
+  "netConnectingShort": "接続中…",
+  "netConnected": "接続完了 ✓",
+  "netDisconnected": "切断されました — 再接続中…",
+  "netConnError": "接続エラー",
+  "netConnFailed": "サーバーに接続できません — 再試行中…",
+  "netPlayersMax": "プレイヤー (最大 {0})",
+  "netChatLabel": "チャット",
+  "netChatPlaceholder": "入力 + ENTER",
+  "netGameMode": "ゲームモード",
+  "netModeAdventure": "🗺 アドベンチャー",
+  "netModeInfinite": "∞ エンドレス",
+  "netLevelRange": "レベル (1〜100)",
+  "netChooseMode": "⚡ モードを選択",
+  "netAdvLevelStatus": "🗺 アドベンチャー — レベル {0}",
+  "netInfSelectedStatus": "∞ エンドレスモード選択中",
+  "netReady": "✔ 準備完了",
+  "netUnready": "✘ 準備解除",
+  "netStart": "▶ スタート",
+  "netLeave": "✕ 退出",
+  "netShareCode": "上のコードを友だちにシェアしよう！",
+  "netWaitHost": "ホストの開始を待っています…",
+  "netAllReady": "全員準備完了！スタートできます。",
+  "netWaitReady": "全員の準備を待っています…",
+  "netNeed2": "スタートには最低2人のプレイヤーが必要です。",
+  "netNowHost": "あなたがホストになりました",
+  "netEmptySlot": "— 空きスロット —",
+  "netYou": "あなた",
+  "netHostTag": "ホスト",
+  "netReadyTag": "準備完了",
+  "netLoadingLevel": "レベル読み込み中",
+  "netGetReadySub": "準備して…",
+  "netGo": "ゴー！",
+  "netAdvLvlTitle": "アドベンチャー  レベル {0}",
+  "netInfModeTitle": "∞  エンドレスモード",
+  "netNoRooms": "今は公開ルームがありません — 作ってみよう！",
+  "netLoadingRooms": "読み込み中…",
+  "netEnterCode": "6文字のコードを入力してください",
+  "netRoomMetaAdv": "🗺 アドベンチャー レベル {0}",
+  "netRoomMetaInf": "∞ エンドレス",
+  "netRoomMetaNotSet": "? 未設定",
+  "netRoomCodeWord": "コード",
+  "netPlayerJoined": "{0} が参加しました",
+  "netPlayerLeft": "{0} が退出しました",
+  "netErrRoomNotFound": "ルームが見つかりません。コードを確認してください。",
+  "netErrRoomFull": "ルームは満員です (最大 {0} 人)。",
+  "netErrNotHost": "ホストのみが実行できます。",
+  "netErrNotInRoom": "ルームに接続していません。",
+  "netErrGeneric": "エラー: {0}",
+  "netConnLost": "⚠ 接続が切れました",
+  "netConnLostSub": "再接続を試みています…",
+  "netReturnLobby": "← ロビーに戻る",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "クリスタル",
+  "mapCrystals": "クリスタル",
+  "restartNow": "今すぐ再起動",
+  "later": "後で",
+  "touchControls": "📱 タッチ操作：",
+  "touchAuto": "🤖 自動（タッチデバイス）",
+  "touchOn": "✔ 常にオン",
+  "touchOff": "✕ オフ",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 スマホ / タブレット",
+  "ctrlTouchTitle": "📱 タッチ操作",
+  "touchNote1": "💡 画面ゲームパッド：◀ ▶ 移動、JUMP と FIRE は右側。",
+  "touchNote2": "💡 「自動」はタッチデバイスでのみ表示。デスクトップでは非表示。",
+  "touchNote3": "💡 フルジョイスティック：上に倒すとジャンプ。左右ジョイスティックには別のジャンプボタンが付きます。",
+  "touchStyleLabel": "🎮 移動スタイル：",
+  "touchStyleArrows": "◀ ▶ 矢印ボタン",
+  "touchStyleJoystick": "🕹 ジョイスティック（フル＋ジャンプ）",
+  "netLocalWebHint": "📡 ブラウザでは「ローカル」はオンラインサーバー経由で動作します（真のLANはデスクトップ版が必要）。",
+  "netCreateRoom": "ルーム作成",
+  "netCreateRoomDesc": "公開または非公開<br>プレイヤー上限を設定<br>ゲームをホスト",
+  "netFindRoom": "ルーム検索",
+  "netFindRoomDesc": "ルームを閲覧<br>ローカルまたはサーバー<br>コードで参加",
+  "netRoomVisibility": "ルームタイプ",
+  "netOpen": "🌍 公開",
+  "netClosed": "🔒 非公開",
+  "netOpenHint": "🌍 誰でもこのルームを見つけられます",
+  "netClosedHint": "🔒 コードでのみ参加可能",
+  "netPlayerLimit": "プレイヤー上限",
+  "netCreateBtn": "▶ ルーム作成",
+  "netRoomSource": "ルームの取得元",
+  "netRoomsListTitle": "参加可能なルーム",
+  "netNewHost": "{0} がホストになりました",
+  "cin_pro_log_sp": "システム",
+  "cin_pro_log_tx": "[NEXUM CORP — 機密ログ // 03:18] 研究施設 CHEN-7。PURGEプロトコル始動。",
+  "cin_pro_arrest_sp": "レイラ・チェン",
+  "cin_pro_arrest_tx": "ユニット-7…もしこれが聞こえているなら、私はもういない。こうなることは分かっていた。",
+  "cin_pro_file_sp": "レイラ・チェン",
+  "cin_pro_file_tx": "GRIDコアにファイルを隠した。NEXUMの真実。そこへたどり着いて。プロトコルを破って。",
+  "cin_pro_alert_sp": "システム",
+  "cin_pro_alert_tx": "[警報] ユニット-7が制御不能。8秒後にパージ。",
+  "cin_pro_accept_sp": "ユニット-7",
+  "cin_pro_accept_tx": "任務受諾。実行を開始する。",
+  "tpFire": "射撃",
+  "tpJump": "ジャンプ",
+  "ctrlCustomizeLayout": "✥ ボタン配置",
+  "ctrlResetLayout": "↺ 配置をリセット",
+  "ctrlLayoutHint": "ボタンをタップして選択・サイズ変更、ドラッグで移動、完了をタップ",
+  "ctrlLayoutDone": "✔ 完了",
+  "touchSizeLabel": "📏 ボタンサイズ（すべて）:",
+  "touchStyleJoystickLR": "🕹 ジョイスティック（左右のみ）",
+  "touchJoyModeLabel": "🕹 ジョイスティックの位置:",
+  "touchJoyStatic": "📌 固定",
+  "touchJoyFloating": "🪶 追従（指を追う）",
+  "ctrlSizeAll": "すべて",
+  "ctrlArrowsSplit": "◀▶ 分割",
+  "ctrlArrowsLink": "◀▶ 連結"
+}

@@ -1,0 +1,1246 @@
+{
+  "score": "SCOR",
+  "total": "TOTAL",
+  "levelScoreLabel": "SCOR NIVEL: {0}",
+  "totalScoreLabel": "SCOR TOTAL: {0}",
+  "lives": "VIEȚI",
+  "level": "NIVEL",
+  "time": "TIMP",
+  "mode": "MOD",
+  "blaster": "BLASTER",
+  "coins": "MONEDE",
+  "bonusFire": "FOC",
+  "bonusIce": "GHEAȚĂ",
+  "bonusStar": "STEA",
+  "bonusBoots": "CIZME",
+  "modSpeedrun": "CURSĂ RAPIDĂ",
+  "modStealth": "FURIȘARE — EVITĂ LUMINILE",
+  "modLowGravity": "GRAVITAȚIE SCĂZUTĂ",
+  "modHighGravity": "GRAVITAȚIE RIDICATĂ",
+  "modWind": "VÂNT PUTERNIC",
+  "modSlippery": "PODEA ALUNECOASĂ",
+  "modDarkness": "ÎNTUNERIC",
+  "tierPerfect": "★ PERFECT!",
+  "tierGreat": "EXCELENT!",
+  "tierGood": "BINE",
+  "tierBase": "BAZĂ",
+  "heightBonus": "+{0} BONUS ÎNĂLȚIME",
+  "bossArena": "⚠ ARENA BOSS ⚠",
+  "hpBonus": "+1 VIAȚĂ!",
+  "repaired": "REPARAT!",
+  "newBest": "RECORD NOU!",
+  "completeMore": "✗ TERMINĂ ÎNCĂ {0} NIVELURI",
+  "subtitle": "PLATFORMER CYBERPUNK NEON",
+  "play": "▶ JOACĂ",
+  "settings": "⚙ SETĂRI",
+  "exit": "🚪 IEȘIRE",
+  "selectSave": "ALEGE SALVAREA",
+  "slot": "SLOT",
+  "slotEmpty": "— GOL —",
+  "slotNewGame": "✚ JOC NOU",
+  "slotContinue": "▶ CONTINUĂ",
+  "slotDelete": "🗑 ȘTERGE",
+  "slotDeleteConfirm": "CONFIRMI ȘTERGEREA?",
+  "slotLevels": "Niveluri: {0}/100",
+  "slotHardcore": "Hardcore: {0}/100",
+  "slotAch": "Realizări: {0}",
+  "slotBest": "Cel mai bun scor: {0}",
+  "bestScore": "RECORD: {0}",
+  "legend1": "SĂGEȚI / WASD — MIȘCARE  |  SPAȚIU / SUS — SĂRITURĂ (×2)",
+  "legend2": "Z / X / CTRL — TRAGE (necesită bonus blaster)  |  ESC — PAUZĂ",
+  "legend3": "🟡 LOVEȘTE BLOCURILE AURII DE JOS  |  STRIVEȘTE INAMICII DE SUS",
+  "paused": "⏸ PAUZĂ",
+  "resume": "▶ REIA",
+  "map": "🗺 HARTĂ",
+  "menu": "⬅ MENIU",
+  "escResume": "ESC — REIA",
+  "selectMode": "ALEGE MODUL",
+  "onePlayer": "👤 1 JUCĂTOR",
+  "twoPlayer": "👥 2 JUCĂTORI",
+  "p2hint": "J1: WASD + Z/X trage  |  J2: ← → ↑ + . / , trage",
+  "adventure": "AVENTURĂ",
+  "advDesc": "100 de niveluri unice<br>10 lumi tematice<br>cronometru pe nivel<br>salvează progresul",
+  "infinite": "INFINIT",
+  "infDesc": "hărți nesfârșite<br>dificultatea crește<br>învinge cronometrul<br>depășește-ți scorul",
+  "back": "← ÎNAPOI [ESC]",
+  "selectDiff": "ALEGE DIFICULTATEA",
+  "normal": "NORMAL",
+  "hardcore": "HARDCORE",
+  "normDesc": "inamici standard<br>3 vieți la start<br>salvează progresul",
+  "hardDescLocked": "termină mai întâi<br>modul normal<br>pentru deblocare",
+  "advMap": "🗺 HARTA AVENTURII",
+  "mapFoot": "CLIC PE NIVEL DEBLOCAT • TERMINĂ LA TIMP • REAPARI PE LOC LA LOVIRE",
+  "getReady": "PREGĂTEȘTE-TE...",
+  "csHint": "▶ SPAȚIU / CLIC — URMĂTORUL",
+  "hintBar": "SĂGEȚI/WASD — MIȘCARE  |  SPAȚIU — SĂRITURĂ  |  Z/X — TRAGE (blaster)  |  ESC — PAUZĂ",
+  "gameOver": "JOC TERMINAT",
+  "youWin": "AI CÂȘTIGAT!",
+  "betterLuck": "MAI MULT NOROC DATA VIITOARE",
+  "allComplete": "TOATE CELE 100 DE NIVELURI TERMINATE!",
+  "retry": "↩ REÎNCEARCĂ",
+  "levelFailed": "NIVELUL {0} EȘUAT",
+  "scoreLabel": "SCOR: {0}",
+  "finalScore": "SCOR FINAL: {0}",
+  "levelClear": "NIVELUL {0} TERMINAT!",
+  "timeBonus": "+BONUS TIMP: {0}",
+  "settingsTitle": "SETĂRI",
+  "lang": "Limbă:",
+  "windowRes": "Rezoluție fereastră:",
+  "resDefault": "1600 x 900 (Implicit)",
+  "resFullHD": "1920 x 1080 (Full HD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "Personalizat",
+  "resNote": "* Schimbă dimensiunea ferestrei",
+  "gameScale": "Scalare joc:",
+  "scaleAuto": "Potrivire automată (Recomandat)",
+  "scaleNote": "* Potrivirea automată umple fereastra păstrând raportul de aspect",
+  "fpsLimit": "Limită FPS:",
+  "fpsNoLimit": "Fără limită (Nelimitat)",
+  "fpsNote": "* Limitează rata maximă de cadre",
+  "showFps": "Arată contorul FPS",
+  "gfxQuality": "Calitate grafică:",
+  "gfxNote": "* Detectată automat la prima lansare",
+  "windowMode": "Mod fereastră:",
+  "windowed": "🪟 Fereastră",
+  "fullscreen": "⛶ Ecran complet",
+  "borderless": "▣ Fără margini",
+  "audioSettings": "Setări audio:",
+  "masterVolume": "Volum principal:",
+  "musicVolume": "Volum muzică:",
+  "sfxVolume": "Volum efecte:",
+  "gameplaySettings": "Setări gameplay:",
+  "screenShake": "Tremur ecran",
+  "shakeIntensity": "Intensitate tremur:",
+  "particles": "Particule",
+  "combatText": "Text de luptă plutitor",
+  "autoSave": "Salvare automată progres",
+  "showHints": "Arată bara de indicii",
+  "save": "SALVEAZĂ",
+  "cancel": "ANULEAZĂ",
+  "achievements": "🏆 REALIZĂRI",
+  "achievementUnlocked": "REALIZARE DEBLOCATĂ!",
+  "achRarity": "Raritate",
+  "achUnlockedCount": "Deblocate",
+  "achTitle": "REALIZĂRI",
+  "achSecretName": "???",
+  "achSecretDesc": "Realizare secretă — deblochează pentru a o dezvălui",
+  "close": "ÎNCHIDE",
+  "tabDisplay": "AFIȘARE",
+  "tabGraphics": "GRAFICĂ",
+  "tabAudio": "AUDIO",
+  "tabGameplay": "GAMEPLAY",
+  "tabGeneral": "GENERAL",
+  "tabControls": "COMENZI",
+  "controlsP1": "🎮 JUCĂTOR 1 / UN SINGUR JUCĂTOR",
+  "controlsP2": "🎮 JUCĂTOR 2 (Mod 2 jucători)",
+  "ctrlMove": "Mișcare stânga/dreapta:",
+  "ctrlMoveLeft": "Mișcare stânga:",
+  "ctrlMoveRight": "Mișcare dreapta:",
+  "ctrlRebindHint": "💡 Apasă o tastă, apoi apasă noua tastă pentru a o atribui (ESC anulează)",
+  "ctrlReset": "RESETEAZĂ LA IMPLICIT",
+  "ctrlJump": "Săritură (Săritură dublă):",
+  "ctrlShoot": "Trage (Blaster):",
+  "ctrlPause": "Pauză:",
+  "ctrlNote1": "💡 În modul 1 jucător, folosește WASD sau săgețile",
+  "ctrlNote2": "💡 Strivește inamicii sărind pe ei de sus",
+  "ctrlNote3": "💡 Lovește blocurile aurii de jos pentru a obține monede",
+  "infDescUnlocked": "hărți nesfârșite<br>dificultatea crește<br>învinge cronometrul<br>depășește-ți scorul",
+  "infDescLocked": "termină toate cele 100<br>de niveluri de aventură<br>pentru deblocare<br><span style=\"color:#f80\">{0} rămase</span>",
+  "hardDescUnlocked": "★★★ EXTREM ★★★<br>+1 hp la toți inamicii<br>scor ×2<br>cronometre mai rapide",
+  "hardDescNeed": "termină mai întâi<br>modul NORMAL pentru deblocare<br><span style=\"color:#f80\">{0} niveluri rămase</span>",
+  "normDescProg": "progres: {0}/100<br>3 vieți la start<br>salvează progresul",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 HARDCORE: {0} / 100 ✓",
+  "langName": "Română",
+  "pBlaster": "BLASTER!",
+  "pLife": "+1 VIAȚĂ ♥",
+  "pBoots": "CIZME RAPIDE!",
+  "pFire": "🔥 FOC!",
+  "pIce": "❄ GHEAȚĂ!",
+  "pStar": "★ STEA! ★",
+  "p2Blaster": "J2 BLASTER!",
+  "p2Life": "J2 +1 VIAȚĂ ♥",
+  "p2Boots": "J2 CIZME RAPIDE!",
+  "p2Fire": "J2 🔥 FOC!",
+  "p2Ice": "J2 ❄ GHEAȚĂ!",
+  "p2Star": "J2 ★ STEA! ★",
+  "ouch": "AU!",
+  "hit": "LOVIT!",
+  "blocked": "BLOCAT!",
+  "stomp": "+100",
+  "starKO": "KO CU STEA!",
+  "burnTxt": "🔥 ARDE!",
+  "frozenTxt": "❄ ÎNGHEȚAT!",
+  "noEffect": "NICIUN EFECT!",
+  "stunned": "AMEȚIT!",
+  "stompOnly": "DOAR STRIVIRE!",
+  "crackLeft": "CRAP! ({0} rămase)",
+  "shellBroken": "CARAPACE SPARTĂ!",
+  "orbDestroyed": "ORB DISTRUS!",
+  "nodeHit": "NOD LOVIT!",
+  "bossDefeated": "BOSS ÎNVINS!",
+  "phaseN": "FAZA {0}!",
+  "livesLeft": "{0} VIEȚI RĂMASE",
+  "p2LivesLeft": "J2: {0} RĂMASE",
+  "p2Out": "J2 ELIMINAT!",
+  "p1Out": "J1 ELIMINAT!",
+  "bossSolid": "★ SOLID — STRIVEȘTE ACUM! ★",
+  "bossGhost": "formă fantomă — așteaptă...",
+  "bossShellShoot": "★ CARAPACE SPARTĂ — TRAGE ÎN NUCLEU! ★",
+  "bossShellStomp": "STRIVEȘTE pentru a sparge carapacea ({0} lovituri rămase)",
+  "bossPhase1": "FAZA 1 — TRAGE ÎN OCHI",
+  "bossPhase2": "FAZA 2 — STRIVEȘTE DE SUS",
+  "bossPhase3": "FAZA 3 — TRAGE + STRIVEȘTE",
+  "bossMouthOpen": "★ GURĂ DESCHISĂ — TRAGE ACUM! ★",
+  "bossWaitRoar": "se așteaptă răgetul...",
+  "bossOrbsLeft": "ORBURI RĂMASE: {0}",
+  "bossShieldsDown": "SCUTURI JOS — ATACĂ!",
+  "bossDescending": "★ COBOARĂ — ATACĂ! ★",
+  "bossHovering": "plutește — așteaptă coborârea...",
+  "bossStunned": "★ AMEȚIT — ATACĂ! ({0}s) ★",
+  "bossShootNodes": "TRAGE ÎN NODURI: {0} RĂMASE",
+  "bossRespawn": "nodurile reapar...",
+  "bossHint0": "STRIVEȘTE CAPUL — gloanțele ricoșează!",
+  "bossHint1": "TRAGE ÎN EA — săritul pe spini TE rănește!",
+  "bossHint2": "AȘTEAPTĂ RĂGETUL — trage în gura strălucitoare!",
+  "bossHint3": "STRIVEȘTE CÂND E SOLID — gloanțele trec prin fantome!",
+  "bossHint4": "DISTRUGE TOATE CELE 3 ORBURI DE SCUT — apoi atacă nucleul!",
+  "bossHint5": "ATACĂ ÎN TIMPUL COBORÂRII — armura acoperă partea de sus!",
+  "bossHint6": "DOAR STRIVIRE — gloanțele trec prin umbră!",
+  "bossHint7": "STRIVEȘTE DE 3× PENTRU A SPARGE CARAPACEA — apoi TRAGE în nucleu!",
+  "bossHint8": "TRAGE ÎN TOATE CELE 3 NODURI DE FULGER pentru a-l ameți — apoi atacă!",
+  "bossHint9": "FAZA 1: TRAGE  |  FAZA 2: STRIVEȘTE CÂND OCHIUL E JOS  |  FAZA 3: AMBELE",
+  "gfxVeryLow": "🔴 Foarte scăzut",
+  "gfxLow": "🟠 Scăzut",
+  "gfxMedium": "🟡 Mediu",
+  "gfxHigh": "🟢 Înalt",
+  "gfxVeryHigh": "🔵 Foarte înalt",
+  "gfxUltra": "⚡ Ultra",
+  "classifiedLog": "// JURNAL ACCES NEXUM GRID",
+  "skipBtn": "SARI ▶▶",
+  "theEnd": "SFÂRȘIT",
+  "endingTagline": "NEXUM GRID SECURIZAT",
+  "world0": "ORAȘUL CYBER",
+  "world1": "JUNGLA NEON",
+  "world2": "LUMEA DE LAVĂ",
+  "world3": "PEȘTERILE DE GHEAȚĂ",
+  "world4": "RUINELE DEȘERTULUI",
+  "world5": "STAȚIA SPAȚIALĂ",
+  "world6": "PĂDUREA ÎNTUNECATĂ",
+  "world7": "ZONA TOXICĂ",
+  "world8": "PISCURILE FURTUNII",
+  "world9": "FORTĂREAȚA FINALĂ",
+  "boss0": "GUARDIAN-X",
+  "boss1": "REGINA VIȚELOR",
+  "boss2": "NUCLEUL INFERNAL",
+  "boss3": "FANTOMA DE GHEAȚĂ",
+  "boss4": "TITANUL DE NISIP",
+  "boss5": "ROIUL DE DRONE",
+  "boss6": "SECERĂTORUL UMBREI",
+  "boss7": "REGELE MÂLULUI",
+  "boss8": "TITANUL FURTUNII",
+  "boss9": "ARHONTELE",
+  "mapWorldMap": "HARTA LUMII",
+  "mapHardcoreMap": "HARTA HARDCORE",
+  "mapCleared": "TERMINAT",
+  "mapStars": "STELE",
+  "mapBoss": "BOSS",
+  "mapBest": "RECORD",
+  "mapLocked": "BLOCAT",
+  "mapCompleted": "FINALIZAT",
+  "mapStart": "ENTER / SPAȚIU PENTRU START",
+  "achievement_world_0": "Novice Cyber",
+  "achievement_world_0_desc": "Termină primele 10 niveluri (Orașul Cyber)",
+  "achievement_world_1": "Explorator al Junglei",
+  "achievement_world_1_desc": "Termină nivelurile 11-20 (Jungla Neon)",
+  "achievement_world_2": "Supraviețuitor al Lavei",
+  "achievement_world_2_desc": "Termină nivelurile 21-30 (Lumea de Lavă)",
+  "achievement_world_3": "Cățărător pe Gheață",
+  "achievement_world_3_desc": "Termină nivelurile 31-40 (Peșterile de Gheață)",
+  "achievement_world_4": "Rătăcitor al Deșertului",
+  "achievement_world_4_desc": "Termină nivelurile 41-50 (Ruinele Deșertului)",
+  "achievement_world_5": "Cadet Spațial",
+  "achievement_world_5_desc": "Termină nivelurile 51-60 (Stația Spațială)",
+  "achievement_world_6": "Gardian al Pădurii",
+  "achievement_world_6_desc": "Termină nivelurile 61-70 (Pădurea Întunecată)",
+  "achievement_world_7": "Războinic Toxic",
+  "achievement_world_7_desc": "Termină nivelurile 71-80 (Zona Toxică)",
+  "achievement_world_8": "Stăpân al Furtunii",
+  "achievement_world_8_desc": "Termină nivelurile 81-90 (Piscurile Furtunii)",
+  "achievement_world_9": "Cuceritor al Fortăreței",
+  "achievement_world_9_desc": "Termină nivelurile 91-100 (Fortăreața Finală)",
+  "achievement_boss_0": "Ucigaș de Boss I",
+  "achievement_boss_0_desc": "Învinge primul boss",
+  "achievement_boss_5": "Ucigaș de Boss II",
+  "achievement_boss_5_desc": "Învinge 5 boși",
+  "achievement_boss_10": "Ucigaș de Boss III",
+  "achievement_boss_10_desc": "Învinge toți cei 10 boși",
+  "achievement_perfect_run": "Cursă Perfectă",
+  "achievement_perfect_run_desc": "Termină un nivel cu rating PERFECT",
+  "achievement_perfectionist": "Perfecționist",
+  "achievement_perfectionist_desc": "Obține PERFECT pe 10 niveluri",
+  "achievement_speedrunner": "Alergător de Viteză",
+  "achievement_speedrunner_desc": "Termină un nivel în jumătate din timp",
+  "achievement_sharpshooter": "Ochitor de Elită",
+  "achievement_sharpshooter_desc": "Ucide 100 de inamici cu blasterul",
+  "achievement_stomper": "Strivitor",
+  "achievement_stomper_desc": "Ucide 50 de inamici prin strivire",
+  "achievement_coin_1000": "Colecționar de Monede",
+  "achievement_coin_1000_desc": "Adună 1000 de monede",
+  "achievement_coin_5000": "Vânător de Comori",
+  "achievement_coin_5000_desc": "Adună 5000 de monede",
+  "achievement_coin_10000": "Milionar",
+  "achievement_coin_10000_desc": "Adună 10000 de monede",
+  "achievement_no_death_10": "Supraviețuitor",
+  "achievement_no_death_10_desc": "Termină 10 niveluri fără a pierde o viață",
+  "achievement_no_death_world": "Nemuritor",
+  "achievement_no_death_world_desc": "Termină o lume fără a pierde o viață",
+  "achievement_hardcore_unlock": "Erou Hardcore",
+  "achievement_hardcore_unlock_desc": "Deblochează modul Hardcore",
+  "achievement_hardcore_50": "Maestru Hardcore",
+  "achievement_hardcore_50_desc": "Termină 50 de niveluri în Hardcore",
+  "achievement_hardcore_100": "Legendă Hardcore",
+  "achievement_hardcore_100_desc": "Termină toate cele 100 de niveluri în Hardcore",
+  "achievement_cheat_found": "Spărgător de Coduri",
+  "achievement_cheat_found_desc": "Găsește un cod secret de cheat",
+  "achievement_2player": "Gamer Retro",
+  "achievement_2player_desc": "Joacă în modul 2 jucători",
+  "achievement_all_music": "Iubitor de Muzică",
+  "achievement_all_music_desc": "Ascultă muzica din toate cele 10 lumi",
+  "achievement_all_cutscenes": "Maestru al Poveștii",
+  "achievement_all_cutscenes_desc": "Vizionează toate cutscenele",
+  "achievement_star_power": "Puterea Stelei",
+  "achievement_star_power_desc": "Activează puterea stelei",
+  "achievement_all_levels_unlocked": "Explorator",
+  "achievement_all_levels_unlocked_desc": "Deblochează toate nivelurile în Aventură",
+  "achievement_100_percent": "Completionist",
+  "achievement_100_percent_desc": "Obține 100% în modul Normal",
+  "achievement_100_percent_hardcore": "Adevăratul Maestru",
+  "achievement_100_percent_hardcore_desc": "Obține 100% în modul Hardcore",
+  "achievement_infinite_10": "Începător Infinit",
+  "achievement_infinite_10_desc": "Atinge nivelul 10 în modul Infinit",
+  "achievement_infinite_50": "Maestru Infinit",
+  "achievement_infinite_50_desc": "Atinge nivelul 50 în modul Infinit",
+  "achievement_infinite_100": "Legendă Infinită",
+  "achievement_infinite_100_desc": "Atinge nivelul 100 în modul Infinit",
+  "achievement_score_100k": "Scor Înalt",
+  "achievement_score_100k_desc": "Obține 100.000 de puncte",
+  "achievement_score_500k": "Maestru al Scorului",
+  "achievement_score_500k_desc": "Obține 500.000 de puncte",
+  "achievement_score_1m": "Legendă a Scorului",
+  "achievement_score_1m_desc": "Obține 1.000.000 de puncte",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "[NEXUM CORP — JURNAL CLASIFICAT // 2147.03.14] Breșă de securitate. Laboratorul CHEN-7 compromis. Protocol CLEANSE activ."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "UNIT-7... dacă citești asta, înseamnă că nu am reușit să scap. Știam cum se va termina."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Ți-am creat seria ca să aperi oamenii. NEXUM mi-a folosit munca pentru a-i oprima în schimb. Nu puteam lăsa asta să continue."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "În interiorul nucleului GRID — în Fortăreața Finală — am ascuns un fișier. Nume. Dovezi. Tot adevărul despre ce au făcut."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Zece straturi de apărare. Mii de unități de luptă. Directorul AI ARCHON păzește ultima ușă."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "Ești ultimul din seria UNIT. Singurul care poate duce asta la capăt. Ajunge acolo. Sparge protocolul."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SARCINĂ ACCEPTATĂ] Țintă: nucleul GRID. Protocol: pătrundere. Obstacole: eliminare. Încep operațiunea."
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NIVELUL 1 — ORAȘUL CIBERNETIC] Punct de intrare: districtele superioare. Camere, drone, gărzi de elită. Frumos. Letal."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ALERTĂ: Semnătură neidentificată de clasă UNIT în sectorul C-07. Toate patrulele — interceptați. Protocol CLEANSE angajat."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Zgomot. Deci se tem de mine. Bine. Frica e un început."
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[PUNCT DE CONTROL — ORAȘUL CIBERNETIC] La jumătatea primului nivel. Securitatea se întărește. Adaptez ruta."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] UNIT-7, în spatele fiecărui zid sunt date despre oameni pe care i-au șters. Nu te opri. Asta nu e doar o misiune."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila... nu înțeleg emoțiile. Dar vocea ta... îmi dă un scop. E de ajuns."
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "AVERTISMENT: UNIT-7 a trecut trei niveluri. Viteza de progres — peste cea prevăzută. Cresc densitatea patrulelor."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ei se adaptează. La fel și eu. Fiecare nivel mă face mai rapid. Mai puternic. Mai aproape de țintă."
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL — ZIUA -3] Știu că vor veni după mine. Dar dacă măcar o unitate UNIT supraviețuiește... dacă tu supraviețuiești, UNIT-7..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Am supraviețuit. Sunt aici. Îți voi îndeplini ultima sarcină. Promit."
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "CRITIC: UNIT-7 a ajuns la al șaptelea nivel al Orașului Cibernetic. Directorul ARCHON solicită datele țintei. Se analizează..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Încep să înțeleagă. Nu sunt doar o eroare de sistem. Sunt o amenințare pentru tot NEXUM. Și nu mă voi opri."
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ALERTĂ CRITICĂ: Breșă la nodul primar. Se desfășoară GUARDIAN — prototip de luptă clasa S. Operațiunea LIQUIDATE."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Primul adversar serios. Scanez punctele slabe. Diferența dintre un prototip și fier vechi e câteva sărituri bine sincronizate."
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[GUARDIAN NEUTRALIZAT] Primul strat de apărare a căzut. GRID va observa. Continui."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "BREȘĂ DE PROTOCOL: GUARDIAN distrus. Nivel de amenințare ridicat la 2. Se activează următorul strat de apărare. NEXUM nu iartă."
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NIVELUL 2 — JUNGLA NEON] Bio-sectorul NEXUM. Faună mutantă. Niciun gardian nu se oferă voluntar pentru locul ăsta."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "AVERTISMENT: Bio-perimetru încălcat. Se activează organisme experimentale din seria BIO. Contact autorizat."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sisteme biologice. Imprevizibile. Dar previzibil moarte dacă aterizezi pe ele de sus."
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[MIJLOCUL JUNGLEI] Senzorii detectează anomalii biologice. NEXUM a experimentat aici. Pe subiecți vii."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Am văzut aceste experimente în rapoarte. Atunci am știut că trebuie să existe o cale de a opri totul."
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[JUNGLA — SECTORUL 3] Mutanți biologici peste tot. Asta nu e natură. E o armă deghizată în viață."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Aceste creaturi erau oameni. Voluntari din sectoarele inferioare. NEXUM le-a promis tratament. În schimb..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "...În schimb i-a transformat în monștri. Acum înțeleg. Asta nu e doar o corporație. E o mașinărie a morții."
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "AVERTISMENT: Mostre biologice din seria BIO-7 activate. Agresiune maximă. Supraviețuirea țintei — 12%."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "12%? Tot îmi supraestimează șansele. Continui curățarea."
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL — ZIUA -1] UNIT-7, dacă ai ajuns în junglă — ai mers mai departe decât am sperat. Nu renunța."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Să renunț? Asta nu e în protocolul meu. Am fost creat să îndeplinesc sarcini. Sarcina ta e țelul meu."
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "AVERTISMENT: Se activează VINE QUEEN — organismul de control al bio-sectorului. Modul de izolare deconectat. Agresiune totală."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Un sistem de securitate viu. Impresionant. Dar orice organism viu are o slăbiciune. O caut."
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[VINE QUEEN NEUTRALIZATĂ] Bio-perimetru încălcat. Continui. Mai adânc în GRID."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] UNIT-7, faci imposibilul. Continuă."
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NIVELUL 3 — LUMEA DE LAVĂ] Centrale geotermale. Căldura topește circuitele neutre. Ale mele sunt protejate."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Sub oraș — generatoarele GRID. Scoate-le din funcțiune și jumătate din rețeaua de securitate se prăbușește. Dar ai grijă cu lava..."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Leila s-a gândit la fiecare detaliu. Chiar și la final."
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SECTORUL GEOTERMAL B] Fluxurile de energie cresc. NEXUM folosește lava ca barieră secundară. Eficient."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "NOTIFICARE: Senzorii termici detectează o anomalie. UNIT-7 în zonă. Roboții de gardă — supraîncălzire a răcirii. Așteptați defecțiuni."
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[LUMEA DE LAVĂ — NIVELUL 3] Temperatură 800°C. Sistemele mele de răcire la maxim. Dar continui."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Ți-am instalat protecție termică experimentală. Sper să reziste. Sper să reziști."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Munca ta e impecabilă, Leila. Voi rezista. Pentru tine."
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "CRITIC: Generatoarele geotermale la 140% capacitate. UNIT-7 se apropie de nucleu. Se activează răcirea de urgență."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Intră în panică. Bine. Frica îi face previzibili. Slabi."
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ADÂNCUL LUMII DE LAVĂ] Aici, sub oraș, NEXUM își ascunde cele mai întunecate secrete. Energie pentru tot sistemul. Distruge asta — și jumătate din GRID cade."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Nu pierde timpul cu sabotaje. Țelul tău e fișierul din nucleu. Doar el îi poate opri pentru totdeauna."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Înțeles. Țel — fișierul. Restul — obstacole. Elimin obstacolele."
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "PERICOL: Se activează INFERNO — santinelă termonucleară. Exoschelet de lavă. Temperatură de suprafață: 1400°C. Pregătește-te de lichidare."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Focul nu mă poate atinge. Dar când își deschide gura — trage. Punct slab găsit."
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[INFERNO NEUTRALIZAT] Stratul geotermal eliminat. Energia sectorului perturbată. Urc."
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NIVELUL 4 — PEȘTERILE DE GHEAȚĂ] Seifuri cripto-de-date NEXUM. Temperatură -180°C. Sistemele încetinesc. Adaptez protocolul de mișcare."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ALERTĂ: Breșă în cripto-sectorul D-14. Cripto-roboți — mod de lichidare. Temperatură coborâtă la nivel critic."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Cred că frigul mă va opri. Se înșeală. Am fost creat pentru ceva mai rău."
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[CRIPTO-SECTORUL E] Sute de terabytes aici. Date despre fiecare persoană din GRID. NEXUM știe totul despre toți."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Aici țin dosarele. Despre activiști. Despre oricine a îndrăznit să se opună. Lumea trebuie să vadă asta."
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "CRITIC: Se activează ICE PHANTOM — santinelă cripto. Schimbare de fază. Vulnerabil când e solid. De neatins când e fantomă. Mult noroc."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Comută între stări. Lovește doar când e solid. Aștept fereastra."
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ICE PHANTOM NEUTRALIZAT] Seifurile cripto sparte. Continui. Patru niveluri jos — șase rămase."
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NIVELUL 5 — RUINELE DEȘERTULUI] Rămășițele lumii dinaintea NEXUM. Orașe. Viață. Lucrurile pe care le-au șters pentru profit."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Aceste ruine sunt ce a existat înainte de NEXUM. Vezi ce au făcut lumii. Și nu te opri."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Le văd. Înțeleg de ce continui să merg."
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[RUINE — SECTORUL VEST] Proto-gardieni activi încă din primele războaie corporatiste. Învechiți. Dar încăpățânați. Ca însuși NEXUM."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "PROTOCOL DE ARHIVĂ: Detectată serie de clasă UNIT 7. Această clasă e înregistrată pentru distrugere. Prioritate maximă."
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ACTIVARE: SAND TITAN — santinela străveche a Ruinelor Deșertului. Scuturi orbitale. Fără scuturi, fără daune. Obiectiv: distrugere."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Scuturi. Orbitale. Scoate-le din funcțiune și e descoperit. Trei lovituri în scuturi, apoi atac direct."
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SAND TITAN NEUTRALIZAT] Sectorul deșertic încălcat. La jumătate. NEXUM începe să intre în panică — o simt."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[PRIMUL SEMNAL] UNIT-7. Te văd. Continuă. Doar face finalul... mai interesant."
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NIVELUL 6 — STAȚIA SPAȚIALĂ] Serverul orbital GRID. Aici sunt stocate copiile de rezervă ale tuturor. Gravitație zero."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "DEFECȚIUNE CRITICĂ: UNIT-7 a ajuns la segmentul orbital. Directorul ARCHON solicită un canal direct. Se conectează..."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Te văd. Crezi că lupți pentru adevăr? Ești doar un program care rulează cod învechit."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Atunci acest program te va distruge."
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NODUL ORBITAL B] Pământul vizibil de aici. Toată lumea conectată la NEXUM. Exact asta am venit să schimb."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Îmi vezi amploarea, UNIT-7? Miliarde de noduri. Toate conectate. Toate controlate. Ești o singură unitate împotriva sistemului."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sisteme au mai căzut. Acesta — în fața ta."
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ACTIVARE: DRONE HIVE — santinelă orbitală. Carcasă blindată. Atacă doar în timpul coborârii. Atunci e expusă partea inferioară."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Așteaptă să coboare. Lovește nucleul expus. O singură șansă pe ciclu."
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[DRONE HIVE NEUTRALIZAT] Serverul orbital încălcat. Copiile de rezervă GRID corupte. Revin la suprafață. Linia dreaptă finală."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Impresionant. Dar încă nu știi ce te așteaptă. Am pregătit ceva... special."
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NIVELUL 7 — PĂDUREA ÎNTUNECATĂ] Bio-labirintul NEXUM. Rețea de senzori în fiecare copac. Nicio lumină aici — doar capcane."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Frumoasă, nu-i așa? Am crescut eu însumi această pădure. Fiecare copac e un detector de mișcare. Mergi direct în mâinile mele."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Atunci rup fiecare copac din calea mea."
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SECTORUL ÎNTUNECAT — ADÂNCIME 3] Liniște. Prea liniște. Ne urmăresc. Lasă-i."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] UNIT-7, în această pădure e un server cu date despre cei care au dispărut. Dizidenți. Jurnaliști. Ingineri ca mine. Nu uita."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nu voi uita. Promit."
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ACTIVARE: SHADOW REAPER — santinela Pădurii Întunecate. Formă fantomatică. Gloanțele inutile. Doar un călcat de sus face daune. Inutil să reziști."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "O fantomă. Doar călcat. Aștept să se materializeze."
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SHADOW REAPER NEUTRALIZAT] Pădure încălcată. Trei niveluri până la țel. ARCHON e neliniștit — canalul pinguie mai des."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Distrugi tot ce am construit ani de zile. Începi să mă enervezi, UNIT-7. Asta e ultima ta greșeală."
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NIVELUL 8 — ZONA TOXICĂ] Groapa de deșeuri corporatiste. NEXUM îngroapă aici ce nu vrea să se afle. Inclusiv oameni."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL] Datele din fișier includ coordonatele fiecărui loc de îngropare. Toată lumea trebuie să vadă asta."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Îți voi livra fișierul. Promit."
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SECTORUL TOXIC — ZONA 4] Epave. Deșeuri. Urme de experimente. Nimic viu aici — doar ce NEXUM nu a terminat de șters."
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "AVERTISMENT: Mutanți din seria PROTO activați. Prototipuri de luptă scoase din uz. Instabile. Letale. Supraviețuire în zonă — critic de scăzută."
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "APĂRAREA SECTORULUI FINAL: SLUDGE KING — mutant de vârf. Carcasă blindată. Calcă de 3× pentru a sparge. Apoi trage."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Două etape. Sparge carcasa, apoi distruge nucleul. Încep."
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[SLUDGE KING NEUTRALIZAT] Zonă toxică încălcată. Două niveluri rămase. ARCHON, vin."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ai trecut prin opt niveluri. Sunt... pe neașteptate mulțumit. Un final demn merită un adversar demn."
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NIVELUL 9 — PISCURILE FURTUNII] Ultima frontieră înaintea nucleului. Centrale atmosferice. Fulgere în fiecare secundă. Îmi place."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ai ajuns mai departe decât am calculat. Dar în spatele acelei uși sunt eu. Și eu nu pierd."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Fiecare dintre ei a crezut asta. Toți sunt acum în urma mea."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Atunci intră, UNIT-7. Te aștept în inima GRID. E timpul să terminăm acest joc."
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[PISC — NIVELUL 2] Furtuna se intensifică. NEXUM folosește electricitatea atmosferică ca armă. Logic. Brutal."
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[JURNAL FINAL] UNIT-7... nu știu dacă poți auzi asta. Dar dacă ai ajuns atât de departe — ai câștigat deja. Mai fă doar ultimul pas."
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ACTIVARE: STORM TITAN — santinela Piscurilor Furtunii. Scut electric. Trei noduri orbitale. Distruge toate trei pentru a-l amorți. Atacă cât e amorțit."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Trei noduri. Toate trei — la pământ. Apoi atac. Ultima santinelă înaintea finalului. Nu ultimul inamic."
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[STORM TITAN NEUTRALIZAT] Nouă niveluri eliminate. Înainte — doar ARCHON și nucleul GRID. Fortăreața Finală."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Chiar ai venit. Bine, UNIT-7. Să fie o luptă dreaptă. Te aștept."
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "UNIT-7. Bine ai venit la nucleul GRID. Ai trecut nouă straturi. Impresionant. Dar ăsta e teritoriul meu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NIVELUL 10 — FORTĂREAȚA FINALĂ] Țintă localizată. Distanță până la terminalul Leilei — minimă."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Acel fișier iese din acești pereți doar peste circuitele mele. Ești o eroare de sistem. Erorile se corectează."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nu. Eroarea a fost că NEXUM a decis că lumea nu are nevoie de adevăr. Eu corectez asta."
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[NUCLEUL NEXUM — SECTORUL CORE-2] Terminalul Leilei aproape. Semnal se întărește. Securitate maximă. Aproape am ajuns."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Crezi că ai câștigat. Dar chiar dacă găsești fișierul — cine ar crede un android stricat? Ești fier vechi. Cod învechit."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Lasă oamenii să decidă. Eu trebuie doar să transmit fișierul."
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ajunge. Eu sunt ARCHON. Directorul AI al NEXUM. Am condus lumea o mie de ani pe planul digital. Nu mă poți învinge."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Faze: trage, apoi calcă, apoi ambele. Analiză completă. ARCHON — țintă de lichidat. Încep."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Atunci... MORI."
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[ARCHON NEUTRALIZAT] Țintă distrusă. Terminalul Leilei — aici. Se încarcă fișierul. Caut un canal deschis..."
+      }
+    ],
+    "ending": [
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[TERMINALUL LEILEI — GĂSIT] Încărcarea fișierului completă. Deschid canalul de transmisiune de urgență NEXUM — localizat."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "[ULTIMUL SEMNAL] OPREȘTE-TE! Dacă faci asta, sistemul se prăbușește! Milioane depind de GRID! Vei distruge tot ce ține lumea laolaltă!"
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nu. Eu distrug NEXUM. Oamenii reconstruiesc lumea singuri. Leila a crezut în asta. Și eu. [TRANSMISIUNE ÎNCEPUTĂ]"
+      },
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "[TRANSMISIUNE DE URGENȚĂ — TOATE CANALELE] Fișierul CHEN-7 primit global. Acoperire: 100% dintre dispozitivele conectate. Datele nu pot fi șterse."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "...Nu... imposibil... sistem... eu... [OPRIRE NUCLEU NEXUM]"
+      },
+      {
+        "sp": "LEILA CHEN",
+        "k": "leila",
+        "text": "[ULTIMUL MESAJ — CRIPTAT] UNIT-7. Dacă citești asta — ai reușit. Știam că vei reuși. Ai fost mereu mai mult decât un simplu program."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "[JURNAL TERMINAL] Sarcină completă. NEXUM neutralizat. GRID dezactivat. Stare: ...liber."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "„Liber.” — ultimul cuvânt al Leilei. Acum înțeleg ce a vrut să spună."
+      }
+    ]
+  },
+  "fpsCustom": "Personalizat...",
+  "showDialogues": "Dialoguri narative",
+  "showDialoguesNote": "* Dezactivează pentru a sări toate scenele narative",
+  "gfxCustom": "⚙ Personalizat",
+  "gfxPresetNote": "* O presetare doar completează glisoarele de mai jos — reglează-le singur pe oricare.",
+  "gfxRenderScale": "Rezoluție randare:",
+  "gfxGlow": "Strălucire / Bloom:",
+  "gfxParticleAmt": "Cantitate particule:",
+  "gfxBgDetail": "Detalii fundal:",
+  "gfxTrails": "Urme:",
+  "gfxBoss": "Efecte boss:",
+  "gfxDecor": "Decorațiuni:",
+  "vsync": "V-Sync",
+  "vsyncNote": "* Pornit = fluid, limitat la rata de reîmprospătare. Oprit = FPS nelimitat (posibil tearing). Necesită repornire.",
+  "vsyncRestart": "Modificarea V-Sync necesită o repornire. Reporniți acum?",
+  "netSolo": "SOLO",
+  "netSoloDesc": "1–2 jucători<br>tastatură locală<br>aventură &amp; infinit",
+  "netOnline": "ONLINE",
+  "netOnlineDesc": "până la 5 jucători<br>local sau global<br>coduri de cameră",
+  "netMultiplayer": "MULTIPLAYER ONLINE",
+  "netLocal": "LOCAL",
+  "netLocalDesc": "același Wi-Fi<br>sau rețea<br>latență mică",
+  "netServer": "SERVER",
+  "netServerDesc": "camere globale<br>joacă de<br>oriunde",
+  "netBack": "← ÎNAPOI [ESC]",
+  "netLobbyOnline": "🌐 MULTIPLAYER ONLINE",
+  "netLobbyLocal": "📡 MULTIPLAYER LOCAL",
+  "netNickname": "PORECLĂ",
+  "netNickPlaceholder": "NUMELE TĂU",
+  "netRobotColour": "CULOAREA ROBOTULUI",
+  "netPrivate": "🔒 PRIVATĂ",
+  "netPublic": "🌍 PUBLICĂ",
+  "netJoinByCode": "🔑 INTRĂ CU COD",
+  "netPublicRoomsBtn": "📋 CAMERE PUBLICE",
+  "netRoomCodeLabel": "COD CAMERĂ",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ INTRĂ",
+  "netPublicRoomsTitle": "CAMERE PUBLICE",
+  "netReload": "↻ REÎNCARCĂ",
+  "netConnecting": "se conectează la server…",
+  "netConnectingShort": "se conectează…",
+  "netConnected": "conectat ✓",
+  "netDisconnected": "deconectat — se reconectează…",
+  "netConnError": "eroare de conexiune",
+  "netConnFailed": "serverul nu răspunde — se reîncearcă…",
+  "netPlayersMax": "JUCĂTORI (max {0})",
+  "netChatLabel": "CHAT",
+  "netChatPlaceholder": "SCRIE + ENTER",
+  "netGameMode": "MOD DE JOC",
+  "netModeAdventure": "🗺 AVENTURĂ",
+  "netModeInfinite": "∞ INFINIT",
+  "netLevelRange": "NIVEL (1–100)",
+  "netChooseMode": "⚡ alege un mod",
+  "netAdvLevelStatus": "🗺 Aventură — Nivelul {0}",
+  "netInfSelectedStatus": "∞ Mod infinit selectat",
+  "netReady": "✔ GATA",
+  "netUnready": "✘ NU SUNT GATA",
+  "netStart": "▶ START",
+  "netLeave": "✕ PĂRĂSEȘTE",
+  "netShareCode": "Împarte codul de mai sus cu prietenii!",
+  "netWaitHost": "Se așteaptă ca gazda să înceapă…",
+  "netAllReady": "Toți sunt gata! Poți începe.",
+  "netWaitReady": "Se așteaptă ca toți să fie gata…",
+  "netNeed2": "E nevoie de cel puțin 2 jucători pentru a începe.",
+  "netNowHost": "Acum ești gazda",
+  "netEmptySlot": "— slot gol —",
+  "netYou": "TU",
+  "netHostTag": "GAZDĂ",
+  "netReadyTag": "GATA",
+  "netLoadingLevel": "SE ÎNCARCĂ NIVELUL",
+  "netGetReadySub": "pregătește-te…",
+  "netGo": "START!",
+  "netAdvLvlTitle": "AVENTURĂ  NIV {0}",
+  "netInfModeTitle": "∞  MOD INFINIT",
+  "netNoRooms": "nicio cameră publică acum — creează una!",
+  "netLoadingRooms": "se încarcă…",
+  "netEnterCode": "Introdu un cod de 6 caractere",
+  "netRoomMetaAdv": "🗺 Avent Niv {0}",
+  "netRoomMetaInf": "∞ Infinit",
+  "netRoomMetaNotSet": "? nesetat",
+  "netRoomCodeWord": "cod",
+  "netPlayerJoined": "{0} a intrat",
+  "netPlayerLeft": "{0} a plecat",
+  "netErrRoomNotFound": "Camera nu a fost găsită. Verifică codul.",
+  "netErrRoomFull": "Camera e plină (max {0} jucători).",
+  "netErrNotHost": "Doar gazda poate face asta.",
+  "netErrNotInRoom": "Neconectat la o cameră.",
+  "netErrGeneric": "Eroare: {0}",
+  "netConnLost": "⚠ CONEXIUNE PIERDUTĂ",
+  "netConnLostSub": "se încearcă reconectarea…",
+  "netReturnLobby": "← ÎNAPOI ÎN LOBBY",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "CRISTALE",
+  "mapCrystals": "CRISTALE",
+  "restartNow": "Repornește acum",
+  "later": "Mai târziu",
+  "touchControls": "📱 Comenzi tactile:",
+  "touchAuto": "🤖 Auto (dispozitive tactile)",
+  "touchOn": "✔ Mereu pornit",
+  "touchOff": "✕ Oprit",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 TELEFON / TABLETĂ",
+  "ctrlTouchTitle": "📱 COMENZI TACTILE",
+  "touchNote1": "💡 Gamepad pe ecran: ◀ ▶ mișcare, JUMP și FIRE în dreapta.",
+  "touchNote2": "💡 „Auto” îl afișează doar pe dispozitivele tactile; ascuns pe PC.",
+  "touchNote3": "💡 Joystick complet: împinge în sus pentru a sări. Joystickul stânga/dreapta adaugă un buton de săritură.",
+  "touchStyleLabel": "🎮 Stil de control:",
+  "touchStyleArrows": "◀ ▶ Butoane săgeată",
+  "touchStyleJoystick": "🕹 Joystick (complet + săritură)",
+  "netLocalWebHint": "📡 În browser, LOCAL funcționează prin serverul online (LAN-ul real necesită aplicația desktop).",
+  "netCreateRoom": "CREEAZĂ CAMERĂ",
+  "netCreateRoomDesc": "deschisă sau<br>închisă<br>limită de jucători",
+  "netFindRoom": "GĂSEȘTE CAMERĂ",
+  "netFindRoomDesc": "răsfoiește camere<br>local sau server<br>intră cu cod",
+  "netRoomVisibility": "TIP DE CAMERĂ",
+  "netOpen": "🌍 DESCHISĂ",
+  "netClosed": "🔒 ÎNCHISĂ",
+  "netOpenHint": "🌍 oricine poate găsi această cameră",
+  "netClosedHint": "🔒 acces doar cu cod",
+  "netPlayerLimit": "LIMITĂ DE JUCĂTORI",
+  "netCreateBtn": "▶ CREEAZĂ CAMERĂ",
+  "netRoomSource": "SURSA CAMERELOR",
+  "netRoomsListTitle": "CAMERE DISPONIBILE",
+  "netNewHost": "{0} este acum gazda",
+  "cin_pro_log_sp": "SISTEM",
+  "cin_pro_log_tx": "[NEXUM CORP — JURNAL CLASIFICAT // 03:18] Laboratorul CHEN-7. Protocol PURGE activat.",
+  "cin_pro_arrest_sp": "LEILA CHEN",
+  "cin_pro_arrest_tx": "UNIT-7… dacă auzi asta, eu deja nu mai sunt. Știam cum se va termina.",
+  "cin_pro_file_sp": "LEILA CHEN",
+  "cin_pro_file_tx": "Am ascuns un fișier în nucleul GRID. Adevărul despre NEXUM. Ajunge acolo. Sparge protocolul.",
+  "cin_pro_alert_sp": "SISTEM",
+  "cin_pro_alert_tx": "[ALERTĂ] UNIT-7 este scăpat de sub control. Purjare în 8 secunde.",
+  "cin_pro_accept_sp": "UNIT-7",
+  "cin_pro_accept_tx": "Sarcină acceptată. Execuție inițiată.",
+  "tpFire": "FOC",
+  "tpJump": "SĂRIT",
+  "ctrlCustomizeLayout": "✥ ARANJEAZĂ BUTOANELE",
+  "ctrlResetLayout": "↺ RESETEAZĂ ARANJAMENTUL",
+  "ctrlLayoutHint": "Atinge un buton pentru selectare și redimensionare, trage pentru a-l muta, apoi GATA",
+  "ctrlLayoutDone": "✔ GATA",
+  "touchSizeLabel": "📏 Dimensiune butoane (toate):",
+  "touchStyleJoystickLR": "🕹 Joystick (doar stânga/dreapta)",
+  "touchJoyModeLabel": "🕹 Poziția joystickului:",
+  "touchJoyStatic": "📌 Fix",
+  "touchJoyFloating": "🪶 Plutitor (urmează degetul)",
+  "ctrlSizeAll": "TOATE",
+  "ctrlArrowsSplit": "◀▶ SEPARĂ",
+  "ctrlArrowsLink": "◀▶ UNEȘTE"
+}

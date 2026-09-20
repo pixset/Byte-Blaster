@@ -1,0 +1,494 @@
+/* ===============================================
+   UI SIZE FIX - Makes interface properly sized
+   =============================================== */
+
+/* Canvas - let it be sized by JavaScript */
+canvas {
+  display: block;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+/* Main UI container */
+#ui {
+  gap: 24px !important;
+  margin-bottom: 10px !important;
+  padding: 10px 20px !important;
+}
+
+/* UI labels and values */
+.uil {
+  font-size: calc(14px * var(--bbText, 1)) !important;
+  letter-spacing: 1.5px !important;
+}
+
+.uiv {
+  font-size: calc(16px * var(--bbText, 1)) !important;
+}
+
+/* Hearts */
+.hearts span {
+  font-size: calc(18px * var(--bbText, 1)) !important;
+}
+
+/* Timer */
+#timerVal {
+  font-size: calc(16px * var(--bbText, 1)) !important;
+}
+
+/* Audio button - smaller to fit */
+#audioBtn {
+  font-size: calc(14px * var(--bbText, 1)) !important;
+  padding: 6px 10px !important;
+  line-height: 1 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+/* Main overlay title */
+#mainOv h1 {
+  font-size: calc(36px * var(--bbText, 1)) !important;
+  letter-spacing: 8px !important;
+}
+
+/* Subtitle */
+.ovSub {
+  font-size: calc(12px * var(--bbText, 1)) !important;
+  letter-spacing: 4px !important;
+}
+
+/* Score */
+.ovScore {
+  font-size: calc(15px * var(--bbText, 1)) !important;
+}
+
+/* Main menu buttons */
+.ovBtn {
+  font-size: calc(14px * var(--bbText, 1)) !important;
+  padding: 14px 28px !important;
+  letter-spacing: 3px !important;
+}
+
+/* Legend text */
+.ovLegend {
+  font-size: calc(12px * var(--bbText, 1)) !important;
+  line-height: 2.2 !important;
+}
+
+/* Pause overlay */
+#pauseOv h2 {
+  font-size: calc(26px * var(--bbText, 1)) !important;
+  letter-spacing: 6px !important;
+}
+
+.pBtn {
+  font-size: calc(12px * var(--bbText, 1)) !important;
+  padding: 12px 22px !important;
+  min-width: 200px !important;
+}
+
+/* Mode selection */
+#modeOv h2 {
+  font-size: calc(22px * var(--bbText, 1)) !important;
+  letter-spacing: 6px !important;
+}
+
+.modeBtn {
+  font-size: calc(11px * var(--bbText, 1)) !important;
+  padding: 10px 18px !important;
+}
+
+/* Mode cards */
+.mIcon {
+  font-size: calc(36px * var(--bbText, 1)) !important;
+  margin-bottom: 10px !important;
+}
+
+.mTitle {
+  font-size: calc(14px * var(--bbText, 1)) !important;
+  letter-spacing: 3px !important;
+  margin-bottom: 8px !important;
+}
+
+.mDesc {
+  font-size: calc(12px * var(--bbText, 1)) !important;
+  line-height: 1.8 !important;
+}
+
+.mStart {
+  font-size: calc(11px * var(--bbText, 1)) !important;
+  padding: 8px 16px !important;
+}
+
+/* Map header */
+#mapHeader h2 {
+  font-size: calc(16px * var(--bbText, 1)) !important;
+  letter-spacing: 4px !important;
+}
+
+.mapBack {
+  font-size: calc(11px * var(--bbText, 1)) !important;
+  padding: 8px 16px !important;
+}
+
+/* Level buttons */
+.lBtn {
+  font-size: calc(13px * var(--bbText, 1)) !important;
+  min-width: 50px !important;
+  min-height: 50px !important;
+}
+
+/* World titles */
+.wTitle {
+  font-size: calc(13px * var(--bbText, 1)) !important;
+  letter-spacing: 3px !important;
+}
+
+/* Player toggle buttons */
+.ptBtn {
+  font-size: calc(13px * var(--bbText, 1)) !important;
+  padding: 10px 20px !important;
+}
+
+/* Gameover overlay */
+#gameoverOv h2 {
+  font-size: calc(28px * var(--bbText, 1)) !important;
+  letter-spacing: 6px !important;
+}
+
+.goBtn {
+  font-size: calc(12px * var(--bbText, 1)) !important;
+  padding: 12px 24px !important;
+}
+
+/* Win overlay */
+#winOv h2 {
+  font-size: calc(32px * var(--bbText, 1)) !important;
+  letter-spacing: 7px !important;
+}
+
+/* Cutscene skip button */
+#csSkipBtn {
+  font-size: calc(13px * var(--bbText, 1)) !important;
+  padding: 10px 20px !important;
+}
+
+/* Cutscene text */
+.csText {
+  font-size: calc(14px * var(--bbText, 1)) !important;
+  line-height: 1.8 !important;
+}
+
+/* Boss HUD */
+.bossName {
+  font-size: calc(15px * var(--bbText, 1)) !important;
+  letter-spacing: 3px !important;
+}
+
+.bossHint {
+  font-size: calc(12px * var(--bbText, 1)) !important;
+}
+
+/* Blaster UI */
+#blasterUi {
+  gap: 4px !important;
+}
+
+#blasterLabel {
+  font-size: calc(12px * var(--bbText, 1)) !important;
+}
+
+/* Hints - position at bottom */
+.hint {
+  font-size: calc(13px * var(--bbText, 1)) !important;
+  padding: 8px 16px !important;
+}
+
+/* Cheat notification */
+.cheatNotif {
+  font-size: calc(14px * var(--bbText, 1)) !important;
+  padding: 10px 20px !important;
+}
+
+/* ===============================================
+   INTERFACE SIZE (--bbUI)
+   ===============================================
+   `--bbText` растит только буквы. Этого мало: на 1920×1080 меню оставалось
+   маленьким островком посреди огромного канваса, потому что отступы, ширины
+   карточек и кнопок заданы в пикселях под «настольный» эталон 1280×720.
+
+   Растим окна целиком через `zoom`. Почему zoom, а не transform: scale — zoom
+   участвует в раскладке, поэтому содержимое честно занимает больше места, а не
+   растягивается поверх соседей, и прокрутка внутри окна продолжает работать.
+
+   Правило при правках ровно одно, и оно про единицы измерения:
+
+     • ПРОЦЕНТЫ и пиксели трогать не надо. Проценты считаются от родителя,
+       который увеличен тем же zoom-ом, поэтому `width:100%` по-прежнему точно
+       накрывает родителя; пиксели растут — в этом и смысл.
+     • vw/vh НАДО поделить на множитель. Они меряются в «неувеличенных»
+       пикселях экрана, и без деления `88vh` превратились бы в 176% высоты.
+
+   Проверено на живой раскладке: без деления `100%` оверлей меню накрывал
+   канвас лишь наполовину, а с делением `88vh` окно настроек вылезало за
+   нижний край.
+
+   Оверлеи, которые вписываются в экран собственным скриптом (слоты, сетевое
+   лобби), намеренно не трогаем: они и так занимают максимум места, а второй
+   множитель поверх их подгонки только сломал бы расчёт. */
+
+/* Меню поверх канваса: главное, выбор режима, сложность, пауза, карта.
+   Размеры здесь в процентах — компенсировать нечего. */
+.fov { zoom: var(--bbUI, 1); }
+#mapOv { width: calc(90vw / var(--bbUI, 1)); }
+
+/* Окна на уровне body: растёт само окно, подложка остаётся на весь экран. */
+#settingsOv > div,
+#bbProfile .pf-win,
+#bbResults .rsWin { zoom: var(--bbUI, 1); }
+
+/* Сами размеры этих окон объявлены там, где окна создаются (инлайновый стиль
+   панели настроек, таблицы, которые profile.js и results.js подключают во
+   время работы). Те объявления идут в каскаде позже этого файла, поэтому
+   деление vw/vh на множитель живёт рядом с ними, а не здесь. */
+
+/* Экраны без внутренней рамки: увеличиваем контейнер целиком. Он растянут
+   через inset:0, то есть по родителю, — компенсировать снова нечего. */
+#bbAcc, #bbInfResume { zoom: var(--bbUI, 1); }
+
+/* Карточка босса — такое же окно поверх игры, масштабируется целиком. */
+#bossIntroOv { zoom: var(--bbUI, 1); }
+
+/* Заставка — особый случай: чёрные полосы сверху и снизу должны остаться
+   ровно по краям экрана, поэтому весь оверлей увеличивать нельзя. Масштабируем
+   только содержательную часть — диалог, баннер и кнопку пропуска. */
+#csMid, #csDlg, #csBanner, #csHint, #csSkipBtn, #csLogTag { zoom: var(--bbUI, 1); }
+
+/* ===============================================
+   TEXT SIZE (--bbText)
+   ===============================================
+   Игрок может увеличить весь текст интерфейса до 250% (Настройки → Экран).
+   Панель настроек при этом остаётся прежней ширины, поэтому длинные подписи
+   должны переноситься по буквам, а не вылезать за её край. Пробел внутри
+   подписи есть не всегда («Разрешение:»), одного word-wrap мало. */
+#settingsOv label,
+#settingsOv .setPanel div,
+#settingsOv .setPanel span { overflow-wrap: anywhere; }
+/* Список вариантов бывает шире панели; select и сам обрежет подпись, но без
+   этого он растягивал бы строку целиком. */
+#settingsOv select { max-width: 100%; }
+
+/* ===============================================
+   FULLSCREEN MODE - Extra scaling
+   =============================================== */
+
+:fullscreen #ui,
+:-webkit-full-screen #ui,
+:-moz-full-screen #ui,
+:-ms-fullscreen #ui {
+  gap: 32px !important;
+  padding: 14px 28px !important;
+}
+
+:fullscreen .uil,
+:-webkit-full-screen .uil,
+:-moz-full-screen .uil,
+:-ms-fullscreen .uil {
+  font-size: calc(18px * var(--bbText, 1)) !important;
+}
+
+:fullscreen .uiv,
+:-webkit-full-screen .uiv,
+:-moz-full-screen .uiv,
+:-ms-fullscreen .uiv {
+  font-size: calc(20px * var(--bbText, 1)) !important;
+}
+
+:fullscreen .hearts span,
+:-webkit-full-screen .hearts span,
+:-moz-full-screen .hearts span,
+:-ms-fullscreen .hearts span {
+  font-size: calc(22px * var(--bbText, 1)) !important;
+}
+
+:fullscreen #timerVal,
+:-webkit-full-screen #timerVal,
+:-moz-full-screen #timerVal,
+:-ms-fullscreen #timerVal {
+  font-size: calc(20px * var(--bbText, 1)) !important;
+}
+
+:fullscreen #audioBtn,
+:-webkit-full-screen #audioBtn,
+:-moz-full-screen #audioBtn,
+:-ms-fullscreen #audioBtn {
+  font-size: calc(16px * var(--bbText, 1)) !important;
+  padding: 8px 12px !important;
+}
+
+:fullscreen #mainOv h1,
+:-webkit-full-screen #mainOv h1,
+:-moz-full-screen #mainOv h1,
+:-ms-fullscreen #mainOv h1 {
+  font-size: calc(48px * var(--bbText, 1)) !important;
+}
+
+:fullscreen .ovBtn,
+:-webkit-full-screen .ovBtn,
+:-moz-full-screen .ovBtn,
+:-ms-fullscreen .ovBtn {
+  font-size: calc(18px * var(--bbText, 1)) !important;
+  padding: 18px 36px !important;
+}
+
+:fullscreen .pBtn,
+:-webkit-full-screen .pBtn,
+:-moz-full-screen .pBtn,
+:-ms-fullscreen .pBtn {
+  font-size: calc(16px * var(--bbText, 1)) !important;
+  padding: 16px 28px !important;
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PHONE / TABLET TAP TARGETS
+   On mobile the whole #stage is laid out at a 1280x720 reference size and then
+   shrunk with one transform:scale to fit the screen (see fit() in settings.js).
+   That keeps the layout proportional, but it also means a control sized for a
+   desktop surface ends up a handful of PHYSICAL pixels tall: measured on a
+   375x667 phone, the BACK button was 29x6 and the world-map profile button
+   98x14. Media queries evaluate against the real viewport, not the transform,
+   so enlarging these AT DESIGN SIZE is what makes them thumb-sized after the
+   scale. Desktop layout is untouched.
+   ═══════════════════════════════════════════════════════════════════════════ */
+/* The stage scale is roughly viewport/1280, so the SMALLER the screen the
+   BIGGER a control must be at design size to end up the same physical size.
+   Hence three width buckets rather than one blanket rule.
+   NOTE: the base rules a few blocks up already use !important, so every
+   override here has to as well or it silently loses. */
+@media (max-width: 900px) {
+  .ovBtn        { font-size: calc(20px * var(--bbText, 1)) !important; padding: 22px 34px !important; }
+  .ovLegend     { display: none !important; }  /* keyboard hints are useless on a touch screen */
+  .mBack        { font-size: calc(16px * var(--bbText, 1)) !important; padding: 20px 30px !important; }
+  .ptBtn        { font-size: calc(15px * var(--bbText, 1)) !important; padding: 18px 28px !important; }
+  .mCard        { min-width: 210px; padding: 26px 26px; }
+  .mIcon        { font-size: calc(40px * var(--bbText, 1)); }
+  .mTitle       { font-size: calc(14px * var(--bbText, 1)); }
+  .mDesc        { font-size: calc(12px * var(--bbText, 1)); }
+  #modeCards    { gap: 26px; }
+  #playerToggle { gap: 16px; }
+  /* Menu overlays must never push content off the bottom of a short screen. */
+  .fov          { overflow-y: auto; padding: 10px 8px; }
+  #mapAchBtn, #mapBackTouch, #mapArrowLeft, #mapArrowRight {
+    font-size: calc(16px * var(--bbText, 1)) !important; padding: 20px 26px !important;
+  }
+  #mapArrowLeft, #mapArrowRight { width: 86px !important; height: 104px !important; font-size: calc(38px * var(--bbText, 1)) !important; }
+  #audioBtn     { min-width: 46px; min-height: 46px; font-size: calc(22px * var(--bbText, 1)); }
+  #bbInfResume .irCard { min-width: 210px; padding: 26px; }
+  #bbInfResume .irBack { font-size: calc(15px * var(--bbText, 1)); padding: 18px 26px; }
+  #bbInfResume .irTitle { font-size: calc(14px * var(--bbText, 1)); }
+  #bbInfResume .irDesc  { font-size: calc(12px * var(--bbText, 1)); }
+  #bbDemoEnd .deBtn { font-size: calc(15px * var(--bbText, 1)); padding: 20px 30px; }
+  /* Network lobby: every button in it is sized for a mouse. */
+  #netLobby .net-btn { font-size: calc(13px * var(--bbText, 1)) !important; padding: 16px 14px !important; min-height: 52px; }
+  #netLobby .net-input { font-size: calc(16px * var(--bbText, 1)); padding: 14px; }
+  #netLobby .net-max-btn { min-height: 52px; }
+}
+
+/* Very short landscape phones: the menu column has to fit between the notch and
+   the home bar, so trade some of the extra size back for vertical room. */
+/* Short landscape phones. The stage scale here is limited by HEIGHT
+   (390/720 = 0.54), not width, so shrinking the controls made them SMALLER on
+   screen, not larger — the opposite of what was needed. Only the decorative
+   parts give up room now; the overlay itself scrolls (see .fov above). */
+@media (max-width: 900px) and (max-height: 420px) {
+  .mCard  { min-width: 175px; padding: 18px 20px; }
+  .mIcon  { font-size: calc(30px * var(--bbText, 1)); }
+  .mDesc  { font-size: calc(11px * var(--bbText, 1)); }
+  #mainOv h1 { font-size: calc(26px * var(--bbText, 1)) !important; }
+  #mainOv .ovSub { font-size: calc(11px * var(--bbText, 1)) !important; }
+  #verTag { margin-top: 2px !important; }
+  #bbInfResume .irCard { min-width: 175px; padding: 18px 20px; }
+}
+
+/* Narrow phones: the stage is scaled to ~0.3, so design sizes have to be
+   roughly three times what they would be on desktop for the result to stay
+   thumb-sized. Nobody ever sees the unscaled surface, so this is free. */
+@media (max-width: 560px) {
+  .ovBtn  { font-size: calc(30px * var(--bbText, 1)) !important; padding: 34px 46px !important; }
+  .mBack  { font-size: calc(26px * var(--bbText, 1)) !important; padding: 32px 44px !important; }
+  .ptBtn  { font-size: calc(24px * var(--bbText, 1)) !important; padding: 30px 40px !important; }
+  .mCard  { min-width: 280px; padding: 38px 34px; }
+  .mIcon  { font-size: calc(56px * var(--bbText, 1)); }
+  .mTitle { font-size: calc(20px * var(--bbText, 1)); }
+  .mDesc  { font-size: calc(17px * var(--bbText, 1)); }
+  #mainOv h1 { font-size: calc(40px * var(--bbText, 1)) !important; }
+}
+@media (min-width: 561px) and (max-width: 760px) {
+  .ovBtn  { font-size: calc(24px * var(--bbText, 1)) !important; padding: 26px 38px !important; }
+  .mBack  { font-size: calc(20px * var(--bbText, 1)) !important; padding: 24px 34px !important; }
+  .ptBtn  { font-size: calc(19px * var(--bbText, 1)) !important; padding: 22px 32px !important; }
+}
+/* Short screens scale by height, so the physical result is smaller than the
+   width alone suggests — these need the same treatment as narrower phones. */
+@media (max-width: 900px) and (max-height: 460px) {
+  .ovBtn  { font-size: calc(24px * var(--bbText, 1)) !important; padding: 28px 40px !important; }
+  .mBack  { font-size: calc(21px * var(--bbText, 1)) !important; padding: 26px 36px !important; }
+  .ptBtn  { font-size: calc(20px * var(--bbText, 1)) !important; padding: 24px 34px !important; }
+}
+
+/* The network lobby is laid out for a mouse; give it the same treatment.
+   assets/network.css loads after this file, so these need !important. */
+@media (max-width: 900px) {
+  #netLobby .net-btn      { font-size: calc(17px * var(--bbText, 1)) !important; padding: 22px 16px !important; min-height: 68px !important; }
+  #netLobby .net-max-btn  { font-size: calc(20px * var(--bbText, 1)) !important; min-height: 68px !important; }
+  #netLobby .net-input    { font-size: calc(20px * var(--bbText, 1)) !important; padding: 18px !important; }
+  #netLobby .net-label    { font-size: calc(14px * var(--bbText, 1)) !important; }
+}
+@media (max-width: 560px) {
+  #netLobby .net-btn      { font-size: calc(22px * var(--bbText, 1)) !important; padding: 28px 18px !important; min-height: 88px !important; }
+  #netLobby .net-max-btn  { font-size: calc(26px * var(--bbText, 1)) !important; min-height: 88px !important; }
+}
+/* Two enlarged buttons no longer fit side by side on a narrow phone, and the
+   four player-limit buttons became 23px-wide slivers. Let the rows wrap and
+   give every button a real minimum width. */
+@media (max-width: 900px) {
+  #netLobby .net-toggle-row { flex-wrap: wrap !important; gap: 10px !important; }
+  /* Absolute minimums, not percentages: the lobby panel itself is narrow, so
+     "21% of it" was still a 22px sliver on a phone. */
+  #netLobby .net-toggle-row .net-btn { min-width: 150px !important; flex: 1 1 150px !important; }
+  #netLobby #netMaxRow             { flex-wrap: wrap !important; }
+  #netLobby #netMaxRow .net-max-btn { min-width: 88px !important; flex: 1 1 88px !important; }
+}
+
+/* ===============================================
+   ПРИЗМА-АНОМАЛИЯ: РАДУЖНЫЙ ИНТЕРФЕЙС
+   ===============================================
+   Одиннадцатый мир переливается целиком — фон, враги, частицы и платформы.
+   HUD оставался единственным местом с постоянным цветом и выбивался из
+   картинки. Анимация живёт в CSS, а не в игровом цикле: браузер крутит её сам,
+   не отнимая времени у кадра. */
+@keyframes bbPrismHue { from { filter: hue-rotate(0deg); } to { filter: hue-rotate(360deg); } }
+
+#ui.prismUI .uil,
+#ui.prismUI .uiv,
+#ui.prismUI .uib {
+  animation: bbPrismHue 6s linear infinite;
+}
+/* Полоски и рамки крутим отдельно и медленнее: если весь HUD менять с одной
+   скоростью, он читается как одно мигающее пятно. */
+#ui.prismUI #blasterFill,
+#ui.prismUI #fireFill,
+#ui.prismUI #iceFill,
+#ui.prismUI #starFill,
+#ui.prismUI #bootsFill,
+#ui.prismUI #statusFill {
+  animation: bbPrismHue 9s linear infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  #ui.prismUI .uil, #ui.prismUI .uiv, #ui.prismUI .uib,
+  #ui.prismUI #blasterFill, #ui.prismUI #fireFill, #ui.prismUI #iceFill,
+  #ui.prismUI #starFill, #ui.prismUI #bootsFill, #ui.prismUI #statusFill {
+    animation: none;
+  }
+}

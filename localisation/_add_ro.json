@@ -1,0 +1,171 @@
+{
+  "cutscenes": {
+    "w0_pre": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ARHIVĂ GARDIAN: GUARDIAN-X. Prototip de luptă Clasă-S. Optsprezece ani de pază la ieșirea din districtele superioare. Alarma nu s-a declanșat nici măcar o dată. Până în noaptea asta."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Optsprezece ani fără nicio greșeală. Eu voi fi prima lui greșeală. Și ultima."
+      }
+    ],
+    "w1_pre": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ARHIVĂ: VINE QUEEN. Primul specimen reușit al bio-programului. Singurul care a supraviețuit și a crescut timp de treizeci de ani. Nu cunoaște frica. Doar instinctul."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Treizeci de ani de creștere. Sute de rădăcini. Dar orice organism are o inimă. O voi găsi pe a ei."
+      }
+    ],
+    "w2_pre": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ARHIVĂ: INFERNO CORE. Un robot supraveghetor industrial. Topit și reconstruit de multe ori. Firmware-ul său original este pierdut. Funcționează pe pur instinct."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "O mașină care a uitat pe cine slujește. Îi voi aminti că până și oțelul se topește."
+      }
+    ],
+    "w3_pre": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ARHIVĂ: ICE PHANTOM. Un sistem de arhivare cu o singură directivă: să protejeze datele cu orice preț. Nu știe ce păzește. Doar ordinul."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "O fantomă ce păzește vieți înghețate. Voi elibera atât datele, cât și oamenii. Toate cele 47 de mii."
+      }
+    ],
+    "w4_pre": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ARHIVĂ: SAND TITAN. Primul prototip de IA de luptă. Cincizeci de ani în mod activ. Nu mai înțelege pe cine slujește — pur și simplu continuă."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Acest gardian este mai bătrân decât tine, UNIT-7. Mai bătrân decât Leila. Să vedem dacă poți supraviețui istoriei înseși."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Istoria e ceva ce eu rescriu. Începând cu el."
+      }
+    ],
+    "w5_pre": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ARHIVĂ: DRONE HIVE. Un sistem de apărare orbital reconvertit pentru securitate internă. Neobișnuit cu inamici care știu să se miște."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "L-am recalibrat pentru tine, UNIT-7. Îți va învăța mișcările. Singura întrebare e dacă învață la timp."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Să învețe. Eu știu deja cum se oprește."
+      }
+    ],
+    "w6_pre": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ARHIVĂ: SHADOW REAPER. Adaptat pentru vizibilitate nulă. Senzori acustici și în infraroșu. Își aude ținta de la o jumătate de kilometru."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Nu există lumină în pădurea mea, UNIT-7. Te va găsi în întuneric cu mult înainte să-l găsești tu."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Am străbătut întunericul a nouă sectoare. O umbră în plus nu mă va opri."
+      }
+    ],
+    "w7_pre": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ARHIVĂ: SLUDGE KING. O minte colectivă a sutelor de unități de luptă scoase din uz. Nicio IA de comandă. Doar un instinct comun: să distrugă tot ce mișcă."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sute de mașini moarte într-un singur corp. Am văzut ce au fost. Le voi da odihnă."
+      }
+    ],
+    "w8_pre": [
+      {
+        "sp": "SISTEM",
+        "k": "system",
+        "text": "ARHIVĂ: STORM TITAN. Sistemul de apărare personal al nucleului. Încărcat cu tot ce a învățat ARCHON despre tine de-a lungul a nouă lumi."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Fiecare salt. Fiecare foc. Fiecare victorie — înregistrate. Te cunoaște, UNIT-7. Mai bine decât te cunoști tu însuți."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Atunci știe că eu nu pierd. Pregătește-te, ARCHON. Tu urmezi."
+      }
+    ],
+    "w9_pre": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Stai în fața ultimei uși, UNIT-7. În spatele ei — eu. Niciun gardian. Niciun prototip. ARCHON însuși. Am oprit fiecare proces. Toată puterea, doar asupra ta."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Nouă gardieni. Nouă lumi. Totul a dus aici. La tine. Deschide ușa, ARCHON."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ușa e deja deschisă. Intră și termină ce a început Leila. Dacă poți."
+      }
+    ]
+  },
+  "ui": {
+    "total": "TOTAL",
+    "blaster": "BLASTER",
+    "tierPerfect": "★ PERFECT!",
+    "slot": "SLOT",
+    "slotHardcore": "Hardcore: {0}/100",
+    "normal": "NORMAL",
+    "hardcore": "HARDCORE",
+    "tabAudio": "AUDIO",
+    "tabGameplay": "GAMEPLAY",
+    "tabGeneral": "GENERAL",
+    "pBlaster": "BLASTER!",
+    "boss0": "GUARDIAN-X",
+    "mapBoss": "BOSS",
+    "achievement_100_percent": "Completionist",
+    "netSolo": "SOLO",
+    "netOnline": "ONLINE",
+    "netLocal": "LOCAL",
+    "netServer": "SERVER",
+    "netChatLabel": "CHAT",
+    "netStart": "▶ START"
+  }
+}

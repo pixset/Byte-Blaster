@@ -1,0 +1,38 @@
+{
+  "suspects": {
+    "total": "TOTAL",
+    "blaster": "BLASTER",
+    "tierPerfect": "★ PERFECT!",
+    "slot": "SLOT",
+    "slotHardcore": "Hardcore: {0}/100",
+    "normal": "NORMAL",
+    "hardcore": "HARDCORE",
+    "resFullHD": "1920 x 1080 (Full HD)",
+    "res2K": "2560 x 1440 (2K)",
+    "vsync": "V-Sync",
+    "achSecretName": "???",
+    "tabAudio": "AUDIO",
+    "tabGameplay": "GAMEPLAY",
+    "tabGeneral": "GENERAL",
+    "mapProg": "{0} / 100 ✓",
+    "mapProgHard": "💀 HARDCORE: {0} / 100 ✓",
+    "pBlaster": "BLASTER!",
+    "stomp": "+100",
+    "gfxUltra": "⚡ Ultra",
+    "boss0": "GUARDIAN-X",
+    "mapBoss": "BOSS",
+    "achievement_100_percent": "Completionist",
+    "netSolo": "SOLO",
+    "netOnline": "ONLINE",
+    "netLocal": "LOCAL",
+    "netServer": "SERVER",
+    "netChatLabel": "CHAT",
+    "netStart": "▶ START"
+  },
+  "speakers": {
+    "system": "SISTEM",
+    "leila": "LEILA CHEN",
+    "unit7": "UNIT-7",
+    "archon": "ARCHON"
+  }
+}

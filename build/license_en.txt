@@ -1,0 +1,204 @@
+﻿END USER LICENCE AGREEMENT
+Byte Blaster
+(c) Pixset Studio, 2026. All rights reserved.
+
+Revision of 26 August 2026.
+
+Please read this agreement to the end. By installing, copying or using the game
+Byte Blaster (the "Game") you confirm that you have read these terms, understood
+them and agree to follow them. If you disagree with any part of them, do not
+install the Game and cancel the setup.
+
+--------------------------------------------------------------------------------
+1. DEFINITIONS
+--------------------------------------------------------------------------------
+
+"Studio" means Pixset Studio, the developer and rights holder of the Game.
+
+"Game" means the Byte Blaster software together with all its files, images,
+sounds, music, texts, levels and updates.
+
+"Account" means a Pixset Studio account created with an email address, which
+unlocks purchased content.
+
+"Licence" means the right to use the Game under these terms. A Licence is tied
+to an Account, not to a device.
+
+"Free part" means the first world of the Game and the features that come with
+it, available without a purchase.
+
+--------------------------------------------------------------------------------
+2. WHAT YOU GET
+--------------------------------------------------------------------------------
+
+2.1. The Studio grants you a non-exclusive, non-transferable right to install and
+use the Game for personal, non-commercial entertainment.
+
+2.2. The free part is available without a purchase and without a time limit.
+
+2.3. A purchased Licence unlocks the remaining worlds, online co-op, endless
+mode, higher difficulty and any other paid content.
+
+2.4. A Licence never expires and works on every device where you sign in to your
+Account: computer, phone and browser. The number of devices is not limited,
+although the Studio may restrict simultaneous use if it sees signs of account
+sharing at scale.
+
+2.5. The Game runs without a permanent internet connection. Your right to paid
+content is confirmed by a signed entitlement stored on the device; it renews
+automatically the next time you are online.
+
+--------------------------------------------------------------------------------
+3. WHAT YOU MAY NOT DO
+--------------------------------------------------------------------------------
+
+Without written permission from the Studio, you may not:
+
+3.1. Sell, resell, rent, give away or otherwise transfer the Licence or access
+to the Account to anyone else.
+
+3.2. Distribute the Game's installation files, publish them or share them
+through file hosting services or torrents.
+
+3.3. Bypass, disable or spoof the Licence check, or modify the Game's code for
+that purpose.
+
+3.4. Reverse engineer, decompile or disassemble the Game, except where the law
+expressly allows it.
+
+3.5. Present the Game or any part of it as your own work, or reuse its graphics,
+sound, music or texts in your own projects.
+
+3.6. Use the Game to break the law, or interfere with the Studio's servers,
+including attempts to overload them with requests.
+
+3.7. Use programs that give an unfair advantage in online play, or deliberately
+disrupt other players.
+
+--------------------------------------------------------------------------------
+4. ACCOUNT
+--------------------------------------------------------------------------------
+
+4.1. An Account belongs to one person. You are responsible for keeping your
+password safe and for actions taken through your Account.
+
+4.2. Registration requires a working email address: it is used to recover access
+and to confirm purchases.
+
+4.3. You may delete your Account at any time, from the Studio's website or from
+inside the Game. Deleting it also removes your licences, purchase history and
+cloud saves. A deleted Account cannot be restored.
+
+4.4. If you lose access to your email, the Studio can move the Licence to
+another address once it has verified that the purchase was yours.
+
+--------------------------------------------------------------------------------
+5. PURCHASES AND REFUNDS
+--------------------------------------------------------------------------------
+
+5.1. The price is shown on the Game's website and depends on the Account region
+chosen at registration.
+
+5.2. After a successful payment the Licence appears in your Account
+automatically. If it has not appeared within a day, contact the Studio and it
+will be granted manually.
+
+5.3. Refunds are available as required by applicable law, and at the Studio's
+discretion if the Game does not run on your device and the Studio could not
+help. A refund revokes the Licence.
+
+--------------------------------------------------------------------------------
+6. DATA AND PRIVACY
+--------------------------------------------------------------------------------
+
+6.1. Progress, settings and achievements are stored on your device.
+
+6.2. When you sign in, the following is sent to the Studio's servers: your email
+address, nickname, an anonymous device fingerprint and the platform name. This
+is what makes the Licence work and lets you see the list of your devices.
+
+6.3. Saving progress to your Account happens only when you ask for it.
+Automatic saving is off by default and is switched on by you.
+
+6.4. On start-up the Game reports anonymous statistics: platform, interface
+language and build version. Neither save contents nor personal data are
+included.
+
+6.5. The Studio does not sell your data and does not pass it to third parties,
+except the payment provider (to process a payment) and where the law requires
+it.
+
+6.6. Download links for builds are issued to you personally and expire after a
+short time. Every issued link is logged.
+
+--------------------------------------------------------------------------------
+7. UPDATES
+--------------------------------------------------------------------------------
+
+7.1. The Game checks for new versions and offers to install them. The check can
+be turned off in the settings.
+
+7.2. Updates may change, add or remove features. The Studio tries not to degrade
+content you have already paid for.
+
+7.3. The Studio is not obliged to support the Game forever, but if online
+services are shut down it will try to give notice in advance and leave the Game
+playable in single player.
+
+--------------------------------------------------------------------------------
+8. RIGHTS IN THE CONTENT
+--------------------------------------------------------------------------------
+
+8.1. The Game is protected by copyright. You receive the right to use it; you do
+not become its owner.
+
+8.2. Recordings of gameplay — screenshots, videos and streams — are allowed,
+including monetised ones on video platforms. Crediting the Game and the Studio
+is welcome but not required.
+
+8.3. The name "Byte Blaster", the logo and the visual identity belong to the
+Studio.
+
+--------------------------------------------------------------------------------
+9. NO WARRANTY
+--------------------------------------------------------------------------------
+
+9.1. The Game is provided "as is". The Studio does not warrant that it is free
+of errors, fit for your purposes or compatible with any hardware.
+
+9.2. To the extent permitted by law, the Studio is not liable for losses, lost
+profit, lost data or other damage arising from use of, or inability to use, the
+Game.
+
+9.3. Nothing in this agreement limits consumer rights that cannot be limited
+under the law of your country.
+
+--------------------------------------------------------------------------------
+10. TERMINATION
+--------------------------------------------------------------------------------
+
+10.1. This agreement lasts for as long as you use the Game.
+
+10.2. The Studio may revoke a Licence for a serious breach of section 3 — for
+example, distributing installation files or bypassing the Licence check. Where
+circumstances allow, revocation follows a warning.
+
+10.3. You may end this agreement at any time by removing the Game and deleting
+your Account.
+
+--------------------------------------------------------------------------------
+11. CHANGES TO THIS AGREEMENT
+--------------------------------------------------------------------------------
+
+These terms may change in future versions of the Game. The current revision is
+published on the Studio's website. By continuing to use the Game after an
+update, you accept the amended terms.
+
+--------------------------------------------------------------------------------
+12. CONTACT
+--------------------------------------------------------------------------------
+
+Email: pixset.studio.offical@gmail.com
+Website: https://pixset-studio.github.io/byte-blaster/
+
+We answer questions about installation, purchases and accounts.

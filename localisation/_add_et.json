@@ -1,0 +1,158 @@
+{
+  "cutscenes": {
+    "w0_pre": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "GUARDIANI ARHIIV: GUARDIAN-X. S-klassi lahinguprototüüp. Kaheksateist aastat ülemiste linnaosade väljapääsu juures. Häire ei käivitunud kordagi. Kuni tänase ööni."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Kaheksateist aastat ilma ühegi möödalaskmiseta. Mina olen tema esimene möödalaskmine. Ja tema viimane."
+      }
+    ],
+    "w1_pre": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "ARHIIV: VINE QUEEN. Bioprogrammi esimene õnnestunud isend. Ainus, kes jäi ellu ja kasvas kolmkümmend aastat. Ta ei tunne hirmu. Ainult instinkti."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Kolmkümmend aastat kasvu. Sajad juured. Kuid igal organismil on süda. Mina leian tema oma."
+      }
+    ],
+    "w2_pre": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "ARHIIV: INFERNO CORE. Tööstuslik ülevaataja-robot. Korduvalt üles sulatatud ja uuesti ehitatud. Tema algne püsivara on kadunud. See töötab puhtal instinktil."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Masin, kes unustas, keda ta teenib. Mina tuletan talle meelde, et isegi teras sulab."
+      }
+    ],
+    "w3_pre": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "ARHIIV: ICE PHANTOM. Arhiivisüsteem ühe käsuga: kaitse andmeid iga hinna eest. See ei tea, mida ta valvab. Ainult käsku."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Fantoom, kes valvab külmutatud elusid. Mina vabastan mõlemad — andmed ja inimesed. Kõik 47 tuhat."
+      }
+    ],
+    "w4_pre": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "ARHIIV: SAND TITAN. Esimene lahingu-TI prototüüp. Viiskümmend aastat aktiivses režiimis. See ei mõista enam, keda ta teenib — ta lihtsalt jätkab."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "See valvur on sinust vanem, UNIT-7. Vanem kui Leila. Vaatame, kas suudad ajaloo enda üle elada."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Ajalugu on miski, mida ma ümber kirjutan. Alustades temast."
+      }
+    ],
+    "w5_pre": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "ARHIIV: DRONE HIVE. Orbitaalkaitsesüsteem, ümber seadistatud siseturvalisuseks. Pole harjunud vaenlastega, kes oskavad liikuda."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Ma häälestasin selle sinu jaoks ümber, UNIT-7. See õpib sinu liigutusi. Ainus küsimus on, kas ta õpib õigeks ajaks."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Las ta õpib. Mina tean juba, kuidas ta peatub."
+      }
+    ],
+    "w6_pre": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "ARHIIV: SHADOW REAPER. Kohandatud nullnähtavuseks. Akustilised ja infrapuna-andurid. See kuuleb oma sihtmärki poole kilomeetri kauguselt."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Minu metsas pole valgust, UNIT-7. See leiab sind pimedusest ammu enne, kui sina ta leiad."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Olen läbi käinud üheksa sektori pimeduse. Üks vari rohkem ei peata mind."
+      }
+    ],
+    "w7_pre": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "ARHIIV: SLUDGE KING. Sadade kasutusest kõrvaldatud lahinguüksuste kollektiivne mõistus. Pole käsklus-TI-d. Ainult ühine instinkt: hävita kõik, mis liigub."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Sajad surnud masinad ühes kehas. Olen näinud, mis nad olid. Mina annan neile rahu."
+      }
+    ],
+    "w8_pre": [
+      {
+        "sp": "SÜSTEEM",
+        "k": "system",
+        "text": "ARHIIV: STORM TITAN. Tuuma isiklik kaitsesüsteem. Laetud kõigega, mida ARCHON on sinu kohta õppinud üheksa maailma jooksul."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Iga hüpe. Iga lask. Iga võit — salvestatud. See tunneb sind, UNIT-7. Paremini kui sa ennast ise tunned."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Siis teab ta, et mina ei kaota. Valmistu, ARCHON. Sina oled järgmine."
+      }
+    ],
+    "w9_pre": [
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Sa seisad viimase ukse ees, UNIT-7. Selle taga — mina. Ei mingit valvurit. Ei mingit prototüüpi. ARCHON ise. Ma peatasin iga protsessi. Kogu vägi, ainult sinu peale suunatud."
+      },
+      {
+        "sp": "UNIT-7",
+        "k": "unit7",
+        "text": "Üheksa valvurit. Üheksa maailma. Kõik viis siia. Sinu juurde. Ava uks, ARCHON."
+      },
+      {
+        "sp": "ARCHON",
+        "k": "archon",
+        "text": "Uks on juba avatud. Astu sisse ja lõpeta see, mida Leila alustas. Kui suudad."
+      }
+    ]
+  },
+  "ui": {
+    "hardcore": "HARDCORE",
+    "achSecretName": "???",
+    "mapBoss": "BOSS",
+    "netSolo": "SOLO",
+    "netOnline": "ONLINE",
+    "netServer": "SERVER",
+    "netHostTag": "HOST"
+  }
+}

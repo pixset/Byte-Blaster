@@ -1,0 +1,22 @@
+{
+  "suspects": {
+    "blaster": "BLASTER",
+    "resFullHD": "1920 x 1080 (Full HD)",
+    "res2K": "2560 x 1440 (2K)",
+    "vsync": "V-Sync",
+    "achSecretName": "???",
+    "mapProg": "{0} / 100 ✓",
+    "pBlaster": "BLASTER!",
+    "p2Blaster": "P2 BLASTER!",
+    "stomp": "+100",
+    "gfxUltra": "⚡ Ultra",
+    "mapBoss": "BOSS",
+    "netHostTag": "HOST"
+  },
+  "speakers": {
+    "system": "ULGAM",
+    "leila": "LEILA CHEN",
+    "unit7": "UNIT-7",
+    "archon": "ARCHON"
+  }
+}

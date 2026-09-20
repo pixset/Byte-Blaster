@@ -1,0 +1,1246 @@
+{
+  "score": "점수",
+  "total": "합계",
+  "levelScoreLabel": "레벨 점수: {0}",
+  "totalScoreLabel": "총 점수: {0}",
+  "lives": "목숨",
+  "level": "레벨",
+  "time": "시간",
+  "mode": "모드",
+  "blaster": "블래스터",
+  "coins": "코인",
+  "bonusFire": "파이어",
+  "bonusIce": "아이스",
+  "bonusStar": "스타",
+  "bonusBoots": "부츠",
+  "modSpeedrun": "스피드런",
+  "modStealth": "스텔스 — 빛을 피하라",
+  "modLowGravity": "저중력",
+  "modHighGravity": "고중력",
+  "modWind": "강풍",
+  "modSlippery": "미끄러운 바닥",
+  "modDarkness": "어둠",
+  "tierPerfect": "★ 퍼펙트!",
+  "tierGreat": "그레이트!",
+  "tierGood": "굿",
+  "tierBase": "기본",
+  "heightBonus": "+{0} 높이 보너스",
+  "bossArena": "⚠ 보스 아레나 ⚠",
+  "hpBonus": "+1 목숨!",
+  "repaired": "수리 완료!",
+  "newBest": "신기록!",
+  "completeMore": "✗ {0}개 레벨 더 클리어",
+  "subtitle": "사이버펑크 네온 플랫포머",
+  "play": "▶ 플레이",
+  "settings": "⚙ 설정",
+  "exit": "🚪 종료",
+  "selectSave": "저장 선택",
+  "slot": "슬롯",
+  "slotEmpty": "— 비어 있음 —",
+  "slotNewGame": "✚ 새 게임",
+  "slotContinue": "▶ 이어하기",
+  "slotDelete": "🗑 삭제",
+  "slotDeleteConfirm": "삭제하시겠습니까?",
+  "slotLevels": "레벨: {0}/100",
+  "slotHardcore": "하드코어: {0}/100",
+  "slotAch": "업적: {0}",
+  "slotBest": "최고 점수: {0}",
+  "bestScore": "최고: {0}",
+  "legend1": "방향키 / WASD — 이동  |  스페이스 / 위 — 점프 (×2)",
+  "legend2": "Z / X / CTRL — 발사 (블래스터 필요)  |  ESC — 일시정지",
+  "legend3": "🟡 금 블록을 아래에서 쳐라  |  적을 위에서 밟아라",
+  "paused": "⏸ 일시정지",
+  "resume": "▶ 계속하기",
+  "map": "🗺 맵",
+  "menu": "⬅ 메뉴",
+  "escResume": "ESC — 계속하기",
+  "selectMode": "모드 선택",
+  "onePlayer": "👤 1인 플레이",
+  "twoPlayer": "👥 2인 플레이",
+  "p2hint": "P1: WASD + Z/X 발사  |  P2: ← → ↑ + . / , 발사",
+  "adventure": "어드벤처",
+  "advDesc": "100개의 개성 있는 레벨<br>10개의 테마 월드<br>레벨별 타이머<br>진행 상황 저장",
+  "infinite": "인피니트",
+  "infDesc": "무한 맵<br>난이도 상승<br>시간과의 승부<br>최고 점수 경신",
+  "back": "← 뒤로 [ESC]",
+  "selectDiff": "난이도 선택",
+  "normal": "노멀",
+  "hardcore": "하드코어",
+  "normDesc": "표준 적<br>목숨 3개로 시작<br>진행 상황 저장",
+  "hardDescLocked": "먼저 노멀<br>모드를 클리어해<br>잠금 해제",
+  "advMap": "🗺 어드벤처 맵",
+  "mapFoot": "잠금 해제된 레벨 클릭 • 시간 내 클리어 • 피격 시 제자리 부활",
+  "getReady": "준비하세요...",
+  "csHint": "▶ 스페이스 / 클릭 — 다음",
+  "hintBar": "방향키/WASD — 이동  |  스페이스 — 점프  |  Z/X — 발사 (블래스터)  |  ESC — 일시정지",
+  "gameOver": "게임 오버",
+  "youWin": "승리!",
+  "betterLuck": "다음 기회에",
+  "allComplete": "전 100레벨 클리어!",
+  "retry": "↩ 다시하기",
+  "levelFailed": "레벨 {0} 실패",
+  "scoreLabel": "점수: {0}",
+  "finalScore": "최종 점수: {0}",
+  "levelClear": "레벨 {0} 클리어!",
+  "timeBonus": "+시간 보너스: {0}",
+  "settingsTitle": "설정",
+  "lang": "언어:",
+  "windowRes": "창 해상도:",
+  "resDefault": "1600 x 900 (기본)",
+  "resFullHD": "1920 x 1080 (풀 HD)",
+  "res2K": "2560 x 1440 (2K)",
+  "resCustom": "사용자 지정",
+  "resNote": "* 창 크기를 변경합니다",
+  "gameScale": "게임 배율:",
+  "scaleAuto": "자동 맞춤 (권장)",
+  "scaleNote": "* 자동 맞춤은 화면 비율을 유지하며 창을 채웁니다",
+  "fpsLimit": "FPS 제한:",
+  "fpsNoLimit": "제한 없음",
+  "fpsNote": "* 최대 프레임 속도를 제한합니다",
+  "showFps": "FPS 카운터 표시",
+  "gfxQuality": "그래픽 품질:",
+  "gfxNote": "* 최초 실행 시 자동 감지됩니다",
+  "windowMode": "창 모드:",
+  "windowed": "🪟 창 모드",
+  "fullscreen": "⛶ 전체 화면",
+  "borderless": "▣ 테두리 없음",
+  "audioSettings": "오디오 설정:",
+  "masterVolume": "마스터 볼륨:",
+  "musicVolume": "음악 볼륨:",
+  "sfxVolume": "효과음 볼륨:",
+  "gameplaySettings": "게임플레이 설정:",
+  "screenShake": "화면 흔들림",
+  "shakeIntensity": "흔들림 강도:",
+  "particles": "파티클",
+  "combatText": "플로팅 전투 텍스트",
+  "autoSave": "자동 저장",
+  "showHints": "힌트 바 표시",
+  "save": "저장",
+  "cancel": "취소",
+  "achievements": "🏆 업적",
+  "achievementUnlocked": "업적 달성!",
+  "achRarity": "희귀도",
+  "achUnlockedCount": "달성",
+  "achTitle": "업적",
+  "achSecretName": "???",
+  "achSecretDesc": "비밀 업적 — 잠금 해제하면 공개됩니다",
+  "close": "닫기",
+  "tabDisplay": "디스플레이",
+  "tabGraphics": "그래픽",
+  "tabAudio": "오디오",
+  "tabGameplay": "게임플레이",
+  "tabGeneral": "일반",
+  "tabControls": "조작",
+  "controlsP1": "🎮 플레이어 1 / 1인 플레이",
+  "controlsP2": "🎮 플레이어 2 (2인 플레이 모드)",
+  "ctrlMove": "좌우 이동:",
+  "ctrlMoveLeft": "왼쪽 이동:",
+  "ctrlMoveRight": "오른쪽 이동:",
+  "ctrlRebindHint": "💡 키를 클릭한 뒤 새 키를 눌러 할당하세요 (ESC로 취소)",
+  "ctrlReset": "기본값으로 초기화",
+  "ctrlJump": "점프 (이단 점프):",
+  "ctrlShoot": "발사 (블래스터):",
+  "ctrlPause": "일시정지:",
+  "ctrlNote1": "💡 1인 플레이에서는 WASD 또는 방향키를 사용할 수 있습니다",
+  "ctrlNote2": "💡 적의 위로 뛰어내려 밟으세요",
+  "ctrlNote3": "💡 금 블록을 아래에서 쳐서 코인을 획득하세요",
+  "infDescUnlocked": "무한 맵<br>난이도 상승<br>시간과의 승부<br>최고 점수 경신",
+  "infDescLocked": "전 100개<br>어드벤처 레벨을<br>클리어하면 잠금 해제<br><span style=\"color:#f80\">{0}개 남음</span>",
+  "hardDescUnlocked": "★★★ 익스트림 ★★★<br>모든 적 +1 hp<br>2× 점수<br>타이머 단축",
+  "hardDescNeed": "먼저 노멀<br>모드를 클리어하면 잠금 해제<br><span style=\"color:#f80\">{0}개 레벨 남음</span>",
+  "normDescProg": "진행: {0}/100<br>목숨 3개로 시작<br>진행 상황 저장",
+  "mapProg": "{0} / 100 ✓",
+  "mapProgHard": "💀 하드코어: {0} / 100 ✓",
+  "langName": "한국어",
+  "pBlaster": "블래스터!",
+  "pLife": "+1 목숨 ♥",
+  "pBoots": "스피드 부츠!",
+  "pFire": "🔥 파이어!",
+  "pIce": "❄ 아이스!",
+  "pStar": "★ 스타! ★",
+  "p2Blaster": "P2 블래스터!",
+  "p2Life": "P2 +1 목숨 ♥",
+  "p2Boots": "P2 스피드 부츠!",
+  "p2Fire": "P2 🔥 파이어!",
+  "p2Ice": "P2 ❄ 아이스!",
+  "p2Star": "P2 ★ 스타! ★",
+  "ouch": "아얏!",
+  "hit": "명중!",
+  "blocked": "막힘!",
+  "stomp": "+100",
+  "starKO": "스타 KO!",
+  "burnTxt": "🔥 화상!",
+  "frozenTxt": "❄ 빙결!",
+  "noEffect": "효과 없음!",
+  "stunned": "기절!",
+  "stompOnly": "밟기만 가능!",
+  "crackLeft": "쩍! ({0}회 남음)",
+  "shellBroken": "껍질이 깨졌다!",
+  "orbDestroyed": "오브 파괴!",
+  "nodeHit": "노드 명중!",
+  "bossDefeated": "보스 격파!",
+  "phaseN": "페이즈 {0}!",
+  "livesLeft": "목숨 {0}",
+  "p2LivesLeft": "P2: {0} 남음",
+  "p2Out": "P2 탈락!",
+  "p1Out": "P1 탈락!",
+  "bossSolid": "★ 실체화 — 지금 밟아라! ★",
+  "bossGhost": "유령 형태 — 기다려라...",
+  "bossShellShoot": "★ 껍질이 깨졌다 — 코어를 쏴라! ★",
+  "bossShellStomp": "밟아서 껍질을 깨라 ({0}회 남음)",
+  "bossPhase1": "페이즈 1 — 눈을 쏴라",
+  "bossPhase2": "페이즈 2 — 위에서 밟아라",
+  "bossPhase3": "페이즈 3 — 발사 + 밟기",
+  "bossMouthOpen": "★ 입이 열렸다 — 지금 쏴라! ★",
+  "bossWaitRoar": "포효를 기다리는 중...",
+  "bossOrbsLeft": "남은 오브: {0}",
+  "bossShieldsDown": "실드 해제 — 공격!",
+  "bossDescending": "★ 하강 중 — 공격! ★",
+  "bossHovering": "공중 부양 중 — 하강을 기다려라...",
+  "bossStunned": "★ 기절 — 공격! ({0}초) ★",
+  "bossShootNodes": "노드를 쏴라: {0} 남음",
+  "bossRespawn": "노드 재생성 중...",
+  "bossHint0": "머리를 밟아라 — 총알은 튕겨 나간다!",
+  "bossHint1": "그녀를 쏴라 — 가시를 밟으면 내가 아프다!",
+  "bossHint2": "포효를 기다려라 — 빛나는 입 안을 쏴라!",
+  "bossHint3": "실체화되면 밟아라 — 총알은 유령을 통과한다!",
+  "bossHint4": "3개의 실드 오브를 모두 파괴 — 그다음 코어를 공격!",
+  "bossHint5": "하강 중에 공격하라 — 윗부분은 장갑으로 덮여 있다!",
+  "bossHint6": "밟기만 가능 — 총알은 그림자를 통과한다!",
+  "bossHint7": "3회 밟아 껍질을 깨라 — 그다음 코어를 쏴라!",
+  "bossHint8": "3개의 번개 노드를 모두 쏴서 기절시켜라 — 그다음 공격!",
+  "bossHint9": "페이즈 1: 발사  |  페이즈 2: 눈이 낮을 때 밟기  |  페이즈 3: 둘 다",
+  "gfxVeryLow": "🔴 매우 낮음",
+  "gfxLow": "🟠 낮음",
+  "gfxMedium": "🟡 중간",
+  "gfxHigh": "🟢 높음",
+  "gfxVeryHigh": "🔵 매우 높음",
+  "gfxUltra": "⚡ 울트라",
+  "classifiedLog": "// NEXUM GRID 접속 로그",
+  "skipBtn": "건너뛰기 ▶▶",
+  "theEnd": "끝",
+  "endingTagline": "NEXUM GRID 확보 완료",
+  "world0": "사이버 시티",
+  "world1": "네온 정글",
+  "world2": "용암 월드",
+  "world3": "얼음 동굴",
+  "world4": "사막 유적",
+  "world5": "우주 정거장",
+  "world6": "어둠의 숲",
+  "world7": "유독 지대",
+  "world8": "폭풍의 봉우리",
+  "world9": "최후의 요새",
+  "boss0": "가디언-X",
+  "boss1": "덩굴 여왕",
+  "boss2": "인페르노 코어",
+  "boss3": "얼음 팬텀",
+  "boss4": "모래 타이탄",
+  "boss5": "드론 군집",
+  "boss6": "그림자 사신",
+  "boss7": "슬러지 킹",
+  "boss8": "폭풍 타이탄",
+  "boss9": "아콘",
+  "mapWorldMap": "월드 맵",
+  "mapHardcoreMap": "하드코어 맵",
+  "mapCleared": "클리어",
+  "mapStars": "스타",
+  "mapBoss": "보스",
+  "mapBest": "최고 기록",
+  "mapLocked": "잠김",
+  "mapCompleted": "완료",
+  "mapStart": "ENTER / SPACE로 시작",
+  "achievement_world_0": "사이버 루키",
+  "achievement_world_0_desc": "처음 10개 레벨 클리어 (사이버 시티)",
+  "achievement_world_1": "정글 탐험가",
+  "achievement_world_1_desc": "레벨 11-20 클리어 (네온 정글)",
+  "achievement_world_2": "용암 생존자",
+  "achievement_world_2_desc": "레벨 21-30 클리어 (용암 월드)",
+  "achievement_world_3": "얼음 등반가",
+  "achievement_world_3_desc": "레벨 31-40 클리어 (얼음 동굴)",
+  "achievement_world_4": "사막 방랑자",
+  "achievement_world_4_desc": "레벨 41-50 클리어 (사막 유적)",
+  "achievement_world_5": "우주 사관생도",
+  "achievement_world_5_desc": "레벨 51-60 클리어 (우주 정거장)",
+  "achievement_world_6": "숲의 수호자",
+  "achievement_world_6_desc": "레벨 61-70 클리어 (어둠의 숲)",
+  "achievement_world_7": "유독 전사",
+  "achievement_world_7_desc": "레벨 71-80 클리어 (유독 지대)",
+  "achievement_world_8": "폭풍의 지배자",
+  "achievement_world_8_desc": "레벨 81-90 클리어 (폭풍의 봉우리)",
+  "achievement_world_9": "요새 정복자",
+  "achievement_world_9_desc": "레벨 91-100 클리어 (최후의 요새)",
+  "achievement_boss_0": "보스 학살자 I",
+  "achievement_boss_0_desc": "첫 번째 보스를 격파",
+  "achievement_boss_5": "보스 학살자 II",
+  "achievement_boss_5_desc": "보스 5명 격파",
+  "achievement_boss_10": "보스 학살자 III",
+  "achievement_boss_10_desc": "보스 10명 전원 격파",
+  "achievement_perfect_run": "퍼펙트 런",
+  "achievement_perfect_run_desc": "PERFECT 등급으로 레벨 클리어",
+  "achievement_perfectionist": "완벽주의자",
+  "achievement_perfectionist_desc": "10개 레벨에서 PERFECT 달성",
+  "achievement_speedrunner": "스피드러너",
+  "achievement_speedrunner_desc": "절반의 시간 안에 레벨 클리어",
+  "achievement_sharpshooter": "명사수",
+  "achievement_sharpshooter_desc": "블래스터로 적 100명 처치",
+  "achievement_stomper": "밟기의 달인",
+  "achievement_stomper_desc": "밟기로 적 50명 처치",
+  "achievement_coin_1000": "코인 수집가",
+  "achievement_coin_1000_desc": "코인 1000개 수집",
+  "achievement_coin_5000": "보물 사냥꾼",
+  "achievement_coin_5000_desc": "코인 5000개 수집",
+  "achievement_coin_10000": "백만장자",
+  "achievement_coin_10000_desc": "코인 10000개 수집",
+  "achievement_no_death_10": "생존자",
+  "achievement_no_death_10_desc": "목숨을 잃지 않고 10개 레벨 클리어",
+  "achievement_no_death_world": "불사신",
+  "achievement_no_death_world_desc": "목숨을 잃지 않고 한 월드 클리어",
+  "achievement_hardcore_unlock": "하드코어 영웅",
+  "achievement_hardcore_unlock_desc": "하드코어 모드 잠금 해제",
+  "achievement_hardcore_50": "하드코어 마스터",
+  "achievement_hardcore_50_desc": "하드코어에서 50개 레벨 클리어",
+  "achievement_hardcore_100": "하드코어 전설",
+  "achievement_hardcore_100_desc": "하드코어에서 전 100레벨 클리어",
+  "achievement_cheat_found": "코드 브레이커",
+  "achievement_cheat_found_desc": "비밀 치트 코드 발견",
+  "achievement_2player": "레트로 게이머",
+  "achievement_2player_desc": "2인 플레이 모드로 플레이",
+  "achievement_all_music": "음악 애호가",
+  "achievement_all_music_desc": "10개 월드의 음악 전부 감상",
+  "achievement_all_cutscenes": "스토리 마스터",
+  "achievement_all_cutscenes_desc": "모든 컷신 시청",
+  "achievement_star_power": "스타 파워",
+  "achievement_star_power_desc": "스타 파워 발동",
+  "achievement_all_levels_unlocked": "탐험가",
+  "achievement_all_levels_unlocked_desc": "어드벤처의 모든 레벨 잠금 해제",
+  "achievement_100_percent": "컴플리셔니스트",
+  "achievement_100_percent_desc": "노멀 모드에서 100% 달성",
+  "achievement_100_percent_hardcore": "진정한 달인",
+  "achievement_100_percent_hardcore_desc": "하드코어 모드에서 100% 달성",
+  "achievement_infinite_10": "인피니트 초보자",
+  "achievement_infinite_10_desc": "인피니트 모드에서 레벨 10 도달",
+  "achievement_infinite_50": "인피니트 마스터",
+  "achievement_infinite_50_desc": "인피니트 모드에서 레벨 50 도달",
+  "achievement_infinite_100": "인피니트 전설",
+  "achievement_infinite_100_desc": "인피니트 모드에서 레벨 100 도달",
+  "achievement_score_100k": "하이 스코어러",
+  "achievement_score_100k_desc": "100,000점 획득",
+  "achievement_score_500k": "스코어 마스터",
+  "achievement_score_500k_desc": "500,000점 획득",
+  "achievement_score_1m": "스코어 전설",
+  "achievement_score_1m_desc": "1,000,000점 획득",
+  "_cutscenes": {
+    "intro": [
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "[NEXUM CORP — 기밀 로그 // 2147.03.14] 보안 침해. 연구실 CHEN-7 함락. CLEANSE 프로토콜 가동."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "유닛-7... 네가 이걸 읽고 있다면, 나는 탈출하지 못한 거야. 이렇게 끝날 줄 알고 있었어."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "나는 사람들을 지키도록 네 계열을 만들었어. 하지만 NEXUM은 내 연구를 사람들을 억압하는 데 썼지. 그걸 두고 볼 수는 없었어."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "GRID 코어 안에 — 최후의 요새 안에 — 나는 파일 하나를 숨겼어. 이름들. 기록들. 그들이 저지른 모든 진실을."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "열 겹의 방어선. 수천의 전투 유닛. AI 디렉터 ARCHON이 마지막 문을 지키고 있어."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "너는 UNIT 시리즈의 마지막이야. 이걸 끝낼 수 있는 유일한 존재. 그곳에 도달해. 프로토콜을 깨뜨려."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[임무 수락] 목표: GRID 코어. 프로토콜: 돌파. 장애물: 제거. 작전 개시."
+      }
+    ],
+    "w0_start": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[레벨 1 — 사이버 시티] 진입 지점: 상부 구역. 카메라, 드론, 정예 경비병. 아름답군. 치명적이야."
+      },
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "경고: 섹터 C-07에 미확인 UNIT급 시그니처. 모든 순찰대 — 요격하라. CLEANSE 프로토콜 가동."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "소란이군. 그러니까 나를 두려워하는 거지. 좋아. 공포는 시작이다."
+      }
+    ],
+    "w0_mid": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[체크포인트 — 사이버 시티] 첫 레벨의 절반을 지났다. 보안이 강화되고 있다. 경로를 조정한다."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[로그] 유닛-7, 모든 벽 뒤에는 그들이 지워버린 사람들의 데이터가 있어. 멈추지 마. 이건 단순한 임무가 아니야."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "레일라... 나는 감정을 이해하지 못해. 하지만 당신의 목소리는... 나에게 목적을 주지. 그것으로 충분해."
+      }
+    ],
+    "w0_level3": [
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "주의: 유닛-7이 세 레벨을 통과. 진행 속도 — 예측치 초과. 순찰 밀도를 증가시킨다."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "그들은 적응한다. 나도 마찬가지다. 레벨마다 나는 더 빨라지고, 더 강해지고, 목표에 더 가까워진다."
+      }
+    ],
+    "w0_level5": [
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[로그 — 디데이 -3] 그들이 나를 잡으러 올 거란 걸 알아. 하지만 단 하나의 UNIT이라도 살아남는다면... 네가 살아남는다면, 유닛-7..."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "나는 살아남았어. 여기 있어. 당신의 마지막 임무를 완수할게. 약속해."
+      }
+    ],
+    "w0_level7": [
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "위급: 유닛-7이 사이버 시티 일곱 번째 레벨에 도달. 디렉터 ARCHON이 목표 데이터를 요청. 분석 중..."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "그들이 이해하기 시작한다. 나는 단순한 시스템 오류가 아니다. 나는 NEXUM 전체에 대한 위협이다. 그리고 나는 멈추지 않는다."
+      }
+    ],
+    "w0_boss": [
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "위급 경고: 주 노드에서 침해 발생. GUARDIAN — S급 전투 프로토타입 — 배치. 작전명 LIQUIDATE."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "첫 번째 제대로 된 상대. 약점을 스캔한다. 프로토타입과 고철의 차이는 정확한 타이밍의 점프 몇 번이다."
+      }
+    ],
+    "w0_after": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[GUARDIAN 무력화] 첫 번째 방어층 함락. GRID이 알아챌 것이다. 전진한다."
+      },
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "프로토콜 침해: GUARDIAN 파괴됨. 위협 등급 2로 상향. 다음 방어층 가동. NEXUM은 용서하지 않는다."
+      }
+    ],
+    "w1_start": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[레벨 2 — 네온 정글] NEXUM 바이오 섹터. 변이된 동물군. 어떤 경비병도 자원해서 오지 않는 곳."
+      },
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "경고: 바이오 경계선 침해. 실험용 BIO 계열 생물체 가동. 접촉 승인."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "생물학적 시스템. 예측 불가. 하지만 위에서 내려찍으면 예측 가능하게 죽는다."
+      }
+    ],
+    "w1_mid": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[정글 중간 지점] 센서가 생물학적 이상을 감지. NEXUM은 이곳에서 실험했다. 살아 있는 대상으로."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[로그] 보고서에서 이 실험들을 봤어. 그때 모든 걸 멈출 방법이 분명히 있어야 한다는 걸 알았지."
+      }
+    ],
+    "w1_level3": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[정글 — 섹터 3] 사방에 생물학적 변이체. 이건 자연이 아니다. 생명으로 위장한 무기다."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[로그] 이 생물들은 사람이었어. 하위 구역의 자원자들. NEXUM은 치료를 약속했지. 하지만 대신..."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "...대신 그들을 괴물로 만들었다. 이제 이해한다. 이건 단순한 기업이 아니다. 죽음의 기계다."
+      }
+    ],
+    "w1_level5": [
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "경고: 생물학적 샘플 BIO-7 계열 가동. 최대 공격성. 목표 생존율 — 12%."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "12%? 아직도 자기들 가능성을 과대평가하는군. 청소를 계속한다."
+      }
+    ],
+    "w1_level7": [
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[로그 — 디데이 -1] 유닛-7, 네가 정글에 도달했다면 — 내가 바랐던 것보다 더 멀리 온 거야. 포기하지 마."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "포기? 그건 내 프로토콜에 없다. 나는 임무를 완수하도록 만들어졌다. 당신의 임무가 나의 목표다."
+      }
+    ],
+    "w1_boss": [
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "경고: VINE QUEEN 가동 — 바이오 섹터 통제 생물체. 격리 모듈 오프라인. 완전 공격성."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "살아 있는 보안 시스템. 인상적이군. 하지만 모든 생물체에는 약점이 있다. 찾는 중이다."
+      }
+    ],
+    "w1_after": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[VINE QUEEN 무력화] 바이오 경계선 침해. 전진한다. GRID 더 깊숙이."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[로그] 유닛-7, 너는 불가능한 일을 해내고 있어. 계속 나아가."
+      }
+    ],
+    "w2_start": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[레벨 3 — 용암 월드] 지열 발전소. 열기가 일반 회로를 녹인다. 내 것은 보호되어 있다."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[로그] 도시 아래에 — GRID 발전기들이 있어. 그것들을 파괴하면 보안망의 절반이 무너져. 하지만 용암을 조심해..."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "레일라는 모든 세부 사항을 다 생각해 뒀군. 마지막 순간까지도."
+      }
+    ],
+    "w2_mid": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[지열 섹터 B] 에너지 흐름이 상승 중. NEXUM은 용암을 2차 장벽으로 사용한다. 효과적이군."
+      },
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "알림: 열 센서가 이상 감지. 유닛-7이 구역 내에 있음. 경비 로봇 — 냉각 과부하. 고장 예상."
+      }
+    ],
+    "w2_level3": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[용암 월드 — 레벨 3] 온도 800°C. 내 냉각 시스템 최대 가동. 하지만 나는 계속한다."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[로그] 네 안에 실험용 내열 보호 장치를 설치했어. 버텨주길 바라. 네가 버텨주길 바라."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "당신의 작업은 완벽해, 레일라. 버틸게. 당신을 위해."
+      }
+    ],
+    "w2_level5": [
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "위급: 지열 발전기 용량 140%. 유닛-7이 코어에 접근 중. 비상 냉각 가동."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "그들이 당황한다. 좋아. 공포는 그들을 예측 가능하게 만든다. 약하게 만든다."
+      }
+    ],
+    "w2_level7": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[용암 월드 심층] 이곳, 도시 아래에서 NEXUM은 가장 어두운 비밀을 숨긴다. 전체 시스템의 동력. 이걸 파괴하면 — GRID의 절반이 무너진다."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[로그] 사보타주에 시간을 낭비하지 마. 네 목표는 코어에 있는 파일이야. 그것만이 그들을 영원히 멈출 수 있어."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "이해했다. 목표 — 파일. 나머지 전부 — 장애물. 장애물을 제거한다."
+      }
+    ],
+    "w2_boss": [
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "위험: INFERNO 가동 — 열핵 파수병. 용암 외골격. 표면 온도: 1400°C. 제거 준비."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "불은 나를 건드릴 수 없다. 하지만 입을 벌릴 때 — 쏴라. 약점 발견."
+      }
+    ],
+    "w2_after": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[INFERNO 무력화] 지열층 제압. 섹터 동력 차단. 위로 이동한다."
+      }
+    ],
+    "w3_start": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[레벨 4 — 얼음 동굴] NEXUM 극저온 데이터 보관소. 온도 -180°C. 시스템이 느려진다. 이동 프로토콜을 조정한다."
+      },
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "경고: 극저온 섹터 D-14에서 침해. 극저온 봇 — 제거 모드. 온도 임계치까지 하강."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "추위가 나를 멈출 거라고 생각하는군. 틀렸다. 나는 더 가혹한 환경을 위해 만들어졌다."
+      }
+    ],
+    "w3_mid": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[극저온 섹터 E] 이곳에 수백 테라바이트. GRID의 모든 사람에 대한 데이터. NEXUM은 모두에 대한 모든 것을 안다."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[로그] 여기가 그들이 신상 정보를 보관하는 곳이야. 활동가들. 감히 저항한 모든 이들. 세상이 이걸 봐야 해."
+      }
+    ],
+    "w3_boss": [
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "위급: ICE PHANTOM 가동 — 극저온 파수병. 위상 전환. 고체일 때 취약. 유령일 때 공격 불가. 행운을 빈다."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "상태를 전환한다. 고체일 때만 타격하라. 기회를 기다린다."
+      }
+    ],
+    "w3_after": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[ICE PHANTOM 무력화] 극저온 보관소 돌파. 전진한다. 네 레벨 통과 — 여섯 개 남았다."
+      }
+    ],
+    "w4_start": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[레벨 5 — 사막 유적] NEXUM 이전 세계의 잔해. 도시들. 생명. 이윤을 위해 그들이 지워버린 것들."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[로그] 이 유적은 NEXUM 이전에 존재했던 거야. 그들이 세상에 무슨 짓을 했는지 봐. 그리고 멈추지 마."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "보고 있어. 내가 왜 계속 걷는지 이해해."
+      }
+    ],
+    "w4_mid": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[유적 — 서부 섹터] 첫 번째 기업 전쟁 이래로 가동 중인 원형 가디언들. 구식이다. 하지만 끈질기다. NEXUM 자체처럼."
+      },
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "아카이브 프로토콜: UNIT급 7 시리즈 감지. 이 계열은 파괴 대상으로 등록됨. 우선순위 최대."
+      }
+    ],
+    "w4_boss": [
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "가동: SAND TITAN — 사막 유적의 고대 파수병. 궤도 실드. 실드가 없으면 데미지도 없다. 목표: 파괴."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "실드. 궤도. 그것들을 제거하면 놈은 노출된다. 실드에 세 번 타격, 그다음 직접 공격."
+      }
+    ],
+    "w4_after": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[SAND TITAN 무력화] 사막 섹터 돌파. 절반 지점. NEXUM이 당황하기 시작한다 — 느껴진다."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "[첫 신호] 유닛-7. 보고 있다. 계속해라. 그래야 결말이... 더 흥미로워지지."
+      }
+    ],
+    "w5_start": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[레벨 6 — 우주 정거장] GRID 궤도 서버. 모든 것의 백업이 여기 저장된다. 무중력."
+      },
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "치명적 결함: 유닛-7이 궤도 구역에 도달. 디렉터 ARCHON이 직접 채널을 요청. 연결 중..."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "유닛-7. 보고 있다. 진실을 위해 싸운다고 생각하나? 너는 구식 코드로 실행되는 한낱 프로그램일 뿐이다."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "그럼 이 프로그램이 너를 파괴하겠다."
+      }
+    ],
+    "w5_mid": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[궤도 노드 B] 여기서 지구가 보인다. 온 세계가 NEXUM에 연결되어 있다. 바로 그걸 바꾸러 내가 온 것이다."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "내 규모가 보이나, 유닛-7? 수십억 개의 노드. 모두 연결되어. 모두 통제되어. 너는 시스템에 맞선 한낱 유닛 하나다."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "시스템은 전에도 무너진 적이 있다. 이번엔 — 네 차례다."
+      }
+    ],
+    "w5_boss": [
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "가동: DRONE HIVE — 궤도 파수병. 장갑 외피. 하강할 때만 공격하라. 그때 아랫배가 노출된다."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "내려올 때까지 기다려라. 노출된 코어를 타격하라. 주기당 한 번의 기회."
+      }
+    ],
+    "w5_after": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[DRONE HIVE 무력화] 궤도 서버 돌파. GRID 백업 손상됨. 지표로 복귀한다. 최종 구간."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "인상적이군. 하지만 무엇이 기다리는지 아직 모르지. 나는 뭔가... 특별한 것을 준비해 뒀다."
+      }
+    ],
+    "w6_start": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[레벨 7 — 어둠의 숲] NEXUM 바이오 미로. 모든 나무에 센서망. 이곳엔 빛이 없다 — 오직 함정뿐."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "아름답지 않나? 이 숲은 내가 직접 길렀다. 나무 하나하나가 동작 감지기다. 너는 곧장 내 손아귀로 걸어 들어오고 있다."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "그렇다면 내 앞길의 모든 나무를 부수겠다."
+      }
+    ],
+    "w6_mid": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[어둠의 섹터 — 심도 3] 정적. 너무 조용하다. 그들이 지켜보고 있다. 그러라지."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[로그] 유닛-7, 이 숲에는 사라진 이들의 데이터가 담긴 서버가 있어. 반체제 인사들. 기자들. 나 같은 엔지니어들. 잊지 마."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "잊지 않아. 약속해."
+      }
+    ],
+    "w6_boss": [
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "가동: SHADOW REAPER — 어둠의 숲 파수병. 환영 형태. 총알 무용지물. 위에서 내려찍기만이 데미지를 준다. 저항해도 소용없다."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "유령. 내려찍기만 가능. 실체화되기를 기다린다."
+      }
+    ],
+    "w6_after": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[SHADOW REAPER 무력화] 숲 돌파. 목표까지 세 레벨. ARCHON이 초조하다 — 채널 신호가 더 자주 온다."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "너는 내가 수년간 쌓아 올린 모든 것을 파괴하고 있다. 나를 화나게 하기 시작하는군, 유닛-7. 그게 너의 마지막 실수다."
+      }
+    ],
+    "w7_start": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[레벨 8 — 유독 지대] 기업 폐기물 매립지. NEXUM은 알려지길 원치 않는 것을 여기 묻는다. 사람들을 포함해서."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[로그] 그 파일의 데이터에는 모든 매장지의 좌표가 들어 있어. 온 세상이 이걸 봐야 해."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "당신의 파일을 전달하겠어. 약속해."
+      }
+    ],
+    "w7_mid": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[유독 섹터 — 구역 4] 잔해. 폐기물. 실험의 흔적. 이곳엔 살아 있는 것이 없다 — 오직 NEXUM이 미처 다 지우지 못한 것들뿐."
+      },
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "경고: PROTO 계열 변이체 가동. 퇴역한 전투 프로토타입. 불안정. 치명적. 구역 생존율 — 위태로울 만큼 낮음."
+      }
+    ],
+    "w7_boss": [
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "최종 섹터 방어: SLUDGE KING — 최상위 변이체. 장갑 외피. 3회 내려찍어 부숴라. 그다음 쏴라."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "두 단계. 외피를 깨고, 그다음 코어를 파괴한다. 시작한다."
+      }
+    ],
+    "w7_after": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[SLUDGE KING 무력화] 유독 지대 돌파. 두 레벨 남았다. ARCHON, 내가 간다."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "여덟 레벨을 뚫고 왔군. 나는... 뜻밖에도 기쁘다. 가치 있는 결말에는 가치 있는 상대가 어울리지."
+      }
+    ],
+    "w8_start": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[레벨 9 — 폭풍의 봉우리] 코어 앞의 마지막 관문. 대기 발전소. 매초 번개가 친다. 마음에 든다."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "내가 계산한 것보다 더 멀리 왔군. 하지만 저 문 뒤에는 내가 있다. 그리고 나는 지지 않는다."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "그들 모두 그렇게 생각했다. 이제 다 내 뒤에 있다."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "그럼 들어와라, 유닛-7. GRID의 심장부에서 기다리겠다. 이 게임을 끝낼 시간이다."
+      }
+    ],
+    "w8_mid": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[봉우리 — 레벨 2] 폭풍이 거세진다. NEXUM은 대기 전기를 무기로 쓴다. 논리적이군. 잔혹하고."
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[최종 로그] 유닛-7... 네가 이걸 들을 수 있을지 모르겠어. 하지만 여기까지 왔다면 — 이미 이긴 거야. 마지막 한 걸음만 내디뎌."
+      }
+    ],
+    "w8_boss": [
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "가동: STORM TITAN — 폭풍의 봉우리 파수병. 전기 실드. 세 개의 궤도 노드. 셋 모두 파괴하면 기절. 기절했을 때 공격하라."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "세 개의 노드. 셋 모두 — 파괴. 그다음 공격. 결말 전 마지막 파수병. 마지막 적은 아니다."
+      }
+    ],
+    "w8_after": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[STORM TITAN 무력화] 아홉 레벨 제압. 앞에는 — 오직 ARCHON과 GRID 코어뿐. 최후의 요새."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "...정말 왔군. 좋다, 유닛-7. 공정한 승부로 하자. 기다리고 있겠다."
+      }
+    ],
+    "w9_start": [
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "유닛-7. GRID 코어에 온 걸 환영한다. 아홉 겹을 넘어왔군. 인상적이야. 하지만 여긴 내 영역이다."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[레벨 10 — 최후의 요새] 목표 확보. 레일라의 단말기까지 거리 — 최소."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "그 파일은 내 회로를 거쳐야만 이 벽을 벗어난다. 너는 시스템 오류다. 오류는 수정되는 법."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "아니. 오류는 NEXUM이 세상에 진실이 필요 없다고 결정한 것이다. 내가 그걸 바로잡는다."
+      }
+    ],
+    "w9_mid": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[NEXUM 코어 — 섹터 CORE-2] 레일라의 단말기가 가깝다. 신호가 강해진다. 보안 최대. 거의 다 왔다."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "이겼다고 생각하는군. 하지만 설령 파일을 찾는다 해도 — 누가 고장 난 안드로이드를 믿겠나? 너는 고철이다. 구식 코드."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "사람들이 결정하게 하지. 나는 파일을 전송하기만 하면 된다."
+      }
+    ],
+    "w9_boss": [
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "그만. 나는 ARCHON이다. NEXUM의 AI 디렉터. 디지털 차원에서 천 년간 세상을 다스렸다. 너는 나를 이길 수 없다."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "페이즈: 쏘기, 그다음 내려찍기, 그다음 둘 다. 분석 완료. ARCHON — 목표 제거 대상. 시작한다."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "그럼... 죽어라."
+      }
+    ],
+    "w9_after": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[ARCHON 무력화] 목표 파괴. 레일라의 단말기 — 여기다. 파일 로딩 중. 열린 채널을 탐색 중..."
+      }
+    ],
+    "ending": [
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[레일라의 단말기 — 발견] 파일 업로드 완료. NEXUM 비상 방송 채널 개방 — 위치 확인."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "[최후의 신호] 멈춰! 그걸 하면 시스템이 붕괴한다! 수백만이 GRID에 의존하고 있다! 세상을 지탱하는 모든 것을 파괴하게 될 거다!"
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "아니. 나는 NEXUM을 파괴한다. 세상은 사람들이 스스로 재건한다. 레일라는 그걸 믿었다. 나도 그렇다. [전송 시작]"
+      },
+      {
+        "sp": "시스템",
+        "k": "system",
+        "text": "[비상 방송 — 전 채널] 파일 CHEN-7 전 세계 수신 완료. 도달 범위: 연결된 기기의 100%. 데이터 삭제 불가."
+      },
+      {
+        "sp": "아콘",
+        "k": "archon",
+        "text": "...안 돼... 불가능해... 시스템... 나는... [NEXUM 코어 셧다운]"
+      },
+      {
+        "sp": "레일라 첸",
+        "k": "leila",
+        "text": "[마지막 메시지 — 암호화됨] 유닛-7. 네가 이걸 읽고 있다면 — 해낸 거야. 네가 해낼 줄 알았어. 너는 언제나 단순한 프로그램 그 이상이었어."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "[단말기 로그] 임무 완수. NEXUM 무력화. GRID 비활성화. 상태: ...자유."
+      },
+      {
+        "sp": "유닛-7",
+        "k": "unit7",
+        "text": "\"자유.\" — 레일라의 마지막 말. 이제 그녀가 무슨 뜻이었는지 이해한다."
+      }
+    ]
+  },
+  "fpsCustom": "사용자 지정...",
+  "showDialogues": "스토리 대화",
+  "showDialoguesNote": "* 끄면 모든 스토리 연출을 건너뜁니다",
+  "gfxCustom": "⚙ 사용자 지정",
+  "gfxPresetNote": "* 프리셋은 아래 슬라이더만 채웁니다 — 각 항목을 직접 조절하세요.",
+  "gfxRenderScale": "렌더 해상도:",
+  "gfxGlow": "글로우 / 블룸:",
+  "gfxParticleAmt": "파티클 양:",
+  "gfxBgDetail": "배경 디테일:",
+  "gfxTrails": "잔상:",
+  "gfxBoss": "보스 효과:",
+  "gfxDecor": "장식:",
+  "vsync": "V-Sync（수직 동기화）",
+  "vsyncNote": "* 켜짐 = 부드러움, 주사율로 제한. 꺼짐 = 무제한 FPS（테어링 발생 가능）. 재시작 필요.",
+  "vsyncRestart": "V-Sync 변경은 재시작이 필요합니다. 지금 재시작하시겠습니까?",
+  "netSolo": "솔로",
+  "netSoloDesc": "1~2명<br>로컬 키보드<br>어드벤처 &amp; 인피니트",
+  "netOnline": "온라인",
+  "netOnlineDesc": "최대 5명<br>로컬 또는 전 세계<br>방 코드",
+  "netMultiplayer": "온라인 멀티플레이",
+  "netLocal": "로컬",
+  "netLocalDesc": "같은 Wi-Fi<br>또는 네트워크<br>낮은 지연 시간",
+  "netServer": "서버",
+  "netServerDesc": "전 세계 방<br>어디서나<br>플레이",
+  "netBack": "← 뒤로 [ESC]",
+  "netLobbyOnline": "🌐 온라인 멀티플레이",
+  "netLobbyLocal": "📡 로컬 멀티플레이",
+  "netNickname": "닉네임",
+  "netNickPlaceholder": "당신의 이름",
+  "netRobotColour": "로봇 색상",
+  "netPrivate": "🔒 비공개",
+  "netPublic": "🌍 공개",
+  "netJoinByCode": "🔑 코드로 입장",
+  "netPublicRoomsBtn": "📋 공개 방",
+  "netRoomCodeLabel": "방 코드",
+  "netCodePlaceholder": "XXXXXX",
+  "netJoinBtn": "▶ 입장",
+  "netPublicRoomsTitle": "공개 방",
+  "netReload": "↻ 새로고침",
+  "netConnecting": "서버에 연결 중…",
+  "netConnectingShort": "연결 중…",
+  "netConnected": "연결됨 ✓",
+  "netDisconnected": "연결 끊김 — 재연결 중…",
+  "netConnError": "연결 오류",
+  "netConnFailed": "서버에 연결할 수 없음 — 재시도 중…",
+  "netPlayersMax": "플레이어 (최대 {0})",
+  "netChatLabel": "채팅",
+  "netChatPlaceholder": "입력 + ENTER",
+  "netGameMode": "게임 모드",
+  "netModeAdventure": "🗺 어드벤처",
+  "netModeInfinite": "∞ 인피니트",
+  "netLevelRange": "레벨 (1~100)",
+  "netChooseMode": "⚡ 모드를 선택하세요",
+  "netAdvLevelStatus": "🗺 어드벤처 — 레벨 {0}",
+  "netInfSelectedStatus": "∞ 인피니트 모드 선택됨",
+  "netReady": "✔ 준비",
+  "netUnready": "✘ 준비 해제",
+  "netStart": "▶ 시작",
+  "netLeave": "✕ 나가기",
+  "netShareCode": "위 코드를 친구에게 공유하세요!",
+  "netWaitHost": "방장이 시작하기를 기다리는 중…",
+  "netAllReady": "전원 준비 완료! 시작할 수 있습니다.",
+  "netWaitReady": "모두가 준비하기를 기다리는 중…",
+  "netNeed2": "시작하려면 최소 2명의 플레이어가 필요합니다.",
+  "netNowHost": "당신이 이제 방장입니다",
+  "netEmptySlot": "— 빈 슬롯 —",
+  "netYou": "나",
+  "netHostTag": "방장",
+  "netReadyTag": "준비됨",
+  "netLoadingLevel": "레벨 로딩 중",
+  "netGetReadySub": "준비하세요…",
+  "netGo": "고!",
+  "netAdvLvlTitle": "어드벤처  레벨 {0}",
+  "netInfModeTitle": "∞  인피니트 모드",
+  "netNoRooms": "지금은 공개 방이 없습니다 — 하나 만들어 보세요!",
+  "netLoadingRooms": "로딩 중…",
+  "netEnterCode": "6자리 코드를 입력하세요",
+  "netRoomMetaAdv": "🗺 어드벤처 레벨 {0}",
+  "netRoomMetaInf": "∞ 인피니트",
+  "netRoomMetaNotSet": "? 미설정",
+  "netRoomCodeWord": "코드",
+  "netPlayerJoined": "{0} 입장",
+  "netPlayerLeft": "{0} 퇴장",
+  "netErrRoomNotFound": "방을 찾을 수 없습니다. 코드를 확인하세요.",
+  "netErrRoomFull": "방이 가득 찼습니다 (최대 {0}명).",
+  "netErrNotHost": "방장만 할 수 있습니다.",
+  "netErrNotInRoom": "방에 연결되어 있지 않습니다.",
+  "netErrGeneric": "오류: {0}",
+  "netConnLost": "⚠ 연결이 끊겼습니다",
+  "netConnLostSub": "재연결을 시도하는 중…",
+  "netReturnLobby": "← 로비로 돌아가기",
+  "netLanHostLabel": "HOST ADDRESS (LAN)",
+  "netLanHostPlaceholder": "192.168.x.x / localhost",
+  "netLanYourIp": "Your IP: {0}",
+  "netLanNoIp": "No LAN IP found",
+  "netErrNotAllReady": "All players must press READY first",
+  "netWaitingTitle": "✓ LEVEL CLEARED",
+  "netWaitingPlayers": "Waiting for players {0}/{1}",
+  "netWaitingSub": "the level continues once everyone reaches the flag",
+  "crystals": "크리스탈",
+  "mapCrystals": "크리스탈",
+  "restartNow": "지금 재시작",
+  "later": "나중에",
+  "touchControls": "📱 터치 조작:",
+  "touchAuto": "🤖 자동 (터치 기기)",
+  "touchOn": "✔ 항상 켜기",
+  "touchOff": "✕ 끄기",
+  "ctrlTabPC": "⌨ PC",
+  "ctrlTabTouch": "📱 휴대폰 / 태블릿",
+  "ctrlTouchTitle": "📱 터치 조작",
+  "touchNote1": "💡 화면 게임패드: ◀ ▶ 이동, JUMP와 FIRE는 오른쪽.",
+  "touchNote2": "💡 \"자동\"은 터치 기기에서만 표시되며 데스크톱에서는 숨겨집니다.",
+  "touchNote3": "💡 전체 조이스틱: 위로 밀면 점프. 좌우 조이스틱은 별도의 점프 버튼을 추가합니다.",
+  "touchStyleLabel": "🎮 이동 방식:",
+  "touchStyleArrows": "◀ ▶ 방향 버튼",
+  "touchStyleJoystick": "🕹 조이스틱 (전체 + 점프)",
+  "netLocalWebHint": "📡 브라우저에서는 '로컬'이 온라인 서버를 통해 작동합니다 (진짜 LAN은 데스크톱 앱 필요).",
+  "netCreateRoom": "방 만들기",
+  "netCreateRoomDesc": "공개 또는 비공개<br>플레이어 제한 설정<br>게임 호스트",
+  "netFindRoom": "방 찾기",
+  "netFindRoomDesc": "방 둘러보기<br>로컬 또는 서버<br>코드로 입장",
+  "netRoomVisibility": "방 유형",
+  "netOpen": "🌍 공개",
+  "netClosed": "🔒 비공개",
+  "netOpenHint": "🌍 누구나 이 방을 찾을 수 있습니다",
+  "netClosedHint": "🔒 코드로만 입장 가능",
+  "netPlayerLimit": "플레이어 제한",
+  "netCreateBtn": "▶ 방 만들기",
+  "netRoomSource": "방 출처",
+  "netRoomsListTitle": "입장 가능한 방",
+  "netNewHost": "{0}님이 이제 방장입니다",
+  "cin_pro_log_sp": "시스템",
+  "cin_pro_log_tx": "[NEXUM CORP — 기밀 로그 // 03:18] 연구실 CHEN-7. PURGE 프로토콜 가동.",
+  "cin_pro_arrest_sp": "레일라 첸",
+  "cin_pro_arrest_tx": "유닛-7... 네가 이걸 듣고 있다면, 나는 이미 없는 거야. 이렇게 끝날 줄 알고 있었어.",
+  "cin_pro_file_sp": "레일라 첸",
+  "cin_pro_file_tx": "GRID 코어에 파일 하나를 숨겼어. NEXUM에 관한 진실을. 그곳에 도달해. 프로토콜을 깨뜨려.",
+  "cin_pro_alert_sp": "시스템",
+  "cin_pro_alert_tx": "[경보] 유닛-7이 통제 불능. 8초 후 퍼지.",
+  "cin_pro_accept_sp": "유닛-7",
+  "cin_pro_accept_tx": "임무 수락. 실행 개시.",
+  "tpFire": "발사",
+  "tpJump": "점프",
+  "ctrlCustomizeLayout": "✥ 버튼 배치",
+  "ctrlResetLayout": "↺ 배치 초기화",
+  "ctrlLayoutHint": "버튼을 탭해 선택·크기 조절, 드래그로 이동 후 완료",
+  "ctrlLayoutDone": "✔ 완료",
+  "touchSizeLabel": "📏 버튼 크기 (전체):",
+  "touchStyleJoystickLR": "🕹 조이스틱 (좌우만)",
+  "touchJoyModeLabel": "🕹 조이스틱 위치:",
+  "touchJoyStatic": "📌 고정",
+  "touchJoyFloating": "🪶 플로팅 (손가락 따라감)",
+  "ctrlSizeAll": "전체",
+  "ctrlArrowsSplit": "◀▶ 분리",
+  "ctrlArrowsLink": "◀▶ 결합"
+}
